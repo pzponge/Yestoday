@@ -10,6 +10,7 @@
 - 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/E5O_ZXUrF1UWoU9dz1ovSw)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
 - 校译：Ponge
 
+---
 
 更新：对于ROIC感兴趣的读者，我撰写了关于增量投资资本回报率（ROIC）的系列文章（共五部分），以及一些其他讨论ROIC的文章（[链接](https://sabercapitalmgt.com/tag/roic/)）。
 

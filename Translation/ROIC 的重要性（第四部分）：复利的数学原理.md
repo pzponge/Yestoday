@@ -10,6 +10,8 @@
 - 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/SPRw1i2RtQhmdFFTnfETTQ)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
 - 校译：Ponge
 
+---
+
 我想我应该回过头来讨论累进增长型公司和资本回报率的话题。今年早些时候，我[写了一些关于这个话题的文章](https://sabercapitalmgt.com/tag/roic/)，发表后有很多评论和问题。
 
 在这篇文章中，我想讨论一下这类公司背后的实际数学问题，试图说明为什么资本回报率对企业长期持有者（这就是我们作为股东的身份）如此重要。

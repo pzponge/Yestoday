@@ -10,6 +10,7 @@
 - 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/SPRw1i2RtQhmdFFTnfETTQ)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
 - 校译：Ponge
 
+---
 
 > “我们更喜欢现金泛滥的企业。建筑设备行业就是一个反例。你一年到头努力工作，利润却变成了一堆放在院子里的设备。我们避免那样的生意。我们更喜欢那些年底能开一张支票给我们的企业。”
 > 

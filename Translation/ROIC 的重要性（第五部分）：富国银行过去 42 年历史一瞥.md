@@ -10,6 +10,7 @@
 - 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/hsIoaaDNFqX7yXV3RWwpXw)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
 - 校译：Ponge
 
+---
 
 > “然而，经验表明，一个企业今天做的事情与五年或十年前做的事情非常相似，这类企业往往能实现最好的商业回报……一个经常面临重大变化的企业也同样有可能遇到许多重大错误。此外，在不断剧烈变动的经济领域很难建立堡垒式的商业特许经营权。而这样的特许经营权往往是持续获得高回报的关键因素。”
 > 
