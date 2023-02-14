@@ -28,3 +28,7 @@
 ## 李录
 
 - [2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录](https://github.com/pzponge/Yestoday/blob/main/Transcription/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
+
+## Monish Pabrai
+
+- [通过 Spawners 实现累进增长](https://github.com/pzponge/Yestoday/blob/main/Transcription/%E9%80%9A%E8%BF%87%20Spawners%20%E5%AE%9E%E7%8E%B0%E7%B4%AF%E8%BF%9B%E5%A2%9E%E9%95%BF.md)
