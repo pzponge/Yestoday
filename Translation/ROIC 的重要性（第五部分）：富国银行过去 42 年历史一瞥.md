@@ -1,39 +1,21 @@
----
-uid: 202011041231
-aliases: ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥
-time: 2020-11-04T12:31
-tags: 
-fragment: 0
----
-pub_url:: [公众号](https://mp.weixin.qq.com/s/R5ffqluP4sVSyqa2M6P6zg), [雪球](https://xueqiu.com/6001666304/182632925)
-ref:: [[400-知识库/420-网络文章/420.003-John Huber/Importance of ROIC Part 5：A Glance at the Last 42 Years of Wells Fargo]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性：富国银行 40 年历史]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性]]
+原文信息：
 
----
+- 标题：Importance of ROIC Part 5: A Glance at the Last 42 Years of Wells Fargo
+- 作者：John Huber
+- 发表时间：2014-10-10
+- 链接：[Saber Capital](https://sabercapitalmgt.com/importance-of-roic-part-5-a-glance-at-the-last-42-years-of-wells-fargo/)
 
-John Huber 关于 ROIC 的相关文章：
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票]]
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票]]
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第三部分）：复利和再投资]]
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第四部分）：复利的数学原理]]
+翻译信息：
+
+- 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/hsIoaaDNFqX7yXV3RWwpXw)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
+- 校译：Ponge
 
 
-参考译文：[[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性：富国银行 40 年历史|（景泉Value）《ROIC的重要性：富国银行40年历史》]]、[[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性|（旭犇投资）《ROIC的重要性》]]
+> “然而，经验表明，一个企业今天做的事情与五年或十年前做的事情非常相似，这类企业往往能实现最好的商业回报……一个经常面临重大变化的企业也同样有可能遇到许多重大错误。此外，在不断剧烈变动的经济领域很难建立堡垒式的商业特许经营权。而这样的特许经营权往往是持续获得高回报的关键因素。”
+> 
+> ——沃伦·巴菲特，1987[^1987]年[致股东的信](https://www.berkshirehathaway.com/letters/1987.html)
 
-作者：John Huber
-
-发表时间：2014/10/10
-
-校译：Ponge
-
-全文翻译如下：
-
----
-
->“然而，经验表明，一个企业今天做的事情与五年或十年前做的事情非常相似，这类企业往往能实现最好的商业回报……一个经常面临重大变化的企业也同样有可能遇到许多重大错误。此外，在不断剧烈变动的经济领域很难建立堡垒式的商业特许经营权。而这样的特许经营权往往是持续获得高回报的关键因素。”
->
->——沃伦·巴菲特，1987[^1987]年[致股东的信](https://www.berkshirehathaway.com/letters/1987.html)
-
-在[[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第四部分）：复利的数学原理|上一篇文章]]（[[400-知识库/420-网络文章/420.003-John Huber/Importance of ROIC Part 4：The Math of Compounding|原版]]）中，我们用一些基础的数学方法比较了基于不同投资回报率的两家假想公司最终的投资收益情况。
+在[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86.md)中，我们用一些基础的数学方法比较了基于不同投资回报率的两家假想公司最终的投资收益情况。
 
 牢记这个通用公式会很有帮助，它可以粗略估计出一个企业随着时间的推移其内在价值的复合速度……基本上，一个企业内在价值的增长速度等于等于两个因素的乘积：**增量投入资本回报率（ROIC）×再投资率。**
 
@@ -72,7 +54,7 @@ John Huber 关于 ROIC 的相关文章：
 
 今年，我花了很多时间翻阅富国银行的历史年报。如果你回头看，你会发现富国银行在过去的40多年里，其ROE一直维持在百分之十几的水平。
 
-![[999-笔记素材/202111081915/Wells-Fargo-Historical-ROE1.jpeg]]
+![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/Wells-Fargo-Historical-ROE1.jpeg)
 
 从图中可知，在过去的42年里，有一些特征很有意思：
 
@@ -91,6 +73,7 @@ John Huber 关于 ROIC 的相关文章：
 请记得这个简化公式：
 
 **一个企业价值的复合增长率等于两个因素的乘积：**
+
 - 可以用于留存及再投资的利润占比；
 - 这部分增量投资所能实现的回报率。
 
@@ -134,6 +117,4 @@ John Huber 关于 ROIC 的相关文章：
 
 **信息披露**：John Huber 在自营和客户资管账户中持有富国银行普通股的认购权证。本文不构成投资建议，请自行研究决策。
 
-
 [^1987]:原文写成1992年，应该是写错了，这段话见于1987年的股东信
-

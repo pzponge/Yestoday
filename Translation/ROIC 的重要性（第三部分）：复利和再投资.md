@@ -1,28 +1,15 @@
----
-uid: 202101100959
-aliases: ROIC 的重要性（第三部分）：复利和再投资
-time: 2021-01-10T09:59
-tags: 
-fragment: 0
----
-pub_url:: [公众号](https://mp.weixin.qq.com/s/GOnDXzTHq9rpfUWeP3ZJaw), [瞬Matataki](https://www.matataki.io/p/5280), [百家号](https://baijiahao.baidu.com/s?id=1677076785058451795), [雪球](https://xueqiu.com/6001666304/182627100)
-ref:: [[400-知识库/420-网络文章/420.003-John Huber/Importance of ROIC Part 3：Compounding and Reinvestment]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性：再投资和复利模式]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性]]
+原文信息：
 
----
+- 标题：Importance of ROIC Part 3: Compounding and Reinvestment
+- 作者：John Huber
+- 发表时间：2014-07-21
+- 链接：[Saber Capital](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)
 
-John Huber 关于 ROIC 的相关文章：
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票]]
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票]]
+翻译信息：
 
-作者：John Huber
+- 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/SPRw1i2RtQhmdFFTnfETTQ)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
+- 校译：Ponge
 
-发表时间：2014/7/21
-
-校译：Ponge
-
-全文翻译如下：
-
-***
 
 > “我们更喜欢现金泛滥的企业。建筑设备行业就是一个反例。你一年到头努力工作，利润却变成了一堆放在院子里的设备。我们避免那样的生意。我们更喜欢那些年底能开一张支票给我们的企业。”
 > 
@@ -107,8 +94,8 @@ John Huber 关于 ROIC 的相关文章：
 
 ROIC系列的其他文章：
 
-* [ROIC的重要性（第一部分）](https://sabercapitalmgt.com/importance-of-roic-part-1-compounders-and-cheap-stocks/)【[[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|我的翻译]]】
-* [ROIC的重要性（第二部分）](https://sabercapitalmgt.com/importance-of-roic-part-2-compounders-and-cheap-stocks/)【[[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|我的翻译]]】
+* [ROIC的重要性（第一部分）](https://sabercapitalmgt.com/importance-of-roic-part-1-compounders-and-cheap-stocks/)
+* [ROIC的重要性（第二部分）](https://sabercapitalmgt.com/importance-of-roic-part-2-compounders-and-cheap-stocks/)
 * [关于资本收益率与格林布拉特神奇公式的思考（第一部分）](http://sabercapitalmgt.com/thoughts-on-return-on-capital-and-greenblatts-magic-formula-part-1/)
 * [关于资本收益率与格林布拉特神奇公式的思考（第二部分）](http://sabercapitalmgt.com/thoughts-on-return-on-capital-and-greenblatts-magic-formula-part-2/)
 * [1987年伯克希尔股东信：巴菲特对于高ROE的看法](http://sabercapitalmgt.com/1987-berkshire-letter-and-buffetts-thoughts-on-high-roe/)

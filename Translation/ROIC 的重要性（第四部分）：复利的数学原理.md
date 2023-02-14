@@ -1,30 +1,14 @@
----
-uid: 202101101541
-aliases: ROIC 的重要性（第四部分）：复利的数学原理
-time: 2021-01-10T15:41
-tags: 
-fragment: 0
----
-pub_url:: [公众号](https://mp.weixin.qq.com/s/ivqkbXSP_yh1c2EibVYLSQ), [瞬Matataki](https://www.matataki.io/p/5337), [雪球](https://xueqiu.com/6001666304/182631001)
-ref:: [[400-知识库/420-网络文章/420.003-John Huber/Importance of ROIC Part 4：The Math of Compounding]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性：再投资和复利模式]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性]]
+原文信息：
 
----
+- 标题：Importance of ROIC Part 4: The Math of Compounding
+- 作者：John Huber
+- 发表时间：2014-09-30
+- 链接：[Saber Capital](https://sabercapitalmgt.com/importance-of-roic-part-4-the-math-of-compounding/)
 
+翻译信息：
 
-John Huber 关于 ROIC 的相关文章：
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票]]
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票]]
-- [[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第三部分）：复利和再投资]]
-
-作者：John Huber
-
-发表时间：2014/9/30
-
-校译：Ponge
-
-全文翻译如下：
-
-***
+- 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/SPRw1i2RtQhmdFFTnfETTQ)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
+- 校译：Ponge
 
 我想我应该回过头来讨论累进增长型公司和资本回报率的话题。今年早些时候，我[写了一些关于这个话题的文章](https://sabercapitalmgt.com/tag/roic/)，发表后有很多评论和问题。
 
@@ -46,7 +30,7 @@ John Huber 关于 ROIC 的相关文章：
 
 一个简单的例子：如果一个企业能够将其50%的收益再投资回该企业，并取得12%的投资回报率，那么该企业的内在价值将以每年6%的速度复合增长（50%×12%）
 
-关于这个的更多讨论，请看[这篇文章](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第三部分）：复利和再投资|中文版本见此]]）。
+关于这个的更多讨论，请看[这篇文章](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[中文版本见此](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E5%92%8C%E5%86%8D%E6%8A%95%E8%B5%84.md)）。
 
 **让我们来看一个例子。假设有两家公司，A公司和B公司：**
 
@@ -92,7 +76,7 @@ John Huber 关于 ROIC 的相关文章：
 
 # 选择“正确的公司”比选择“合适的估值”更重要
 
-在[第3部分](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[[300-阅读笔记/340-理解企业与企业家/ROIC 的重要性（第三部分）：复利和再投资|中文版本见此]]）中，我提到ROIC无疑是最重要的考虑因素，正如数学原理（上文的简化公式）所示。一个ROIC只有6%的公司， 无论他们能将多少收益用于再投资，其内在价值都不会复合增长（事实上，回报率低的公司最好不要再投资，因为所有者可以将这些收益重新配置到其他收益率更高的地方）。
+在[第3部分](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[中文版本见此](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E5%92%8C%E5%86%8D%E6%8A%95%E8%B5%84.md)）中，我提到ROIC无疑是最重要的考虑因素，正如数学原理（上文的简化公式）所示。一个ROIC只有6%的公司， 无论他们能将多少收益用于再投资，其内在价值都不会复合增长（事实上，回报率低的公司最好不要再投资，因为所有者可以将这些收益重新配置到其他收益率更高的地方）。
 
 因此，一家资本回报率高于平均水平的公司在实现价值复利增长方面至关重要。
 
@@ -104,13 +88,13 @@ John Huber 关于 ROIC 的相关文章：
 
 下表列示了两种情境，在每种情境下，A公司和B公司以不同的市盈率买入（第一行），并在15年后以某一特定市盈率卖出（第一列）。正如你所看到的，在某一特定的估值水平下（译者注：第一张表，A公司以25倍市盈率买入，B公司以10倍市盈率买入），B公司是更好的投资标的，但我也注意到，你可以用大约贵1倍的估值买入A公司，随着时间的推移，A公司最终仍然是会是更好的投资标的。虽然我用了15年（来消化A公司的高估值），但只要你拥有A公司的时间越长，A公司和B公司的投资结果之间的差距就越大。
 
-![[999-笔记素材/202111060955/Comp-Math-1.jpeg]]
+![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/Comp-Math-1.jpeg)
 
 因此，在两家公司的估值水平存在一定差距的情况下，B公司会成为更好的投资标的。但你需要支付给A公司相对于B公司2.5倍的估值溢价，才能让A公司成为表现较差的投资标的。
 
 通过下面的这张表，你可以看到，如果A公司相对于B公司的估值溢价在2倍（A公司20倍市盈率，B公司10倍市盈率），投资的结果大致相同。但如果你必须为B公司支付15倍的市盈率，那么投资A公司的结果远胜于投资B公司。
 
-![[999-笔记素材/202111060955/Comp-Math-2.jpeg]]
+![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/Comp-Math-2.jpeg)
 
 在两个公司的期末市盈率相同（鉴于A公司的质量更好，这不太可能）的情况下，即使A公司估值收缩，B公司的估值扩张（译者注：对应第一张图下表最后一行），或即使以20倍市盈率买入A公司，却仅仅以10倍市盈率买入B公司（译者注：对应第二张图上表最后一行），**A公司的投资结果仍然好于B公司。**
 

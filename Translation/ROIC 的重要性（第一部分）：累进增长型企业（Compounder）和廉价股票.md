@@ -1,24 +1,15 @@
----
-uid: 202101100912
-aliases: ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票
-time: 2021-01-10T09:12
-tags: 
-fragment: 0
----
-pub_url:: [公众号](https://mp.weixin.qq.com/s/XSo7MXRjdrQE0OnIHMWgTQ), [瞬Matataki](https://www.matataki.io/p/1801), [百家号](https://baijiahao.baidu.com/s?id=1655379173889247037), [头条号](https://www.toutiao.com/i6780434370709684748/), [雪球](https://xueqiu.com/6001666304/182622631), [币乎](https://bihu.com/article/1094562687)
-ref:: [[400-知识库/420-网络文章/420.003-John Huber/Importance of ROIC Part 1：Compounders and Cheap Stocks]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性：复利模式和廉价股票]], [[400-知识库/420-网络文章/420.003-John Huber/ROIC 的重要性]]
+原文信息：
 
----
+- 标题：Importance of ROIC Part 1: Compounders and Cheap Stocks
+- 作者：John Huber
+- 发表时间：2014-05-13
+- 链接：[Saber Capital](https://sabercapitalmgt.com/importance-of-roic-part-1-compounders-and-cheap-stocks/)
 
-作者：John Huber
+翻译信息：
 
-发表时间：2014/5/13
+- 参考翻译：[景泉 Value](https://mp.weixin.qq.com/s/E5O_ZXUrF1UWoU9dz1ovSw)，[旭犇投资](https://mp.weixin.qq.com/s/bOYuLkLll6yh0uPXsXPXew)
+- 校译：Ponge
 
-校译：Ponge
-
-全文翻译如下：
-
-* * *
 
 更新：对于ROIC感兴趣的读者，我撰写了关于增量投资资本回报率（ROIC）的系列文章（共五部分），以及一些其他讨论ROIC的文章（[链接](http://sabercapitalmgt.com/tag/roic/)）。
 
@@ -56,7 +47,7 @@ ref:: [[400-知识库/420-网络文章/420.003-John Huber/Importance of ROIC Par
 
 我对此的观点如下：我的理想投资是类似Fastenal这样的企业，本身具有高资本回报率，并且能够以类似的高回报率将大量的留存收益进行再投资（当我在讨论ROIC时，我真正想要讨论的是一个企业在未来进行扩大再投资时能产生多少回报率——在接下来的几篇文章中将对此进行更多讨论）。在过去25年左右的时间里，FAST公司的股东每年的回报率都超过20%。
 
-![[999-笔记素材/202110270743/FAST-Long-Term-Chart.jpeg]]
+![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/FAST-Long-Term-Chart.jpeg)
 
 **哪怕一个人只能提前知道一件事——谁是下一个FAST，生活也会变得很简单，对吧？**
 
