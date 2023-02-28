@@ -48,7 +48,7 @@
 
 我对此的观点如下：我的理想投资是类似Fastenal这样的企业，本身具有高资本回报率，并且能够以类似的高回报率将大量的留存收益进行再投资（当我在讨论ROIC时，我真正想要讨论的是一个企业在未来进行扩大再投资时能产生多少回报率——在接下来的几篇文章中将对此进行更多讨论）。在过去25年左右的时间里，FAST公司的股东每年的回报率都超过20%。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/FAST-Long-Term-Chart.jpeg)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/FAST-Long-Term-Chart.jpeg)
 
 **哪怕一个人只能提前知道一件事——谁是下一个FAST，生活也会变得很简单，对吧？**
 

@@ -22,7 +22,7 @@
 * [富国银行与小型社区银行](http://sabercapitalmgt.com/wells-fargo-vs-small-community-banks/)
 * [关于巴菲特与大银行的几点思考](http://sabercapitalmgt.com/a-few-thoughts-on-buffett-and-great-banks/)
 
-回顾[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E7%B4%AF%E8%BF%9B%E5%A2%9E%E9%95%BF%E5%9E%8B%E4%BC%81%E4%B8%9A%EF%BC%88Compounder%EF%BC%89%E5%92%8C%E5%BB%89%E4%BB%B7%E8%82%A1%E7%A5%A8.md)，总体我想表达的是，估值和公司质地并不是相互排斥的。在广泛的价值投资界，似乎有两个派系。有时感觉像是总统初选。归根结底，我们都是同一支队伍，但这两个派别似乎在许多问题上存在意见分歧。我所指的两个派别（因为缺乏更好的说法）是指格雷厄姆派的深度价值追随者和巴菲特派的优质公司追随者。
+回顾[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)，总体我想表达的是，估值和公司质地并不是相互排斥的。在广泛的价值投资界，似乎有两个派系。有时感觉像是总统初选。归根结底，我们都是同一支队伍，但这两个派别似乎在许多问题上存在意见分歧。我所指的两个派别（因为缺乏更好的说法）是指格雷厄姆派的深度价值追随者和巴菲特派的优质公司追随者。
 
 我认为这两者之间并没有大家认为的那么大的区别。最终，我们都想试图找到低风险的50美分。
 
@@ -42,7 +42,7 @@
 
 我们可以在很多股票上做这种复盘，但这里我们用美国钢铁为例。这家公司在过去几十年里重组了几次，所以仅仅查看股价图并不能反映出整个情况，但是图表本身仍旧提供了凯恩斯式的“大致正确”的视角，来看待长期所有者可能取得的结果。看一下长期图表，我们看到美国钢铁（X.N）在20世纪90年代早期的交易价格大约是每股30美元。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/X-Long-Term-Chart.jpg)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/X-Long-Term-Chart.jpg)
 
 美国钢铁在上世纪90年代初每股收益约3美元，随后几年出现亏损，然后在2000年初出现了一段利润丰厚的时期，然后又开始亏损。
 
@@ -58,13 +58,13 @@
 
 直布罗陀工业公司（代码：ROCK.O）1994年（20年前）的交易价格是7美元，现在是15美元，年化回报率只有3.5%。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/ROCK-Long-Term-Chart.jpeg)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/ROCK-Long-Term-Chart.jpeg)
 
 直布罗陀工业公司在某些年份里支付了股息，但股息并不高，即使我们将上述回报率增加2-3%，这个回报率依然低于平均水平。
 
 再举一个例子：安博科-匹兹堡（代码：AP.N）1994年的股价为8美元，目前的股价为21美元，剔除股息后的年化回报率为4.9%，如果考虑股息后，年化收益率差不多也是再增加2%左右。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/AP-Long-Term-Chart.jpeg)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/AP-Long-Term-Chart.jpeg)
 
 关于安博科-匹兹堡，还有一个有趣的说明：如果我们追溯到更早的1984年（30年前），这只股票的价格是每股22美元。因此，30年过去了，我们可怜的长期股东的本金与30年前差不多，尽管实际价值要低得多！在上世纪80年代中期，购买安博科-匹兹堡股票的投资者可能**支付了远小于一倍市盈率的价格**，但尽管如此，长期回报仍然非常平庸。
 
@@ -78,7 +78,7 @@
 
 Fastenal（FAST）是过去25年表现最好的股票之一。FAST的业务是销售螺母和螺栓，这听起来很简单……但是其给股东的回报可远远不简单。公司的资本回报率平均20%左右，而且非常具有持续性。25年前，该公司股票的价格为0.32美元（经过拆股调整后）。目前的价格是44美元，是1989年价格的138倍。如果1989年买入1万美元的FAST，目前的价值差不多值140万美元，而且公司每年还会额外发放3万美元的股息收入——仅每年的股息收入就相当于初始投资总额的三倍！该股票不包括股息的年化收益率为21.8%。这一出色的长期投资业绩几乎与该公司同期的平均资本回报率相当。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/FAST-Long-Term-Chart.jpeg)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/FAST-Long-Term-Chart.jpeg)
 
 Fastenal在1988年的净利润约为300万美元，一位FAST的投资者在1989年买入FAST时的市盈率约为25倍。但即使投资者在1989年以50倍的市盈率（或者说以0.65美元/股）买入FAST公司，最终的年化收益率只会从21.8%降到18.4%而已……随着时间的推移，结果会有很大的不同，但仍然是一个很好的结果。
 

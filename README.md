@@ -33,16 +33,16 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # Warren E. Buffett
 
-- [2022 Letter to Berkshire Shareholders](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)【进行中】
+- [2022 Letter to Berkshire Shareholders 2022 年致股东的信](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)【进行中】
 
 # Charles T. Munger
 
 - [芒格 2020 年 12 月 14 日接受加州理工学院校友会采访](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
-- [华尔街日报评论文章：为什么美国应该禁止加密货币](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
+- [Why America Should Ban Crypto 为什么美国应该禁止加密货币](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
 
 # Chuck Akre
 
-- [我们所谓的再投资指的是什么？](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/%E6%88%91%E4%BB%AC%E6%89%80%E8%B0%93%E7%9A%84%E5%86%8D%E6%8A%95%E8%B5%84%E6%8C%87%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F.md)【待整理】
+- [What Do We Mean By Reinvestment? 我们所谓的再投资指的是什么？](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By Reinvestment.md)
 
 # 李录
 
@@ -56,17 +56,17 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # Monish Pabrai
 
-- [通过 Spawners 实现累进增长](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/%E9%80%9A%E8%BF%87%20Spawners%20%E5%AE%9E%E7%8E%B0%E7%B4%AF%E8%BF%9B%E5%A2%9E%E9%95%BF.md)【待整理】
+- [Compounding with the Spawners 通过 Spawners 实现累进增长](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
 
 # John Huber
 
-- [End of Mean Reversion?](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
-- [ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票](https://github.com/pzponge/Yestoday/blob/main/John_Huber/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E7%B4%AF%E8%BF%9B%E5%A2%9E%E9%95%BF%E5%9E%8B%E4%BC%81%E4%B8%9A%EF%BC%88Compounder%EF%BC%89%E5%92%8C%E5%BB%89%E4%BB%B7%E8%82%A1%E7%A5%A8.md)【待整理】
-- [ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票](https://github.com/pzponge/Yestoday/blob/main/John_Huber/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E7%B4%AF%E8%BF%9B%E5%A2%9E%E9%95%BF%E5%9E%8B%E4%BC%81%E4%B8%9A%EF%BC%88Compounder%EF%BC%89%E5%92%8C%E5%BB%89%E4%BB%B7%E8%82%A1%E7%A5%A8.md)【待整理】
-- [ROIC 的重要性（第三部分）：复利和再投资](https://github.com/pzponge/Yestoday/blob/main/John_Huber/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%B8%89%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E5%92%8C%E5%86%8D%E6%8A%95%E8%B5%84.md)【待整理】
-- [ROIC 的重要性（第四部分）：复利的数学原理](https://github.com/pzponge/Yestoday/blob/main/John_Huber/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86.md)【待整理】
-- [ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥](https://github.com/pzponge/Yestoday/blob/main/John_Huber/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%AF%8C%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%BF%87%E5%8E%BB%2042%20%E5%B9%B4%E5%8E%86%E5%8F%B2%E4%B8%80%E7%9E%A5.md)【待整理】
-- [ROIC 的重要性：再投资护城河与传统护城河](https://github.com/pzponge/Yestoday/blob/main/John_Huber/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%9A%E5%86%8D%E6%8A%95%E8%B5%84%E6%8A%A4%E5%9F%8E%E6%B2%B3%E4%B8%8E%E4%BC%A0%E7%BB%9F%E6%8A%A4%E5%9F%8E%E6%B2%B3.md)【待整理】
+- [End of Mean Reversion? 均值回归的终结？](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
+- [Importance of ROIC Part 1: Compounders and Cheap Stocks ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
+- [Importance of ROIC Part 2: Compounders and Cheap Stocks ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
+- [Importance of ROIC Part 3: Compounding and Reinvestment ROIC 的重要性（第三部分）：复利和再投资](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
+- [Importance of ROIC Part 4: The Math of Compounding ROIC 的重要性（第四部分）：复利的数学原理](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
+- [Importance of ROIC Part 5: A Glance at the Last 42 Years of Wells Fargo ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
+- [Importance of ROIC: "Reinvestment" vs "Legacy" Moats ROIC 的重要性：再投资护城河与传统护城河](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
 # Michael J. Mauboussin
 

@@ -16,7 +16,7 @@
 > 
 > ——沃伦·巴菲特，1987[^1987]年[致股东的信](https://www.berkshirehathaway.com/letters/1987.html)
 
-在[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86.md)中，我们用一些基础的数学方法比较了基于不同投资回报率的两家假想公司最终的投资收益情况。
+在[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)中，我们用一些基础的数学方法比较了基于不同投资回报率的两家假想公司最终的投资收益情况。
 
 牢记这个通用公式会很有帮助，它可以粗略估计出一个企业随着时间的推移其内在价值的复合速度……基本上，一个企业内在价值的增长速度等于等于两个因素的乘积：**增量投入资本回报率（ROIC）×再投资率。**
 
@@ -55,7 +55,7 @@
 
 今年，我花了很多时间翻阅富国银行的历史年报。如果你回头看，你会发现富国银行在过去的40多年里，其ROE一直维持在百分之十几的水平。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/Wells-Fargo-Historical-ROE1.jpeg)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Wells-Fargo-Historical-ROE1.jpeg)
 
 从图中可知，在过去的42年里，有一些特征很有意思：
 

@@ -11,7 +11,7 @@
 
 2020 年 12 月
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/01.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/01.JPG)
 
 
 ## 一个投资者的选择
@@ -21,7 +21,7 @@
 1. 成长的生意：买入之后可以忘掉它，可能有 10~100 倍成长的潜力；
 2. 折价的生意：需要像驴拉磨一样不断投资；节税效果较差；单次投资收益很难超过 2~3 倍。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/02.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/02.JPG)
 
 ## 通往多倍股的途径
 
@@ -31,7 +31,7 @@
 - **严重低估的企业/公开杠杆收购（Deeply Undervalued Players/Public LBOs）**：以极低的价格出售的可困境反转或高杠杆的企业，比如泰克能源（Teck Cominco）、菲亚特克莱斯勒（Fiat Chrysler）、Rain Industries（一家印度化工企业）。
 - **蕃衍器（Spawner）**：能够不断催生相关或不相关业务的公司，比如亚马逊（Amazon）、Alphabet（Google 母公司）、阿里巴巴、腾讯、百度。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/03.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/03.JPG)
 
 ## 「蕃衍器」
 
@@ -48,7 +48,7 @@
 - 节税效果明显。
 - 相当于从政府那里获得了没有什么附加条款的免费贷款。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/04.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/04.JPG)
 
 ### 「蕃衍器」的蕃衍策略
 
@@ -59,7 +59,7 @@
 
 其中，顶级蕃衍器（Apex Spawner）持续采用上述所有蕃衍策略。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/05.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/05.JPG)
 
 ### 知名「蕃衍器」及其蕃衍策略
 
@@ -71,7 +71,7 @@
   - 培养蕃衍策略：Forethought（改名为 PowerPoint 并重新发布）
   - 克隆蕃衍策略：Windows 操作系统、Word、Excel、IE 浏览器、Surface 平板、Azure 云、Teams 会议系统
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/06.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/06.JPG)
 
 ### 顶级蕃衍器（Apex Spawner）
 
@@ -106,8 +106,8 @@
   - 克隆蕃衍策略：百度地图、百度网盘
   - 非毗邻蕃衍策略：百度 Apollo
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/07.JPG)
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/08.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/07.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/08.JPG)
 
 ### 蕃衍器的蕃衍过程——Kotak Mahindra 银行
 
@@ -132,8 +132,8 @@
 - 2020/11/18：1,831 元/股（200 倍）；
 - 1995~2020：累计收益率 20,248%，复合年化收益率 22.75%
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/09.JPG)
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/10.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/09.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/10.JPG)
 
 ### 非蕃衍器
 
@@ -147,8 +147,8 @@
 - 非蕃衍器可能进行投机性的收购或在现有产品线的边缘进行业务扩展，但不太可能考虑激进的新业务领域。
 - 多余的现金被用于分红、回购或核心资本支出。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/11.JPG)
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/12.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/11.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/12.JPG)
 
 ### 蕃衍式发展的好处
 
@@ -160,7 +160,7 @@
   - **蕃衍式发展使企业母体保持年轻和健康**。
 - 蕃衍式发展企业比「专注猎人」型企业风险低。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/13.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/13.JPG)
 
 ## 500 亿美元规则
 
@@ -168,7 +168,7 @@
 - 在过去的 20 年里上市的企业中，只有 9 家的市值超过 1000 亿美元。
   - **在做投资时，最好能假设你投资的任何企业的市值上限不会超过超过 500 亿美元。**
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/14.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/14.JPG)
 
 **10 年 10 倍股；20 年 100 倍股**
 
@@ -180,7 +180,7 @@
   - 15% 的年化净利润增长并同样伴随着估值的提升能够实现 40 倍的涨幅（16 倍的利润增长，2~3 倍的估值扩张，32~48 倍涨幅）；
   - 少数「蕃衍器」可以做的更好，实现 100 倍涨幅。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/15.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/15.JPG)
 
 ## 帕伯莱的蕃衍式投资定律
 
@@ -197,7 +197,7 @@
 - 它是否有一个伟大的资本分配者在掌舵？
 - **没有必要做英雄式的假设。从过去的行为和成功/失败中，未来应该是显而易见的。**
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/16.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/16.JPG)
 
 ## 买入并忘掉
 
@@ -213,8 +213,8 @@
 
 [^1]: 有趣的是，托马斯·威廉姆斯·菲尔普斯（Thomas W. Phelps）的思想不仅影响了帕伯莱，也影响了 [Akre](https://mp.weixin.qq.com/s/Q4vzKkefMsAS_0QJVvSMLg)。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/17.JPG)
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/18.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/17.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/18.JPG)
 
 ### 什么时候卖出
 
@@ -225,7 +225,7 @@
 - 忽略暂时的逆风
   - 不要不必要地中断你的复利机器。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/19.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/19.JPG)
 
 ## 新兴市场中，大企业联合体和「蕃衍器」的关系
 
@@ -235,13 +235,13 @@
 - **然而，一个成熟的大企业联合体就不再类似「蕃衍器」了。**
   - 如果它规模已经变得很大，就很难再涨 10~100 倍了。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/20.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/20.JPG)
 
 ## 伪「蕃衍器」和失效的「蕃衍器」
 
 需要提防伪「蕃衍器」和失效的「蕃衍器」
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/21.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/21.JPG)
 
 几乎每一个上市公司都曾经是或将要是 100 倍股
 
@@ -252,8 +252,8 @@
 - **关键在于尽早参与并始终坚持。**
   - Uber 不太可能在上市后实现 100 倍的增长，因为它在上市时的估值已经达到 500 亿美元。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/22.JPG)
-![](https://github.com/pzponge/Yestoday/blob/main/Transcription/Elements/Spawners/23.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/22.JPG)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Spawners/23.JPG)
 
 # Q & A
 

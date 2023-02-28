@@ -61,7 +61,7 @@
 
 让我们回到早期沃尔玛的例子，与传统的一元店相比，沃尔玛的门店规模非常大。由于顾客人数众多，沃尔顿可以以低于竞争对手的利润率销售每一件商品，仍然能够实现经营性盈利。在任一家沃尔玛购物的人越多，或者沃尔玛的门店越多，沃尔玛的成本优势只会更强，护城河只会更深。较低的价格又进一步吸引了更多的购物者，这个循环不断自我强化。所以当沃尔玛有 1000 家门店时，护城河明显比有 51 家的时候要宽得多。好市多（Costco）、盖可保险（GEICO）和亚马逊（Amazon）等其他企业也遵循了类似的思路：创造了一个「飞轮」，随着业务不断发展，「飞轮」会不断加速。[^2]
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/Connor-Amazon-Flywheel.png)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Connor-Amazon-Flywheel.png)
 *示例：亚马逊的成长飞轮草图*
 
 [^2]: 原文注：飞轮的概念是由 Jim Collins 推广的，更多详见：[http://www.inc.com/jeff-haden/the-best-from-the-brightest-jim-collins-flywheel.html](http://www.inc.com/jeff-haden/the-best-from-the-brightest-jim-collins-flywheel.html)
@@ -73,7 +73,7 @@
 [^3]: 原文注：这段关于网络强度的描述来自于风险投资家 Bill Gurley。
 [^护城河]: 也有其他研究表示，网络效应本身并不是护城河的来源，重要的是转换成本和多宿主成本，详见 [网络效应并不是护城河](https://mp.weixin.qq.com/s/-RXpOW7dSGFTqL5fNXcNVQ)。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Translation/Elements/ROIC/Connor-Horowitz-1024x426.png)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Connor-Horowitz-1024x426.png)
 *Andreesen Horowitz 关于 Airbnb 双边网络的例子*
 
 # 判断可进行再投资的「跑道长度」
