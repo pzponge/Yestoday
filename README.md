@@ -42,7 +42,7 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # Chuck Akre
 
-- [What Do We Mean By Reinvestment? 我们所谓的再投资指的是什么？](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By Reinvestment.md)
+- [What Do We Mean By Reinvestment? 我们所谓的再投资指的是什么？](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
 # 李录
 
