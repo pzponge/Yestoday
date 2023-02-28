@@ -10,19 +10,24 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # 文件夹说明
 
-- Charles_Munger：Charles Munger 相关文章翻译；
+## 经典投资人
 
-- Chuck_Akre：Chuck Akre 相关文章翻译；
+- Warren_Buffett：Warren Buffett 相关文章翻译。
+- Charles_Munger：Charles Munger 相关文章翻译。
 
-- Li_Lu：投资人李录相关文章；
+## 新一代投资人
 
-- Michael_Mauboussin：分析师 Michael Mauboussin 相关文章翻译；
-
+- Chuck_Akre：Chuck Akre 相关文章翻译。
+- Li_Lu：投资人李录相关文章。
 - John_Huber：投资人 John Huber 相关文章翻译；
-
 - Monish_Pabrai：投资人 Monish Pabrai 相关文章翻译；
-
 - Nick_Sleep：投资人 Nick Sleep 相关文章翻译；
+
+## 分析师
+
+- Michael_Mauboussin：分析师 Michael Mauboussin 相关文章翻译。
+
+## 其他
 
 - Elements：用于存放文中图片等素材。
 
