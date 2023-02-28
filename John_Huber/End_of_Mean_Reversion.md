@@ -147,7 +147,9 @@ The result is a business with returns on capital that defy capitalism’s law of
 这种强网络效应的结果是，一家企业的资本回报率可以无视资本主义的万有引力定律：
 
 ![](https://github.com/pzponge/Yestoday/blob/main/Elements/Mean_Reversion/image-1024x116.png)
+
 _Copart Returns on Capital (source: Tikr)_
+
 *Copart 公司的资本回报率（来源：Tikr）*
 
 Copart also reinvests its earnings into new land to support a larger supply of vehicles, which attracts still more buyers, which means Copart’s network effect only gets stronger as it grows.
