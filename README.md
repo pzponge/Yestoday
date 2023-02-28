@@ -1,3 +1,33 @@
+您好，欢迎来到 Yestoday！
+
+# 这个 Github 是做什么的？
+
+由于国内投资类文章翻译质量不佳，我之前在 Yestoday 公众号发布过一些自己翻译的文章。但由于我水平有限，精力不足，很多翻译很难独立完成或校对，因此会陆续将各种翻译上传到 Github。
+
+我自己既语言类相关专业（而且英语很差，翻译大多依赖的是翻译工具），也非计算机类相关专业（所以 Github 只会基本使用），只是在投资行业里有过几年经验（甚至都谈不上什么能力）。无论是翻译质量，还是 Github 协作使用，都可能存在巨大的能力不足，希望见谅。
+
+Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自然是再好不过的事情了。可以微信公众号私信，或添加飞书联系人（在公众号底边栏可以找到二维码）。
+
+# 文件夹说明
+
+- Charles_Munger：Charles Munger 相关文章翻译；
+
+- Chuck_Akre：Chuck Akre 相关文章翻译；
+
+- Li_Lu：投资人李录相关文章；
+
+- Michael_Mauboussin：分析师 Michael Mauboussin 相关文章翻译；
+
+- John_Huber：投资人 John Huber 相关文章翻译；
+
+- Monish_Pabrai：投资人 Monish Pabrai 相关文章翻译；
+
+- Nick_Sleep：投资人 Nick Sleep 相关文章翻译；
+
+- Elements：用于存放文中图片等素材。
+
+# Charles Munger
+
 # John Huber
 
 - [End of Mean Reversion?](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
