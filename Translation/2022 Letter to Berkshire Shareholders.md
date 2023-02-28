@@ -3,7 +3,7 @@
 - 标题：2022 Letter to Berkshire Shareholders
 - 作者：Warren Buffett
 - 发表时间：2023-02-25
-- 链接：[PDf](https://www.berkshirehathaway.com/letters/2022ltr.pdf)
+- 链接：[PDF](https://www.berkshirehathaway.com/letters/2022ltr.pdf)
 
 翻译信息：
 
@@ -78,8 +78,6 @@
 | Overall Gain - 1964-2022           | 3,787,464%                                                      | 24,708%                                                     |
 
 **Notes**: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
-
-
 
 BERKSHIRE HATHAWAY INC. 
 
