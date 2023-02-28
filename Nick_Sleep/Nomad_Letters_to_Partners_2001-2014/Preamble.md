@@ -18,7 +18,7 @@ Our motivation for publishing the letters on Nick’s charitable foundation webs
 
 Investing is a wonderful, thoughtful, adventure but it can also be self-centered, a tendency that can be reinforced by the wealth that can follow. We think it is true that, once past X-amount, real meaning comes with reinvesting in society through charitable giving, which can also be a thoughtful, challenging, wonderful adventure, but with the added bonus that it feels like the world working properly. We hope that you can join us. 
 
-投资是一种奇妙的、深思熟虑的冒险，但它也可能是利己主义的。如果是这样，那么财富越多，利己主义倾向越重。我们认为，超过一定金额（X-amount）以外的财富，其真正的意义在于通过慈善捐赠对社会的再投资。慈善捐赠也可以是一种深思熟虑的、富有挑战性的、奇妙的冒险，而且还有一个额外的好处，那就是感觉世界在正常运转。我们希望你能加入我们。
+投资是一种奇妙的、深思熟虑的冒险，但它也可能是利己主义的。如果是这样，那么财富越多，利己主义倾向越重。我们认为，超过一定金额（X-amount）以外的财富，其真正的意义在于通过慈善捐赠实现对社会的再投资。慈善捐赠也可以是一种深思熟虑的、富有挑战性的、奇妙的冒险，而且还有一个额外的好处，那就是它让你感觉到世界在正确地运转。我们希望你能加入我们。
 
 Nick Sleep and Qais Zakaria, Spring 2021.
 
