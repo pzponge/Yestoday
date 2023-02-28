@@ -33,16 +33,16 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # Warren E. Buffett
 
-- [2022 Letter to Berkshire Shareholders|2022 年致股东的信](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)【进行中】
+- [2022 年致股东的信【2022 Letter to Berkshire Shareholders】](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)【进行中】
 
 # Charles T. Munger
 
 - [芒格 2020 年 12 月 14 日接受加州理工学院校友会采访](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
-- [Why America Should Ban Crypto|为什么美国应该禁止加密货币](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
+- [为什么美国应该禁止加密货币【Why America Should Ban Crypto】](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
 
 # Chuck Akre
 
-- [What Do We Mean By Reinvestment?|我们所谓的再投资指的是什么？](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
+- [我们所谓的再投资指的是什么？【What Do We Mean By Reinvestment?】](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
 # 李录
 
@@ -52,21 +52,21 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 ## Nomad Letters to Partners 2001-2014【进行中】
 
-- [Preamble 前言](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
+- [前言【Preamble】](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
 
 # Monish Pabrai
 
-- [Compounding with the Spawners|通过 Spawners 实现累进增长](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
+- [通过 Spawners 实现累进增长【Compounding with the Spawners】](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
 
 # John Huber
 
-- [End of Mean Reversion?|均值回归的终结？](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
-- [Importance of ROIC Part 1: Compounders and Cheap Stocks|ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
-- [Importance of ROIC Part 2: Compounders and Cheap Stocks|ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
-- [Importance of ROIC Part 3: Compounding and Reinvestment|ROIC 的重要性（第三部分）：复利和再投资](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
-- [Importance of ROIC Part 4: The Math of Compounding|ROIC 的重要性（第四部分）：复利的数学原理](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
-- [Importance of ROIC Part 5: A Glance at the Last 42 Years of Wells Fargo|ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
-- [Importance of ROIC: "Reinvestment" vs "Legacy" Moats|ROIC 的重要性：再投资护城河与传统护城河](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
+- [均值回归的终结？【End of Mean Reversion?】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
+- [ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票【Importance of ROIC Part 1: Compounders and Cheap Stocks】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
+- [ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票【Importance of ROIC Part 2: Compounders and Cheap Stocks】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
+- [ROIC 的重要性（第三部分）：复利和再投资【Importance of ROIC Part 3: Compounding and Reinvestment】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
+- [ROIC 的重要性（第四部分）：复利的数学原理【Importance of ROIC Part 4: The Math of Compounding】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
+- [ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥【Importance of ROIC Part 5: A Glance at the Last 42 Years of Wells Fargo】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
+- [ROIC 的重要性：再投资护城河与传统护城河【Importance of ROIC: "Reinvestment" vs "Legacy" Moats】](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
 # Michael J. Mauboussin
 
