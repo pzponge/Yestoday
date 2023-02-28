@@ -33,12 +33,12 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # Warren E. Buffett
 
-- [2022 Letter to Berkshire Shareholders](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022%20Letter%20to%20Berkshire%20Shareholders.md)【进行中】
+- [2022 Letter to Berkshire Shareholders](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)【进行中】
 
 # Charles T. Munger
 
-- [芒格 2020 年 12 月 14 日接受加州理工学院校友会采访](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)【待整理】
-- [华尔街日报评论文章：为什么美国应该禁止加密货币](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E5%BA%94%E8%AF%A5%E7%A6%81%E6%AD%A2%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81.md)【待整理】
+- [芒格 2020 年 12 月 14 日接受加州理工学院校友会采访](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
+- [华尔街日报评论文章：为什么美国应该禁止加密货币](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
 
 # Chuck Akre
 
