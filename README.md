@@ -1,8 +1,6 @@
 # John Huber
 
-- 
-
-
+- [End of Mean Reversion?](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
 
 ---
 
@@ -29,7 +27,6 @@
 - [ROIC 的重要性（第四部分）：复利的数学原理](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E5%9B%9B%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%A4%8D%E5%88%A9%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86.md)
 - [ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%88%E7%AC%AC%E4%BA%94%E9%83%A8%E5%88%86%EF%BC%89%EF%BC%9A%E5%AF%8C%E5%9B%BD%E9%93%B6%E8%A1%8C%E8%BF%87%E5%8E%BB%2042%20%E5%B9%B4%E5%8E%86%E5%8F%B2%E4%B8%80%E7%9E%A5.md)
 - [ROIC 的重要性：再投资护城河与传统护城河](https://github.com/pzponge/Yestoday/blob/main/Translation/ROIC%20%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7%EF%BC%9A%E5%86%8D%E6%8A%95%E8%B5%84%E6%8A%A4%E5%9F%8E%E6%B2%B3%E4%B8%8E%E4%BC%A0%E7%BB%9F%E6%8A%A4%E5%9F%8E%E6%B2%B3.md)
-- [均值回归的终结？](https://github.com/pzponge/Yestoday/blob/main/Translation/%E5%9D%87%E5%80%BC%E5%9B%9E%E5%BD%92%E7%9A%84%E7%BB%88%E7%BB%93%EF%BC%9F.md)
 
 # 实录
 
