@@ -1,11 +1,10 @@
 翻译：Ponge
 
-
 翻译工具：Bob、DeepL、彩云小译、ChatGPT
 
 # ACKNOWLEDGEMENT
 
-前言
+致谢
 
 Quest for value and wealth creation, through investing, is an eternal one. This search, unlike Physics, is not entirely intuitive or contemplative. Pure Physics (or theoretical one), unlike applied Physics, is very abstract and conceptual. Empirical evidence, usually, comes much later. Take, for example, Higgs Boson or Theory of Relativity. Theory was formulated, in each case, much before it was possible to validate the theory with an observation or an experiment. Fortunately, good investing does not call for such high skills. Also,a body of recorded evidence and a set of observations heip in formulating many investment principles unlike the other way round. Some level of intuitive skills is also called for in investing which makes it a blend of art and science.
 

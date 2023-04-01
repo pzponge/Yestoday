@@ -77,5 +77,5 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 ## Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing【进行中】
 
-- [前言【Acknowledgement】](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
+- [致谢【Acknowledgement】](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
 - [简介【Introduction】](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
