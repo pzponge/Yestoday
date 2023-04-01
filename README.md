@@ -73,7 +73,9 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 - [衡量护城河：评估价值创造的规模和可持续性【Measuring the Moat: Assessing the Magnitude and Sustainability of Value Creation】](https://github.com/pzponge/Yestoday/blob/main/Michael_Mauboussin/Measuring_the_Moat.md)
 
-# Bharat Shah【进行中】
+# Bharat Shah
+
+## Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing【进行中】
 
 - [前言【Acknowledgement】](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
 - [简介【Introduction】](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
