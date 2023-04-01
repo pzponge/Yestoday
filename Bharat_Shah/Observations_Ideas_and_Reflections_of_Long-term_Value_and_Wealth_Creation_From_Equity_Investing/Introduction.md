@@ -4,7 +4,7 @@
 
 # Introduction
 
-简介
+概述
 
 *"Financial peace isn't the acquisition of stuff: It's learning to live on less than you make, so you can give money back andhave mores to invest. You can't win until you do this." (Dave Ramsey)*
 
