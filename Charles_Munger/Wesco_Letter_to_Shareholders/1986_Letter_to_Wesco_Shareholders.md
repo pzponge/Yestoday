@@ -18,13 +18,13 @@ Wesco has three major subsidiaries, Mutual Savings, in Pasadena, Precision Steel
 
 (in 000s except for per-share amounts)|Amount December 31,1986|Per Wesco Share December 31,1986|Amount December 31,1985|Per Wesco Share December 31,1985
 ---|---:|---:|---:|---:
-**"Normal" net operating income (loss) of:**|$ 11,934|$ 1.68|$ 8,347|$ 1.17
-Mutual Saving|2,159|.30|3,342|.47
-Precision Steel businesses|1,701|.24|2,010|.28
-Wesco-Financial Insurance business|6,615|.93|(359)|(.05)
-	Underwriting|(1,469)|(.21)|(1,584)|(.22)
-	Investment activity|8,084|1.14|1,225|.17
-All other "normal" net operating income (2)|1,459|.21|3,354|.47
+"Normal" net operating income (loss) of:|$ 11,934|$ 1.68|$ 8,347|$ 1.17
+1.Mutual Saving|2,159|.30|3,342|.47
+2.Precision Steel businesses|1,701|.24|2,010|.28
+3.Wesco-Financial Insurance business|6,615|.93|(359)|(.05)
+3.1.Underwriting|(1,469)|(.21)|(1,584)|(.22)
+3.2.Investment activity|8,084|1.14|1,225|.17
+4.All other "normal" net operating income (2)|1,459|.21|3,354|.47
 Fluctuation in market value of GNMA futures contract|--|--|1,671|.24
 Net gains on sales of securities (3)|4,590|.64|41,523|5.83
 Wesco consolidated net income|$ 16,524|$ 2.32|$ 51,541|$ 7.24
