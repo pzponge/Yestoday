@@ -156,5 +156,7 @@ On January 22, 1987, Wesco increased its regular quarterly dividend from 16.5 ce
 This annual report contains Form 10-K, a report filed with the Securities and Exchange Commission, and includes detailed information about Wesco and its subsidiaries as well as audited financial statements bearing extensive footnotes. As usual, your careful attention is sought wvith respect to these items.
 
 Charles T.Munger
+
 Chairman of the Board
+
 February 13, 1987
