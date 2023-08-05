@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "b85627d827a5e5fe",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
     "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
     "README.md",
     "Elements/Certificate_of_Limited_Partnership/5.png",
     "Elements/Certificate_of_Limited_Partnership/4.png",

@@ -53,6 +53,12 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 完成|芒格 2020 年 12 月 14 日接受加州理工学院校友会采访|Charles Munger|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
 完成|为什么美国应该禁止加密货币？|Charles Munger|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
 
+## 西科金融股东信
+
+进度|标题|作者|语言|链接
+---|---|---|---|---
+进行中|1986 年|Charles Munger|英语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
+
 # Chuck Akre
 
 进度|标题|作者|语言|链接
