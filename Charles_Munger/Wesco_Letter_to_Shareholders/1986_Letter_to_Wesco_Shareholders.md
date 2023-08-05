@@ -10,7 +10,7 @@
 
 To Our Shareholders:
 
-Consolidated “normal” operating income (i.e., before all unusual operating income and all net gains from sales of securities) for the calendar year 1986 increased to $11,934,000 ($1.68 per share) from $8,347,000 ($1.17 per share) in the previous year. Consolidated net income (i.e., after unusual operating income and all net gains from sales of securities) decreased to $16,524,000 ($2.32 per share) from $51,541,000 ($7.24 per share) in the previous year.
+Consolidated "normal" operating income (i.e., before all unusual operating income and all net gains from sales of securities) for the calendar year 1986 increased to $11,934,000 ($1.68 per share) from $8,347,000 ($1.17 per share) in the previous year. Consolidated net income (i.e., after unusual operating income and all net gains from sales of securities) decreased to $16,524,000 ($2.32 per share) from $51,541,000 ($7.24 per share) in the previous year.
 
 A highly unusual capital gain, of a not-likely-to-recur type, from disposition of General Foods stock caused most of the net income in 1985. The table below gives particulars.
 
@@ -18,13 +18,13 @@ Wesco has three major subsidiaries, Mutual Savings, in Pasadena, Precision Steel
 
 (in 000s except for per-share amounts)|Amount December 31,1986|Per Wesco Share December 31,1986|Amount December 31,1985|Per Wesco Share December 31,1985
 ---|---:|---:|---:|---:
-"Normal" net operating income (loss) of:|$ 11,934|$ 1.68|$ 8,347|$ 1.17
- <p style="padding-left:10px">Mutual Savings</p>|2,159|.30|3,342|.47
- <p style="padding-left:10px">Precision Steel businesses</p>|1,701|.24|2,010|.28
- <p style="padding-left:10px">Wesco-Financial Insurance business</p>|6,615|.93|(359)|(.05)
- <p style="padding-left:20px">Underwriting</p>|(1,469)|(.21)|(1,584)|(.22)
- <p style="padding-left:20px">Investment activity</p>|8,084|1.14|1,225|.17
- <p style="padding-left:10px">All other "normal" net operating income (2)</p>|1,459|.21|3,354|.47
+**"Normal" net operating income (loss) of:**|$ 11,934|$ 1.68|$ 8,347|$ 1.17
+Mutual Saving|2,159|.30|3,342|.47
+Precision Steel businesses|1,701|.24|2,010|.28
+Wesco-Financial Insurance business|6,615|.93|(359)|(.05)
+	Underwriting|(1,469)|(.21)|(1,584)|(.22)
+	Investment activity|8,084|1.14|1,225|.17
+All other "normal" net operating income (2)|1,459|.21|3,354|.47
 Fluctuation in market value of GNMA futures contract|--|--|1,671|.24
 Net gains on sales of securities (3)|4,590|.64|41,523|5.83
 Wesco consolidated net income|$ 16,524|$ 2.32|$ 51,541|$ 7.24
