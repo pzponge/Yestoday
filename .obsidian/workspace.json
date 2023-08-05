@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md"
               }
             }
           }
@@ -145,13 +145,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b85627d827a5e5fe",
+  "active": "ded21b6b92285919",
   "lastOpenFiles": [
-    "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
-    "README.md",
-    "Charles_Munger/Why_America_Should_Ban_Crypto.md",
-    "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
+    "Elements/Certificate_of_Limited_Partnership/5.png",
+    "Elements/Certificate_of_Limited_Partnership/4.png",
+    "Elements/Certificate_of_Limited_Partnership/3.png",
+    "Elements/Certificate_of_Limited_Partnership/2.png",
+    "Elements/Certificate_of_Limited_Partnership/1.png",
+    "Elements/Certificate_of_Limited_Partnership",
+    "Elements/未命名文件夹",
     "Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
+    "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
+    "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters",
+    "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
+    "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md",
     "Charles_Munger/Wesco_Letter_to_Shareholders/1990.md",
     "Charles_Munger/Wesco_Letter_to_Shareholders",
