@@ -2,7 +2,7 @@
 
 - 标题：Certificate of Limited Partnership
 - 作者：Warren Buffett
-- 发表时间：1956-05
+- 发表时间：1956-05-01
 - 链接：
 - 中文翻译来源：肖良汇编版
 
