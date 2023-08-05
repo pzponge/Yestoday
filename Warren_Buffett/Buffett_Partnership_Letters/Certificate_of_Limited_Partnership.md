@@ -47,16 +47,22 @@ The Limited Partners are:
 
 Charles E. Peterson, Jr.  
 	Omaha, Nebraska  
+
 Elisabeth B. Peterson  
 	Omaha, Nebraska  
+
 Doris B. Wood  
 	Omaha, Nebraska  
+
 Truman S. Wood  
 	Omaha, Nebraska  
+
 Daniel J. Monen, Jr.  
 	Omaha, Nebraska  
+
 William H. Thompson  
 	Omaha, Nebraska  
+
 Alice R. Buffett  
 	Omaha, Nebraska
 
@@ -111,6 +117,9 @@ The share of the profits or other compensation by way of income which each limit
 - Daniel J. Monen, Jr. 1/42  
 - William H. Thompson 5/42  
 - Alice R. Buffett 7/42
+
+
+
 
 - 查尔斯·彼得森（沃顿商学院室友）：1/42
 - 伊丽莎白·彼得森（彼得森母亲）：5/42
@@ -171,3 +180,9 @@ Doris B. Wood
 Truman S. Wood  
 Daniel H. Thompson  
 Alice R. Buffett  
+
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/1.png?raw=true)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/2.png?raw=true)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/3.png?raw=true)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/4.png?raw=true)
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/5.png?raw=true)
