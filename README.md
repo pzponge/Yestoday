@@ -34,8 +34,11 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # Warren E. Buffett
 
-- [2022 年致股东的信【2022 Letter to Berkshire Shareholders】](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)【进行中】
-- [沃伦·巴菲特崇拜【The Cult of Warren Buffett】，作者：Gary Mishuris](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
+进度|标题|语言|链接
+---|---|---|---
+进行中|2022 年致股东的信|双语|[2022_Letter_to_Berkshire_Shareholders](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
+完成|沃伦·巴菲特崇拜（Gary Mishuris）|双语|[The_Cult_of_Warren_Buffett](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
+
 
 # Charles T. Munger
 
