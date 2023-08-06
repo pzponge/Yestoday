@@ -8,14 +8,14 @@
 
 Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自然是再好不过的事情了。可以微信公众号私信，或添加飞书联系人（在公众号底边栏可以找到二维码）。
 
-# 文件夹说明
+# 0. 文件夹说明
 
-## 经典投资人
+## 0.1. 经典投资人
 
 - Warren_Buffett：Warren Buffett 相关文章翻译。
 - Charles_Munger：Charles Munger 相关文章翻译。
 
-## 新一代投资人
+## 0.2. 新一代投资人
 
 - Chuck_Akre：Chuck Akre 相关文章翻译。
 - Li_Lu：投资人李录相关文章。
@@ -24,71 +24,71 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 - Nick_Sleep：投资人 Nick Sleep 相关文章翻译。
 - Bharat_Shah：印度投资人 Bharat Shah 相关文章翻译。
 
-## 分析师
+## 0.3. 分析师
 
 - Michael_Mauboussin：分析师 Michael Mauboussin 相关文章翻译。
 
-## 其他
+## 0.4. 其他
 
 - Elements：用于存放文中图片等素材。
 
-# Warren E. Buffett
+# 1. Warren E. Buffett
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 完成|沃伦·巴菲特崇拜|Gary Mishuris|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
 
-## 有限合伙阶段
+## 1.1. 有限合伙阶段
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|有限合伙契约|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
 
 
-# Charles T. Munger
+# 2. Charles T. Munger
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|芒格 2020 年 12 月 14 日接受加州理工学院校友会采访|Charles Munger|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
 完成|为什么美国应该禁止加密货币？|Charles Munger|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
 
-## 西科金融股东信
+## 2.1. 西科金融股东信
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 进行中|1986 年|Charles Munger|英语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
 
-# Chuck Akre
+# 3. Chuck Akre
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|我们所谓的再投资指的是什么？|Chuck Akre|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
-# 李录
+# 4. 李录
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
 
 
-# Nick Sleep
+# 5. Nick Sleep
 
-## Nomad Letters to Partners 2001-2014
+## 5.1. Nomad Letters to Partners 2001-2014
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|前言（Preamble）|Nick Sleep, Qais Zakaria|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
 
 
-# Monish Pabrai
+# 6. Monish Pabrai
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|通过 Spawners 实现累进增长|Monish Pabrai|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
 
 
-# John Huber
+# 7. John Huber
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
@@ -100,15 +100,15 @@ Github 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 完成|ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
 完成|ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
-# Michael J. Mauboussin
+# 8. Michael J. Mauboussin
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|衡量护城河：评估价值创造的规模和可持续性|Michael Mauboussin|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Michael_Mauboussin/Measuring_the_Moat.md)
 
-# Bharat Shah
+# 9. Bharat Shah
 
-## Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing
+## 9.1. Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---

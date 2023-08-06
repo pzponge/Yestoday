@@ -129,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -145,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b85627d827a5e5fe",
+  "active": "9b484385103b814f",
   "lastOpenFiles": [
     "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
