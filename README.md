@@ -48,7 +48,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
-进行中|2006 年致股东的信|Warren Buffett|双语|
+进行中|2006 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
 进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
