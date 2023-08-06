@@ -36,15 +36,20 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
-进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 完成|沃伦·巴菲特崇拜|Gary Mishuris|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
 
-## 1.1. 有限合伙阶段
+## 1.1. 致巴菲特合伙基金持有人信
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|有限合伙契约|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
 
+## 1.2. 致伯克希尔哈撒韦股东信
+
+进度|标题|作者|语言|链接
+---|---|---|---|---
+进行中|2006 年致股东的信|Warren Buffett|双语|
+进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
 
