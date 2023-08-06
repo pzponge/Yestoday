@@ -58,7 +58,7 @@ Year|AnnualPercentage Change in Per-Share Book Value of Berkshire (1)|Percentage
 2005|6.4|4.9|1.5
 2006|18.4|15.8|2.6
 Compounded Annual Gain -- 1965-2006|21.4%|10.4%|11.0
-Overall Gain -- 1964-2006|361,156%|6.479%
+Overall Gain -- 1964-2006|361,156%|6,479%
 
 Notes: Data are for calendar years with these exceptions:1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
 
