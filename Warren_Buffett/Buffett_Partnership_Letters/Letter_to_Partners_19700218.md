@@ -13,15 +13,22 @@
 
 
 BUFFETT PARTNERSHIP. LTD. 
+
 610 KIEWIT PLAZA 
+
 OMAHA, NEBRASKA 68131 
+
 TELEPHONE 042-4110
 
 Warren E. Buffett, General Partner
+
 William Scott
+
 John M. Harding
 
 February 18th, 1970
+
+---
 
 To My Partners:
 
@@ -124,5 +131,7 @@ Without the right group of partners, there would have been no BPL. Efforts can o
 
 
 Cordially, 
+
 Warren E. Buffett
+
 WEB/glk
