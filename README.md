@@ -43,6 +43,8 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|有限合伙契约|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
+进行中|1970-02-18 信|Warren Buffett|双语|
+
 
 ## 1.2. 致伯克希尔哈撒韦股东信
 
