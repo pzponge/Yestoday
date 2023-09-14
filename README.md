@@ -43,7 +43,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 完成|有限合伙契约|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
-进行中|1970-02-18 信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
+完成|1970-02-18 信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
 ## 1.2. 致伯克希尔哈撒韦股东信
@@ -51,6 +51,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 进度|标题|作者|语言|链接
 ---|---|---|---|---
 进行中|2006 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
+进行中|2012 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
 进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger

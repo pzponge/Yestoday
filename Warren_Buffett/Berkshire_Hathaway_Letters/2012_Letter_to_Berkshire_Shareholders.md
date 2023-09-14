@@ -70,21 +70,37 @@ Overall Gain -- 1964-2012|586,817%|7,433%
 
 **To the Shareholders of Berkshire Hathaway Inc.:**
 
+致伯克希尔·哈撒韦公司所有股东：
+
 In 2012, Berkshire achieved a total gain for its shareholders of $24.1 billion. We used $1.3 billion of that to repurchase our stock, which left us with an increase in net worth of $22.8 billion for the year. The per-share book value of both our Class A and Class B stock increased by 14.4%. Over the last 48 years (that is, since present management took over), book value has grown from $19 to $114,214, a rate of 19.7% compounded annually.[^*]
+
+2012年，伯克希尔为股东实现了241亿美元的回报。我们用其中的13亿美元回购了部分股份，因此公司今年账面价值增长了228亿。A/B股的每股账面价值增长了14.4%(标普16%)。过去的48年(即从现任的管理层接受以来)，每股账面价值从19美元增长到了114214美元，复合增长19.7%。(A股=1500\*B股)
 
 [^*]: All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/1500th of those shown for A.
 
 A number of good things happened at Berkshire last year, but let’s first get the bad news out of the way.
 
+去年伯克希尔有一些好消息，但我们还是先从坏消息说起吧。
+
 - When the partnership I ran took control of Berkshire in 1965, I could never have dreamed that a year in which we had a gain of $24.1 billion would be subpar, in terms of the comparison we present on the facing page.
   
+  1965年我掌管的合伙公司接手伯克希尔以来，我做梦都没想到，我们能在一年赚241亿美元，但与标普500指数相比较，我们的业绩是低于平均水平的。
+
   But subpar it was. For the ninth time in 48 years, Berkshire’s percentage increase in book value was less than the S&P’s percentage gain (a calculation that includes dividends as well as price appreciation). In eight of those nine years, it should be noted, the S&P had a gain of 15% or more. We do better when the wind is in our face.
+  
+  确实是差强人意，48年来伯克希尔的账面价值增长率第9次落后于标普500指数的回报率(包括分红和股价上升)。需要强调的是，在这9次中，有8次标普500指数回报率都超过15%。我们在逆境里做的要好一些。
   
   To date, we’ve never had a five-year period of underperformance, having managed 43 times to surpass the S&P over such a stretch. (The record is on page 103.) But the S&P has now had gains in each of the last four years, outpacing us over that period. If the market continues to advance in 2013, our streak of five-year wins will end.
   
+  迄今为止，在5年期的业绩衡量上，我们从来没有落后于标普，已经实现了43连胜。但是标普指数过去4年连续上涨，超过了我们的预期。如果2013年市场继续上涨，我们的5年期连胜记录就要终结了。
+  
   One thing of which you can be certain: Whatever Berkshire’s results, my partner Charlie Munger, the company’s Vice Chairman, and I will not change yardsticks. It’s our job to increase intrinsic business value -- for which we use book value as a _significantly understated proxy_ -- at a faster rate than the market gains of the S&P. If we do so, Berkshire’s share price, though unpredictable from year to year, will itself outpace the S&P over time. If we fail, however, our management will bring no value to our investors, who themselves can earn S&P returns by buying a low-cost index fund.
   
+  有一件事情你可以确信：无论伯克希尔最终业绩如何，我和我的合伙人查理·芒格，公司的副董事长，都不会改变衡量标准。我们的工作就是以比标普指数更快的速度增加公司的内在价值——我们使用账面价值作为其一个明显的低估指标。如果我们成功了，虽然伯克希尔每年股价的波动难以预测，但长期来看它将超越标普指数。如果我们失败了，我们没有给投资者带来任何价值，他们可以直接购买一只低费率的指数基金来获得标普的回报。
+  
   Charlie and I believe the gain in Berkshire’s intrinsic value will over time likely surpass the S&P returns by a small margin. We’re confident of that because we have some outstanding businesses, a cadre of terrific operating managers and a shareholder-oriented culture. Our relative performance, however, is almost certain to be better when the market is down or flat. In years when the market is particularly strong, expect us to fall short.
+  
+  查理和我相信，长期来看，伯克希尔的内在价值的增长水平可能以略高于标普指数，我们对此充满信心。因为我们拥有一批优秀的企业，一批能干的经理人团队，以及以股东利益为导向的公司文化。然而，当市场下跌时，我们的相对业绩表现肯定会更好一些。在市场特别强劲的年份，我们预期将会暂时落后。
 
 - The second disappointment in 2012 was my inability to make a major acquisition. I pursued a couple of elephants, but came up empty-handed.
   
