@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "b85627d827a5e5fe",
   "lastOpenFiles": [
-    "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
     "README.md",
+    "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
