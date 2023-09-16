@@ -465,7 +465,7 @@ Shares\*\*|Company|12/31/13 Percentage of Company Owned (in millions)|12/31/13 C
 
 \*\* Excludes shares held by Berkshire subsidiary pension funds.
 
-Berkshire has one major equity position that is not included in the table: We can buy 700 million shares of Bank of America at any time prior to September 2021 for $5 billion. At yearend these shares were worth $10. billion. We are likely to purchase the shares just before expiration of our option. In the meantime, it is important for you to realize that Bank of America is, in effect, our fifth largest equity investment and one we value highly.
+Berkshire has one major equity position that is not included in the table: We can buy 700 million shares of Bank of America at any time prior to September 2021 for $5 billion. At yearend these shares were worth $10.9 billion. We are likely to purchase the shares just before expiration of our option. In the meantime, it is important for you to realize that Bank of America is, in effect, our fifth largest equity investment and one we value highly.
 
 In addition to our equity holdings, we also invest substantial sums in bonds. Usually, we’ve done well in these. But not always.
 
