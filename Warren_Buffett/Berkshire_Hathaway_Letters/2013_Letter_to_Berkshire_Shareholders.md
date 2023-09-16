@@ -1,6 +1,6 @@
 原文信息：
 
-- 标题：2012 Letter to Berkshire Shareholders
+- 标题：2013 Letter to Berkshire Shareholders
 - 作者：Warren Buffett
 - 发表时间：2014-02-28
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/2013ltr.pdf)
