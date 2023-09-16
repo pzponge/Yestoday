@@ -480,8 +480,8 @@ Our activities in this part of Berkshire cover the waterfront. Let’s look, tho
 
 **Balance Sheet 12/31/12 (in millions)**
 
-Assets||Liabilities and Equity| 
---|--:|--|--:
+Assets|Amt.|Liabilities and Equity|Amt.
+---|---:|---|---:
 Cash and equivalents|$ 5,338|Notes payable|$ 1,454
 Accounts and notes receivable|7,382|Other current liabilities|8,527
 Inventory|9,675|Total current liabilities|9,981
