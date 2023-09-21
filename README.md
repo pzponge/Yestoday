@@ -50,10 +50,10 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
-进行中|2006 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
-进行中|2011 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
-进行中|2012 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
-进行中|2013 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
+中文未修订|2006 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
+中文未修订|2011 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
+中文未修订|2012 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
+中文未修订|2013 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
 进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
@@ -67,7 +67,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
-进行中|1986 年|Charles Munger|英语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
+待翻译|1986 年|Charles Munger|英语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
 
 # 3. Chuck Akre
 
@@ -88,7 +88,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 进度|标题|作者|语言|链接
 ---|---|---|---|---
-完成|前言（Preamble）|Nick Sleep, Qais Zakaria|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
+完成|序言（Preamble）|Nick Sleep, Qais Zakaria|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
 
 
 # 6. Monish Pabrai

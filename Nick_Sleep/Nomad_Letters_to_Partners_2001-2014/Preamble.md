@@ -1,6 +1,6 @@
 翻译：Ponge
 
-# Preamble 前言
+# Preamble 序言
 
 Below you will find a copy of the full collection of the Nomad Letters to Partners, our magnum opus, as it were. These letters were written every six months, from the end of 2001 to early 2014, and sent to Partners in the Nomad Investment Partnership. More recently, they have enjoyed a life of their own in the financial press and internet, quite without our knowledge or, in some cases, approval. Indeed, these bootleg copies were never intended for wide circulation, let alone involuntary publishing, and contain our personal details. We would ask that readers of those hooky letters please respect our privacy and preference to maintain our low profile (think deep-burrowing earthworms). The approved letters that follow have been lightly edited mainly for privacy purposes (and topped and tailed with this preamble and a postamble) but otherwise remain unchanged from the original. We hope that you enjoy the read and would ask only that we are attributed where required and that any web links used in reference are to the approved version found on the IGY Foundation website (not back to the bootleggers), please. Those that do wish to get in touch may do so through the “contact us” function on the IGY Foundation website. 
 
