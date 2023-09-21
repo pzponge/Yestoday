@@ -1,4 +1,8 @@
-您好，欢迎来到 Yestoday！
+您好，欢迎来到 Yestoday！更多内容，请见同名微信公众号。
+
+- 公众号：[文章精译](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NzA4NjQzOQ==&action=getalbum&album_id=1414525253757517825&scene=126#wechat_redirect)
+- 资源库：[Flowus](https://flowus.cn/share/d10253cd-e3cf-4d0c-9e92-adc0d6a19880)
+- 飞书群（读者群）：[添加我为飞书联系人](https://www.feishu.cn/invitation/page/add_contact/?token=cb6qe42c-72ab-46a9-bf5d-0f90d1118a8a&amp;unique_id=aaa9cwGzc4RapO2WfQUoww==)
 
 # 这个 GitHub 是做什么的？
 
