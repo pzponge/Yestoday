@@ -86,10 +86,11 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 ## 5.1. Nomad Letters to Partners 2001-2014
 
-进度|标题|作者|语言|链接
+进度|标题|日期|语言|链接
 ---|---|---|---|---
-完成|序言（Preamble）|Nick Sleep, Qais Zakaria|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
-
+完成|序言（Preamble）||双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
+中文未修订|基金清盘时写给巴菲特的信及回复||双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
+中文未修订|2001 年致合伙人的信|2002-01-18|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
 
 # 6. Monish Pabrai
 
