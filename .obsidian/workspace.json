@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b85627d827a5e5fe",
+  "active": "ded21b6b92285919",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md",
     "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",

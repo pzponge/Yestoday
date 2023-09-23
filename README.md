@@ -60,6 +60,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 中文未修订|2013 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
 中文未修订|2014 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
 中文未修订|2014 年特别信：伯克希尔的过去、现在和未来|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
+中文未修订|2014 年特别信：副董事长的思考——过去与未来|Charles Munger|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
 进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
