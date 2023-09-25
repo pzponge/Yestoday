@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "b85627d827a5e5fe",
   "lastOpenFiles": [
-    "John_Huber/Importance_of_ROIC_Part_1.md",
     "README.md",
+    "John_Huber/Importance_of_ROIC_Part_1.md",
     "John_Huber/End_of_Mean_Reversion.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md",

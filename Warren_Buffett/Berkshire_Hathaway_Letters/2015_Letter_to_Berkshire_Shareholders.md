@@ -1033,7 +1033,7 @@ Finally, Jeremy Miller has written _Warren Buffett’s Ground Rules_ , a book th
 
 最后，由Jeremy Miller写的《巴菲特致股东的信-基本原则篇》(Warren Buffett's Ground Rules)也将在这次年会上闪亮登场。Miller先生已经对巴菲特合伙公司做了出色的研究和剖析，并且详细的解释了伯克希尔是如何从最初的BPL发展至今的。如果你着迷于投资理论与实践，你会喜欢这本书的。
 
-An attachment to the proxy material that is enclosed with this report explains how you can obtain the credential you will need for admission to both the meeting and other events. Airlines have sometimes jacked up prices for the Berkshire weekend. If you are coming from far away, compare the cost of flying to Kansas City vs. Omaha. The drive between the two cities is about 2^1 ⁄ 2 hours, and it may be that Kansas City can save you significant money, particularly if you had planned to rent a car in Omaha. The savings for a couple could run to $1,000 or more. Spend that money with us.
+An attachment to the proxy material that is enclosed with this report explains how you can obtain the credential you will need for admission to both the meeting and other events. Airlines have sometimes jacked up prices for the Berkshire weekend. If you are coming from far away, compare the cost of flying to Kansas City vs. Omaha. The drive between the two cities is about 2.5 hours, and it may be that Kansas City can save you significant money, particularly if you had planned to rent a car in Omaha. The savings for a couple could run to $1,000 or more. Spend that money with us.
 
 这份报告的附件材料可以告诉您如何获得年会及其他活动的所需凭证。机票有时会在伯克希尔周末前提价。如果您从很远的地方来，您可以比较飞到堪萨斯城和奥马哈的费用，两个城市之间车程为2.5小时。如果你计划在奥马哈租车的话飞到堪萨斯可能为你节省大笔资金，一对夫妇大概可以节省1000多美元。把省下的钱花在我们的产品上吧！
 
