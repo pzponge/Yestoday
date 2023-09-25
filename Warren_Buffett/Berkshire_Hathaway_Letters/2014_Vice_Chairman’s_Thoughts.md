@@ -1,4 +1,4 @@
-文信息：
+原文信息：
 
 - 标题：Vice Chairman’s Thoughts - Past and Future
 - 作者：Charles Munger
