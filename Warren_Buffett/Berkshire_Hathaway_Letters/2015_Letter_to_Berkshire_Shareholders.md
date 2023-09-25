@@ -963,7 +963,7 @@ As a citizen, you may understandably find climate change keeping you up nights. 
 
 Charlie and I have finally decided to enter the 21st Century. Our annual meeting this year will be webcast worldwide in its entirety. To view the meeting, simply go to https://finance.yahoo.com/brklivestream at 9 a.m. Central Daylight Time on Saturday, April 30th. The Yahoo! webcast will begin with a half hour of interviews with managers, directors and shareholders. Then, at 9:30, Charlie and I will commence answering questions.
 
-我和查理终于决定进入21世纪了。我们今年的年会将在全世界进行网络直播。如果想观看我们这次年会，只需在美国中部时间4月30日周六上午9:00登录以下网址：https://finance.yahoo.com/brklivestream。前半小时，网络直播将播放对经理人、董事和股东的采访，查理和我将在9:30开始回答大家的问题。
+我和查理终于决定进入21世纪了。我们今年的年会将在全世界进行网络直播。如果想观看我们这次年会，只需在美国中部时间4月30日周六上午9:00登录以下网址：https://finance.yahoo.com/brklivestream 。前半小时，网络直播将播放对经理人、董事和股东的采访，查理和我将在9:30开始回答大家的问题。
 
 This new arrangement will serve two purposes. First, it may level off or modestly decrease attendance at the meeting. Last year’s record of more than 40,000 attendees strained our capacity. In addition to quickly filling the CenturyLink Center’s main arena, we packed its overflow rooms and then spilled into two large meeting rooms at the adjoining Omaha Hilton. All major hotels were sold out notwithstanding Airbnb’s stepped-up presence. Airbnb was especially helpful for those visitors on limited budgets.
 

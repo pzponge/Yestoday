@@ -38,97 +38,98 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 # 1. Warren E. Buffett
 
-进度|标题|作者|语言|链接
+标题|作者|语言|中文版本|链接
 ---|---|---|---|---
-完成|沃伦·巴菲特崇拜|Gary Mishuris|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
+沃伦·巴菲特崇拜|Gary Mishuris|双语|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
 
 ## 1.1. 致巴菲特合伙基金持有人信
 
-进度|标题|作者|语言|链接
----|---|---|---|---
-完成|有限合伙契约|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
-完成|1970-02-18 信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
+标题|作者|语言|中文版本|修订|链接
+---|---|---|---|---|---
+有限合伙契约|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
+1970-02-18 信|Warren Buffett|双语|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
 ## 1.2. 致伯克希尔哈撒韦股东信
 
-进度|标题|作者|语言|链接
----|---|---|---|---
-中文未修订|2006 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
-中文未修订|2011 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
-中文未修订|2012 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
-中文未修订|2013 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
-中文未修订|2014 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
-中文未修订|2014 年特别信：伯克希尔的过去、现在和未来|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
-中文未修订|2014 年特别信：副董事长的思考——过去与未来|Charles Munger|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
-进行中|2022 年致股东的信|Warren Buffett|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
+标题|作者|语言|中文版本|修订|链接
+---|---|---|---|---|---
+2006 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
+2011 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
+2012 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
+2013 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
+2014 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
+2014 年特别信：伯克希尔的过去、现在和未来|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
+2014 年特别信：副董事长的思考——过去与未来|Charles Munger|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
+2015 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)
+2022 年致股东的信|Warren Buffett|双语|肖良、坚信价值、新浪财经|进行中|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
 
-进度|标题|作者|语言|链接
+标题|作者|语言|中文版本|链接
 ---|---|---|---|---
-完成|芒格 2020 年 12 月 14 日接受加州理工学院校友会采访|Charles Munger|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
-完成|为什么美国应该禁止加密货币？|Charles Munger|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
+芒格 2020 年 12 月 14 日接受加州理工学院校友会采访|Charles Munger|中文|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
+为什么美国应该禁止加密货币？|Charles Munger|双语|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Why_America_Should_Ban_Crypto.md)
 
 ## 2.1. 西科金融股东信
 
-进度|标题|作者|语言|链接
+标题|作者|语言|中文版本|链接
 ---|---|---|---|---
-待翻译|1986 年|Charles Munger|英语|[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
+1986 年|Charles Munger|英语||[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
 
 # 3. Chuck Akre
 
-进度|标题|作者|语言|链接
+标题|作者|语言|中文版本|链接
 ---|---|---|---|---
-完成|我们所谓的再投资指的是什么？|Chuck Akre|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
+我们所谓的再投资指的是什么？|Chuck Akre|中文|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
 # 4. 李录
 
-进度|标题|作者|语言|链接
----|---|---|---|---
-完成|2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
+标题|作者|语言|链接
+---|---|---|---
+2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
 
 
 # 5. Nick Sleep
 
 ## 5.1. Nomad Letters to Partners 2001-2014
 
-进度|标题|日期|语言|链接
+标题|语言|中文版本|修订|链接
 ---|---|---|---|---
-完成|序言（Preamble）||双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
-中文未修订|基金清盘时写给巴菲特的信及回复||双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
-中文未修订|2001 年致合伙人的信|2002-01-18|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
+序言（Preamble）|双语|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
+基金清盘时写给巴菲特的信及回复|双语|DeepL|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
+2001 年致合伙人的信|双语|DeepL|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
 
 # 6. Monish Pabrai
 
-进度|标题|作者|语言|链接
+标题|语言|中文版本|修订|链接
 ---|---|---|---|---
-完成|通过 Spawners 实现累进增长|Monish Pabrai|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
+通过 Spawners 实现累进增长|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
 
 
 # 7. John Huber
 
-进度|标题|作者|语言|链接
----|---|---|---|---
-完成|均值回归的终结？|John Huber|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
-完成|ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|John Huber|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
-完成|ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|John Huber|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
-完成|ROIC 的重要性（第三部分）：复利和再投资|John Huber|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
-完成|ROIC 的重要性（第四部分）：复利的数学原理|John Huber|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
-完成|ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
-完成|ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
+标题|作者|语言|中文版本|修订|链接
+---|---|---|---|---|---
+均值回归的终结？|John Huber|双语|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
+ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|John Huber|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
+ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|John Huber|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
+ROIC 的重要性（第三部分）：复利和再投资|John Huber|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
+ROIC 的重要性（第四部分）：复利的数学原理|John Huber|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
+ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
+ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
 # 8. Michael J. Mauboussin
 
-进度|标题|作者|语言|链接
+标题|语言|中文版本|修订|链接
 ---|---|---|---|---
-完成|衡量护城河：评估价值创造的规模和可持续性|Michael Mauboussin|中文|[链接](https://github.com/pzponge/Yestoday/blob/main/Michael_Mauboussin/Measuring_the_Moat.md)
+衡量护城河：评估价值创造的规模和可持续性|中文|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/Michael_Mauboussin/Measuring_the_Moat.md)
 
 # 9. Bharat Shah
 
 ## 9.1. Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing
 
-进度|标题|作者|语言|链接
+标题|语言|中文版本|修订|链接
 ---|---|---|---|---
-完成|致谢（Acknowledgement）|Bharat Shah|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
-完成|概述（Introduction）|Bharat Shah|双语|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
+致谢（Acknowledgement）|双语|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
+概述（Introduction）|双语|Ponge|√|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
