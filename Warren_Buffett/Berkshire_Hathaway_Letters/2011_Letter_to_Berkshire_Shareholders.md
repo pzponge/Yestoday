@@ -5,6 +5,7 @@
 - 发表时间：2012-02-25
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/2011ltr.pdf)
 - 中文翻译参考：肖良汇编版
+- 整理：Ponge
 - 校译：
 
 ---

@@ -4,10 +4,8 @@
 - 作者：Warren Buffett
 - 发表时间：2023-02-25
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/2022ltr.pdf)
-
-翻译信息：
-
-- 参考翻译：[坚信价值](https://xueqiu.com/4206051491/242962886)，肖良，新浪财经美股团队
+- 中文翻译参考：[坚信价值](https://xueqiu.com/4206051491/242962886)，肖良汇编版，新浪财经美股团队
+- 整理：Ponge
 - 校译：Ponge
 
 ---

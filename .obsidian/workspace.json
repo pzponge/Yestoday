@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b3ab5eed76f26cb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,16 +183,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6a555882decce518",
+  "active": "b3ab5eed76f26cb5",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
+    "【张志雄】股东信 1984.md",
     "【张志雄】伯克夏·哈撒韦致股东信 1983.md",
     "【肖良】1983.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
     "贡献规范.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
     "README.md",
     "John_Huber/Importance_of_ROIC_Part_1.md",
     "John_Huber/End_of_Mean_Reversion.md",
@@ -188,12 +207,6 @@
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
     "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
@@ -208,7 +221,6 @@
     "Elements/未命名文件夹",
     "Warren_Buffett/Buffett_Partnership_Letters",
     "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
-    "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "Charles_Munger/Wesco_Letter_to_Shareholders"
   ]
 }
