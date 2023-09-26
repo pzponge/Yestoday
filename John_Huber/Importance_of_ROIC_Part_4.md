@@ -56,9 +56,7 @@ A simple example: a business that can reinvest 50% of its earnings back into the
 
 - Company A produces 20% ROIC and can reinvest 100% of its earnings
 - Company B produces 20% ROIC and can reinvest 50% of its earnings
-
 &emsp;
-
 * A公司的ROIC为20%，并将其100%的收益用于再投资；
 * B公司的ROIC为20%，并将其50%的收益用于再投资。
 
@@ -78,9 +76,7 @@ Let’s take a look at the value of the business in 15 years:
 
 -   Year 1 EPS = $1.00
 -   Year 15 EPS = $15.40
-
 &emsp;
-
 * 第1年每股收益为\$1.00；
 * 第15年每股收益为\$15.40（译者注：1×1.2^15≈15.40）。
 
@@ -95,9 +91,7 @@ Now, let’s say we paid 25 times earnings for this business 15 years ago ($25 p
 -   10 P/E: $154.00 per share (12.9% CAGR)
 -   15 P/E: $231.00 per share (16.0% CAGR)
 -   20 P/E: $308.00 per share (18.2% CAGR)
-
 &emsp;
-
 * 15年后10倍市盈率：每股\$154.00（股票复合增长率12.9%）
 * 15年后15倍市盈率：每股\$231.00（股票复合增长率16.0%）
 * 15年后20倍市盈率：每股\$308.00（股票复合增长率18.2%）
@@ -119,9 +113,7 @@ In 15 years, EPS will equal $4.17 per share (assuming a constant 20% return on i
 -   10 P/E: $41.77 (5.5% CAGR)
 -   15 P/E: $62.66 (8.3% CAGR)
 -   20 P/E: $83.54 (10.4% CAGR)
-
 &emsp;
-
 * 15年后10倍市盈率：每股\$41.77（股票复合增长率5.5%）
 * 15年后15倍市盈率：每股\$62.66（股票复合增长率8.3%）
 * 15年后20倍市盈率：每股\$83.54（股票复合增长率10.4%）
@@ -210,9 +202,7 @@ But that doesn’t mean I want to abandon the effort to locate great businesses.
 
 -   A margin of safety if we were wrong about the quality or sustainability of the business’ return on capital
 -   The benefit of much higher returns if we were in fact right about the business
-
 &emsp;
-
 1. 如果我们对企业资本回报率的质量或可持续性判断失误，较低的价格提供了安全边际；
 2. 如果最终我们关于公司的判断是正确的，较低的价格能获得更高的回报。
 
@@ -227,7 +217,6 @@ In other words, as some investors like to say—and a phrase I often repeat—_H
 In the next post, we’ll take a look at a real life example (one among many examples), to show that a business that produces consistent returns on capital over time does in fact create real value for its owners.
 
 在下一篇文章中，我们将研究一个现实生活中的例子（许多例子中的一个），来说明随着时间推移持续创造资本回报的企业，实际上确实为其所有者创造了真正的价值。
-
 
 ---
 
