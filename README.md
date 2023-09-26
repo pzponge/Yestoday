@@ -112,12 +112,12 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 标题|作者|语言|初始翻译|校译|链接
 ---|---|---|---|---|---
 均值回归的终结？|John Huber|双语|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/End_of_Mean_Reversion.md)
-ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|John Huber|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
-ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|John Huber|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
-ROIC 的重要性（第三部分）：复利和再投资|John Huber|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
-ROIC 的重要性（第四部分）：复利的数学原理|John Huber|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
-ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
-ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
+ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|John Huber|双语|景泉 Value、旭犇投资|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)
+ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|John Huber|双语|景泉 Value、旭犇投资|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_2.md)
+ROIC 的重要性（第三部分）：复利和再投资|John Huber|双语|景泉 Value、旭犇投资|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md)
+ROIC 的重要性（第四部分）：复利的数学原理|John Huber|双语|景泉 Value、旭犇投资|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)
+ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|双语|景泉 Value、旭犇投资|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
+ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|双语|旭犇投资|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
 # 8. Michael J. Mauboussin
 
