@@ -97,7 +97,7 @@ All of the significant gains and losses attributable to unusual sales of assets 
  ||Total|Total|Berkshire Share|Berkshire Share|Berkshire Share|Berkshire Share
 (000s omitted)|1983|1982|1983|1982|1983|1982
 Operating Earnings:|
- <p style="padding-left:10px">Insurance Group:</p>|
+&emsp;Insurance Group:|
  <p style="padding-left:20px">Underwriting</p>|$ (33,872)|$ (21,558)|$ (33,872)|$ (21,558)|$ (18,400)|$ (11,345)
  <p style="padding-left:20px">Net investment income</p>|43,810|41,620|43,810|41,620|39,114|35,270
  <p style="padding-left:10px">Berkshire-Waumbec textiles</p>|(100)|(1,545)|(100)|(1,545)|(63)|(862)
