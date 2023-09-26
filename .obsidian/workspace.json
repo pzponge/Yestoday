@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md",
                 "mode": "source",
                 "source": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md"
               }
             }
           }
@@ -185,8 +185,10 @@
   },
   "active": "b3ab5eed76f26cb5",
   "lastOpenFiles": [
-    "Michael_Mauboussin/Measuring_the_Moat.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
+    "Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md",
     "README.md",
+    "Michael_Mauboussin/Measuring_the_Moat.md",
     "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md",
@@ -195,7 +197,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
@@ -210,7 +211,6 @@
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md",
     "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
-    "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters",
     "Warren_Buffett/未命名文件夹",
     "Elements/Certificate_of_Limited_Partnership/5.png",
