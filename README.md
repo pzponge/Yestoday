@@ -75,7 +75,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 标题|作者|语言|初始翻译|校译|链接
 ---|---|---|---|---|---
-1986 年|Charles Munger|英语||[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
+1986 年|Charles Munger|英语|||[链接](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
 
 # 3. Chuck Akre
 
