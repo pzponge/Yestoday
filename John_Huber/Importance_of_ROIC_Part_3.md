@@ -45,7 +45,7 @@ This gets discussed often, and the variables involved with businesses achieving 
 -   **The percentage of earnings that a business can reinvest back into the business**
 -   **The return that the business can achieve on this investment**
 -   **What the business does with excess cash flow** (if the reinvestment rate is less than 100%)
-
+&emsp;
 - **留存收益率：企业可以再投资回企业的盈利百分比；**
 - **再投资回报率：企业通过再投资可以获得的回报；**
 - **企业如何处理超额现金流（如果再投资率低于100%）。**
@@ -84,7 +84,7 @@ The key question is what to pay for a business like this. We haven’t discussed
 
 -   A margin of safety if we were wrong about the quality or sustainability of the business’ return on capital
 -   The benefit of much higher returns if we were in fact right about the business
-
+&emsp;
 - 如果我们对企业资本回报率的质量或可持续性判断失误，较低的价格提供了安全边际；
 - 如果最终我们关于公司的判断是正确的，较低的价格能获得更高的回报。
 
@@ -164,20 +164,13 @@ Some Other Posts in This ROIC Series:
 
 ROIC系列的其他文章：
 
--   [Importance of ROIC Part 1
-  ROIC 的重要性（第一部分）](https://sabercapitalmgt.com/importance-of-roic-part-1-compounders-and-cheap-stocks/)
--   [Importance of ROIC Part 2
-  ROIC 的重要性（第二部分）](https://sabercapitalmgt.com/importance-of-roic-part-2-compounders-and-cheap-stocks/)
-- [Thoughts on Return on Capital and Greenblatt’s Magic Formula Part 1
-  关于资本收益率与格林布拉特神奇公式的思考（第一部分）](https://sabercapitalmgt.com/thoughts-on-return-on-capital-and-greenblatts-magic-formula-part-1/)
--   [Thoughts on Return on Capital and Greenblatt’s Magic Formula Part 2
-  关于资本收益率与格林布拉特神奇公式的思考（第二部分）](https://sabercapitalmgt.com/thoughts-on-return-on-capital-and-greenblatts-magic-formula-part-2/)
--   [Buffett Shareholder Letter High ROE
-  1987年伯克希尔股东信：巴菲特对于高ROE的看法](https://sabercapitalmgt.com/1987-berkshire-letter-and-buffetts-thoughts-on-high-roe/)
--   [Wells Fargo vs. Small Community Banks
-  富国银行与小型社区银行](https://sabercapitalmgt.com/wells-fargo-vs-small-community-banks/)
--   [A Few Thoughts on Buffett and Great Banks
-  关于巴菲特与大银行的几点思考](https://sabercapitalmgt.com/a-few-thoughts-on-buffett-and-great-banks/)
+-   [Importance of ROIC Part 1 ROIC 的重要性（第一部分）](https://sabercapitalmgt.com/importance-of-roic-part-1-compounders-and-cheap-stocks/)
+-   [Importance of ROIC Part 2 ROIC 的重要性（第二部分）](https://sabercapitalmgt.com/importance-of-roic-part-2-compounders-and-cheap-stocks/)
+- [Thoughts on Return on Capital and Greenblatt’s Magic Formula Part 1 关于资本收益率与格林布拉特神奇公式的思考（第一部分）](https://sabercapitalmgt.com/thoughts-on-return-on-capital-and-greenblatts-magic-formula-part-1/)
+-   [Thoughts on Return on Capital and Greenblatt’s Magic Formula Part 2 关于资本收益率与格林布拉特神奇公式的思考（第二部分）](https://sabercapitalmgt.com/thoughts-on-return-on-capital-and-greenblatts-magic-formula-part-2/)
+-   [Buffett Shareholder Letter High ROE 1987年伯克希尔股东信：巴菲特对于高ROE的看法](https://sabercapitalmgt.com/1987-berkshire-letter-and-buffetts-thoughts-on-high-roe/)
+-   [Wells Fargo vs. Small Community Banks 富国银行与小型社区银行](https://sabercapitalmgt.com/wells-fargo-vs-small-community-banks/)
+-   [A Few Thoughts on Buffett and Great Banks 关于巴菲特与大银行的几点思考](https://sabercapitalmgt.com/a-few-thoughts-on-buffett-and-great-banks/)
 
 
 ---
