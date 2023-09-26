@@ -45,10 +45,10 @@ This gets discussed often, and the variables involved with businesses achieving 
 -   **The percentage of earnings that a business can reinvest back into the business**
 -   **The return that the business can achieve on this investment**
 -   **What the business does with excess cash flow** (if the reinvestment rate is less than 100%)
-&emsp;
-- **留存收益率：企业可以再投资回企业的盈利百分比；**
-- **再投资回报率：企业通过再投资可以获得的回报；**
-- **企业如何处理超额现金流（如果再投资率低于100%）。**
+
+* **留存收益率：企业可以再投资回企业的盈利百分比；**
+* **再投资回报率：企业通过再投资可以获得的回报；**
+* **企业如何处理超额现金流（如果再投资率低于100%）。**
 
 So ideally, we want a business that produces high returns on capital and can retain large portions of its earnings to reinvest at similar high rates of return. If there is excess cash flow that can’t be reinvested, I’m looking for logical capital allocation that might result in dividends, buybacks, or value accretive acquisitions (which are rare).
 
