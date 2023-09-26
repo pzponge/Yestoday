@@ -43,11 +43,12 @@ This gets discussed often, and the variables involved with businesses achieving 
 这种高复利模式经常被讨论，不过实现这种复利能力的企业所需要的要素有时很难确定，甚至往未来看，更难以预测。**但数学原理很简单**：一家企业的复利能力可以拆分为以下**三个简单因子**：
 
 -   **The percentage of earnings that a business can reinvest back into the business**
-  **留存收益率：企业可以再投资回企业的盈利百分比；**
 -   **The return that the business can achieve on this investment**
-  **再投资回报率：企业通过再投资可以获得的回报；**
 -   **What the business does with excess cash flow** (if the reinvestment rate is less than 100%)
-  **企业如何处理超额现金流（如果再投资率低于100%）。**
+
+- **留存收益率：企业可以再投资回企业的盈利百分比；**
+- **再投资回报率：企业通过再投资可以获得的回报；**
+- **企业如何处理超额现金流（如果再投资率低于100%）。**
 
 So ideally, we want a business that produces high returns on capital and can retain large portions of its earnings to reinvest at similar high rates of return. If there is excess cash flow that can’t be reinvested, I’m looking for logical capital allocation that might result in dividends, buybacks, or value accretive acquisitions (which are rare).
 
@@ -82,9 +83,10 @@ The key question is what to pay for a business like this. We haven’t discussed
 **换句话说，我们希望找到资本回报率高的优质企业，但相对于这些企业的盈利能力，我们希望支付较低的价格，因为这给我们带来了两个好处：**
 
 -   A margin of safety if we were wrong about the quality or sustainability of the business’ return on capital
-  如果我们对企业资本回报率的质量或可持续性判断失误，较低的价格提供了安全边际；
 -   The benefit of much higher returns if we were in fact right about the business
-  如果最终我们关于公司的判断是正确的，较低的价格能获得更高的回报。
+
+- 如果我们对企业资本回报率的质量或可持续性判断失误，较低的价格提供了安全边际；
+- 如果最终我们关于公司的判断是正确的，较低的价格能获得更高的回报。
 
 _Heads, we win. Tails, we don’t lose much…_
 
