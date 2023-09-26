@@ -27,9 +27,7 @@ To recap what I mentioned earlier, I usually put investments in two broad categ
 -   **A business that can produce high returns on capital**
 -   **A business that can reinvest a large portion of earnings at similar high rates**
 -   **A business run by good management, who will allocate the excess cash in a value creating way** (preferably management owns a large stake in the business themselves, aligning interests)
-
 &emsp;
-
 * **资本回报率高的企业；**
 * **可以将大部分收益以同样高回报率进行再投资的企业；**
 * **由优秀的管理者经营的企业，他们会以创造价值的方式分配多余的现金**（最好是管理层自己在企业中拥有大量股份，保证利益一致）。
