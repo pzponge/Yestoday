@@ -98,22 +98,22 @@ All of the significant gains and losses attributable to unusual sales of assets 
 (000s omitted)|1983|1982|1983|1982|1983|1982
 Operating Earnings:|
 &emsp;Insurance Group:|
- <p style="padding-left:20px">Underwriting</p>|$ (33,872)|$ (21,558)|$ (33,872)|$ (21,558)|$ (18,400)|$ (11,345)
- <p style="padding-left:20px">Net investment income</p>|43,810|41,620|43,810|41,620|39,114|35,270
- <p style="padding-left:10px">Berkshire-Waumbec textiles</p>|(100)|(1,545)|(100)|(1,545)|(63)|(862)
- <p style="padding-left:10px">Associated Retail Stores</p>|697|914|697|914|355|446
- <p style="padding-left:10px">Nebraska Furniture Mart (1)</p>|3,812|--|3,049|--|1,521|--
- <p style="padding-left:10px">See’s Candies</p>|27,411|23,884|24,526|14,235|12,212|6,914
- <p style="padding-left:10px">Buffalo Evening News</p>|19,352|(1,215)|16,547|(724)|8,832|(226)
- <p style="padding-left:10px">Blue Chip Stamps (2)</p>|(1,422)|4,182|(1,876)|2,492|(353)|2,472
- <p style="padding-left:10px">Wesco Financial - Parent</p>|7,493|6,156|4,844|2,937|3,448|2,210
- <p style="padding-left:10px">Mutual Savings and Loan</p>|(798)|(6)|(467)|(2)|1,917|1,524
- <p style="padding-left:10px">Precision Steel</p>|3,241|1,035|2,102|493|1,136|265
- <p style="padding-left:10px">Interest on Debt</p>|(15,104)|(14,996)|(13,844)|(12,977)|(7,346)|(6,951)
- <p style="padding-left:10px">Special GEICO Distribution</p>|21,000|--|21,000|--|19,551|--
- <p style="padding-left:10px">Shareholder-Designated Contributions</p>|(3,066)|(891)|(3,066)|(891)|(1,656)|(481)
- <p style="padding-left:10px">Amortization of Goodwill</p>|(532)|151|(563)|90|(563)|90
- <p style="padding-left:10px">Other</p>|10,121|3,371|9,623|2,658|8,490|2,171
+&emsp;&emsp;Underwriting|$ (33,872)|$ (21,558)|$ (33,872)|$ (21,558)|$ (18,400)|$ (11,345)
+&emsp;&emsp;Net investment income|43,810|41,620|43,810|41,620|39,114|35,270
+&emsp;Berkshire-Waumbec textiles|(100)|(1,545)|(100)|(1,545)|(63)|(862)
+&emsp;Associated Retail Stores|697|914|697|914|355|446
+&emsp;Nebraska Furniture Mart (1)|3,812|--|3,049|--|1,521|--
+&emsp;See’s Candies|27,411|23,884|24,526|14,235|12,212|6,914
+&emsp;Buffalo Evening News|19,352|(1,215)|16,547|(724)|8,832|(226)
+&emsp;Blue Chip Stamps (2)|(1,422)|4,182|(1,876)|2,492|(353)|2,472
+&emsp;Wesco Financial - Parent|7,493|6,156|4,844|2,937|3,448|2,210
+&emsp;Mutual Savings and Loan|(798)|(6)|(467)|(2)|1,917|1,524
+&emsp;Precision Steel|3,241|1,035|2,102|493|1,136|265
+&emsp;Interest on Debt|(15,104)|(14,996)|(13,844)|(12,977)|(7,346)|(6,951)
+&emsp;Special GEICO Distribution|21,000|--|21,000|--|19,551|--
+&emsp;Shareholder-Designated Contributions|(3,066)|(891)|(3,066)|(891)|(1,656)|(481)
+&emsp;Amortization of Goodwill|(532)|151|(563)|90|(563)|90
+&emsp;Other|10,121|3,371|9,623|2,658|8,490|2,171
  ||
 Operating Earnings|82,043|41,102|72,410|27,742|68,195|31,497
 Sales of securities and unusual sales of assets|67,260|36,651|65,089|21,875|45,298|14,877
