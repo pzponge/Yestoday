@@ -84,9 +84,9 @@ The key question is what to pay for a business like this. We haven’t discussed
 
 -   A margin of safety if we were wrong about the quality or sustainability of the business’ return on capital
 -   The benefit of much higher returns if we were in fact right about the business
-&emsp;
-- 如果我们对企业资本回报率的质量或可持续性判断失误，较低的价格提供了安全边际；
-- 如果最终我们关于公司的判断是正确的，较低的价格能获得更高的回报。
+
+* 如果我们对企业资本回报率的质量或可持续性判断失误，较低的价格提供了安全边际；
+* 如果最终我们关于公司的判断是正确的，较低的价格能获得更高的回报。
 
 _Heads, we win. Tails, we don’t lose much…_
 
