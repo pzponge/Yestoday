@@ -81,7 +81,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 标题|作者|语言|初始翻译|校译|链接
 ---|---|---|---|---|---
-我们所谓的再投资指的是什么？|Chuck Akre|中文|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
+我们所谓的再投资指的是什么？|Chuck Akre|双语|机器翻译|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
 # 4. 李录
 
