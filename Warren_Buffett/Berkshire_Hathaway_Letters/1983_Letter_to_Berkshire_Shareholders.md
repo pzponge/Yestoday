@@ -158,11 +158,11 @@ Now, however, our intrinsic business value considerably exceeds book value.  Th
 
 (1) Standard accounting principles require that common stocks held by our insurance subsidiaries be stated on our books at market value, but that other stocks we own be carried at the lower of aggregate cost or market.  At the end of 1983, the market value of this latter group exceeded carrying value by $70 million pre-tax, or about $50 million after tax.  This excess belongs in our intrinsic business value, but is not included in the calculation of book value;
 
-(1)标准会计原则要求：保险子公司所持有的股票以市价记录于帐面上，但其它子公司持股的股票却以成本与市价孰低法计算。1983年底，后者的市价超过帐面价值约7000万美元，税后约5000万美元，超过的部分属于内在价值的一部分，但不包含在帐面价值之内。
+(1) 标准会计原则要求：保险子公司所持有的股票以市价记录于帐面上，但其它子公司持股的股票却以成本与市价孰低法计算。1983年底，后者的市价超过帐面价值约7000万美元，税后约5000万美元，超过的部分属于内在价值的一部分，但不包含在帐面价值之内。
 
 (2) More important, we own several businesses that possess economic Goodwill (which is properly includable in intrinsic business value) far larger than the accounting Goodwill that is carried on our balance sheet and reflected in book value.
 
-(2)更重要的是，我们所拥有的几家企业具有庞大的经济商誉，事实上应该适当地包含在内在价值之内，这部分远远大于负债表上面列示的会计商誉。
+(2) 更重要的是，我们所拥有的几家企业具有庞大的经济商誉，事实上应该适当地包含在内在价值之内，这部分远远大于负债表上面列示的会计商誉。
 
 Goodwill, both economic and accounting, is an arcane subject and requires more explanation than is appropriate here.  The appendix that follows this letter - “Goodwill and its Amortization: The Rules and The Realities” - explains why economic and accounting Goodwill can, and usually do, differ enormously.
 
