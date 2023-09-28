@@ -13,7 +13,7 @@
 
 # BERKSHIRE HATHAWAY INC.
 
-**To the Stockholders of Berkshire Hathaway Inc.: **
+**To the Stockholders of Berkshire Hathaway Inc.:**
 
 Operating earnings of $31.5 million in 1982 amounted to only 9.8% of beginning equity capital (valuing securities at cost), down from 15.2% in 1981 and far below our recent high of 19.4% in 1978.  This decline largely resulted from:
  
