@@ -358,7 +358,7 @@ Year|Yearly Change in Premium Written (%)|Yearly Change in Premium Earned (%)|Co
 
 As Pogo would say, “The future isn’t what it used to be.” Current pricing practices promise devastating results, particularly if the respite from major natural disasters that the industry has enjoyed in recent years should end.  For underwriting experience has been getting worse in spite of good luck, not because of bad luck. In recent years hurricanes have stayed at sea and motorists have reduced their driving. They won’t always be so obliging.[^1]
 
-诚如 Pogo 所说："未来绝不会与过去相同"。现在的定价趋势已注定日后悲惨的结果，尤其若因近几年无重大灾难所得的喘息机会结束时。保险承保的情况反而却因行业运气好(而非运气坏)而越来越差：近几年来飓风大多仅停留在海上，驾驶员也减少了驾车出行的次数。但现实不会永远有利于我们（指承保人）。[^1]
+诚如 Pogo 所说："未来绝不会与过去相同"。现在的定价趋势已注定日后悲惨的结果，尤其若因近几年无重大灾难所得的喘息机会结束时。保险承保的情况反而却因行业运气好(而非运气坏)而越来越差：近几年来飓风大多仅停留在海上，汽车司机也减少了驾车出行的次数。但现实不会永远有利于我们（指承保人）。[^1]
 
 And, of course the twin inflations, monetary and “social” (the tendency of courts and juries to stretch the coverage of policies beyond what insurers, relying upon contract terminology and precedent, had expected), are unstoppable.  Costs of repairing both property and people - and the extent to which these repairs are deemed to be the responsibility of the insurer - will advance relentlessly.
 
@@ -463,7 +463,7 @@ February 26, 1982
 	
 	参照有道翻译，修改为：近几年来飓风大多仅停留在海上，同时乘汽车旅行者减少了驾驶出行，但他们不会总是那么乐于助我们。
 	
-	经讨论后，再次修改为：近几年来飓风大多仅停留在海上，驾驶员也减少了驾车出行的次数。但现实不会永远有利于我们（指承保人）。
+	经讨论后，再次修改为：近几年来飓风大多仅停留在海上，汽车司机也减少了驾车出行的次数。但现实不会永远有利于我们（指承保人）。
 
 
 [^2]: By Terrellchen @20230929
