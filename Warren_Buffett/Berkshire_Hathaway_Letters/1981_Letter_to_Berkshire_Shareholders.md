@@ -57,23 +57,23 @@ However, we suspect three motivations - usually unspoken - to be, singly or in c
 然而，我们怀疑有三个动机是大多数高溢价收购的重要因素，无论是单独的还是组合的(通常是不言而喻的)：
 
 1. Leaders, business or otherwise, seldom are deficient in  animal spirits and often relish increased activity and  challenge.  At Berkshire, the corporate pulse never  beats faster than when an acquisition is in prospect.
-
-1. 领导阶层，无论是商界还是其他领域，极少有缺乏动物天性的，而且往往散发出好斗与挑战的意念。相对地在伯克希尔，即使是并购成功在望，你们的管理层心跳也不会加快一下。
+   
+   1\. 领导阶层，无论是商界还是其他领域，极少有缺乏动物天性的，而且往往散发出好斗与挑战的意念。相对地在伯克希尔，即使是并购成功在望，你们的管理层心跳也不会加快一下。
 
 2. Most organizations, business or otherwise, measure  themselves, are measured by others, and compensate their  managers far more by the yardstick of size than by any  other yardstick. (Ask a Fortune 500 manager where his  corporation stands on that famous list and, invariably,  the number responded will be from the list ranked by  size of sales; he may well not even know where his  corporation places on the list Fortune just as  faithfully compiles ranking the same 500 corporations by  profitability.)
-
-2. 大部分的公司及其管理层，多以「规模」而非「获利」作为衡量自己或他人的薪酬标准，(问问那些名列 Fortune 500 大企业的管理层他们在榜单上的排名，回答的总是按销售额的排名，他们可能从来都不知道若以获利能力来排的话，公司会排在第几位)
+   
+   2\. 大部分的公司及其管理层，多以「规模」而非「获利」作为衡量自己或他人的薪酬标准，(问问那些名列 Fortune 500 大企业的管理层他们在榜单上的排名，回答的总是按销售额的排名，他们可能从来都不知道若以获利能力来排的话，公司会排在第几位)
 
 3. Many managements apparently were overexposed in  impressionable childhood years to the story in which the  imprisoned handsome prince is released from a toad’s  body by a kiss from a beautiful princess.  Consequently,  they are certain their managerial kiss will do wonders  for the profitability of Company T(arget).
-
-3. 大部分的管理层很明显的过度沉浸于小时候所听到的童话故事，一个变成蟾蜍的王子因美丽的公主深深一吻而被拯救，因而确信，他们优异的管理之吻将为目标公司的盈利创造奇迹。
+   
+   3\. 大部分的管理层很明显的过度沉浸于小时候所听到的童话故事，一个变成蟾蜍的王子因美丽的公主深深一吻而被拯救，因而确信，他们优异的管理之吻将为目标公司的盈利创造奇迹。
    
    Such optimism is essential.  Absent that rosy view,  why else should the shareholders of Company A(cquisitor)  want to own an interest in T at the 2X takeover cost  rather than at the X market price they would pay if they  made direct purchases on their own?
-
+   
    如此的乐观是必要的，否则公司的股东怎么会甘心以双倍的价钱买下那家好公司，而非以一倍的价格自己从市场上买进。
    
    In other words, investors can always buy toads at the  going price for toads.  If investors instead bankroll  princesses who wish to pay double for the right to kiss  the toad, those kisses had better pack some real  dynamite.  We’ve observed many kisses but very few  miracles.  Nevertheless, many managerial princesses  remain serenely confident about the future potency of  their kisses - even after their corporate backyards are  knee-deep in unresponsive toads.
-
+   
    换言之，投资人永远可以以蟾蜍的价格买到蟾蜍，而若投资人愿意用双倍的代价资助公主去亲吻蟾蜍的话，最好保佑奇迹会发生，我们看到过太多亲吻，但很少有奇迹。尽管如此，许多管理层的公主们依然坚信她们的亲吻有使蟾蜍变成王子的魔力，即使在她的后院早已养满了齐膝深且毫无反应的蟾蜍。
 
 In fairness, we should acknowledge that some acquisition records have been dazzling.  Two major categories stand out.
