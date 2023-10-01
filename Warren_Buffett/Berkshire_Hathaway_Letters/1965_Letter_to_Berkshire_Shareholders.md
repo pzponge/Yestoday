@@ -1,7 +1,7 @@
 原文信息：
 
 - 标题：1965 Letter to Berkshire Shareholders
-- 作者：Warren Buffett
+- 作者：Kenneth Chace
 - 发表时间：1965-11-09
 - 链接：[1965-Berkshire-AR](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1965-Berkshire-AR.pdf)
 - 中文翻译参考：肖良汇编版
