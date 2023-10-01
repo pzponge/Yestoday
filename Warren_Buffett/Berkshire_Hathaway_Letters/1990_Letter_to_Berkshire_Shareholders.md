@@ -827,7 +827,7 @@ The advantages of this move should be evident. As the plant wears out, the liabi
 
 3\. Payment of Salaries and Wages in Option Warrants.
 
-3.\ 所有的薪资与奖金一律以认股权的方式发放。
+3\. 所有的薪资与奖金一律以认股权的方式发放。
 
 Many corporations have been able to reduce their overhead expenses substantially by paying a large part of their executive salaries in the form of options to buy stock, which carry no charge against earnings. The full possibilities of this modern device have apparently not been adequately realized. The Board of Directors has adopted the following advanced form of this idea:
 
