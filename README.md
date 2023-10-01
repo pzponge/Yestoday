@@ -61,7 +61,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 1982 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md)
 1983 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)
 1984 年致股东的信|Warren Buffett|双语|肖良|进行中|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)
-1990 年致股东的信|Warren Buffett|双语|肖良|进行中|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
+1990 年致股东的信|Warren Buffett|双语|肖良|RW|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
 1994 年致股东的信|Warren Buffett|双语|肖良|进行中|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)
 2006 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
 2011 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
