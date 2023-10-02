@@ -73,7 +73,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 2014 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
 2014 年特别信：伯克希尔的过去、现在和未来|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
 2014 年特别信：副董事长的思考——过去与未来|Charles Munger|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
-2015 年致股东的信|Warren Buffett|双语|肖良|×|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)
+2015 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)
 2022 年致股东的信|Warren Buffett|双语|肖良、坚信价值、新浪财经|Ponge (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
