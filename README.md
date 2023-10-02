@@ -143,5 +143,5 @@ ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leon
 
 标题|语言|翻译|链接
 ---|---|---|---
-致谢（Acknowledgement）|双语|机器翻译|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
-概述（Introduction）|双语|机器翻译|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
+致谢（Acknowledgement）|双语|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
+概述（Introduction）|双语|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
