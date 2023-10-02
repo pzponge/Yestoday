@@ -54,8 +54,9 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 标题|作者|语言|初始翻译|校译|链接
 ---|---|---|---|---|---
-1965 年致股东的信|Kenneth Chace|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
-1966 年致股东的信|Kenneth Chace|双语|肖良|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
+1965 年致股东的信|Malcolm Chace & Kenneth Chace|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
+1966 年致股东的信|Malcolm Chace & Kenneth Chace|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
+1967 年致股东的信|Malcolm Chace & Kenneth Chace|双语|肖良|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
 1979 年致股东的信|Warren Buffett|双语|肖良|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)
 1980 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)
 1981 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1981_Letter_to_Berkshire_Shareholders.md)
