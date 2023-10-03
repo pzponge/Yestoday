@@ -433,7 +433,7 @@ Here’s a recap of pre-tax underwriting earnings and float by division:
 Insurance Operations|Underwriting Profit (in millions) 2016|Underwriting Profit (in millions) 2015|Yearend Float (in millions) 2016| Yearend Float (in millions) 2015
 :---|---:|---:|---:|---:
 BH Reinsurance|$ 822|$ 421|$ 45,081|$ 44,108
-General Re||190|132|17,699|18,560
+General Re|190|132|17,699|18,560
 GEICO|462|460|17,148|15,148
 Other Primary|657|824|11,649|9,906
  ||$ 2,131|$ 1,837|$ 91,577|$ 87,722
