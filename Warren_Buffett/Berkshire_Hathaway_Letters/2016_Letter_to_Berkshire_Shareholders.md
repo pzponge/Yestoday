@@ -867,7 +867,7 @@ Each fund-of-funds, of course, operated with a layer of fees that sat above the 
 
 Here are the results for the first nine years of the bet -- figures leaving no doubt that Girls Inc. of Omaha, the charitable beneficiary I designated to get any bet winnings I earned, will be the organization eagerly opening the mail next January.
 
-以下是赌约前9年的对赌结果。对赌的结果显示，我指定的慈善受益人Girls Inc. of Omaha(将获得我赢得的赌金)将在明年1月份迫不及待地打开邮件领取奖金，这是毋庸置疑的。(根据我与ProtégéPartners达成的协议，这些母基金的名称从未公开披露。然而，我看过他们的年度审计。)
+以下是赌约前9年的对赌结果。对赌的结果显示，我指定的慈善受益人Girls Inc. of Omaha(将获得我赢得的赌金)将在明年1月份迫不及待地打开邮件领取奖金，这是毋庸置疑的。
 
 Year|Fund of Funds A|Fund of Funds B|Fund of Funds C|Fund of Funds D|Fund of Funds E|S&P Index Fund
 ---|---:|---:|---:|---:|---:|---:
@@ -883,6 +883,8 @@ Year|Fund of Funds A|Fund of Funds B|Fund of Funds C|Fund of Funds D|Fund of Fun
 Gain to Date|8.7%|28.3%|62.8%|2.9%|7.5%|85.4%
 
 Footnote: Under my agreement with Protégé Partners, the names of these funds-of-funds have never been publicly disclosed. I, however, see their annual audits.
+
+(根据我与ProtégéPartners达成的协议，这些母基金的名称从未公开披露。然而，我看过他们的年度审计。)
 
 The compounded annual increase to date for the index fund is 7.1%, which is a return that could easily prove typical for the stock market over time. That’s an important fact: A particularly weak nine years for the market over the lifetime of this bet would have probably helped the relative performance of the hedge funds, because many hold large “short” positions. Conversely, nine years of exceptionally high returns from stocks would have provided a tailwind for index funds.
 
