@@ -1038,7 +1038,7 @@ Our Berkshire exhibitors at CenturyLink were open from noon until 5 p.m. on Frid
 
 The annual meeting falls on May 6th and will again be webcast by Yahoo, whose web address is https://finance.yahoo.com/brklivestream. The webcast will go live at 9 a.m. Central Daylight Time. Yahoo will interview directors, managers, stockholders and celebrities before the meeting and during the lunch break. Both those interviews and meeting will be translated simultaneously into Mandarin.
 
-年会在 5 月 6 日举行，雅虎将再次进行网上直播，网址是https://finance.yahoo.com/brklivestream，网络直播将在中部夏令时间上午9点开始。雅虎将在会议开始前和午休期间采访董事、经理、股东和知名人士。这些采访和会议将同声传译成中文。
+年会在 5 月 6 日举行，雅虎将再次进行网上直播，网址是https://finance.yahoo.com/brklivestream ，网络直播将在中部夏令时间上午9点开始。雅虎将在会议开始前和午休期间采访董事、经理、股东和知名人士。这些采访和会议将同声传译成中文。
 
 For those attending the meeting in person, the doors at the CenturyLink will open at 7:00 a.m. on Saturday to facilitate shopping prior to our shareholder movie, which begins at 8:30. The question-and-answer period will start at 9:30 and run until 3:30, with a one-hour lunch break at noon. Finally, at 3:45 we will begin the formal shareholder meeting. It will run an hour or so. That is somewhat longer than usual because three proxy items are to be presented by their proponents, who will be given a reasonable amount of time to state their case.
 
