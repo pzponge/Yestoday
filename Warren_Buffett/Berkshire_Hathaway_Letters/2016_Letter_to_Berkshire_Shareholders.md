@@ -912,25 +912,25 @@ In my opinion, the disappointing results for hedge-fund investors that this bet 
 
 在我看来，这次赌约暴露出的，令对冲基金投资者失望的结果，几乎肯定会在未来重演。赌约开始时，我在LongBets网站上发布了一份声明中阐述了我的理由，以下是我的观点：
 
-	Over a ten-year period commencing on January 1, 2008, and ending on December 31, 2017, the S&P 500 will outperform a portfolio of funds of hedge funds, when performance is measured on a basis net of fees, costs and expenses.
-	
-	从2008年1月1日开始并于2017年12月31日结束的过去十年里，标准普尔500指数的表现将超过对冲基金的基金组合的表现，因为基金的业绩需要扣除管理费、运营成本和支出。
-	
-	A lot of very smart people set out to do better than average in securities markets. Call them active investors.
-	
-	许多非常聪明的人打算在证券市场上获得超过平均水平的投资回报，我们将其称为主动投资者。
-	
-	Their opposites, passive investors, will by definition do about average. In aggregate their positions will more or less approximate those of an index fund. Therefore, the balance of the universe—the active investors—must do about average as well. However, these investors will incur far greater costs. So, on balance, their aggregate results after these costs will be worse than those of the passive investors.
-	
-	而与他们相对的是被动投资者，按照定义，他们寻求获得市场平均收益。总的来说，他们的仓位大致接近指数基金的仓位。因此，市场的平衡方，即主动投资者也必须达到市场平均水平。然而，这些投资者将承担更高的成本。因此，总的来说，在扣除这些成本后，他们总体的投资收益将比被动投资者更差。
-	
-	Costs skyrocket when large annual fees, large performance fees, and active trading costs are all added to the active investor’s equation. Funds of hedge funds accentuate this cost problem because their fees are superimposed on the large fees charged by the hedge funds in which the funds of funds are invested.
-	
-	当巨额的年度管理费、业绩报酬和频繁交易的成本，都被累加到主动投资者的费用等式中时，其承担的成本就会飙升。而FOF基金加剧了这一成本问题，因为他们在对冲基金收费的基础上再次收取管理费。
-	
-	A number of smart people are involved in running hedge funds. But to a great extent their efforts are self-neutralizing, and their IQ will not overcome the costs they impose on investors. Investors, on average and over time, will do better with a low-cost index fund than with a group of funds of funds.
-	
-	有很多聪明的投资者都参与到对冲基金的运营。但在很大程度上，他们付出的努力被自我抵消了，他们高智商带来的超额收益并不能克服他们强加给投资者的成本。平均而言，随着时间的推移，投资低成本指数基金的业绩表现会超过投资FOF基金。
+> Over a ten-year period commencing on January 1, 2008, and ending on December 31, 2017, the S&P 500 will outperform a portfolio of funds of hedge funds, when performance is measured on a basis net of fees, costs and expenses.
+
+> 从2008年1月1日开始并于2017年12月31日结束的过去十年里，标准普尔500指数的表现将超过对冲基金的基金组合的表现，因为基金的业绩需要扣除管理费、运营成本和支出。
+
+> A lot of very smart people set out to do better than average in securities markets. Call them active investors.
+
+> 许多非常聪明的人打算在证券市场上获得超过平均水平的投资回报，我们将其称为主动投资者。
+
+> Their opposites, passive investors, will by definition do about average. In aggregate their positions will more or less approximate those of an index fund. Therefore, the balance of the universe—the active investors—must do about average as well. However, these investors will incur far greater costs. So, on balance, their aggregate results after these costs will be worse than those of the passive investors.
+
+> 而与他们相对的是被动投资者，按照定义，他们寻求获得市场平均收益。总的来说，他们的仓位大致接近指数基金的仓位。因此，市场的平衡方，即主动投资者也必须达到市场平均水平。然而，这些投资者将承担更高的成本。因此，总的来说，在扣除这些成本后，他们总体的投资收益将比被动投资者更差。
+
+> Costs skyrocket when large annual fees, large performance fees, and active trading costs are all added to the active investor’s equation. Funds of hedge funds accentuate this cost problem because their fees are superimposed on the large fees charged by the hedge funds in which the funds of funds are invested.
+
+> 当巨额的年度管理费、业绩报酬和频繁交易的成本，都被累加到主动投资者的费用等式中时，其承担的成本就会飙升。而FOF基金加剧了这一成本问题，因为他们在对冲基金收费的基础上再次收取管理费。
+
+> A number of smart people are involved in running hedge funds. But to a great extent their efforts are self-neutralizing, and their IQ will not overcome the costs they impose on investors. Investors, on average and over time, will do better with a low-cost index fund than with a group of funds of funds.
+
+> 有很多聪明的投资者都参与到对冲基金的运营。但在很大程度上，他们付出的努力被自我抵消了，他们高智商带来的超额收益并不能克服他们强加给投资者的成本。平均而言，随着时间的推移，投资低成本指数基金的业绩表现会超过投资FOF基金。
 
 So that was my argument -- and now let me put it into a simple equation. If Group A (active investors) and Group B (do-nothing investors) comprise the total investing universe, and B is destined to achieve average results before costs, so, too, must A. Whichever group has the lower costs will win. (The academic in me requires me to mention that there is a very minor point -- not worth detailing -- that _slightly_ modifies this formulation.) And if Group A has exorbitant costs, its shortfall will be substantial.
 
