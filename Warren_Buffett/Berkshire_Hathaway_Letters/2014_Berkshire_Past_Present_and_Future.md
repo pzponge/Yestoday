@@ -4,7 +4,7 @@
 - 作者：Warren Buffett
 - 发表时间：2015-02-27
 - 链接：[PDF](https://www.berkshirehathaway.com/SpecialLetters/WEB%20past%20present%20future%202014.pdf)
-- 中文翻译参考：芒格书院
+- 中文翻译参考：芒格书院共读群友
 - 整理：Ponge
 - 校译：
 

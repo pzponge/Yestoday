@@ -4,7 +4,7 @@
 - 作者：Malcolm Chace & Kenneth Chace
 - 发表时间：1966-12-02
 - 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1966-Berkshire-AR.pdf)
-- 中文翻译参考：芒格书院
+- 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
 - 校译：
 
