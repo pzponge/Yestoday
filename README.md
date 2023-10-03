@@ -46,7 +46,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
-有限合伙契约|Warren Buffett|双语|肖良|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
+有限合伙契约|Warren Buffett|双语|芒格书院|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
 1970-02-18 信|Warren Buffett|双语|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
@@ -54,27 +54,27 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 
 标题|作者|语言|翻译|整理|链接
 ---|---|---|---|---|---
-1965 年致股东的信|Malcolm Chace & Kenneth Chace|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
-1966 年致股东的信|Malcolm Chace & Kenneth Chace|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
-1967 年致股东的信|Malcolm Chace & Kenneth Chace|双语|肖良|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
-1979 年致股东的信|Warren Buffett|双语|肖良|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)
-1980 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)
-1981 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1981_Letter_to_Berkshire_Shareholders.md)
-1982 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md)
-1983 年致股东的信|Warren Buffett|双语|肖良|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)
-1984 年致股东的信|Warren Buffett|双语|肖良|yoan (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)
-1990 年致股东的信|Warren Buffett|双语|肖良|RW|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
-1991 年致股东的信|Warren Buffett|双语|肖良|RW (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
-1994 年致股东的信|Warren Buffett|双语|肖良|Vito (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)
-2006 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
-2011 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
-2012 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
-2013 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
-2014 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
-2014 年特别信：伯克希尔的过去、现在和未来|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
-2014 年特别信：副董事长的思考——过去与未来|Charles Munger|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
-2015 年致股东的信|Warren Buffett|双语|肖良|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)
-2022 年致股东的信|Warren Buffett|双语|肖良、坚信价值、新浪财经|Ponge (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
+1965 年致股东的信|Malcolm Chace & Kenneth Chace|双语|芒格书院|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
+1966 年致股东的信|Malcolm Chace & Kenneth Chace|双语|芒格书院|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
+1967 年致股东的信|Malcolm Chace & Kenneth Chace|双语|芒格书院|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
+1979 年致股东的信|Warren Buffett|双语|芒格书院|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)
+1980 年致股东的信|Warren Buffett|双语|芒格书院|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)
+1981 年致股东的信|Warren Buffett|双语|芒格书院|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1981_Letter_to_Berkshire_Shareholders.md)
+1982 年致股东的信|Warren Buffett|双语|芒格书院|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md)
+1983 年致股东的信|Warren Buffett|双语|芒格书院|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)
+1984 年致股东的信|Warren Buffett|双语|芒格书院|yoan (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)
+1990 年致股东的信|Warren Buffett|双语|芒格书院|RW|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
+1991 年致股东的信|Warren Buffett|双语|芒格书院|RW (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
+1994 年致股东的信|Warren Buffett|双语|芒格书院|Vito (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)
+2006 年致股东的信|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
+2011 年致股东的信|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
+2012 年致股东的信|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
+2013 年致股东的信|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
+2014 年致股东的信|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
+2014 年特别信：伯克希尔的过去、现在和未来|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
+2014 年特别信：副董事长的思考——过去与未来|Charles Munger|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
+2015 年致股东的信|Warren Buffett|双语|芒格书院|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)
+2022 年致股东的信|Warren Buffett|双语|芒格书院、坚信价值、新浪财经|Ponge (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
 # 2. Charles T. Munger
 

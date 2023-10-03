@@ -4,7 +4,7 @@
 - 作者：Charles Munger
 - 发表时间：2015-02-27
 - 链接：[PDF](https://www.berkshirehathaway.com/SpecialLetters/CTM%20past%20present%20future%202014.pdf)
-- 中文翻译参考：肖良汇编版
+- 中文翻译参考：芒格书院
 - 整理：Ponge
 - 校译：
 

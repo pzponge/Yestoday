@@ -5,7 +5,7 @@
 - 作者：Warren Buffett
 - 发表时间：1991-03-01
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1990.html)
-- 中文翻译参考：肖良汇编版
+- 中文翻译参考：芒格书院
 - 整理：RW
 - 校译：RW
 

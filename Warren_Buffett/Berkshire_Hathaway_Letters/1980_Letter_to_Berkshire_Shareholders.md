@@ -4,7 +4,7 @@
 - 作者：Warren Buffett
 - 发表时间：1981-02-27
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1980.html)
-- 中文翻译参考：肖良汇编版
+- 中文翻译参考：芒格书院
 - 整理：Terrellchen
 - 校译：Terrellchen
 

@@ -4,7 +4,7 @@
 - 作者：Warren Buffett
 - 发表时间：2013-03-01
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/2012ltr.pdf)
-- 中文翻译参考：肖良汇编版
+- 中文翻译参考：芒格书院
 - 整理：Ponge
 - 校译：
 
