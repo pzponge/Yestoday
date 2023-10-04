@@ -47,6 +47,7 @@ GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自�
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
 有限合伙契约|Warren Buffett|双语|芒格书院共读群友|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
+1958-02-28 信|Warren Buffett|双语|诚明散人 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19580228.md)
 1970-02-18 信|Warren Buffett|双语|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
