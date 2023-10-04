@@ -42,34 +42,34 @@ Furthermore, amortization of Goodwill is not charged against the specific busine
 
 至于商誉的摊销不计入对应业务而单独列示，原因我在 1983 年年报附录中已详加说明了：
 
-|                                                 | Earnings Before Income Taxes | Earnings Before Income Taxes | Earnings Before Income Taxes | Earnings Before Income Taxes | Net Earnings After Tax | Net Earnings After Tax |
-| ----------------------------------------------- | ---------------------------: | ---------------------------: | ---------------------------: | ---------------------------: | ---------------------: | ---------------------: |
-|                                                 |                        Total |                        Total |              Berkshire Share |              Berkshire Share |        Berkshire Share |        Berkshire Share |
-| (000s omitted)                                  |                         1984 |                         1983 |                         1984 |                         1983 |                   1984 |                   1983 |
-| Operating Earnings:                             ||
-| &emsp;Insurance Group:                          ||
-| &emsp;&emsp;Underwriting                        |                   $ (48,060) |                   $ (33,872) |                   $ (48,060) |                   $ (33,872) |             $ (25,955) |             $ (18,400) |
-| &emsp;&emsp;Net investment income               |                       68,903 |                       43,810 |                       68,903 |                       43,810 |                 62,059 |                 39,114 |
-| &emsp;Buffalo News                              |                       27,328 |                       19,352 |                       27,328 |                       16,547 |                 13,317 |                  8,832 |
-| &emsp;Nebraska Furniture Mart (1)               |                       14,511 |                        3,812 |                       11,609 |                        3,049 |                  5,917 |                  1,521 |
-| &emsp;See’s Candies                             |                       26,644 |                       27,411 |                       26,644 |                       24,526 |                 13,380 |                 12,212 |
-| &emsp;Associated Retail Stores                  |                      (1,072) |                          697 |                      (1,072) |                          697 |                  (579) |                    355 |
-| &emsp;Blue Chip Stamps (2)                      |                      (1,843) |                      (1,422) |                      (1,843) |                      (1,876) |                  (899) |                  (353) |
-| &emsp;Mutual Savings and Loan                   |                        1,456 |                        (798) |                        1,166 |                        (467) |                  3,151 |                  1,917 |
-| &emsp;Precision Steel                           |                        4,092 |                        3,241 |                        3,278 |                        2,102 |                  1,696 |                  1,136 |
-| &emsp;Textiles                                  |                          418 |                        (100) |                          418 |                        (100) |                    226 |                   (63) |
-| &emsp;Wesco Financial                           |                        9,777 |                        7,493 |                        7,831 |                        4,844 |                  4,828 |                  3,448 |
-| &emsp;Amortization of Goodwill                  |                      (1,434) |                        (532) |                      (1,434) |                        (563) |                (1,434) |                  (563) |
-| &emsp;Interest on Debt                          |                     (14,734) |                     (15,104) |                     (14,097) |                     (13,844) |                (7,452) |                (7,346) |
-| &emsp;Shareholder-Designated Contributions      |                      (3,179) |                      (3,066) |                      (3,179) |                      (3,066) |                (1,716) |                (1,656) |
-| &emsp;Other                                     |                        4,932 |                       10,121 |                        4,529 |                        9,623 |                  3,476 |                  8,490 |
-|                                                 ||
-| Operating Earnings                              |                       87,739 |                       61,043 |                       82,021 |                       51,410 |                 70,015 |                 48,644 |
-| Special GEICO Distribution                      |                           -- |                       19,575 |                           -- |                       19,575 |                     -- |                 18,224 |
-| Special Gen. Foods Distribution                 |                        8,111 |                           -- |                        7,896 |                           -- |                  7,294 |                     -- |
-| Sales of securities and unusual sales of assets |                      104,699 |                       67,260 |                      101,376 |                       65,089 |                 71,587 |                 45,298 |
-|                                                 ||
-| Total Earnings - all entities                   |                    $ 200,549 |                    $ 147,878 |                    $ 191,293 |                    $ 136,074 |              $ 148,896 |              $ 112,166 |
+ ||Earnings Before Income Taxes|Earnings Before Income Taxes|Earnings Before Income Taxes|Earnings Before Income Taxes|Net Earnings After Tax|Net Earnings After Tax
+---|---:|---:|---:|---:|---:|---:
+ ||Total|Total|Berkshire Share|Berkshire Share|Berkshire Share|Berkshire Share
+(000s omitted)|1984|1983|1984|1983|1984|1983
+Operating Earnings:|
+&emsp;Insurance Group:|
+&emsp;&emsp;Underwriting|$ (48,060)|$ (33,872)|$ (48,060)|$ (33,872)|$ (25,955)|$ (18,400)
+&emsp;&emsp;Net investment income|68,903|43,810|68,903|43,810|62,059|39,114
+&emsp;Buffalo News|27,328|19,352|27,328|16,547|13,317|8,832
+&emsp;Nebraska Furniture Mart (1)|14,511|3,812|11,609|3,049|5,917|1,521
+&emsp;See’s Candies|26,644|27,411|26,644|24,526|13,380|12,212
+&emsp;Associated Retail Stores|(1,072)|697|(1,072)|697|(579)|355
+&emsp;Blue Chip Stamps (2)|(1,843)|(1,422)|(1,843)|(1,876)|(899)|(353)
+&emsp;Mutual Savings and Loan|1,456|(798)|1,166|(467)|3,151|1,917
+&emsp;Precision Steel|4,092|3,241|3,278|2,102|1,696|1,136
+&emsp;Textiles|418|(100)|418|(100)|226|(63)
+&emsp;Wesco Financial|9,777|7,493|7,831|4,844|4,828|3,448
+&emsp;Amortization of Goodwill|(1,434)|(532)|(1,434)|(563)|(1,434)|(563)
+&emsp;Interest on Debt|(14,734)|(15,104)|(14,097)|(13,844)|(7,452)|(7,346)
+&emsp;Shareholder-Designated Contributions|(3,179)|(3,066)|(3,179)|(3,066)|(1,716)|(1,656)
+&emsp;Other|4,932|10,121|4,529|9,623|3,476|8,490
+ ||
+Operating Earnings|87,739|61,043|82,021|51,410|70,015|48,644
+Special GEICO Distribution|--|19,575|--|19,575|--|18,224
+Special Gen. Foods Distribution|8,111|--|7,896|--|7,294|--
+Sales of securities and unusual sales of assets|104,699|67,260|101,376|65,089|71,587|45,298
+ ||
+Total Earnings - all entities|$ 200,549|$ 147,878|$ 191,293|$ 136,074|$ 148,896|$ 112,166
 
 _(1) 1983 figures are those for October through December._
 
@@ -137,23 +137,23 @@ The following table shows our 1984 yearend net holdings in marketable equities.�
 
 下表是我们在1984年底主要的投资部位(所有数字已扣除Wesco等公司的少数股权)：
 
-| No of Shares | Company                               | Cost</br>(000s omitted) | Market</br>(000s omitted) |
-| -----------: | ------------------------------------- | ----------------------: | ------------------------: |
-|      690,975 | Affiliated Publications, Inc.         |                 $ 3,516 |                  $ 32,908 |
-|      740,400 | American Broadcasting Companies, Inc. |                  44,416 |                    46,738 |
-|    3,895,710 | Exxon Corporation                     |                 173,401 |                   175,307 |
-|    4,047,191 | General Foods Corporation             |                 149,870 |                   226,137 |
-|    6,850,000 | GEICO Corporation                     |                  45,713 |                   397,300 |
-|    2,379,200 | Handy & Harman                        |                  27,318 |                    38,662 |
-|      818,872 | Interpublic Group of Companies, Inc.  |                   2,570 |                    28,149 |
-|      555,949 | Northwest Industries                  |                  26,581 |                    27,242 |
-|    2,553,488 | Time, Inc.                            |                  89,327 |                   109,162 |
-|    1,868,600 | The Washington Post Company           |                  10,628 |                   149,955 |
-|              ||
-|              |                                       |               $ 573,340 |               $ 1,231,560 |
-|              | All Other Common Stockholdings        |                  11,634 |                    37,326 |
-|              ||
-|              | Total Common Stocks                   |               $ 584,974 |               $ 1,268,886 |
+No. of Shares|Company|Cost</br>(000s omitted)|Market</br>(000s omitted)
+---:|---|---:|---:
+690,975|Affiliated Publications, Inc.|$ 3,516|$ 32,908
+740,400|American Broadcasting Companies, Inc.|44,416|46,738
+3,895,710|Exxon Corporation|173,401|175,307
+4,047,191|General Foods Corporation|149,870|226,137
+6,850,000|GEICO Corporation|45,713|397,300
+2,379,200|Handy & Harman|27,318|38,662
+818,872|Interpublic Group of Companies, Inc.|2,570|28,149
+555,949|Northwest Industries|26,581|27,242
+2,553,488|Time, Inc.|89,327|109,162
+1,868,600|The Washington Post Company|10,628|149,955
+ ||
+ |||$ 573,340|$ 1,231,560
+ ||All Other Common Stockholdings|11,634|37,326
+ ||
+ ||Total Common Stocks|$ 584,974|$ 1,268,886
 
 It’s been over ten years since it has been as difficult as now to find equity investments that meet both our qualitative standards and our quantitative standards of value versus price.  We try to avoid compromise of these standards, although we find doing nothing the most difficult task of all. (One English statesman attributed his country’s greatness in the nineteenth century to a policy of “masterly inactivity”.  This is a strategy that is far easier for historians to commend than for participants to follow.)
 
@@ -211,21 +211,21 @@ Below is our usual recap of See’s performance since the time of purchase by Bl
 
 下表是喜诗自从被蓝筹印花买下后，对其表现的回顾：
 
-| 52-53 Week Year Ended About December 31 | Sales Revenues | Operating Profits After Taxes | Number of Pounds of Candy Sold | Number of Stores Open at Year End |
-| --------------------------------------- | -------------: | ----------------------------: | -----------------------------: | --------------------------------: |
-| 1984                                    |  $ 135,946,000 |                  $ 13,380,000 |                     24,759,000 |                               214 |
-| 1983 (53 weeks)                         |    133,531,000 |                    13,699,000 |                     24,651,000 |                               207 |
-| 1982                                    |    123,662,000 |                    11,875,000 |                     24,216,000 |                               202 |
-| 1981                                    |    112,578,000 |                    10,779,000 |                     24,052,000 |                               199 |
-| 1980                                    |     97,715,000 |                     7,547,000 |                     24,065,000 |                               191 |
-| 1979                                    |     87,314,000 |                     6,330,000 |                     23,985,000 |                               188 |
-| 1978                                    |     73,653,000 |                     6,178,000 |                     22,407,000 |                               182 |
-| 1977                                    |     62,886,000 |                     6,154,000 |                     20,921,000 |                               179 |
-| 1976 (53 weeks)                         |     56,333,000 |                     5,569,000 |                     20,553,000 |                               173 |
-| 1975                                    |     50,492,000 |                     5,132,000 |                     19,134,000 |                               172 |
-| 1974                                    |     41,248,000 |                     3,021,000 |                     17,883,000 |                               170 |
-| 1973                                    |     35,050,000 |                     1,940,000 |                     17,813,000 |                               169 |
-| 1972                                    |     31,337,000 |                     2,083,000 |                     16,954,000 |                               167 |
+52-53 Week Year Ended About December 31|Sales Revenues|Operating Profits After Taxes|Number of Pounds of Candy Sold|Number of Stores Open at Year End
+---|---:|---:|---:|---:
+1984|$ 135,946,000|$ 13,380,000|24,759,000|214
+1983 (53 weeks)|133,531,000|13,699,000|24,651,000|207
+1982|123,662,000|11,875,000|24,216,000|202
+1981|112,578,000|10,779,000|24,052,000|199
+1980|97,715,000|7,547,000|24,065,000|191
+1979|87,314,000|6,330,000|23,985,000|188
+1978|73,653,000|6,178,000|22,407,000|182
+1977|62,886,000|6,154,000|20,921,000|179
+1976 (53 weeks)|56,333,000|5,569,000|20,553,000|173
+1975|50,492,000|5,132,000|19,134,000|172
+1974|41,248,000|3,021,000|17,883,000|170
+1973|35,050,000|1,940,000|17,813,000|169
+1972|31,337,000|2,083,000|16,954,000|167
 
 This performance has not been produced by a generally rising tide.  To the contrary, many well-known participants in the boxed-chocolate industry either have lost money in this same period or have been marginally profitable.  To our knowledge, only one good-sized competitor has achieved high profitability.  The success of See’s reflects the combination of an exceptional product and an exceptional manager, Chuck Huggins.
 
@@ -315,21 +315,21 @@ Shown below is an updated version of our usual table listing two key figures for
 
 下表列出了保险业的两个关键数据：
 
-|                  | Yearly Change in Premiums Written (%) | Combined Ratio after Policy-holder Dividends |
-| ---------------- | ------------------------------------- | -------------------------------------------- |
-| 1972             | 10.2                                  | 96.2                                         |
-| 1973             | 8.0                                   | 99.2                                         |
-| 1974             | 6.2                                   | 105.4                                        |
-| 1975             | 11.0                                  | 107.9                                        |
-| 1976             | 21.9                                  | 102.4                                        |
-| 1977             | 19.8                                  | 97.2                                         |
-| 1978             | 12.8                                  | 97.5                                         |
-| 1979             | 10.3                                  | 100.6                                        |
-| 1980             | 6.0                                   | 103.1                                        |
-| 1981             | 3.9                                   | 106.0                                        |
-| 1982             | 4.4                                   | 109.7                                        |
-| 1983 (Revised)   | 4.5                                   | 111.9                                        |
-| 1984 (Estimated) | 8.1                                   | 117.7                                        |
+ ||Yearly Change in Premiums Written (%)|Combined Ratio after Policy-holder Dividends
+---|---:|---:
+1972|10.2|96.2
+1973|8.0|99.2
+1974|6.2|105.4
+1975|11.0|107.9
+1976|21.9|102.4
+1977|19.8|97.2
+1978|12.8|97.5
+1979|10.3|100.6
+1980|6.0|103.1
+1981|3.9|106.0
+1982|4.4|109.7
+1983 (Revised)|4.5|111.9
+1984 (Estimated)|8.1|117.7
 
 _Source: Best’s Aggregates and Averages_
 
@@ -419,13 +419,13 @@ The following table shows the results from insurance underwriting as we have rep
 
 下表第一列显示过去五年我们跟各位报告的保险承销业绩，同时并提供一年之后以"如果当时我们知道那么我们认为我们现在知道什么"的基础下的估算数字，而所谓地"我们认为我们现在知道什么"系因为这其中还包含许多对以前发生的损失所作的估计调整，然而，由于前几年的许多索赔过去一年已经得到解决，因此我们对一年后的估计值中所包含的猜测工作要比之前的要少：
 
-| Year | Underwriting Results as Reported to You | Corrected Figures After One Year’s Experience |
-| ---- | --------------------------------------- | --------------------------------------------- |
-| 1980 | $ 6,738,000                             | $ 14,887,000                                  |
-| 1981 | 1,478,000                               | (1,118,000)                                   |
-| 1982 | (21,462,000)                            | (25,066,000)                                  |
-| 1983 | (33,192,000)                            | (50,974,000)                                  |
-| 1984 | (45,413,000)                            | ?                                             |
+Year|Underwriting Results as Reported to You|Corrected Figures After One Year’s Experience
+---|---:|---:
+1980|$ 6,738,000|$ 14,887,000
+1981|1,478,000|(1,118,000)
+1982|(21,462,000)|(25,066,000)
+1983|(33,192,000)|(50,974,000)
+1984|(45,413,000)|?
 
 _Our structured settlement and loss-reserve assumption businesses are not included in this table.  Important additional information on loss reserve experience appears on pages 43-45._
 
