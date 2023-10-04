@@ -1,16 +1,12 @@
-您好，欢迎来到 Yestoday！更多内容，请见同名微信公众号。
+您好，欢迎来到 Yestoday！更多内容，请见[同名微信公众号](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NzA4NjQzOQ==&action=getalbum&album_id=1414525253757517825&scene=126#wechat_redirect)。
 
-- 公众号：[文章精译](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI0NzA4NjQzOQ==&action=getalbum&album_id=1414525253757517825&scene=126#wechat_redirect)
-- 资源库：[Flowus](https://flowus.cn/share/d10253cd-e3cf-4d0c-9e92-adc0d6a19880)
-- 飞书群（读者群）：[添加我为飞书联系人](https://www.feishu.cn/invitation/page/add_contact/?token=cb6qe42c-72ab-46a9-bf5d-0f90d1118a8a&amp;unique_id=aaa9cwGzc4RapO2WfQUoww==)
+# 这个 Repository 是做什么的？
 
-# 这个 GitHub 是做什么的？
+国内很多翻译质量不高，我之前动手翻译过一些，起初发布在公众号上。我个人水平和精力有限，感谢公众号读者朋友们的热心支持，共建了这个 Repository，主要用来存放投资类的翻译文章，聚焦在基本面投资/价值投资。
 
-由于国内投资类文章翻译质量不佳，我之前在 Yestoday 公众号发布过一些自己翻译的文章。但由于我水平有限，精力不足，很多翻译很难独立完成或校对，因此会陆续将各种翻译上传到 GitHub。
+本 Repository 欢迎各位朋友提交 [Pull Requests](https://github.com/pzponge/Yestoday/pulls)（提交前请阅读《[贡献规范](https://github.com/pzponge/Yestoday/blob/main/%E8%B4%A1%E7%8C%AE%E8%A7%84%E8%8C%83.md)》），如果有任何问题也欢迎提交 [Issues](https://github.com/pzponge/Yestoday/issues)。
 
-我自己既非语言类相关专业（而且英语很差，翻译大多依赖的是翻译工具），也非计算机类相关专业（所以 GitHub 只会基本使用），只是在投资行业里有过几年经验（甚至都谈不上什么能力）。无论是翻译质量，还是 GitHub 协作使用，都可能存在巨大的能力不足，希望见谅。
-
-GitHub 会首先放我自己翻译的内容。如果有朋友愿意一起，自然是再好不过的事情了。可以微信公众号私信，或添加飞书联系人（在公众号底边栏可以找到二维码）。
+过程中遇到任何问题，可以通过微信公众号私信或[飞书](https://www.feishu.cn/invitation/page/add_contact/?token=cb6qe42c-72ab-46a9-bf5d-0f90d1118a8a&amp;unique_id=aaa9cwGzc4RapO2WfQUoww==)（也可在公众号底边栏找到二维码）联系我。
 
 # 0. 文件夹说明
 
