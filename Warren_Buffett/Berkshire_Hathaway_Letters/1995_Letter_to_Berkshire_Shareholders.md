@@ -6,7 +6,7 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1995.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：XiaoTao
-- 校译：XiaoTao
+- 校译：
 
 ---
 
