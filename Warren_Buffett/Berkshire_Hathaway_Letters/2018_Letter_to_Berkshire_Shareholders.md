@@ -68,7 +68,7 @@ Year|Annual Percentage Change in Per-Share Book Value of Berkshire|Annual Percen
 2017|23.0|21.9|21.8
 2018|0.4|2.8|(4.4)
 Compounded Annual Gain -- 1965-2018|18.7%|20.5%|9.7%
-Overall Gain -- 1964—2018|1,091,899%|2,472,627%|15,019%
+Overall Gain -- 1964-2018|1,091,899%|2,472,627%|15,019%
 
 **Note:** Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31. Starting in 1979, accounting rules required insurance companies to value the equity securities they hold at market rather than at the lower of cost or market, which was previously the requirement. In this table, Berkshire’s results through 1978 have been restated to conform to the changed rules. In all other respects, the results are calculated using the numbers originally reported. The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-tax**. If a corporation such as Berkshire were simply to have owned the S&P 500 and accrued the appropriate taxes, its results would have lagged the S&P 500 in years when that index showed a positive return, but would have exceeded the S&P 500 in years when the index showed a negative return. Over the years, the tax costs would have caused the aggregate lag to be substantial.
 
