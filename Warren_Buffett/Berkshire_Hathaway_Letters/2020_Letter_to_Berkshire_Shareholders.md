@@ -541,7 +541,7 @@ Many of those investors, I should add, will do quite well. After all, ownership 
 
 Productive assets such as farms, real estate and, yes, business ownership _produce_ wealth -- lots of it. Most owners of such properties will be rewarded. All that’s required is the passage of time, an inner calm, ample diversification and a minimization of transactions and fees. Still, investors must never forget that their _expenses_ are Wall Street’s _income_. And, unlike my monkey, Wall Streeters do not work for peanuts.
 
-生产性资产，如农场、房地产，当然还有企业股权，都能创造大量财富。大多数拥有这些财产的人都会得到回报。**获得回报需要的是时间的流逝、内心的平静、充足的多样化、最少化交易和最小化交易费用**。不过，投资者决不能忘记，他们的支出就是华尔街的收入。但是，和猴子不一样的是，华尔街的人可不是为了花生而工作的。
+生产性资产，如农场、房地产，当然还有企业股权，都能创造大量财富。大多数拥有这些财产的人都会得到回报。获得回报需要的是时间的流逝、内心的平静、充足的多样化、最少化交易和最小化交易费用。不过，投资者决不能忘记，他们的支出就是华尔街的收入。但是，和猴子不一样的是，华尔街的人可不是为了花生而工作的。
 
 When seats open up at Berkshire -- and we hope they are few -- we want them to be occupied by newcomers who understand and desire what we offer. After decades of management, Charlie and I remain unable to promise results. We _can_ and _do_ , however, pledge to treat you as partners.
 
