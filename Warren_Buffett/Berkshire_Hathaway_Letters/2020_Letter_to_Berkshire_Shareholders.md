@@ -11,7 +11,7 @@
 
 **Berkshire’s Performance vs. the S&P 500**
 
-Year|Annual|Annual Percentage Change in Per-Share Market Value of Berkshire|Annual Percentage Change in S&P 500 with Dividends Included
+Year|Annual Percentage Change in Per-Share Market Value of Berkshire|Annual Percentage Change in S&P 500 with Dividends Included
 ---|---:|---:
 1965|49.5|10.0
 1966|(3.4)|(11.7)
