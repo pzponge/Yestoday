@@ -55,7 +55,7 @@
 1966 年致股东的信|Malcolm Chace & Kenneth Chace|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
 1967 年致股东的信|Malcolm Chace & Kenneth Chace|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
 1968 年致股东的信|Kenneth Chace|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md)
-1969 年致股东的信|Kenneth Chace|双语|芒格书院共读群友|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md)
+1969 年致股东的信|Kenneth Chace|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md)
 1970 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1970_Letter_to_Berkshire_Shareholders.md)
 1979 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)
 1980 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)
