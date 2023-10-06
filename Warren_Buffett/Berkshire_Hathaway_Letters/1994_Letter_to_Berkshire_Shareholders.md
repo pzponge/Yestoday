@@ -323,7 +323,7 @@ The following table shows how we calculate look-through earnings, though I warn 
 下表列示了我们是如何计算透视盈余的，不过我还是要提醒各位这些数字有点粗糙。（被投资公司所分配的股利收入列在第12页的运营利润部分，大部分在保险业务的净投资收益项下。）
 
 Berkshire's Major Investees|Berkshire's Approximate Ownership at Yearend|Berkshire's Approximate Ownership at Yearend|Berkshire's Share of Undistributed Operating Earnings|Berkshire's Share of Undistributed Operating Earnings
----|---|---|---|---
+---|---:|---:|---:|---:
 (in millions)|1994|1993|1994|1993
 American Express Company|5.5%|2.4%|$ 25(2)|$ 16
 Capital Cities/ABC, Inc.|13.0%|13.0%|85|83(2)
