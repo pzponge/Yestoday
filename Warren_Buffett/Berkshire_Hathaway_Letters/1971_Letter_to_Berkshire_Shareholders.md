@@ -1,0 +1,45 @@
+To the Stockholders of Berkshire Hathaway Inc.:
+
+It is a pleasure to report that operating earnings in 1971, excluding capital gains, amounted to more than 14% of beginning shareholders’ equity. This result --considerably above the average of American industry -- was achieved in the face of inadequate earnings in our textile operation, making clear the benefits of redeployment of capital inaugurated five years ago. It will continue to be the objective of management to improve return on total capitalization (long term debt plus equity), as well as the return on equity capital. However, it should be realized that merely maintaining the present relatively high rate of return may well prove more difficult than was improvement from the very low levels of return which prevailed throughout most of the 1960’s. 
+
+# Textile Operations
+
+We, in common with most of the textile industry, continued to struggle throughout 1971 with inadequate gross margins. Strong efforts to hammer down costs and a continuous search for less price‐sensitive fabrics produced only marginal profits. However, without these efforts we would have operated substantially in the red. Employment was more stable throughout the year as our program to improve control of inventories achieved reasonable success.
+
+As mentioned last year, Ken Chace and his management group have been swimming against a strong industry tide. This negative environment has only caused them to intensify their efforts. Currently we are witnessing a mild industry pickup which we intend to maximize with our greatly strengthened sales force. With the improvement now seen in volume and mix of business, we would expect better profitability—although not of a dramatic nature—from our textile operation in 1972.
+
+# Insurance Operations
+
+An unusual combination of factors -- reduced auto accident frequency, sharply higher effective rates in large volume lines, and the absence of major catastrophes -- produced an extraordinarily good year for the property and casualty insurance industry. We shared in these benefits, although they are not without their negative connotations.
+
+Our traditional business -- and still our largest segment -- is in the specialized policy or non‐standard insured. When standard markets become tight because of unprofitable industry underwriting, we experience substantial volume increases as producers look to us. This was the condition several years ago, and largely accounts for the surge of direct volume experienced in 1970 and 1971. Now that underwriting has turned very profitable on an industry‐wide basis, more companies are seeking the insureds they were rejecting a short while back and rates are being cut in some areas. We continue to have underwriting profitability as our primary goal and this may well mean a substantial decrease in National Indemnity’s direct volume during 1972. Jack Ringwalt and Phil Liesche continue to guide this operation in a manner matched by very few in the business.
+
+Our reinsurance business, which has been developed to a substantial operation in just two years by the outstanding efforts of George Young, faces much the same situation. We entered the reinsurance business late in 1969 at a time when rates had risen substantially and capacity was tight. The reinsurance industry was exceptionally profitable in 1971, and we are now seeing rate‐cutting as well as the formation of well‐capitalized aggressive new competitors. These lower rates are frequently accompanied by greater exposure. Against this background we expect to see our business curtailed somewhat in 1972. We set no volume goals in our insurance business generally -- and certainly not in reinsurance -- as virtually any volume can be achieved if profitability standards are ignored. When catastrophes occur and underwriting experience sours, we plan to have the resources available to handle the increasing volume which we will then expect to be available at proper prices.
+
+We inaugurated our “home‐state” insurance operation in 1970 by the formation of Cornhusker Casualty Company. To date, this has worked well from both a marketing and an underwriting standpoint. We have therefore further developed this approach by the formation of Lakeland Fire & Casualty Company in Minnesota during 1971, and Texas United Insurance in 1972. Each of these companies will devote its entire efforts to a single state seeking to bring the agents and insureds of its area a combination of large company capability and small company accessibility and sensitivity. John Ringwalt has been in overall charge of this operation since inception. Combining hard work with imagination and intelligence, he has transformed an idea into a well‐organized business. The “home‐state” companies are still very small, accounting for a little over $1.5 million in premium volume during 1971. It looks as though this volume will more than double in 1972 and we will develop a more creditable base upon which to evaluate underwriting performance.
+
+A highlight of 1971 was the acquisition of Home & Automobile Insurance Company, located in Chicago. This company was built by Victor Raab from a small initial investment into a major auto insurer in Cook County, writing about $7.5 million in premium volume during 1971. Vic is cut from the same cloth as Jack Ringwalt and Gene Abegg, with a talent for operating profitably accompanied by enthusiasm for his business. These three men have built their companies from scratch and, after selling their ownership position for cash, retain every bit of the proprietary interest and pride that they have always had.
+
+While Vic has multiplied the original equity of Home & Auto many times since its founding, his ideas and talents have always been circumscribed by his capital base. We have added capital funds to the company, which will enable it to establish branch operations extending its highly‐ concentrated and on‐the‐spot marketing and claims approach to other densely populated areas.
+
+All in all, it is questionable whether volume added by Home & Auto, plus the “home‐state” business in 1972, will offset possible declines in direct and reinsurance business of National Indemnity Company. However, our large volume gains in 1970 and 1971 brought in additional funds for investment at a time of high interest rates, which will be of continuing benefit in future years. Thus, despite the unimpressive prospects regarding premium volume, the outlook for investment income and overall earnings from insurance in 1972 is reasonably good.
+
+# Banking Operations
+
+Our banking subsidiary, The Illinois National Bank & Trust Company, continued to lead its industry as measured by earnings as a percentage of deposits. In 1971, Illinois National earned well over 2% after tax on average deposits while (1) not using borrowed funds except for very occasional reserve balancing transactions; (2) maintaining a liquidity position far above average; (3) recording loan losses far below average; and (4) utilizing a mix of over 50% time deposits with all consumer savings accounts receiving maximum permitted interest rates throughout the year. This reflects a superb management job by Gene Abegg and Bob Kline.  
+
+Interest rates received on loans and investments were down substantially throughout the banking industry during 1971. In the last few years, Illinois National’s mix of deposits has moved considerably more than the industry average away from demand money to much more expensive time money. For example, interest paid on deposits has gone from under $1.7 million in 1969 to over $2.7 million in 1971. Nevertheless, the unusual profitability of the Bank has been maintained. Marketing efforts were intensified during the year, with excellent results.
+
+With interest rates even lower now than in 1971, the banking industry is going to have trouble achieving gains in earnings during 1972. Our deposit gains at Illinois National continue to come in the time money area, which produces only very marginal incremental income at present. It will take very close cost control to enable Illinois National to maintain its 1971 level of earnings during 1972.
+
+# Financial
+
+Because of the volume gains being experienced by our insurance subsidiaries early in 1971, we re‐cast Berkshire Hathaway’s bank loan so as to provide those companies with additional capital funds. This financing turned out to be particularly propitious when the opportunity to purchase Home & Auto occurred later in the year.
+
+Our insurance and banking subsidiaries possess a fiduciary relationship with the public. We retain a fundamental belief in operating from a very strongly financed position so as to be in a position to unquestionably fulfill our responsibilities. Thus, we will continue to map our financial future for maximum financial strength in our subsidiaries as well as at the parent company level.
+
+Warren E. Buffett 
+
+Chairman of the Board 
+
+March 13, 1972
