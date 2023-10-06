@@ -1,12 +1,14 @@
 原文信息：
 
-标题：1994 Letter to Berkshire Shareholders
-作者：Warren Buffett
-发表时间：1995-03-07
-链接：[HTML](https://www.berkshirehathaway.com/letters/1994.html)
-中文翻译参考：芒格书院共读群友
-整理：Vito
-校译：Vito
+- 标题：1994 Letter to Berkshire Shareholders
+- 作者：Warren Buffett
+- 发表时间：1995-03-07
+- 链接：[HTML](https://www.berkshirehathaway.com/letters/1994.html)
+- 中文翻译参考：芒格书院共读群友
+- 整理：Vito
+- 校译：Vito
+
+---
 
 **BERKSHIRE HATHAWAY INC.**
 
