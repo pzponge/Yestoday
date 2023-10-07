@@ -32,9 +32,9 @@ A fat wallet, however, is the enemy of superior investment results. And Berkshir
 
 然而资本规模太大却是卓越投资成果的大敌，目前伯克希尔的账面价值已高达119亿美元，当初查理跟我开始经营这家公司时，公司的账面价值只有2,200万美元。虽然像往常一样依然有许多好公司，但相比伯克希尔的资本规模，很难再找到规模足够大的收购对象（就像是查理常常说的：如果一件事情不值得去做，那就不值得做好）。现在我们只考虑买进至少一亿美元以上的投资，在这样的高门槛下，伯克希尔的投资范围一下子缩小了许多。
 
-Nevertheless, we will stick with the approach that got us here and try not to relax our standards. Ted Williams, in <u>The Story of My Life</u>, explains why: "My argument is, to be a good hitter, you've got to get a good ball to hit. It's the first rule in the book. If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter." Charlie and I agree and will try to wait for opportunities that are well within our own "happy zone."
+Nevertheless, we will stick with the approach that got us here and try not to relax our standards. Ted Williams, in _The Story of My Life_, explains why: "My argument is, to be a good hitter, you've got to get a good ball to hit. It's the first rule in the book. If I have to bite at stuff that is out of my happy zone, I'm not a .344 hitter. I might only be a .250 hitter." Charlie and I agree and will try to wait for opportunities that are well within our own "happy zone."[^13]
 
-尽管如此，我们还是会秉持让我们成功的方法，绝对不会放松原有的标准，Ted Williams在《我一生的故事》中写到："我个人的看法是，如果你想成为一个优秀的击球手，首先你必须有一个好的击球点。这是教科书里的第一课，如果强迫自己在舒适球区以外挥棒，我绝对无法成为安打率34.4%的全明星水平，而可能变成25%的普通击球手"。查理跟我都很同意这样的看法，所以我们宁愿静静的等待机会进入我们自己的舒适区。
+尽管如此，我们还是会秉持让我们成功的方法，绝对不会放松原有的标准，泰德·威廉姆斯（Ted Williams）在《我一生的故事》中写道：“我个人的看法是，如果你想成为一个优秀的击球手，首先得等到一个好球再去击打。这是教科书里的第一课。如果我强迫自己对最拿手区域以外的球击打，我将不会成为打击率 .344的优秀击球手。而可能只是个打击率 .250的普通击球手。”查理和我都同意这样的看法，因此我们将努力等待进入我们自己击球区域的机会。[^13]
 
 We will continue to ignore political and economic forecasts, which are an expensive distraction for many investors and businessmen. Thirty years ago, no one could have foreseen the huge expansion of the Vietnam War, wage and price controls, two oil shocks, the resignation of a president, the dissolution of the Soviet Union, a one-day drop in the Dow of 508 points, or treasury bill yields fluctuating between 2.8% and 17.4%.
 
@@ -646,5 +646,12 @@ March 7, 1995
 [^10]: By Vito @20231006 括号内为芒格书院共读群友所加。
 [^11]: By Vito @20231006 此处采用 Ponge 的译法。
 [^12]: By Vito @20231006 括号内为芒格书院共读群友所加。
+[^13]: By Vito @20231007 
+	
+	原文：
+	
+	原先译文：Ted Williams在《我一生的故事》中写到："我个人的看法是，如果你想成为一个优秀的击球手，首先你必须有一个好的击球点。这是教科书里的第一课，如果强迫自己在舒适球区以外挥棒，我绝对无法成为安打率34.4%的全明星水平，而可能变成25%的普通击球手"。查理跟我都很同意这样的看法，所以我们宁愿静静的等待机会进入我们自己的舒适区。
+	
+	采用了 Terrellchen 的译法。修改为：泰德·威廉姆斯（Ted Williams）在《我一生的故事》中写道：“我个人的看法是，如果你想成为一个优秀的击球手，首先得等到一个好球再去击打。这是教科书里的第一课。如果我强迫自己对最拿手区域以外的球击打，我将不会成为打击率 .344的优秀击球手。而可能只是个打击率 .250的普通击球手。”查理和我都同意这样的看法，因此我们将努力等待进入我们自己击球区域的机会。
 
 
