@@ -79,7 +79,7 @@
 1988|
 1989|
 1990 年致股东的信|Warren Buffett|双语|芒格书院共读群友|RW|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
-1991 年致股东的信|Warren Buffett|双语|芒格书院共读群友|RW (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
+1991 年致股东的信|Warren Buffett|双语|芒格书院共读群友|RW|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
 1992 年致股东的信|Warren Buffett|双语|芒格书院共读群友|RW (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md)
 1993|
 1994 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Vito|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)
