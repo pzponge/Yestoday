@@ -4,8 +4,8 @@
 - 作者：Warren Buffett
 - 发表时间：1970-02-18
 - 链接：
-- 中文翻译：Ponge
-- 校译：
+- 翻译：Ponge
+- 整理：Ponge
 
 ---
 
