@@ -341,7 +341,7 @@ Manufactured-housing finance (Clayton)|187|206
 Other income \*|186|141
 Income before investment and derivatives gains or losses|$ 781|$ 787
 
-\* Includes $116 million in 2009 and $92 million in 2008 of fees that Berkshirecharges Clayton for the use of Berkshire's credit.
+\* Includes $116 million in 2009 and $92 million in 2008 of fees that Berkshire charges Clayton for the use of Berkshire's credit.
 
 ---
 
@@ -370,8 +370,8 @@ Shares|Company|Percentage of Company Owned (12/31/09)|Cost (in millions) \*|Mark
 76,633,426|U.S.Bancorp|4.0|2,371|1,725
 39,037,142|Wal-Mart Stores,Inc.|1.0|1,893|2,087
 334,235,585|Wells Fargo & Company|6.5|7,394|9,021
- ||Others|6,680|8,636
- ||Total Common Stocks Carried at Market|$ 34,646|$ 59,034
+ ||Others||6,680|8,636
+ ||Total Common Stocks Carried at Market||$ 34,646|$ 59,034
 
 \* This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of write-ups or write-downs that have been required.
 
@@ -468,11 +468,11 @@ If you are a big spender -- or, for that matter, merely a gawker -- visit Elliot
 
 An attachment to the proxy material that is enclosed with this report explains how you can obtain the credential you will need for admission to the meeting and other events. As for plane, hotel and car reservations, we have again signed up American Express (800-799-6634) to give you special help. Carol Pedersen, who handles these matters, does a terrific job for us each year, and I thank her for it. Hotel rooms can be hard to find, but work with Carol and you will get one.
 
-At Nebraska Furniture Mart, located on a 77-acre site on 72ndStreet between Dodge and Pacific, we will again be having “Berkshire Weekend” discount pricing. To obtain the Berkshire discount, you must make your purchases between Thursday, April 29thand Monday, May 3rdinclusive, and also present your meeting credential. The period’s special pricing will even apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting but which, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m. to 6 p.m. on Sunday. On Saturday this year, from 5:30 p.m. to 8 p.m., NFM is having a Berkyville BBQ to which you are all invited.
+At Nebraska Furniture Mart, located on a 77-acre site on 72nd Street between Dodge and Pacific, we will again be having “Berkshire Weekend” discount pricing. To obtain the Berkshire discount, you must make your purchases between Thursday, April 29th and Monday, May 3rd inclusive, and also present your meeting credential. The period’s special pricing will even apply to the products of several prestigious manufacturers that normally have ironclad rules against discounting but which, in the spirit of our shareholder weekend, have made an exception for you. We appreciate their cooperation. NFM is open from 10 a.m. to 9 p.m. Monday through Saturday, and 10 a.m. to 6 p.m. on Sunday. On Saturday this year, from 5:30 p.m. to 8 p.m., NFM is having a Berkyville BBQ to which you are all invited.
 
 At Borsheims, we will again have two shareholder-only events. The first will be a cocktail reception from 6 p.m. to 10 p.m. on Friday, April 30th. The second, the main gala, will be held on Sunday, May 2nd, from 9 a.m. to 4 p.m. On Saturday, we will be open until 6 p.m.
 
-We will have huge crowds at Borsheims throughout the weekend. For your convenience, therefore, shareholder prices will be available from Monday, April 26ththrough Saturday, May 8th. During that period, please identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that shows you are a Berkshire holder. Enter with rhinestones; leave with diamonds. My daughter tells me that the more you buy, the more you save (kids say the darnedest things).
+We will have huge crowds at Borsheims throughout the weekend. For your convenience, therefore, shareholder prices will be available from Monday, April 26th through Saturday, May 8th. During that period, please identify yourself as a shareholder by presenting your meeting credentials or a brokerage statement that shows you are a Berkshire holder. Enter with rhinestones; leave with diamonds. My daughter tells me that the more you buy, the more you save (kids say the darnedest things).
 
 On Sunday, in the mall outside of Borsheims, a blindfolded Patrick Wolff, twice U.S. chess champion, will take on all comers -- who will have their eyes wide open -- in groups of six. Nearby, Norman Beck, a remarkable magician from Dallas, will bewilder onlookers.
 
@@ -496,7 +496,7 @@ We will again have a drawing at 8:15 on Saturday at each of 13 microphones for t
 
 At 86 and 79, Charlie and I remain lucky beyond our dreams. We were born in America; had terrific parents who saw that we got good educations; have enjoyed wonderful families and great health; and came equipped with a “business” gene that allows us to prosper in a manner hugely disproportionate to that experienced by many people who contribute as much or more to our society’s well-being. Moreover, we have long had jobs that we love, in which we are helped in countless ways by talented and cheerful associates. Indeed, over the years, our work has become ever more fascinating; no wonder we tap-dance to work. If pushed, we would gladly pay substantial sums to have our jobs (but don’t tell the Comp Committee).
 
-Nothing, however, is more fun for us than getting together with our shareholder-partners at Berkshire’s annual meeting. So join us on May 1stat the Qwest for our annual Woodstock for Capitalists. We’ll see you there.
+Nothing, however, is more fun for us than getting together with our shareholder-partners at Berkshire’s annual meeting. So join us on May 1st at the Qwest for our annual Woodstock for Capitalists. We’ll see you there.
 
 Warren E. Buffett
 
