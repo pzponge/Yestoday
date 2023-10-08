@@ -42,10 +42,10 @@
 
 标题|作者|语言|翻译|整理|链接
 ---|---|---|---|---|---
-有限合伙契约|Warren Buffett|双语|芒格书院共读群友|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
+有限合伙契约|Warren Buffett|双语|芒格书院共读群友|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
 1957 年致股东信|Warren Buffett|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md)
-1959-02-11 信|Warren Buffett|双语|诚明散人 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19590211.md)
-1960-02-20 信|Warren Buffett|双语|诚明散人 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19600220.md)
+1959-02-11 信|Warren Buffett|双语||诚明散人 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19590211.md)
+1960-02-20 信|Warren Buffett|双语||诚明散人 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19600220.md)
 1970-02-18 信|Warren Buffett|双语|Ponge|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
