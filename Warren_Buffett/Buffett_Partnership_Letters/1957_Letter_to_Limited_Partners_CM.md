@@ -71,7 +71,7 @@ Two partnerships were started during the middle of 1957 and their results for th
 
 To some extent our better than average performance in 1957 was due to the fact that it was a generally poor year for most stocks. Our performance, relatively, is likely to be better in a bear market than in a bull market so that deductions made from the above results should be tempered by the fact that it was the type of year when we should have done relatively well. In a year when the general market had a substantial advance I would be well satisfied to match the advance of the Averages.
 
-从某种程度上来说，我们在1957年超出市场平均收益的表现是因为股市上大部分股票表现的比较差。相对来说，我们在熊市的表现很可能会比在牛市的时候要好，所以大家应该对上述投资收益保持冷静，因为今年只是我们应当在熊市中获取超出市场平均收益的典型的一年。当某一年市场整体表现相当好时，能够与之持平我就很满意了。
+从某种程度上来说，我们在1957年超出市场平均收益的表现是因为股市上大部分股票表现的比较差。相对来说，我们在熊市的表现很可能会比在牛市的时候要好，考虑到这个前提，上述投资收益并不值得夸耀，因为今年本就是我们应当取得较好收益的典型年份。当某一年市场整体表现相当好时，能够与之持平我就很满意了。
 
 I can definitely say that our portfolio represents better value at the end of 1957 than it did at the end of 1956. This is due to both generally lower prices and the fact that we have had more time to acquire the more substantially undervalued securities which can only be acquired with patience. Earlier I mentioned our largest position which comprised 10% to 20% of the assets of the various partnerships. In time I plan to have this represent 20% of the assets of all partnerships but this cannot be hurried. Obviously during any acquisition period, our primary interest is to have the stock do nothing or decline rather than advance. Therefore, at any given time, a fair proportion of our portfolio may be in the sterile stage. This policy, while requiring patience, should maximize long term profits.
 
