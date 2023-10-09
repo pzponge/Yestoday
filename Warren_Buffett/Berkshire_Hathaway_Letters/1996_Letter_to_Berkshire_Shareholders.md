@@ -5,7 +5,7 @@
 - 标题：1996 Letter to Berkshire Shareholders
 - 作者：Warren Buffett
 - 发表时间：1997-02-28
-- 链接：https://www.berkshirehathaway.com/letters/1996.html
+- 链接：[HTML](https://www.berkshirehathaway.com/letters/1996.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：XiaoTao
 - 校译：XiaoTao
@@ -146,6 +146,8 @@ Al今年虽然已经79岁，不过外表举止看起来像55岁，他将一如�
 An observer might conclude from our hiring practices that Charlie and I were traumatized early in life by an EEOC bulletin on age discrimination. The real explanation, however, is self-interest: It's difficult to teach a new dog old tricks. The many Berkshire managers who are past 70 hit home runs today at the same pace that long ago gave them reputations as young slugging sensations. Therefore, to get a job with us, just employ the tactic of the 76-year-old who persuaded a dazzling beauty of 25 to marry him. "How did you ever get her to accept?" asked his envious contemporaries. The comeback: "I told her I was 86."
 
 有人可能会怀疑我们现在的人事政策，可能是缘于早期年龄歧视政策所受到的创伤，其实真正的原因乃是出于自私的观点，因为我们认为实在是很难教新狗老把戏！在伯克希尔，许多经理人虽然已经年过70，但是他们还是像年轻时一样活跃，频频击出全垒打，所以如果各位有意到本公司谋得一职，请记得运用一位高龄76岁老翁如何追到25岁年轻辣妹的技巧，当同年龄的同伴很钦羡地问他：你到底是如何说服对方同意的呢？？他回答到：很简单，我告诉她我今年86岁！
+
+---
 
 And now we pause for our usual commercial: If you own a large business with good economic characteristics and wish to become associated with an exceptional collection of businesses having similar characteristics, Berkshire may well be the home you seek. Our requirements are set forth on page 21. If your company meets them - and if I fail to make the next birthday party you attend - give me a call.
 
@@ -644,7 +646,7 @@ Every year a few shareholders miss out on the program because they don't have th
 
 每年都有一小部分的股东由于没有将股份登记在本人的名下，或是没能在60天的期限内，将指定捐赠的表格送回给我们，而没办法参加我们的指定捐赠计划，对此查理跟我感到相当头痛，不过我们必须忍痛将这些指定捐赠剔除，因为我们不可能在拒绝其它不符合规定股东的同时，还破例让这些人参与。
 
-*To participate in future programs, you must own Class A shares that are registered in the name of the actual owner, not the nominee name of a broker, bank or depository. Shares not so registered on August 31, 1997, will be ineligible for the 1997 program. When you get the form, return it promptly so that it does not get put aside or forgotten.
+*To participate in future programs, you must own Class A shares that are registered in the name of the actual owner, not the nominee name of a broker, bank or depository. Shares not so registered on August 31, 1997, will be ineligible for the 1997 program. When you get the form, return it promptly so that it does not get put aside or forgotten.*
 
 想要参加这项计划者，请必须拥有A级普通股，同时确定您的股份是登记在自己而非股票经纪人或保管银行的名下，同时必须在1997年8月31日之前完成登记，才有权利参与1997年的捐赠计划，当你收到表格后，请立即填写后寄回，以免被丢在一旁给忘记了。
 
