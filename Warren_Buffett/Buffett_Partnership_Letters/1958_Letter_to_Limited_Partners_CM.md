@@ -60,6 +60,8 @@ Commonwealth（资产为5000万美元，大概是Omaha的First National资产规
 2. Good solid value building up at a satisfactory pace and;
 3. Evidence to the effect that eventually this value would be unlocked although it might be one year or ten years. If the latter were true, the value would presumably have been built up to a considerably larger figure, say, $250 per share.
 
+---
+
 1. 很强的防御特性；
 2. 以令人满意的速度建立的牢固价值基础；
 3. 证据表明价值终将回归，不管是一年还是十年。如果是后一种情况，价值可能会更大，约达每股250美元。
