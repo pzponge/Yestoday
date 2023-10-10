@@ -616,7 +616,7 @@ Shares</br>股份数量|Company</br>公司名称|Percentage of Company Owned</br
 1,727,765|The Washington Post Company</br>华盛顿邮报|18.4|11|674
 304,392,068|Wells Fargo & Company</br>富国银行|7.2|6,702|8,973
  ||Others</br>其他||6,035|4,870
- ||Total Common Stocks Carried at Market</br>普通股总市值额||$ 37,135|$ 49,073
+ ||Total Common Stocks Carried at Market</br>普通股总市值||$ 37,135|$ 49,073
 
 \* This is our actual purchase price and also our tax basis; GAAP “cost” differs in a few cases because of write-ups or write-downs that have been required.
 
