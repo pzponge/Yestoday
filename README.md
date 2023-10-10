@@ -50,9 +50,9 @@
 
 ### RanRan 译本（双语版本）
 
-发表时间|链接
+原文发表时间|链接
 ---|---
-
+1958-02|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md)
 
 
 ## 1.2. 致伯克希尔哈撒韦股东信
