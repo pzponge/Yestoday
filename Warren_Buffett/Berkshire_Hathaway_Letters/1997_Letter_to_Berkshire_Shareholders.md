@@ -325,7 +325,7 @@ Operating Earnings:|
 &emsp;&emsp;Underwriting -- GEICO</br>保险承保：GEICO|280.7|171.4|181.1|110.2
 &emsp;&emsp;Underwriting -- Other Primary</br>保险承保：其他直保|52.9|58.5|34.1|37.6
 &emsp;&emsp;Net investment income</br>保险投资：净投资收益|882.3|726.2|703.6|593.1
-&emsp;Buffalo News布法罗新闻|55.9|50.4|32.7|29.5
+&emsp;Buffalo News</br>布法罗新闻|55.9|50.4|32.7|29.5
 &emsp;Finance Businesses</br>金融业务|28.1|23.1|18.0|14.9
 &emsp;FlightSafety</br>飞安公司|139.5|3.1(1)|84.4|1.9(1)
 &emsp;Home Furnishings</br>家具业务|56.8(2)|43.8|32.2(2)|24.8
