@@ -4,7 +4,7 @@
 - 标题：1997 Letter to Berkshire Shareholders
 - 作者：Warren Buffett
 - 发表时间：1998-02-27
-- 链接：[1997](https://www.berkshirehathaway.com/letters/1997.html)
+- 链接：[HTML](https://www.berkshirehathaway.com/letters/1997.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：XiaoTao
 - 校译：XiaoTao
