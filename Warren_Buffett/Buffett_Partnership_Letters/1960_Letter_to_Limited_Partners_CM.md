@@ -47,7 +47,7 @@ With this background it is not unexpected that 1960 was a better-than-average ye
 根据上述背景，就不难期望1960年我们的表现要好于指数。相较于道琼斯工业指数下降6.3%，我们的7个合伙基金的收益为22.8%。扣除运营费用但未扣除给有限合伙人的权益和普通合伙人的分成，我们的合伙基金在前四个完整年度的表现为：
 
 Year|Partnerships Operating Entire Year|Partnership Gain|Dow-Jones Gain
----|---|---|---
+---|:---:|:---:|:---:
 1957|3|10.4%|-8.4%
 1958|5|40.9%|38.5%
 1959|6|25.9%|19.9%
@@ -66,7 +66,7 @@ On a compounded basis, the cumulative results have been:
 以复利方式计算，累积收益如下：
 
 Year|Partnership Gain|Dow-Jones Gain
----|---|---
+---|:---:|:---:
 1957|10.4%|-8.4%
 1958|55.6%|26.9%
 1959|95.9%|52.2%
