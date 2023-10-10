@@ -6,8 +6,8 @@
 - 发表时间：1992-02-28
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1991.html)
 - 中文翻译参考：芒格书院共读群友
-- 整理：RW
-- 校译：RW
+- 整理：momo
+- 校译：momo
 
 ---
 **BERKSHIRE HATHAWAY INC.**
