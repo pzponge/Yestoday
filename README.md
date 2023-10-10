@@ -48,6 +48,12 @@
 1960-02-20 信|Warren Buffett|双语||诚明散人 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19600220.md)
 1970-02-18 信|Warren Buffett|双语|Ponge|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
+### RanRan 译本（双语版本）
+
+发表时间|链接
+---|---
+
+
 
 ## 1.2. 致伯克希尔哈撒韦股东信
 
