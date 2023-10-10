@@ -22,8 +22,8 @@ Our gain in net worth during 1997 was $8.0 billion, which increased the per-shar
 本公司1997年的账面价值增加80亿美元，A/B股每股账面价值增长34.1%(标普33.4%)，自现任管理层接手的33年以来，每股账面价值由当初的19美元成长到目前的25488美元，年复合成长率约为24.1%。
 
 [^1]: All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
-
-(在年报中所有的数据都适用于伯克希尔A级普通股，这是本公司在1996年以前流通在外唯一的一种股份，B级普通股只拥有A级普通股经济利益的1/30)
+	
+	(在年报中所有的数据都适用于伯克希尔A级普通股，这是本公司在1996年以前流通在外唯一的一种股份，B级普通股只拥有A级普通股经济利益的1/30)
 
 Given our gain of 34.1%, it is tempting to declare victory and move on. But last year's performance was no great triumph: *Any* investor can chalk up large returns when stocks soar, as they did in 1997. In a bull market, one must avoid the error of the preening duck that quacks boastfully after a torrential rainstorm, thinking that its paddling skills have caused it to rise in the world. A right-thinking duck would instead compare its position after the downpour to that of the other ducks on the pond.
 
@@ -68,7 +68,7 @@ Here are the growth rates of the two segments by decade:
 
 下表是这两个部门每十年的成长率：
 
-Decade Ending<br>十年期|Investments Per Share<br>每股投资规模|Pre-tax Earnings Per Share Excluding All Income from Investments<br>税前每股经营收益
+Decade Ending</br>十年期|Investments Per Share</br>每股投资规模|Pre-tax Earnings Per Share Excluding All Income from Investments</br>税前每股经营收益
 ---|---:|---:
 1977|24.6%|27.6%
 1987|26.5%|24.1%
@@ -171,7 +171,7 @@ As the numbers in the following table show, Berkshire's insurance business has b
 
 不过如同下表中的数字所显示的，伯克希尔的保险业务可说是大获全胜，表中的浮存金，系将所有的损失准备、损失费用调整准备与未赚取保费加总后，再扣除应付佣金、预付并购成本以及相关再保递延费用等。相对于我们的保费收入总额，我们的浮存金规模算是相当大的，至于浮存金的成本则决定于所发生的承保损益而定，在某些年度，就像是最近五年，由于我们有承保收益，所以换句话说，我们的资金成本甚至是负的，光是持有这些资金我们就已经开始让我们赚钱了。
 
-Year<br>年份|Underwriting Loss (1) (In $ Millions)<br>承受损失|Average Float (2) (In $ Millions)<br>平均浮存金规模|Approximate Cost of Funds (Ratio of 1 to 2)<br>浮存金近似成本|Yearend Yield on Long-Term Govt. Bonds<br>长期政府债劵收益率
+Year</br>年份|Underwriting Loss (1) (In $ Millions)</br>承受损失|Average Float (2) (In $ Millions)</br>平均浮存金规模|Approximate Cost of Funds (Ratio of 1 to 2)</br>浮存金近似成本|Yearend Yield on Long-Term Govt. Bonds</br>长期政府债劵收益率
 ---|---:|---:|---:|---:
 1967|profit|$ 17.3|less than zero|5.50
 1968|profit|19.9|less than zero|5.90%
@@ -261,7 +261,7 @@ Below are the new business and in-force figures for the last five years:
 
 下表是新加入自愿性保单以及有效保单数量的统计：
 
-Years<br>年度|New Voluntary Auto Policies<br>新加入自愿性保单|Voluntary Auto Policies in Force<br>有效保单数量
+Years</br>年度|New Voluntary Auto Policies</br>新加入自愿性保单|Voluntary Auto Policies in Force</br>有效保单数量
 :---:|:---:|:---:
 1993|354,882|2,011,055
 1994|396,217|2,147,549
@@ -315,33 +315,33 @@ The table that follows shows the main sources of Berkshire's reported earnings. 
 
 下表显示伯克希尔报告收益的主要来源，在这张表中商誉的摊销数与购买法会计调整数会从个别被投资公司分离出来，单独加总列示，之所以这样做是为了让旗下各事业的收益状况，不因我们的投资而有所影响，过去我一再地强调我们认为这样的表达方式，较之一般公认会计原则要求以个别企业基础做调整，不管是对投资者或是管理者来说，更有帮助，当然最后损益加总的数字仍然会与经会计师查核的数字一致。
 
- ||Pre-Tax Earnings<br>税前收益|Pre-Tax Earnings<br>税前收益|Berkshire's Share of Net Earnings (after taxes and minority interests)<br>税后收益（伯克希尔应占）|Berkshire's Share of Net Earnings (after taxes and minority interests)<br>税后收益（伯克希尔）
+ ||Pre-Tax Earnings</br>税前收益|Pre-Tax Earnings</br>税前收益|Berkshire's Share of Net Earnings (after taxes and minority interests)</br>税后收益（伯克希尔应占）|Berkshire's Share of Net Earnings (after taxes and minority interests)</br>税后收益（伯克希尔）
 ---|---:|---:|---:|---:
-(in millions)<br>以百万美金计|1997|1996|1997|1996
+(in millions)</br>以百万美金计|1997|1996|1997|1996
 Operating Earnings:|
 &emsp;Insurance Group:|
-&emsp;&emsp;Underwriting -- Super-Cat<br>保险承保：巨灾再保险|$ 283.0|$ 167.0|$ 182.7|$ 107.4
-&emsp;&emsp;Underwriting -- Other Reinsurance<br>保险承保：其他再保险|(155.2)|(174.8)|(100.1)|(112.4)
-&emsp;&emsp;Underwriting -- GEICO<br>保险承保：GEICO|280.7|171.4|181.1|110.2
-&emsp;&emsp;Underwriting -- Other Primary<br>保险承保：其他直保|52.9|58.5|34.1|37.6
-&emsp;&emsp;Net investment income<br>保险投资：净投资收益|882.3|726.2|703.6|593.1
-&emsp;Buffalo News布法罗新闻|55.9|50.4|32.7|29.5
-&emsp;Finance Businesses<br>金融业务|28.1|23.1|18.0|14.9
-&emsp;FlightSafety<br>飞安公司|139.5|3.1(1)|84.4|1.9(1)
-&emsp;Home Furnishings<br>家具业务|56.8(2)|43.8|32.2(2)|24.8
-&emsp;Jewelry<br>珠宝业务|31.6|27.8|18.3|16.1 
-&emsp;Scott Fetzer (excluding finance operation)<br>Scott Fetzer+Kirby+图书|118.9|121.7|77.3|81.6
-&emsp;See’s Candies<br>喜诗糖果|58.6|51.9|35.0|30.8
-&emsp;Shoe Group<br>鞋业集团|48.8|61.6|32.2|41.0
-&emsp;Purchase-Accounting Adjustments<br>购买法会计调整|(104.9)|(75.7)|(97.0)|(70.5)
-&emsp;Interest Expense(3)<br>利息费用|(106.6)|(94.3)|(67.1)|(56.6)
-&emsp;Shareholder-Designated Contributions<br>股东指定捐赠|(15.4)|(13.3)|(9.9)|(8.5)
-&emsp;Other<br>其他（制服）|60.7|73.0|37.0|42.2
+&emsp;&emsp;Underwriting -- Super-Cat</br>保险承保：巨灾再保险|$ 283.0|$ 167.0|$ 182.7|$ 107.4
+&emsp;&emsp;Underwriting -- Other Reinsurance</br>保险承保：其他再保险|(155.2)|(174.8)|(100.1)|(112.4)
+&emsp;&emsp;Underwriting -- GEICO</br>保险承保：GEICO|280.7|171.4|181.1|110.2
+&emsp;&emsp;Underwriting -- Other Primary</br>保险承保：其他直保|52.9|58.5|34.1|37.6
+&emsp;&emsp;Net investment income</br>保险投资：净投资收益|882.3|726.2|703.6|593.1
+&emsp;Buffalo News</br>布法罗新闻|55.9|50.4|32.7|29.5
+&emsp;Finance Businesses</br>金融业务|28.1|23.1|18.0|14.9
+&emsp;FlightSafety</br>飞安公司|139.5|3.1(1)|84.4|1.9(1)
+&emsp;Home Furnishings</br>家具业务|56.8(2)|43.8|32.2(2)|24.8
+&emsp;Jewelry</br>珠宝业务|31.6|27.8|18.3|16.1 
+&emsp;Scott Fetzer (excluding finance operation)</br>Scott Fetzer+Kirby+图书|118.9|121.7|77.3|81.6
+&emsp;See’s Candies</br>喜诗糖果|58.6|51.9|35.0|30.8
+&emsp;Shoe Group</br>鞋业集团|48.8|61.6|32.2|41.0
+&emsp;Purchase-Accounting Adjustments</br>购买法会计调整|(104.9)|(75.7)|(97.0)|(70.5)
+&emsp;Interest Expense(3)</br>利息费用|(106.6)|(94.3)|(67.1)|(56.6)
+&emsp;Shareholder-Designated Contributions</br>股东指定捐赠|(15.4)|(13.3)|(9.9)|(8.5)
+&emsp;Other</br>其他（制服）|60.7|73.0|37.0|42.2
  ||
-Operating Earnings<br>经营收益|1,715.7|1,221.4|1,194.5|883.1
-Capital Gains from Investments<br>出售资产和已实现证劵收益|1,111.9|2,484.5|707.1|1,605.5
+Operating Earnings</br>经营收益|1,715.7|1,221.4|1,194.5|883.1
+Capital Gains from Investments</br>出售资产和已实现证劵收益|1,111.9|2,484.5|707.1|1,605.5
  ||
-Total Earnings - All Entities<br>所有实体-收益合计|$ 2,827.6|$ 3,705.9|$ 1,901.6|$ 2,488.6
+Total Earnings - All Entities</br>所有实体-收益合计|$ 2,827.6|$ 3,705.9|$ 1,901.6|$ 2,488.6
 
 *(1) From date of acquisition, December 23, 1996.*
 
@@ -385,21 +385,21 @@ The following table sets forth our 1997 look-through earnings, though I warn you
 
 各位可以从下表看出我们是如何计算出1997年透视收益的，不过我还是要提醒各位这些数字只不过是估计数，很多都是基于简单的判断，(被投资公司所分配的股利收入已经包含在保险业务的净投资收益项下)。
 
-Berkshire's Major Investees<br>伯克希尔主要投资公司|Berkshire's Approximate Ownership at Yearend(1)<br>伯克希尔应占所有权|Berkshire's Share of Undistributed Operating Earnings (in millions)(2)<br>伯克希尔应占未分配收益
+Berkshire's Major Investees</br>伯克希尔主要投资公司|Berkshire's Approximate Ownership at Yearend(1)</br>伯克希尔应占所有权|Berkshire's Share of Undistributed Operating Earnings (in millions)(2)</br>伯克希尔应占未分配收益
 ---|---:|---:
-American Express Company<br>美国运通|10.7%|$ 161
-The Coca-Cola Company<br>可口可乐|8.1%|216
-The Walt Disney Company<br>迪士尼|3.2%|65
-Freddie Mac<br>房地美|8.6%|86
-The Gillette Company<br>吉列公司|8.6%|82
-The Washington Post Company<br>华盛顿邮报|16.5%|30
-Wells Fargo & Company富国银行|7.8%|103
+American Express Company</br>美国运通|10.7%|$ 161
+The Coca-Cola Company</br>可口可乐|8.1%|216
+The Walt Disney Company</br>迪士尼|3.2%|65
+Freddie Mac</br>房地美|8.6%|86
+The Gillette Company</br>吉列公司|8.6%|82
+The Washington Post Company</br>华盛顿邮报|16.5%|30
+Wells Fargo & Company</br>富国银行|7.8%|103
  ||
-Berkshire's share of undistributed earnings of major investees<br>伯克希尔主要投资未分配收益合计||743
-Hypothetical tax on these undistributed investee earnings(3)<br>对未分配收益的假设税||(105)
-Reported operating earnings of Berkshire<br>伯克希尔报告的经营收益||1,292
+Berkshire's share of undistributed earnings of major investees</br>伯克希尔主要投资未分配收益合计||743
+Hypothetical tax on these undistributed investee earnings(3)</br>对未分配收益的假设税||(105)
+Reported operating earnings of Berkshire</br>伯克希尔报告的经营收益||1,292
  ||
-Total look-through earnings of Berkshire<br>伯克希尔透视收益合计||$ 1,930
+Total look-through earnings of Berkshire</br>伯克希尔透视收益合计||$ 1,930
 
 (1) Does not include shares allocable to minority interests
 
@@ -511,19 +511,19 @@ Below we present our common stock investments. Those with a market value of more
 
 下表是伯克希尔市价超过7.5亿美元以上的股票投资。
 
-Shares<br>股份数量|Company<br>公司名称|Cost\* 12/31/97 (dollars in millions)<br>成本|Market 12/31/97 (dollars in millions)市值
+Shares</br>股份数量|Company</br>公司名称|Cost\* 12/31/97 (dollars in millions)</br>成本|Market 12/31/97 (dollars in millions)</br>市值
 ---:|:---|---:|---:
-49,456,900|American Express Company<br>美国运通|$ 1,392.7|$ 4,414.0
-200,000,000|The Coca-Cola Company<br>可口可乐|1,298.9|13,337.5
-21,563,414|The Walt Disney Company<br>迪士尼-微减|381.2|2,134.8
-63,977,600|Freddie Mac<br>房地美|329.4|2,683.1
-48,000,000|The Gillette Company吉列|600.0|4,821.0
-23,733,198|Travelers Group Inc.<br>旅行者集团-所罗门转股|604.4|1,278.6
-1,727,765|The Washington Post Company<br>华盛顿邮报|10.6|840.6
-6,690,218|Wells Fargo & Company富国银行|412.6|2,270.9
- ||Others其他|2,177.1|4,467.2
+49,456,900|American Express Company</br>美国运通|$ 1,392.7|$ 4,414.0
+200,000,000|The Coca-Cola Company</br>可口可乐|1,298.9|13,337.5
+21,563,414|The Walt Disney Company</br>迪士尼-微减|381.2|2,134.8
+63,977,600|Freddie Mac</br>房地美|329.4|2,683.1
+48,000,000|The Gillette Company</br>吉列|600.0|4,821.0
+23,733,198|Travelers Group Inc.</br>旅行者集团-所罗门转股|604.4|1,278.6
+1,727,765|The Washington Post Company</br>华盛顿邮报|10.6|840.6
+6,690,218|Wells Fargo & Company</br>富国银行|412.6|2,270.9
+ ||Others</br>其他|2,177.1|4,467.2
  ||
-Total Common Stocks合计|$ 7,206.9|$ 36,247.7
+Total Common Stocks</br>合计|$ 7,206.9|$ 36,247.7
 
 *\ Represents tax-basis cost which, in aggregate, is $1.8 billion less than GAAP cost.
 
