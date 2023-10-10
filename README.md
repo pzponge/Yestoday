@@ -54,6 +54,9 @@
 原文发表时间|链接
 ---|---
 1958-02|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md)
+1959-02-11|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md)
+1960-02-20|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19600220_Letter_RR.md)
+1961-01-30|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610130_Letter_RR.md)
 
 
 ## 1.2. 致伯克希尔哈撒韦股东信
