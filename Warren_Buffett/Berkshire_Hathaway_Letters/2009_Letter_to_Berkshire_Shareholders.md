@@ -98,9 +98,9 @@ Selecting the S&P 500 as our bogey was an easy choice because our shareholders, 
 
 将标普 500 指数作为我们的基准是一个很容易的选择，因为我们的股东持有指数基金几乎不费什么代价就能实现这样的业绩。那么，他们有什么理由为我们仅仅创造同样绩效而给我们付钱？
 
-A more difficult decision for us was how to measure the progress of Berkshire versus the S&P. There are good arguments for simply using the change in our stock price. Over an extended period of time, in fact, that is the best test. But year-to-year market prices can be extraordinarily erratic. Even evaluations covering as long as a decade can be greatly distorted by foolishly high or low prices at the beginning or end of the measurement period. Steve Ballmer, of Microsoft, and Jeff Immelt, of GE, can tell you about that problem, suffering as they do from the nosebleed prices at which their stocks traded when they were handed the managerial baton.
+A more difficult decision for us was how to measure the progress of Berkshire versus the S&P. There are good arguments for simply using the change in our stock price. Over an extended period of time, in fact, that is the best test. But year-to-year market prices can be extraordinarily erratic. Even evaluations covering as long as a decade can be greatly distorted by foolishly high or low prices at the beginning or end of the measurement period. Steve Ballmer, of Microsoft, and Jeff Immelt, of GE, can tell you about that problem, suffering as they do from the nosebleed prices at which their stocks traded when they were handed the managerial baton.[^7]
 
-对于我们而言，难度更大的决定是如何衡量伯克希尔相比标普 500 指数的进步。简单的使用股价变化来衡量也有充分的理由。实际上，在一段较长时间内股价是最好的考验。不过，每一年的市场价格可能会极其不稳定，即使涵盖时间长达 10 年的评估，也可能因衡量期间开始和结束时愚蠢的高价或低价而极大扭曲。微软的史蒂夫鲍尔默（Steve Ballmer）和通用电气的杰夫伊梅尔特（Jeff Immelt）对此就有体会，他们在接掌这些企业时，都遭遇股价暴跌到令人流鼻血的地步。
+对于我们而言，难度更大的决定是如何衡量伯克希尔相比标普 500 指数的进步。简单的使用股价变化来衡量也有充分的理由。实际上，在一段较长时间内股价是最好的考验。不过，每一年的市场价格可能会极其不稳定，即使涵盖时间长达 10 年的评估，也可能因衡量期间开始和结束时愚蠢的高价或低价而极大扭曲。微软的史蒂夫点·鲍尔默（Steve Ballmer）和通用电气的杰夫·伊梅尔特（Jeff Immelt）对此就有体会，他们在接掌这些企业时，就遭遇了高得吓人的股票交易价格下跌的过程。[^7]
 
 The ideal standard for measuring our yearly progress would be the change in Berkshire’s per-share intrinsic value. Alas, that value cannot be calculated with anything close to precision, so we instead use a crude proxy for it: per-share book value. Relying on this yardstick has its shortcomings, which we discuss on pages 92 and 93. Additionally, book value at most companies understates intrinsic value, and that is certainly the case at Berkshire. In aggregate, our businesses are worth considerably more than the values at which they are carried on our books. In our all-important insurance business, moreover, the difference is huge. Even so, Charlie and I believe that our book value -- understated though it is -- supplies the most useful tracking device for changes in intrinsic value. By this measurement, as the opening paragraph of this letter states, our book value since the start of fiscal 1965 has grown at a rate of 20.3% compounded annually.
 
@@ -878,3 +878,11 @@ P.S. 乘火车前来。
 	肖良版：当天上掉金子的时候，应该拿桶去接，而不是管子。
 	
 	据Wikipedia，A thimble is a small pitted cup worn on the finger that protects it from being pricked or poked by a needle while sewing. 指的是戴在手指头上用于顶针的一种工具，容量很小，作用中国俗称“顶针”相似，但形状不一样，thimble不是中空的。这也跟我们平时看到的翻译一致。故翻译修改为：当天上掉金子的时候，应该拿桶去接，而不是顶针。
+
+[^7]: By 孙萧萧 & Terrellchen @20231010
+	
+	原文：Steve Ballmer, of Microsoft, and Jeff Immelt, of GE, can tell you about that problem, suffering as they do from the nosebleed prices at which their stocks traded when they were handed the managerial baton.
+	
+	肖良版：微软的史蒂夫鲍尔默（Steve Ballmer）和通用电气的杰夫伊梅尔特（Jeff Immelt）对此就有体会，他们在接掌这些企业时，都遭遇股价暴跌到令人流鼻血的地步。
+	
+	这里面 nosebleed 的含义是「非常高」而不是指跌到流鼻血，属于翻译错误，调整为：微软的史蒂夫点·鲍尔默（Steve Ballmer）和通用电气的杰夫·伊梅尔特（Jeff Immelt）对此就有体会，他们在接掌这些企业时，就遭遇了高得吓人的股票交易价格下跌的过程。
