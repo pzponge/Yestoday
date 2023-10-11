@@ -12,11 +12,9 @@
 ---
 
 
-**BERKSHIRE HATHAWAY INC.
+**BERKSHIRE HATHAWAY INC.**
 
-**致伯克希尔哈撒韦公司的股东：
-
-致伯克希尔·哈撒韦公司全体股东：
+**致伯克希尔哈撒韦公司的股东：**
 
 Our gain in net worth during 1998 was $25.9 billion, which increased the per-share book value of both our Class A and Class B stock by 48.3%. Over the last 34 years (that is, since present management took over) per-share book value has grown from $19 to $37,801, a rate of 24.7% compounded annually.[^1]
 
