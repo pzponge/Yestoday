@@ -90,7 +90,7 @@
 1989 年致股东的信|Warren Buffett|双语|芒格书院共读群友|当呼吸化为空气 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md)
 1990 年致股东的信|Warren Buffett|双语|芒格书院共读群友|momo|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
 1991 年致股东的信|Warren Buffett|双语|芒格书院共读群友|momo|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
-1992 年致股东的信|Warren Buffett|双语|芒格书院共读群友|momo (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md)
+1992|
 1993 年致股东的信|Warren Buffett|双语|芒格书院共读群友|当呼吸化为空气 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md)
 1994 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Vito|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)
 1995 年致股东的信|Warren Buffett|双语|芒格书院共读群友|XiaoTao|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1995_Letter_to_Berkshire_Shareholders.md)
@@ -106,7 +106,7 @@
 2005 年致股东的信|Warren Buffett|双语|芒格书院共读群友|康鹏 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md)
 2006 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
 2007 年致股东的信|Warren Buffett|双语|芒格书院共读群友|黄谦 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md)
-2008 年致股东的信|Warren Buffett|双语|芒格书院共读群友|孙萧萧 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md)
+2008 年致股东的信|Warren Buffett|双语|芒格书院共读群友|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md)
 2009 年致股东的信|Warren Buffett|双语|芒格书院共读群友|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2009_Letter_to_Berkshire_Shareholders.md)
 2010 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Hilary_和瑞 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md)
 2011 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
