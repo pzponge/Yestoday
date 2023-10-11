@@ -142,7 +142,7 @@ Year</br>年份|Operating Earnings in $ millions</br>经营收益（百万美元
 
 We will continue the capital allocation practices we have used in the past. If stocks become significantly cheaper than entire businesses, we will buy them aggressively. If selected bonds become attractive, as they did in 2002, we will again load up on these securities. Under *any* market or economic conditions, we will be happy to buy businesses that meet our standards. And, for those that do, the bigger the better. Our capital is underutilized now, but that will happen periodically. It's a painful condition to be in -- but not as painful as doing something stupid. (I speak from experience.)
 
-往后我们仍将维持过去惯用的资本配置方式，如果买股票比买整家公司便宜，我们就会大肆买入，如果特定的债券够吸引人，就像是 2002 年一样，我们就会大量买进这类债券。不管市场或经济状况如何，我们随时都很乐意买进符合我们标准的企业，而且规模最好越大越好，目前我们的资金并未被充分利用，这种情况时而有之，虽然这让人感到不太好受，但那总比干蠢事好得多。（这可是我从惨痛的教训中学来的。)
+往后我们仍将维持过去惯用的资本配置方式，如果买股票比买整家公司便宜，我们就会大肆买入，如果特定的债券够吸引人，就像是 2002 年一样，我们就会大量买进这类债券。不管市场或经济状况如何，我们随时都很乐意买进符合我们标准的企业，而且规模最好越大越好，目前我们的资金并未被充分利用，这种情况时而有之，虽然这让人感到不太好受，但那总比干蠢事好得多。（这可是我从惨痛的教训中学来的。）
 
 Overall, we are certain Berkshire's performance in the future will fall *far* short of what it has been in the past. Nonetheless, Charlie and I remain hopeful that we can deliver results that are modestly above average. That's what we're being paid for.
 
@@ -746,7 +746,7 @@ Shaw Industries</br>Shaw 工业|436|424
 Apparel</br>服装鞋类|289|229
 Retail Operations</br>零售业务|224|219
 Flight Services</br>航空服务|72|225
-McLane\*麦克莱恩\*|150|--
+McLane\*</br>麦克莱恩\*|150|--
 Other businesses</br>其他|427|328
  ||$ 2,157|$ 1,941
 
@@ -833,7 +833,7 @@ Shares</br>股份数量|Company</br>公司名称|Percentage of Company Owned</br
 1,727,765|The Washington Post Company</br>华盛顿邮报|18.1|11|1,367
 56,448,380|Wells Fargo & Company</br>富国银行|3.3|463|3,324
  ||Others</br>其他||2,863|4,682
-||Total Common Stocks</br>股票投资合计||$ 8,515|$35,287
+||Total Common Stocks</br>普通股投资合计||$ 8,515|$35,287
 
 We bought some Wells Fargo shares last year. Otherwise, among our six largest holdings, we last changed our position in Coca-Cola in 1994, American Express in 1998, Gillette in 1989, Washington Post in 1973, and Moody's in 2000. Brokers don't love us.
 
@@ -986,49 +986,45 @@ Chairman of the Board
 
 董事会主席
 
-
+	
 [^*]:
-
-  原文：All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
-
-  译文（DeepL翻译）：*本报告中使用的所有数字均适用于伯克希尔公司的 A 股，它是公司在 1996 年之前唯一流通股的继承者。B 股的经济利益为A股的三十分之一。
+	
+	原文：All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.  
+	
+	译文（DeepL翻译）：*本报告中使用的所有数字均适用于伯克希尔公司的 A 股，它是公司在 1996 年之前唯一流通股的继承者。B 股的经济利益为A股的三十分之一。
 
 
 [^1]: By 孙萧萧 @20231011
-
-  原文：These contracts were explained on page 10 of the 2002 annual report, available on the Internet at www.berkshirehathaway.com. In brief, this segment consists of a few jumbo policies that are likely to produce underwriting losses (which are capped) but also provide unusually large amounts of float.
-
-  肖良版：未译。
+	
+	原文：These contracts were explained on page 10 of the 2002 annual report, available on the Internet at www.berkshirehathaway.com. In brief, this segment consists of a few jumbo policies that are likely to produce underwriting losses (which are capped) but also provide unusually large amounts of float. 
+	
+	肖良版：未译 
 	
 	译文（DeepL翻译）：2002 年年度报告第 10 页对这些合同作了说明，可上官网www.berkshirehathaway.com查阅。简而言之，这部分合同由一些巨额保单组成，这些保单可能会产生承保损失（有上限），但也提供了异常巨大的浮存金。
 
-  
+
 [^2]: By 孙萧萧 @20231011
-
-  原文：We’ve realized some extra income in this business because of accelerated principal payments
-we received from certain fixed-income securities we had purchased at discounts. This
-phenomenon has ended, and earnings are therefore likely to be lower in this segment during
-the next few years.
-
-  肖良版：未译。
+	
+	原文：We've realized some extra income in this business because of accelerated principal payments we received from certain fixed-income securities we had purchased at discounts. This phenomenon has ended, and earnings are therefore likely to be lower in this segment during the next few years. 
+	
+	肖良版：未译 
 	
 	参照网络译文修改为：去年我们在这些业务实现了一些额外的收益，其原因在于我们先前以折价买进某些特定的固定收益证券提前清偿本金所致，这样的现象的发生已经告一段落，换句话说，这部门的盈余在未来几年很可能会持续下滑。
 
 
 [^3]: By 孙萧萧 @20231011
-
-  原文：Three of our building-materials businesses -- Acme Brick, Benjamin Moore and MiTek -- had record operating earnings last year. And earnings at Johns Manville, the fourth, were trending upward at yearend. Collectively, these companies earned 21.0% on tangible net worth.
-
-  肖良版：未译。
+	
+	原文：Three of our building-materials businesses -- Acme Brick, Benjamin Moore and MiTek -- had record operating earnings last year. And earnings at Johns Manville, the fourth, were trending upward at yearend. Collectively, these companies earned 21.0% on tangible net worth.  
+	
+	肖良版：未译 
 	
 	参照网络译文修改为：我们旗下三个建筑材料事业，Acme 砖块、Benjamin Moore 油漆以及 MiTek，去年的获利纷纷创下历史新高，至于第四个事业 Johns Manville 的表现也于年底开始提升，总的来说，这些事业的净值报酬率高达 21%。
 
 
 [^4]: By 孙萧萧 @20231011
-
-  原文：Shaw Industries, the world's largest manufacturer of broadloom carpet, also had a record year. Led by Bob Shaw, who built this huge enterprise from a standing start, the company will likely set another earnings record in 2004. In November, Shaw acquired various carpet operations from Dixie Group, which should add about $240 million to sales this year, boosting Shaw's volume to nearly $5 billion.
-
-  肖良版：未译。
 	
-	参照网络译文修改为：Shaw 地毯-全世界最大铺地地毯制造商，去年同样也缔造了历史记录，在 Bob Shaw 的领导之下，从一家小公司发展成大企业，一般相信 2004 年该公司的获利会持续创新高，同年 11 月 Shaw 又透过购并的方式买下年营业额 2.4 亿美元的 Dixie 集团，使得 Shaw 的年营业额一举突破 50 亿美元。
-
+	原文：Shaw Industries, the world's largest manufacturer of broadloom carpet, also had a record year. Led by Bob Shaw, who built this huge enterprise from a standing start, the company will likely set another earnings record in 2004. In November, Shaw acquired various carpet operations from Dixie Group, which should add about $240 million to sales this year, boosting Shaw's volume to nearly $5 billion.
+	
+	肖良版：未译 
+	
+	参照网络译文修改为：Shaw 地毯——全世界最大铺地地毯制造商，去年同样也缔造了历史记录，在 Bob Shaw 的领导之下，从一家小公司发展成大企业，一般相信 2004 年该公司的获利会持续创新高，同年 11 月 Shaw 又透过购并的方式买下年营业额 2.4 亿美元的 Dixie 集团，使得 Shaw 的年营业额一举突破 50 亿美元。
