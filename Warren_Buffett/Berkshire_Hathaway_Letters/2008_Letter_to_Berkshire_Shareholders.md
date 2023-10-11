@@ -914,37 +914,35 @@ Chairman of the Board
 董事会主席
 
 
-
 [^*]:
-
-  原文：All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/30th of those shown for A.
-
-  译文（微信翻译）：*本报告中使用的所有每股数字都适用于伯克希尔的A股。B股数据为A股的三十分之一。
+	
+	原文：All per-share figures used in this report apply to Berkshire’s A shares. Figures for the B shares are 1/30th of those shown for A.  
+	
+	译文（微信翻译）：*本报告中使用的所有每股数字都适用于伯克希尔的A股。B股数据为A股的三十分之一。
 
 
 [^1]: By 孙萧萧 @20231010
-
-  原文：Includes interest earned by Berkshire (net of related income taxes) of $72 in 2008 and $70 in 2007.
-
-  肖良版：未译。
+	
+	原文：Includes interest earned by Berkshire (net of related income taxes) of $72 in 2008 and $70 in 2007.  
+	
+	肖良版：未译。
 	
 	参照黄媛 李婧 杨峻 路璐2009年致股东信的译法：包括伯克希尔 2008 年 7200 万美元和 2007 年 7000 万美元利息（扣除相关所得税，括号中为负值）。
 
 
 [^2]: By 孙萧萧 @20231010
-
-  原文：Includes $92 million in 2008 and $85 million in 2007 of fees that Berkshire charges Clayton for the use of Berkshire’s credit.
-
-  肖良版：未译。
+	
+	原文：Includes $92 million in 2008 and $85 million in 2007 of fees that Berkshire charges Clayton for the use of Berkshire’s credit.  
+	
+	肖良版：未译。
 	
 	增加DeepL机译：包括伯克希尔向克莱顿收取的使用伯克希尔信贷的利息，2008 年为 9200 万美元，2007 年为 8500 万美元。
 
 
 [^3]: By 孙萧萧 @20231010
-
-  原文：In our quarterly reports, however, the amount of gain or loss has swung wildly from a profit of $327 million in the second quarter of 2008 to a loss of $693 million in the fourth quarter of 2008.
-
-  肖良版：然而，在我们的季度报表中，收益和损失变化很大，从 2008 年第二季度的 3.27 亿美元利润到2008年第四季度的 6.98 美元损失。
+	
+	原文：In our quarterly reports, however, the amount of gain or loss has swung wildly from a profit of $327 million in the second quarter of 2008 to a loss of $693 million in the fourth quarter of 2008.  
+	
+	肖良版：然而，在我们的季度报表中，收益和损失变化很大，从 2008 年第二季度的 3.27 亿美元利润到2008年第四季度的 6.98 美元损失。
 	
 	最后一句翻译错误，已修改为：然而，在我们的季度报表中，收益和损失变化很大，从 2008 年第二季度的 3.27 亿美元利润到2008年第四季度的 6.93 亿美元损失。
-
