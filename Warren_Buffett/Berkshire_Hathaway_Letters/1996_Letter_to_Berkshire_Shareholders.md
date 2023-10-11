@@ -1,5 +1,3 @@
-# 巴菲特致股东的信1996
-
 原文信息：
 
 - 标题：1996 Letter to Berkshire Shareholders
@@ -20,13 +18,13 @@ To the Shareholders of Berkshire Hathaway Inc.:
 
 致伯克希尔·哈撒韦公司所有股东：
 
-Our gain in net worth during 1996 was $6.2 billion, or 36.1%. Per-share book value, however, grew by less, 31.8%, because the number of Berkshire shares increased: We issued stock in acquiring FlightSafety International and also sold new Class B shares.* Over the last 32 years (that is, since present management took over) per-share book value has grown from $19 to $19,011, or at a rate of 23.8% compounded annually.
+Our gain in net worth during 1996 was $6.2 billion, or 36.1%. Per-share book value, however, grew by less, 31.8%, because the number of Berkshire shares increased: We issued stock in acquiring FlightSafety International and also sold new Class B shares.[^1] Over the last 32 years (that is, since present management took over) per-share book value has grown from $19 to $19,011, or at a rate of 23.8% compounded annually.
 
 本公司1996年的账面价值增加62亿美元，或增长了36.1%，但每股账面价值仅增长31.8%(标普23%)，原因在于去年我们以发行新股的方式并购了飞安国际公司，同时另外还追加发行了一些B级普通股，自现任管理层接手的32年以来，每股账面价值由当初的19美元成长到目前的19011美元，年复合成长率约为23.8%。
 
-\* Each Class B share has an economic interest equal to 1/30th of that possessed by a Class A share, which is the new designation for the only stock that Berkshire had outstanding before May 1996. Throughout this report, we state all per-share figures in terms of "Class A equivalents," which are the sum of the Class A shares outstanding and 1/30th of the Class B shares outstanding.
-
-(B级普通股拥有A级普通股1/30的经济利益，A级普通股是伯克希尔从1996年5月之前发行的唯一股份，本报告中所谓的每股数字系以A级普通股等价数为基础，亦即全部A级普通股数加上B级普通股数的1/30。)
+[^1]: Each Class B share has an economic interest equal to 1/30th of that possessed by a Class A share, which is the new designation for the only stock that Berkshire had outstanding before May 1996. Throughout this report, we state all per-share figures in terms of "Class A equivalents," which are the sum of the Class A shares outstanding and 1/30th of the Class B shares outstanding.
+	
+	(B级普通股拥有A级普通股1/30的经济利益，A级普通股是伯克希尔从1996年5月之前发行的唯一股份，本报告中所谓的每股数字系以A级普通股等价数为基础，亦即全部A级普通股数加上B级普通股数的1/30。)
 
 For technical reasons, we have restated our 1995 financial statements, a matter that requires me to present one of my less-than-thrilling explanations of accounting arcana. I'll make it brief.
 
