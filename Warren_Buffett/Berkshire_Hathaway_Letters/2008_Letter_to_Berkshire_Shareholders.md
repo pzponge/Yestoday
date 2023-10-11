@@ -113,21 +113,21 @@ In good years and bad, Charlie and I simply focus on four goals:
 
 无论年景是好是坏，查理和我都简单地专注以下四个目标：
 
-    (1) maintaining Berkshire’s Gibraltar-like financial position, which features huge amounts of excess liquidity, near-term obligations that are modest, and dozens of sources of earnings and cash;
+&emsp;&emsp;(1) maintaining Berkshire’s Gibraltar-like financial position, which features huge amounts of excess liquidity, near-term obligations that are modest, and dozens of sources of earnings and cash;
 
-    （1）保持伯克希尔直布罗陀海峡般宽阔的财务状况。这意味着要有大量的流动性、适度的短期债务、以及数十个收益与现金的来源； 
+&emsp;&emsp;(1) 保持伯克希尔直布罗陀海峡般宽阔的财务状况。这意味着要有大量的流动性、适度的短期债务、以及数十个收益与现金的来源； 
 
-    (2) widening the “moats” around our operating businesses that give them durable competitive advantages;
+&emsp;&emsp;(2) widening the “moats” around our operating businesses that give them durable competitive advantages;
 
-    （2）拓宽保护我们生意的“护城河”，以保持其长期的竞争优势；
+&emsp;&emsp;(2) 拓宽保护我们生意的“护城河”，以保持其长期的竞争优势；
 
-    (3) acquiring and developing new and varied streams of earnings;
+&emsp;&emsp;(3) acquiring and developing new and varied streams of earnings;
 
-    （3）收购和拓展各种各样新的利润来源；
+&emsp;&emsp;(3) 收购和拓展各种各样新的利润来源；
 
-    (4) expanding and nurturing the cadre of outstanding operating managers who, over the years, have delivered Berkshire exceptional results.
+&emsp;&emsp;(4) expanding and nurturing the cadre of outstanding operating managers who, over the years, have delivered Berkshire exceptional results.
 
-    （4）扩大和培养优秀的管理团队，这些人多年来为伯克希尔创造出非凡价值。
+&emsp;&emsp;(4) 扩大和培养优秀的管理团队，这些人多年来为伯克希尔创造出非凡价值。
 
 # Berkshire in 2008 伯克希尔的 2008 年
 
