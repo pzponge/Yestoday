@@ -826,7 +826,6 @@ P.S. Come by rail.
 P.S. 乘火车前来。
 
 
-
 [^1]: By 孙萧萧 @20231009
 	
 	原文：I subtly indicated that I was older and wiser.  
@@ -834,6 +833,7 @@ P.S. 乘火车前来。
 	肖良版：我巧妙的暗示了我的老辣。
 	
 	参照 [巴菲特给股东的信-贝乐斯-财新网](https://barrons.blog.caixin.com/archives/2321)，同时为了衔接下一句话 “I was just older.”，故原文修改为：我婉转的指出，我更老一些，也更有智慧。
+
 
 [^2]: By 孙萧萧 @20231009
 	
@@ -878,6 +878,7 @@ P.S. 乘火车前来。
 	肖良版：当天上掉金子的时候，应该拿桶去接，而不是管子。
 	
 	据Wikipedia，A thimble is a small pitted cup worn on the finger that protects it from being pricked or poked by a needle while sewing. 指的是戴在手指头上用于顶针的一种工具，容量很小，作用中国俗称“顶针”相似，但形状不一样，thimble不是中空的。这也跟我们平时看到的翻译一致。故翻译修改为：当天上掉金子的时候，应该拿桶去接，而不是顶针。
+
 
 [^7]: By 孙萧萧 & Terrellchen @20231010
 	
