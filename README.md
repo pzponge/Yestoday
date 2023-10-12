@@ -47,6 +47,8 @@
 1958 年致合伙人信|Warren Buffett|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md)
 1959 年致合伙人信|Warren Buffett|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md)
 1960 年致合伙人信|Warren Buffett|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1960_Letter_to_Limited_Partners_CM.md)
+1961 年半年度致合伙人信|Warren Buffett|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md)
+1961 年致合伙人信|Warren Buffett|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md)
 1969 年致合伙人信|Warren Buffett|双语|Ponge|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 ### RanRan 译本（双语版本）
@@ -57,7 +59,8 @@
 1959-02-11|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md)
 1960-02-20|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19600220_Letter_RR.md)
 1961-01-30|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610130_Letter_RR.md)
-
+1961-07-22|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610722_Letter_RR.md)
+1962-01-24|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md)
 
 ## 1.2. 致伯克希尔哈撒韦股东信
 
