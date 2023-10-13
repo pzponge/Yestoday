@@ -101,7 +101,7 @@
 1997 年致股东的信|Warren Buffett|双语|芒格书院共读群友|XiaoTao|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1997_Letter_to_Berkshire_Shareholders.md)
 1998 年致股东的信|Warren Buffett|双语|芒格书院共读群友|XiaoTao|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1998_Letter_to_Berkshire_Shareholders.md)
 1999 年致股东的信|Warren Buffett|双语|芒格书院共读群友|009|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md)
-2000|
+2000 年致股东的信|Warren Buffett|双语|芒格书院共读群友|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2000_Letter_to_Berkshire_Shareholders.md)
 2001|
 2002 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Vito (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2002_Letter_to_Berkshire_Shareholders.md)
 2003 年致股东的信|Warren Buffett|双语|芒格书院共读群友|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/2003_Letter_to_Berkshire_Shareholders.md)
