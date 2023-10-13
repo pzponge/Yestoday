@@ -73,11 +73,11 @@ The S&P 500 numbers are **pre-tax** whereas the Berkshire numbers are **after-ta
 
 Our gain in net worth during 2004 was $8.3 billion, which increased the per-share book value of both our Class A and Class B stock by 10.5%. Over the last 40 years (that is, since present management took over) book value has grown from $19 to $55,824, a rate of 21.9% compounded annually.[^*]
 
-公司 2004 年的账面价值增加 83 亿美元，A/B 股每股的账面价值增加 10.5%（标普 10.9%），自现任管理层接手的 40 年以来，每股账面价值由当初的 19 美元成长到目前的 55,824 美元，年复合成长率约为 21.9%。
+公司 2004 年的账面价值增加 83 亿美元，A/B 股每股的账面价值增加 10.5%（标普 10.9%），自现任管理层接手的 40 年以来，每股账面价值由当初的 19 美元成长到目前的 55,824 美元，年复合成长率约为 21.9%。[^*]
 
 [^*]: All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
 
-本报告中使用的所有数字均适用于伯克希尔公司的 A 股，它是公司在 1996 年之前唯一流通股的继承者。B 股的经济利益为A股的三十分之一。
+[^*]: 本报告中使用的所有数字均适用于伯克希尔公司的 A 股，它是公司在 1996 年之前唯一流通股的继承者。B 股的经济利益为A股的三十分之一。
 
 It's per-share intrinsic value that counts, however, not book value. Here, the news is good: Between 1964 and 2004, Berkshire morphed from a struggling northern textile business whose intrinsic value was less than book into a diversified enterprise worth far more than book. Our 40-year gain in intrinsic value has therefore somewhat exceeded our 21.9% gain in book. (For an explanation of intrinsic value and the economic principles that guide Charlie Munger, my partner and Berkshire's vice-chairman, and me in running Berkshire, please read our Owner's Manual, beginning on page 73.)
 
