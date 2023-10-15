@@ -474,7 +474,7 @@ Shares</br>股份数量|Company</br>公司名称|Cost\* 12/31/00 (dollars in mi
 1,727,765|The Washington Post Company</br>华盛顿邮报|11|1,066
 55,071,380|Wells Fargo & Company</br>富国银行|319|3,067
  ||Others</br>其他|6,703|9,501
-||Total Common Stocks</br>合计|$ 10,402|$ 37,619
+||Total Common Stocks</br>普通股合计|$ 10,402|$ 37,619
 
 In 2000, we sold nearly all of our Freddie Mac and Fannie Mae shares, established 15% positions in several mid-sized companies, bought the high-yield bonds of a few issuers (very few -- the category is not labeled junk without reason) and added to our holdings of high-grade, mortgage-backed securities. There are no "bargains" among our current holdings: We’re content with what we own but far from excited by it.
 
@@ -575,7 +575,7 @@ Operating Earnings:</br>经营收益|
 &emsp;Flight Services</br>&emsp;航空服务|213|225|126|132
 &emsp;MidAmerican Energy (76% owned)</br>&emsp;中美能源（占76%股份）|197|--|109|--
 &emsp;Retail Operations</br>&emsp;零售业务|175|130|104|77
-&emsp;Scott Fetzer (excluding finance operation)</br>&emsp;斯科特-费策（不含金融业务）|122|147|80|92
+&emsp;Scott Fetzer (excluding finance operation)</br>&emsp;斯科特-费泽（不含金融业务）|122|147|80|92
 &emsp;Other Businesses</br>&emsp;其他业务|225|210|134|131
 &emsp;Purchase-Accounting Adjustments</br>&emsp;购买法会计调整|(881)|(739)|(843)|(648)
 &emsp;Corporate Interest Expense</br>&emsp;利息费用|(92)|(109)|(61)|(70)h
