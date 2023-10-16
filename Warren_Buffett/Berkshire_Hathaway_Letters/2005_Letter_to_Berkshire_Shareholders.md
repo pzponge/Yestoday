@@ -4,7 +4,7 @@
 - 作者：Warren Buffett
 - 发表时间：2006年2月28日
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/2005ltr.pdf)
-- 中文翻译参考：肖良汇编版
+- 中文翻译参考：芒格书院共读群友
 - 整理：康鹏Pony
 - 校译：
 
