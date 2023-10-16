@@ -94,7 +94,7 @@
 1982 年致股东的信|1983-03-03|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md)
 1983 年致股东的信|1984-03-14|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)
 1984 年致股东的信|1985-02-25|双语|芒格书院共读群友|Yoan|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)
-1985 年致股东的信|1986-03-04|双语|芒格书院共读群友|Yoan (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md)
+1985 年致股东的信|1986-03-04|双语|芒格书院共读群友|Yoan|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md)
 1986 年致股东的信|1987-02-27|双语|芒格书院共读群友|知行 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md)
 1987 年致股东的信|1988-02-29|双语|芒格书院共读群友|当呼吸化为空气|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md)
 1988 年致股东的信|1989-02-28|双语|芒格书院共读群友|当呼吸化为空气 (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md)
