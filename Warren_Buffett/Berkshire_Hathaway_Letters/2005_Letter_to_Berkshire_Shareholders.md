@@ -77,8 +77,8 @@ Our gain in net worth during 2005 was $5.6 billion, which increased the per-shar
 公司2005年的账面价值增加56亿美元，A/B股每股的账面价值增加6.4%(标普4.9%)，自现任管理层接手的41年以来，每股账面价值由当初的19美元成长到目前的59377美元，年复合成长率约为21.5%。[^*]
 
 [^*]: All figures used in this report apply to Berkshire's A shares, the successor to the only stock that the company had outstanding before 1996. The B shares have an economic interest equal to 1/30th that of the A.
-
-[^*]: 本报告中使用的所有数据均适用于伯克希尔的 A 股，该股是该公司 1996 年之前发行的唯一一支股票的继承者。B 股的经济利益相当于 A 股的 1/30。
+	
+	本报告中使用的所有数据均适用于伯克希尔的 A 股，该股是该公司 1996 年之前发行的唯一一支股票的继承者。B 股的经济利益相当于 A 股的 1/30。
 
 Berkshire had a decent year in 2005. We initiated five acquisitions (two of which have yet to close) and most of our operating subsidiaries prospered. Even our insurance business in its entirety did well, though Hurricane Katrina inflicted record losses on both Berkshire and the industry. We estimate our loss from Katrina at $2.5 billion -- and her ugly sisters, Rita and Wilma, cost us an additional $.9 billion.
 
@@ -162,52 +162,52 @@ Here are last year's purchases:
 以下逐一讨论我们去年的并购：
 
 - On June 30 we bought Medical Protective Company ("MedPro"), a 106-year-old medical malpractice insurer based in Fort Wayne. Malpractice insurance is tough to underwrite and has proved to be a graveyard for many insurers. MedPro nevertheless should do well. It will have the attitudinal advantage that all Berkshire insurers share, wherein underwriting discipline trumps all other goals. Additionally, as part of Berkshire, MedPro has financial strength far exceeding that of its competitors, a quality assuring doctors that long-to-settle claims will not end up back on their doorstep because their insurer failed. Finally, the company has a smart and energetic CEO, Tim Kenesey, who instinctively thinks like a Berkshire manager.
-
-- 2005年6月30日，我们收购了医疗事故保险公司(MedicalProtectiveCo.，MedPro)，这是一家位于韦恩堡(FortWayne)、有着106年经营历史的医疗事故保险公司。医疗事故保险是一种十分难以承保的险种，一度成为许多保险公司的梦魇之地。然而，MedPro却由于以下原因将会经营良好：首先，MedPro将和伯克希尔下属其他保险公司一样在制度上领先一筹，那就是承保纪律重于其他一切经营目标；其次，作为伯克希尔的一个组成部分，MedPro拥有远远超过其竞争对手的财务实力，这足以向医生们保证，那些需要很长时间的诉讼案件绝不会由于他们所投保的保险公司的破产而无法结案；第三，这家公司有一个聪明能干的CEO：TimKenesey，他本能地和其他伯克希尔经理人一样遵循同样的思考模式。
+  
+  2005年6月30日，我们收购了医疗事故保险公司(MedicalProtectiveCo.，MedPro)，这是一家位于韦恩堡(FortWayne)、有着106年经营历史的医疗事故保险公司。医疗事故保险是一种十分难以承保的险种，一度成为许多保险公司的梦魇之地。然而，MedPro却由于以下原因将会经营良好：首先，MedPro将和伯克希尔下属其他保险公司一样在制度上领先一筹，那就是承保纪律重于其他一切经营目标；其次，作为伯克希尔的一个组成部分，MedPro拥有远远超过其竞争对手的财务实力，这足以向医生们保证，那些需要很长时间的诉讼案件绝不会由于他们所投保的保险公司的破产而无法结案；第三，这家公司有一个聪明能干的CEO：TimKenesey，他本能地和其他伯克希尔经理人一样遵循同样的思考模式。
 
 - Forest River, our second acquisition, closed on August 31. A couple of months earlier, on June 21,I received a two-page fax telling me -- point by point -- why Forest River met the acquisition criteria we set forth on page 25 of this report. I had not before heard of the company, a recreational vehicle manufacturer with $1.6 billion of sales, nor of Pete Liegl, its owner and manager. But the fax made sense, and I immediately asked for more figures. These came the next morning, and that afternoon I made Pete an offer. On June 28, we shook hands on a deal.
   
+  我们的第二起并购是森林之河房车公司(ForestRiver)，已经于2005年8月31日完成。在此之前的7月21日，我收到一份只有2页纸的传真，上面逐一说明了森林之河完全符合我们曾经在年报上披露的收购标准。在此之前，我从未听说过这位年销售额16亿美元的周末旅游房车制造商及其所有人兼总经理PeteLiegl。但这份传真却让我十分动心，于是我马上要求对方提供更多的相关数据。第二天早上我就拿到了这些数据，当天上午我就向PeteLiegl提出了收购要约。7月28日，我们俩握手成交。
+  
   Pete is a remarkable entrepreneur. Some years back, he sold his business, then far smaller than today, to an LBO operator who promptly began telling him how to run the place. Before long. Pete left, and the business soon sunk into bankruptcy. Pete then repurchased it. You can be sure that *I* won't be telling Pete how to manage his operation.
   
-  Forest River has 60 plants, 5,400 employees and has consistently gained share in the RV business, while also expanding into other areas such as boats. Pete is 61 -- and definitely in an acceleration mode. Read the piece from [RV Business](https://www.berkshirehathaway.com/letters/rvbiz.pdf) that accompanies this report, and you'll see why Pete and Berkshire are made for each other.
-  
-- 我们的第二起并购是森林之河房车公司(ForestRiver)，已经于2005年8月31日完成。在此之前的7月21日，我收到一份只有2页纸的传真，上面逐一说明了森林之河完全符合我们曾经在年报上披露的收购标准。在此之前，我从未听说过这位年销售额16亿美元的周末旅游房车制造商及其所有人兼总经理PeteLiegl。但这份传真却让我十分动心，于是我马上要求对方提供更多的相关数据。第二天早上我就拿到了这些数据，当天上午我就向PeteLiegl提出了收购要约。7月28日，我们俩握手成交。
-  
   PeteLiegl是一个杰出的企业家，几年之前，他的企业远远比现在小，那时他把企业卖给了一家杠杆收购机构(LBO)，他们接手后马上对他指手画脚，不久PeteLiegl就离开了公司。此后不久，公司就陷入破产，PeteLiegl重新买回了这家公司。你可以放心，我绝不会干涉PeteLiegl的任何经营行为。
+  
+  Forest River has 60 plants, 5,400 employees and has consistently gained share in the RV business, while also expanding into other areas such as boats. Pete is 61 -- and definitely in an acceleration mode. Read the piece from [RV Business](https://www.berkshirehathaway.com/letters/rvbiz.pdf) that accompanies this report, and you'll see why Pete and Berkshire are made for each other.
   
   森林之河拥有60家工厂和5,400名雇员，在休闲房车制造业中持续保持相当的市场份额，同时还将向船舶制造等其他业务拓展。PeteLiegl现年61岁，绝对处于加速前进的状态。请你好好读读年报中所附的刊登在《RVBusiness》上的一篇文章，你就会明白为什么Pete会和伯克希尔喜结良缘。
 
 - On November 12, 2005, an article ran in The Wall Street Journal dealing with Berkshire's unusual acquisition and managerial practices. In it Pete declared, “It was easier to sell my business than to renew my driver's license.
-
-- 2005年11月12日，华尔街日报上刊登了一篇讨论伯克希尔与众不同的并购和管理运作的文章。文中Pete宣称："向巴菲特出售我的公司比更新我的驾照还容易。"
   
+  2005年11月12日，华尔街日报上刊登了一篇讨论伯克希尔与众不同的并购和管理运作的文章。文中Pete宣称："向巴菲特出售我的公司比更新我的驾照还容易。"
+
   In New York, Cathy Baron Tamraz read the article, and it struck a chord. On November 21, she sent me a letter that began, “As president of Business Wire, I'd like to introduce you to my company, as I believe it fits the profile of Berkshire Hathaway subsidiary companies as detailed in a recent Wall Street Journal article.”
+  
+  纽约的凯西·巴伦·塔姆拉兹(CathyBaronTamraz)读了这篇文章之后，触动了心弦。11月21日，她给我写来一封信，开头这样写道："作为美国商业咨询公司(BusinessWire)的CEO，我想向你介绍我的公司，因为我认为我的公司符合最近一篇刊登在华尔街日报上的文章中详细说明的伯克希尔下属子公司的特征。"
   
   By the time I finished Cathy's two-page letter, I felt Business Wire and Berkshire were a fit. I particularly liked her penultimate paragraph: “We run a tight ship and keep unnecessary spending under wraps. No secretaries or management layers here. Yet we'll invest big dollars to gain a technological advantage and move the business forward."
   
-  I promptly gave Cathy a call, and before long Berkshire had reached agreement with Business Wire's controlling shareholder, Lorry Lokey, who founded the company in 1961 (and who had just made Cathy CEO). I love success stories like Lorry's. Today 78, he has built a company that disseminates information in 150 countries for 25,000 clients. His story, like those of many entrepreneurs who have selected Berkshire as a home for their life's work, is an example of what can happen when a good idea, a talented individual and hard work converge.
-
-  纽约的凯西·巴伦·塔姆拉兹(CathyBaronTamraz)读了这篇文章之后，触动了心弦。11月21日，她给我写来一封信，开头这样写道："作为美国商业咨询公司(BusinessWire)的CEO，我想向你介绍我的公司，因为我认为我的公司符合最近一篇刊登在华尔街日报上的文章中详细说明的伯克希尔下属子公司的特征。"
-   
   一看完Cathy的来信，我马上觉得BusinessWire与伯克希尔是一对佳偶，我特别喜欢她来信中的倒数第二段："我们严格控制成本，并且限制一切不必要的支出。我们公司没有秘书，也没有管理分层。但我们却会大量投资以取得技术领先和推动业务发展。"
-
+  
+  I promptly gave Cathy a call, and before long Berkshire had reached agreement with Business Wire's controlling shareholder, Lorry Lokey, who founded the company in 1961 (and who had just made Cathy CEO). I love success stories like Lorry's. Today 78, he has built a company that disseminates information in 150 countries for 25,000 clients. His story, like those of many entrepreneurs who have selected Berkshire as a home for their life's work, is an example of what can happen when a good idea, a talented individual and hard work converge.
+  
   我马上给Cathy打了一个电话，伯克希尔与BusinessWire的控股股东LorryLokey很快达成了收购协议。LorryLokey于1961年创建了这家公司，刚刚聘请Cathy为CEO。我非常欣赏像LorryLokey这样的商业成功传奇故事，今年78岁高龄的他已经把公司打造成一家把信息传送到150个国家的25,000个客户的优秀企业，与许多其他同样选择将伯克希尔作为他们一生打造的企业的最终归宿的企业家一样，他的商业成功传奇故事是一个好的创意、一个商业天才、一种勤奋刻苦工作的态度完美结合的成功典范。
 
 - In December we agreed to buy 81% of Applied Underwriters, a company that offers a combination of payroll services and workers' compensation insurance to small businesses. A majority of Applied's customers are located in California.
   
+  2005年12月我们达成协议，收购AppliedUnderwriters(AUW)保险公司81%的股权。这是一家向小型企业提供薪水支付服务和工伤赔偿保险业务的公司，其大部分客户在加州。
+  
   In 1998, though, when the company had 12 employees, it acquired an Omaha-based operation with 24 employees that offered a somewhat-similar service. Sid Ferenc and Steve Menzies, who have built Applied's remarkable business, concluded that Omaha had many advantages as an operational base -- a brilliant insight, I might add -- and today 400 of the company's 479 employees are located here.
   
-  Less than a year ago, Applied entered into a large reinsurance contract with Ajit Jain, the extraordinary manager of National Indemnity's reinsurance division. Ajit was impressed by Sid and Steve, and they liked Berkshire's method of operation. So we decided to join forces. We are pleased that Sid and Steve retain 19% of Applied. They started on a shoestring only 12 years ago, and it will be fun to see what they can accomplish with Berkshire's backing.
-
-- 2005年12月我们达成协议，收购AppliedUnderwriters(AUW)保险公司81%的股权。这是一家向小型企业提供薪水支付服务和工伤赔偿保险业务的公司，其大部分客户在加州。
-
   1998年，这家只有12名员工的小公司并购了一家基地位于奥马哈的有24名员工、经营类似业务的公司。AUW保险杰出业务的创始人SidFerenc和SteveMenzies经过分析得出结论，奥马哈作为经营基地拥有很多优势——我想说这真是远见卓识，如今这家公司的479名员工中有400人在此安家落户。
-
+  
+  Less than a year ago, Applied entered into a large reinsurance contract with Ajit Jain, the extraordinary manager of National Indemnity's reinsurance division. Ajit was impressed by Sid and Steve, and they liked Berkshire's method of operation. So we decided to join forces. We are pleased that Sid and Steve retain 19% of Applied. They started on a shoestring only 12 years ago, and it will be fun to see what they can accomplish with Berkshire's backing.
+  
   不到一年之前，AUW保险与国民保险再保险部门的杰出经理人阿吉特·贾恩达成了一项大额再保险合同。阿吉特·贾恩对SidFerenc和SteveMenzies留下很深的印象，而他们俩对伯克希尔的经营之道也赞叹不已，我们双方决定合作。我们很高兴地看到，SidFerenc和SteveMenzies在收购后继续保持19%的股份，12年前他们刚起家时只有很小一笔资本，现在获得如此的成就，想一想有伯克希尔强大的资本支撑，之后他们还会取得多么巨大的成就，我简直乐不可支。
 
 - Last spring, MidAmerican Energy, our 80.5% owned subsidiary, agreed to buy PacifiCorp, a major electric utility serving six Western states. An acquisition of this sort requires many regulatory approvals, but we've now obtained these and expect to close this transaction soon. Berkshire wilI then buy $3.4 billion of MidAmerican's common stock, which MidAmerican will supplement with $1.7 billion of borrowing to complete the purchase. You can't expect to earn outsized profits in regulated utilities, but the industry offers owners the opportunity to deploy large sums at fair returns -- and therefore, it makes good sense for Berkshire. A few years back, I said that we hoped to make some very large purchases in the utility field. Note the plural -- we'll be looking for more.
-
-- 2005年春天，我们控股80.5%的中美能源达成协议，收购一家为西部6个州提供电力服务的太平洋电力公司PacifiCorp。这类并购案需要获得许多监管部门的批准，目前我们已经得到批准，预计交易很快就会完成。伯克希尔将为此购买34亿美元的中美能源普通股，中美能源用这笔资金加上17亿美元的贷款来完成收购交易(51亿)。投资政府监管的公用事业，你不能指望获得特别高的盈利，但这种行业却能为巨额资金提供合理收益的盈利机会，因此对资金规模庞大的伯克希尔来说，这种投资是十分有利的。早在几年之前，我曾说我们希望能够在公用事业方面进行一些规模巨大的投资。请注意我说的是一些，我们将寻找更多的这种投资机会。
+  
+  2005年春天，我们控股80.5%的中美能源达成协议，收购一家为西部6个州提供电力服务的太平洋电力公司PacifiCorp。这类并购案需要获得许多监管部门的批准，目前我们已经得到批准，预计交易很快就会完成。伯克希尔将为此购买34亿美元的中美能源普通股，中美能源用这笔资金加上17亿美元的贷款来完成收购交易(51亿)。投资政府监管的公用事业，你不能指望获得特别高的盈利，但这种行业却能为巨额资金提供合理收益的盈利机会，因此对资金规模庞大的伯克希尔来说，这种投资是十分有利的。早在几年之前，我曾说我们希望能够在公用事业方面进行一些规模巨大的投资。请注意我说的是一些，我们将寻找更多的这种投资机会。
   
 In addition to buying these new operations, we continue to make "bolt-on" acquisitions. Some aren't so small: Shaw, our carpet operation, spent about $550 million last year on two purchases that furthered its vertical integration and should improve its profit margin in the future. XTRA and Clayton Homes also made value-enhancing acquisitions.
 
@@ -221,9 +221,10 @@ Unlike many business buyers, Berkshire has no “exit strategy.” We buy to kee
 
 Let's now talk about our four sectors and start with insurance, our core business. What counts here is the amount of "float" and its cost over time.
 
+让我开始讨论我们的四大部分业务。首先从我们最核心的保险开始，在保险业务中，浮存金的规模，及其获得的成本意义重大。
+
 For new readers, let me explain. “Float" is money that doesn't belong to us but that we temporarily hold. Most of our float arises because (1) premiums are paid upfront though the service we provide -- insurance protection -- is delivered over a period that usually covers a year and; (2) loss events that occur today do not always result in our immediately paying claims, because it sometimes takes many years for losses to be reported (asbestos losses would be an example), negotiated and settled. The $20 million of float that came with our 1967 entry into insurance has now increased -- both by way of internal growth and acquisitions -- to $49 billion.
 
-让我开始讨论我们的四大部分业务。首先从我们最核心的保险开始，在保险业务中，浮存金的规模，及其获得的成本意义重大。
 
 考虑到我的新读者，需要解释一下浮存金。保险公司的浮存金是一笔虽然不属于我们所有，但可暂时为我们所使用的资金。我们的浮存金增加的两个主要原因是：(1)在保险业务中，我们先收取保费，通常在1年左右之后才提供保险服务；(2)目前发生的损失不表示我们马上就要理赔，从发现损害、调解到最终解决，有时需要经过好几年时间。1967年我们的保险浮存金为2000万美元，经过多年的内部成长及外部并购，已经增长到如今的490亿美元之巨。
 
@@ -247,8 +248,7 @@ While our brand strength is not quantifiable, I believe it also grew significant
 
 Our advertising works because we have a great story to tell: More people can save money by insuring with us than is the case with any other national carrier offering policies to all comers. (Some specialized auto insurers do particularly well for applicants fitting into their niches; also, because our national competitors use rating systems that differ from ours, they will sometimes beat our price.) Last year, we achieved by far the highest conversion rate -- the percentage of internet and phone quotes turned into sales -- in our history. This is powerful evidence that our prices are more attractive relative to the competition than ever before. Test us by going to GEICO.com or by calling 800-847-7536. Be sure to indicate you are a shareholder because that fact will often qualify you for a discount.
 
-我们的广告之所以有效，是因为我们讲述了一个非常好的故事：与任何一家向所有客户提供汽车保险服务的全国性保险公司相比，在GEICO公司投保汽车险能节省更多的钱(一些专业汽车保险公司的确在其擅长的领域中向申请人提供特别良好的服务；同样，由于我们的全国性竞争对手运用不同的分类系统，所以有时能提供比我们更好的价格)。2004年我们获得了迄今为止的历史最高转化比率，即网络和电话询问转化为销售保单的比率，这正是我们的价格与竞争对手相比，现在比以前更加有吸引力的一个强有力的证据。 
-访问GEICO.com或致电800-847-7536，你就会发现我所言不虚，记住一定要说明你是伯克希尔的股东，因为作为股东往往会让你享受特别的优惠。
+我们的广告之所以有效，是因为我们讲述了一个非常好的故事：与任何一家向所有客户提供汽车保险服务的全国性保险公司相比，在GEICO公司投保汽车险能节省更多的钱(一些专业汽车保险公司的确在其擅长的领域中向申请人提供特别良好的服务；同样，由于我们的全国性竞争对手运用不同的分类系统，所以有时能提供比我们更好的价格)。2004年我们获得了迄今为止的历史最高转化比率，即网络和电话询问转化为销售保单的比率，这正是我们的价格与竞争对手相比，现在比以前更加有吸引力的一个强有力的证据。 访问GEICO.com或致电800-847-7536，你就会发现我所言不虚，记住一定要说明你是伯克希尔的股东，因为作为股东往往会让你享受特别的优惠。
 
 I told you last year about GEICO's entry into New Jersey in August,2004. Drivers in that state love us. Our retention rate there for new policyholders is running higher than in any other state, and by sometime in 2007, GEICO is likely to become the third largest auto insurer in New Jersey. There, as elsewhere, our low costs allow low prices that lead to steady gains in profitable business.
 
@@ -383,9 +383,11 @@ On the manufacturing side, Clayton has also been active. To its original base of
 
 Long ago, Mark Twain said: “A man who tries to carry a cat home by its tail will learn a lesson that can be learned in no other way." If Twain were around now, he might try winding up a derivatives business. After a few days, he would opt for cats.
 
+很早以前，马克.吐温说："一个想揪着猫尾巴把它弄回家的人，将会得到一个他除此之外根本不可能得到的教训"。如果马克.吐温现在还在世，他可能会试图终止一个衍生产品业务。过不了几天，他会觉得还是选择揪猫尾巴更好。
+
 We lost $104 million pre-tax last year in our continuing attempt to exit Gen Re's derivative operation. Our aggregate losses since we began this endeavor total $404 million.
 
-很早以前，马克.吐温说："一个想揪着猫尾巴把它弄回家的人，将会得到一个他除此之外根本不可能得到的教训"。如果马克.吐温现在还在世，他可能会试图终止一个衍生产品业务。过不了几天，他会觉得还是选择揪猫尾巴更好。在2005年继续努力退出通用再保险衍生业务的过程中，我们税前损失为1.04亿美元，自从我们开始这一工作之后，我们的累计损失高达4.04亿美元。
+在2005年继续努力退出通用再保险衍生业务的过程中，我们税前损失为1.04亿美元，自从我们开始这一工作之后，我们的累计损失高达4.04亿美元。
 
 Originally we had 23,218 contracts outstanding. By the start of 2005 we were down to 2,890. You might expect that our losses would have been stemmed by this point, but the blood has kept flowing. Reducing our inventory to 741 contracts last year cost us the $104 million mentioned above.
 
@@ -500,48 +502,50 @@ Other businesses</br>其他|445|413
 
 - In both our building-products companies and at Shaw, we continue to be hit by rising costs for raw materials and energy. Most of these operations are significant users of oil (or more specifically, petrochemicals) and natural gas. And prices for these commodities have soared.
   
-- 我们的建筑产品企业和Shaw地毯仍然受到原材料和能源成本上升的打击，这些企业中大多数是石油(更准确地说是石化产品)和天然气的消费大户，这些商品的价格已经快速上涨。
+  我们的建筑产品企业和Shaw地毯仍然受到原材料和能源成本上升的打击，这些企业中大多数是石油(更准确地说是石化产品)和天然气的消费大户，这些商品的价格已经快速上涨。
 
   We, likewise, have raised prices on many products, but there are often lags before increases become effective. Nevertheless, both our building-products operations and Shaw delivered respectable results in 2005, a fact attributable to their strong business franchises and able managements.
-
+  
   我们同样也提高了产品的销售价格，但在提价生效之前往往有相当长时间的滞后，尽管如此，我们的建筑产品企业和Shaw地毯的经营业绩还是令人称赞的，这应该归功于他们强大的商业特许权和能干的管理层。
 
 - In apparel, our largest unit, Fruit of the Loom, again increased earnings and market-share. You know, of course, of our leadership position in men's and boys' underwear, in which we account for about 48.7% of the sales recorded by mass-marketers (Wal-Mart, Target, etc.). That's up from 44.2% in 2002, when we acquired the company. Operating from a smaller base, we have made still greater gains in intimate apparel for women and girls that is sold by the mass-marketers, climbing from 13.7% of their sales in 2002 to 24.7% in 2005. A gain like that in a major category doesn't come easy. Thank John Holland, Fruit's extraordinary CEO, for making this happen.
   
-- 在服饰鞋业方面，我们最大的企业鲜果布衣收益与市场份额再次双双增长。当然，我们在男士和女士内衣市场上的领先优势尽人皆知，根据沃尔玛、Target等大型卖场的统计，我们的销售份额约为48.7%，与2002年我们收购这家企业时的44.2%相比显著上升。从较小的基数开始，我们在大卖场销售的成年妇女和女孩的内衣的市场份额从2002年的13.7%上升到2005年的24.7%。在一个主要服饰类别市场上能够实现如此的增长并非易事，为此我们要特别感谢公司的CEO：JohnHolland创造了这一奇迹。
+  在服饰鞋业方面，我们最大的企业鲜果布衣收益与市场份额再次双双增长。当然，我们在男士和女士内衣市场上的领先优势尽人皆知，根据沃尔玛、Target等大型卖场的统计，我们的销售份额约为48.7%，与2002年我们收购这家企业时的44.2%相比显著上升。从较小的基数开始，我们在大卖场销售的成年妇女和女孩的内衣的市场份额从2002年的13.7%上升到2005年的24.7%。在一个主要服饰类别市场上能够实现如此的增长并非易事，为此我们要特别感谢公司的CEO：JohnHolland创造了这一奇迹。
 
 - I told you last year that Ben Bridge (jewelry) and R. C. Willey (home furnishings) had same-store sales gains far above the average of their industries. You might think that blow-out figures in one year would make comparisons difficult in the following year. But Ed and Jon Bridge at their operation and Scott Hymas at R. C. Willey were more than up to this challenge. Ben Bridge had a 6.6% same-store gain in 2005, and R. C. Willey came in at 9.9%.
   
-- 2005年我曾告诉各位：BenBridge珠宝和R.C.Willey家居的销售额远远超过业内同行。你们可能会认为，一个年度的爆炸性增长会导致第二年的业绩难以比肩，但BenBridge的Ed和JonBridge、R.C.Willey的ScottHymas面对这种挑战却仍旧实现了继续增长，2005年BenBridge单店销售额增长了6.6%，R.C.Willey单店增长了9.9%。
+  2005年我曾告诉各位：BenBridge珠宝和R.C.Willey家居的销售额远远超过业内同行。你们可能会认为，一个年度的爆炸性增长会导致第二年的业绩难以比肩，但BenBridge的Ed和JonBridge、R.C.Willey的ScottHymas面对这种挑战却仍旧实现了继续增长，2005年BenBridge单店销售额增长了6.6%，R.C.Willey单店增长了9.9%。
 
   Our never-on-Sunday approach at R. C. Willey continues to overwhelm seven-day competitors as we roll out stores in new markets. The Boise store, about which I was such a skeptic a few years back, had a 21% gain in 2005, coming off a 10% gain in 2004. Our new Reno store, opened in November, broke out of the gate fast with sales that exceeded Boise's early pace, and we will begin business in Sacramento in June. If this store succeeds as I expect it to, Californians will see many more R. C. Willey stores in the years to come.
-
+  
   当我们在新的市场开出新店铺时，R.C.Willey继续以周日不营业的经营方式横扫一周经营七天的竞争对手，几年之前我还十分怀疑的Boise店，2005年销售额竟然增长了21%，刷新了2004年10%的纪录。2005年11月新开的内华达州Reno店一开张就挤破了大门，销售额很快超过了Boise店早期的水平。2006年6月加州中部Sacramento店将开始营业，如果这家店能够像我所预料的那样成功的话，那么，未来几年内在加州将会看到更多R.C.Willey专卖店。
 
 - In flight services, earnings improved at FlightSafety as corporate aviation continued its rebound. To support growth, we invest heavily in new simulators. Our most recent expansion, bringing us to 42 training centers, is a major facility at Farnborough, England that opened in September. When it is fully built out in 2007, we will have invested more than $100 million in the building and its 15 simulators. Bruce Whitman, FlightSafety's able CEO, makes sure that no competitor comes close to offering the breadth and depth of services that we do.
   
-- 在航空服务业务方面，航空公司业务的反弹使飞安公司FlightSafety的收益得到改善。为了支持公司业务持续增长，我们大笔投资新的飞行模拟器，我们最近的扩张是2005年9月份在英国Farnborough新运营一个主要飞行训练基地，拥有42个训练中心。到2007年完全建成时，我们将累计投资1亿美元用于基础建筑及15台飞行模拟器。FlightSafety非常能干的CEO：BruceWhitman确信，没有任何竞争对手所提供服务在深度和广度上能够与我们相媲美的。
+  在航空服务业务方面，航空公司业务的反弹使飞安公司FlightSafety的收益得到改善。为了支持公司业务持续增长，我们大笔投资新的飞行模拟器，我们最近的扩张是2005年9月份在英国Farnborough新运营一个主要飞行训练基地，拥有42个训练中心。到2007年完全建成时，我们将累计投资1亿美元用于基础建筑及15台飞行模拟器。FlightSafety非常能干的CEO：BruceWhitman确信，没有任何竞争对手所提供服务在深度和广度上能够与我们相媲美的。
 
   Operating results at NetJets were a different story. I said last year that this business would earn money in 2005 -- and I was dead wrong.
   
-  Our European operation1, it should be noted, showed both excellent growth and a reduced loss. Customer contracts there increased by 37%. We are the only fractional-ownership operation of any size in Europe, and our now-pervasive presence there is a key factor in making NetJets the worldwide leader in this industry.
+  利捷航空(NetJets)的经营成果却是一个完全不同的故事。2004年我曾放言其业务将在2005年实现盈利，但我却错得一塌糊涂。
   
-  利捷航空(NetJets)的经营成果却是一个完全不同的故事。2004年我曾放言其业务将在2005年实现盈利，但我却错得一塌糊涂。应该说明的是，我们欧洲地区的业务在实现了良好的增长的同时，成本也有所下降，客户合同数量增长了37%。我们是欧洲地区经营共享飞机所有权业务的唯一一家企业，我们目前在欧洲地区业务遍地开花的局面是NetJets成为这一行业全球领导者的关键因素。
+  Our European operation, it should be noted, showed both excellent growth and a reduced loss. Customer contracts there increased by 37%. We are the only fractional-ownership operation of any size in Europe, and our now-pervasive presence there is a key factor in making NetJets the worldwide leader in this industry.
+  
+  应该说明的是，我们欧洲地区的业务在实现了良好的增长的同时，成本也有所下降，客户合同数量增长了37%。我们是欧洲地区经营共享飞机所有权业务的唯一一家企业，我们目前在欧洲地区业务遍地开花的局面是NetJets成为这一行业全球领导者的关键因素。
 
   Despite a large increase in customers, however, our U.S. operation dipped far into the red. Its efficiency fell, and costs soared. We believe that our three largest competitors suffered similar problems, but each is owned by aircraft manufacturers that may think differently than we do about the necessity of making adequate profits. The *combined* value of the fleets managed by these three competitors, in any case, continues to be less valuable than the fleet that we operate.
   
   可是我们的美国业务尽管客户大幅度增长，却出现了严重的亏损，其经营效率下降、成本急升。我们相信，我们三个最大的竞争对手也遭受到了同样的打击，但他们都隶属于各自飞机制造商，因此可能并不像我们那样非常关注获得足够利润的必要性。无论如何，这三家竞争对手管理的飞行机队的综合价值都继续远低于我们运作的机队的价值。
 
   Rich Santulli, one of the most dynamic managers I've ever met, will solve our revenue/expense problem. He won't do it, however, in a manner that impairs the quality of the NetJets experience. Both he and I are committed to a level of service, security and safety that can't be matched by others.
-
+  
   RichSantulli这位我所认识的最具活力的经理人将会解决公司的收入成本问题，但他绝不会以损害公司服务质量的方式来解决问题。我和他都保证我们的服务、安保、飞行安全水平肯定是其他任何对手难以比拟的。
 
 - Our retailing category includes See's Candies, a company we bought early in 1972 (a date making it our oldest non-insurance business). At that time, Charlie and I immediately decided to put Chuck Huggins, then 46, in charge. Though we were new at the game of selecting managers, Charlie and I hit a home run with this appointment. Chuck's love for the customer and the brand permeated the organization1, which in his 34-year tenure produced a more-than-tenfold increase in profits. This gain was achieved in an industry growing at best slowly and perhaps not at all. (Volume figures in this industry are hard to pin down.)
   
-- 我们的零售业务中包括喜诗糖果这家我们早在1972年收购的公司，这也是我们历史最为悠久的非保险企业，当时我们马上决定由46岁的ChuckHuggins来负责。尽管我们俩当时在选择经理人上还是新手，芒格和我在这次任命上却打出了一个"本垒打"。在34年的任期中(80岁)，他对客户和品牌的热爱已经渗透到整个组织中，使这家公司的盈利增长了10倍。值得指出的是，这一成就是在一个增长得很慢甚至可以说是几乎没有增长的产业中所取得的(在这个行业中，销售数量的数据很难搞清楚)。
+  我们的零售业务中包括喜诗糖果这家我们早在1972年收购的公司，这也是我们历史最为悠久的非保险企业，当时我们马上决定由46岁的ChuckHuggins来负责。尽管我们俩当时在选择经理人上还是新手，芒格和我在这次任命上却打出了一个"本垒打"。在34年的任期中(80岁)，他对客户和品牌的热爱已经渗透到整个组织中，使这家公司的盈利增长了10倍。值得指出的是，这一成就是在一个增长得很慢甚至可以说是几乎没有增长的产业中所取得的(在这个行业中，销售数量的数据很难搞清楚)。
 
   At yearend, Chuck turned the reins at See's over to Brad Kinstler, who previously had served Berkshire well while running Cypress Insurance and Fechheimer's. It's unusual for us to move managers around, but Brad's record made him an obvious choice for the See's job. I hope Chuck and his wife, Donna, are at the annual meeting. If they are, shareholders can join Charlie and me in giving America's number one candy maker a richly-deserved round of applause.
-
+  
   2005年年底，我们把喜诗的管理权杖交给了BradKinstler，在此之前，他在为伯克希尔管理Cypress工伤赔偿保险(1993)和费区海默(2000)时就做得很好。对于我们来说，把经理人调来调去并不寻常，但BradKinstler的良好记录让我们认为，他显而易见是喜诗经理人的最佳选择。我希望Chuck和妻子Donna能够出席今年的股东大会。如果出席的话，所有股东就能与我和查理一起，给这位美国第一的糖果制造商经理人非常应得的掌声。
 
 ---
@@ -618,8 +622,8 @@ Shares</br>股份数量|Company</br>公司名称|Percentage of Company Owned</br
 1,727,765|The Washington Post Company</br>华盛顿邮报|18.0|11|1,322
 95,092,200|Wells Fargo &Company</br>富国银行|5.7|2,754|5,975
 1,724,200|White Mountains Insurance</br>白山保险|16.0|369|963
-||Others</br>其他||4,937|7,154
-||Total Common Stocks</br>股票投资合计||$ 15,947|$ 46,721
+ ||Others</br>其他||4,937|7,154
+ ||Total Common Stocks</br>股票投资合计||$ 15,947|$ 46,721
 
 \* This is our actual purchase price and also our tax basis; GAAP “cost" differs in a few cases because of write-ups or write-downs that have been required.
 
@@ -789,13 +793,14 @@ As we consolidate MidAmerican, our new balance sheet may suggest that Berkshire 
 
 3. At MidAmerican, we have substantial debt, but it is that company's obligation only. Though it will appear on our consolidated balance sheet, Berkshire does *not* guarantee it.
    
+   中美能源有相当高的债务，但这些债务只是这家公司的债务而已，虽然这笔债务将出现在我们的合并资产负债表上，但伯克希尔*并没有*为其提供担保。
+   
    Even so, this debt is unquestionably secure because it is serviced by MidAmerican's diversified stream of highly-stable utility earnings. If there were to be some bolt from the blue that hurt one of MidAmerican's utility properties, earnings from the others would still be more than ample to cover all debt requirements. Moreover, MidAmerican retains all of its earnings, an equity-building practice that is rare in the utility field.
+   
+   不仅如此，中美能源保留其所有的收益，中美能源这种操作在公用事业业内是非常罕见的。
    
    From a risk standpoint, it is far safer to have earnings from ten diverse and uncorrelated utility operations that cover interest charges by, say, a 2:1 ratio than it is to have far greater coverage provided by a single utility. A catastrophic event can render a single utility insolvent -- witness what Katrina did to the local electric utility in New Orleans -- no matter how conservative its debt policy. A geographical disaster -- say, an earthquake in a Western state -- can't have the same effect on MidAmerican. And even a worrier like Charlie can't think of an event that would systemically decrease utility earnings in any major way. Because of MidAmerican's ever-widening diversity of regulated earnings, it will always utilize major amounts of debt.
    
-   中美能源有相当高的债务，但这些债务只是这家公司的债务而已，虽然这笔债务将出现在我们的合并资产负债表上，但伯克希尔*并没有*为其提供担保。
-   
-   不仅如此，中美能源保留其所有的收益，中美能源这种操作在公用事业业内是非常罕见的。
    从风险的角度来说，拥有十种各不相同且各不相关的公用事业收入足以支付利息，假设二者比例为2∶1，与单一来源但支付能力更大的收入相比，前者要安全得多。不管公司的债务政策多么保守，一个灾难性事件就会让单独一个公用业务陷入破产境地——Katrina飓风摧毁了新奥尔良当地的电力事业就是明证。一个地理灾难，比如在美国西部地区发生地震，却不会对中美能源产生类似的毁灭性打击，即使是像查理这样的忧虑者，也不会认为一场事故能够大幅度减少这家公司的公用事业收入。由于中美能源政府管制业务收入的多元化程度不断增强，这家公司能够充分利用大量的债务。
 
 And that's about it. We are not interested in incurring any significant debt at Berkshire for acquisitions or operating purposes. Conventional business wisdom, of course, would argue that we are being too conservative and that there are added profits that could be safely earned if we injected moderate leverage into our balance sheet.
