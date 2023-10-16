@@ -79,7 +79,7 @@
 1975 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1975_Letter_to_Berkshire_Shareholders.md)
 1976 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1976_Letter_to_Berkshire_Shareholders.md)
 1977 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1977_Letter_to_Berkshire_Shareholders.md)
-1978 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen (进行中)|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1978_Letter_to_Berkshire_Shareholders.md)
+1978 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1978_Letter_to_Berkshire_Shareholders.md)
 1979 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)
 1980 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)
 1981 年致股东的信|Warren Buffett|双语|芒格书院共读群友|Terrellchen|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1981_Letter_to_Berkshire_Shareholders.md)
