@@ -3,7 +3,7 @@
 - 标题：1961 Semi-annual Letter to Limited Partners
 - 作者：Warren Buffett
 - 发表时间：1961-07-22
-- 链接：
+- 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-Letters-1957-1970-High-Quality.pdf)
 - 翻译：诚明散人
 - 整理：诚明散人
 ---
