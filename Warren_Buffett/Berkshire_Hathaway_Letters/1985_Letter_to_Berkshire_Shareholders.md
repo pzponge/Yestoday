@@ -758,13 +758,13 @@ March 4, 1986
 [^1]: By Yoan @20231009
 
 	原文：nothing much was in the works but our experience had been that something big popped up occasionally.
-	
+    
 	共读版：虽然平时表面上无所作为，但我们的经验显示偶尔也会有一些大动作。
-	
+   
 	参考 DeepL，修改为：虽然平时表面上无所作为，但根据我们的经验，偶尔也会有一些大动作。
 
 [^2]: By Yoan @20231009
-	
+
 	原文：It’s true that our insurance companies currently hold major positions in companies with exceptional underlying economics and outstanding managements, just as they did in 1974.
 	
 	共读版：虽然我们投资组合持有的公司拥有优秀经营团队和特许经营的经济业务像1974年一样的优秀，
@@ -774,9 +774,9 @@ March 4, 1986
 [^3]: By Yoan @20231010
 	
 	原文：With the price there, purchasers could be certain (as long as they did not experience a widening of this discount) that their personal investment experience would at least equal the financial experience of the business.  But recently the discount has disappeared, and occasionally a modest premium has prevailed.
-	
+		
 	共读版：从历史上看，伯克希尔股票的售价一直略低于内在商业价值。维持在这样的估值，投资人可以确定，只要折价的幅度不再继续扩大，其个人的投资收益与公司的业绩表现趋于一致，但最近折价消失了，甚至出现适度的溢价。
-	
+		
 	修改为：回望历史，伯克希尔的股价一直略低于内在价值。在这种情况下，只要折价的幅度不再继续扩大，投资者的投资收益会与公司的业绩表现趋于一致，但最近折价消失了，甚至有一些小幅溢价。
 
 [^4]: By Yoan @2023101
@@ -798,55 +798,55 @@ March 4, 1986
 [^6]: By Yoan @20231010
 	
 	原文：virtually all of our shareholders are individuals, not institutions.  No other public company our size can claim the same.
-	
+		
 	共读版：实际上，几乎我们所有的股东都是个人而不是机构，没有一家这样规模的上市公司能够做到这一点。
-	
+		
 	修改为：实际上，我们的股东几乎都是个人而不是机构，没有一家规模相近的上市公司能够做到这一点。
 
 [^7]: By Yoan @20231010
 	
 	原文：The table on the next page shows the major sources of Berkshire’s reported earnings.  These numbers, along with far more detailed sub-segment numbers, are the ones that Charlie and I focus upon.  We do not find consolidated figures an aid in either managing or evaluating Berkshire and, in fact, never prepare them for internal use.
-	
+		
 	共读版：下表显示伯克希尔报告收益的主要来源，这些数字加上一些更详细的各部门信息是查理跟我关注的重点，反而我们不认为合并的总数对于管理与评估伯克希尔有什么帮助，事实上我们内部本身从来不会用到。
-	
+		
 	修改为：下表展示伯克希尔报告收益的主要来源，这些数字以及更详细的细分业务信息是查理跟我关注的重点，我们不认为合并的总数对管理或评估伯克希尔有什么帮助，实际上我们内部也从不会用到。
 
 [^8]: By Yoan @20231010
 	
 	原文：In the table, amortization of Goodwill is not charged against the specific businesses but, for reasons outlined in the Appendix to my letter in the 1983 annual report, is aggregated as a separate item. (A compendium of the 1977-1984 letters is available upon request.) In the Business Segment Data and Management’s Discussion sections on pages 39-41 and 49-55, much additional information regarding our businesses is provided, including Goodwill and Goodwill Amortization figures for each of the segments.  I urge you to read those sections as well as Charlie Munger’s letter to Wesco shareholders, which starts on page 56.
-	
+		
 	共读版没有翻译这部分内容，参照DeepL翻译为：在该表中，商誉的摊销没有记入具体的业务，而是出于 1983 年年度报告中我的信的附录中所述的原因，作为一个单独的项目汇总在一起。（1977-1984 年信件汇编可应要求提供。）在第 39-41 页和第 49-55 页的 "业务分部数据 "和 "管理层讨论 "部分，提供了有关我们业务的更多信息，包括每个分部的商誉和商誉摊销数字。我恳请您阅读这些章节，以及从第 56 页开始的查理·芒格致西科金融股东的信。
 
 [^9]: By Yoan @20231011
 	
 	原文：At this point we usually turn to a discussion of some of our major business units.  Before doing so, however, we should first look at a failure at one of our smaller businesses.
-	
+		
 	共读版：通常讲到这里接下来要谈的是，我们经营的主要业务，在开始之前，让我们先看看我们旗下事业的一项失败。
-	
+		
 	修改为：话讲到这，我们通常会接着讨论我们的主营业务，但在此之前，让我们先看看我们旗下事业一个失败的案例。
 
 [^10]: By Yoan @20231011
 	
 	原文：This pullback proved wise: although much improved by Ken’s management, the textile business never became a good earner, not even in cyclical upturns.
-	
+		
 	共读版：这次撤退的决策事后证明完全正确，尽管Ken的管理营运已大为改善，但即使是在景气高峰的时候，纺织业务也没赚到钱。
-	
+		
 	修改为：这次撤退的决策事后证明完全正确，尽管在蔡斯的管理下，纺织业务已大为改善，但即使是在景气高峰的时候也没赚到钱。
 
 [^11]: By Yoan @20231011
 	
 	原文：It turned out that I was very wrong about (4).  Though 1979 was moderately profitable, the business thereafter consumed major amounts of cash. By mid-1985 it became clear, even to me, that this condition was almost sure to continue.  Could we have found a buyer who would continue operations, I would have certainly preferred to sell the business rather than liquidate it, even if that meant somewhat lower proceeds for us.  But the economics that were finally obvious to me were also obvious to others, and interest was nil.
-	
+		
 	共读版：但事实证明我对(4)的判断大错特错，尽管第二年1979年的获利状况还不错，但此后就消耗了大量的现金。到1985年中期，情况变得再明显不过了。若我们能够找到合适的买主，即使贱价出售我们也不愿意清算，但我们清楚这点表示别人更清楚，没有人会有兴趣。
-	
+		
 	修改为：事实证明我对第四点的判断大错特错，尽管1979年的盈利状况还不错，但此后的业务消耗了大量的现金。到1985年中期，连我自己都清楚，这种情况几乎肯定会持续下去。若我们能够找到合适的买主，即使是贱价出售也比清算要好，但我们知道的别人同样清楚，因此没人会有兴趣。
 
 [^12]: By Yoan @20231012
 	
 	原文：One problem these three operations do not have is management.  At See’s we have Chuck Huggins, the man we put in charge the day we bought the business.  Selecting him remains one of our best business decisions.  At the News we have Stan Lipsey, a manager of equal caliber.  Stan has been with us 17 years, and his unusual business talents have become more evident with every additional level of responsibility he has tackled.  And, at the Mart, we have the amazing Blumkins - Mrs. B, Louie, Ron, Irv, and Steve - a three-generation miracle of management.
-	
+		
 	共读版：我们较不担心的是这三家都有优秀的管理阶层，在接手喜诗糖果时我们便一直有Chuck Huggins掌控大局，我们买下公司那天就让他坐镇，选上他是我们作得最对的决策之一。新闻业务我们有Stan Lipsey，也是一个出色的经理人，他跟我们在一起工作十七年了，每当我们赋予他更多责任，他的才能表现便更上一层楼。在NFM家具店我们拥有令人惊叹的Blumkins家族：B 夫人、Louie、Ron、Irv 和 Steve，三代人的管理奇迹。
-	
+		
 	修改为：我们最不担心的就是三家公司的管理层，在接手喜诗糖果时我们便一直有查克·哈金斯掌控大局，我们买下公司那天就让他坐镇，选上他是我们做得最对的决策之一。新闻业务我们有斯坦·利普西，也是一位出色的经理人，他跟我们在一起工作十七年了，每当我们赋予他更多责任，他的才能表现便更上一层楼。在NFM家具店我们拥有令人惊叹的布鲁金家族：B 夫人、刘易斯、罗恩、欧文和 史蒂夫，三代人的管理奇迹。
 
 [^13]: By Yoan @20231013
@@ -858,79 +858,79 @@ March 4, 1986
 [^14]: By Yoan @20231013
 	
 	原文：The profit improvement, however, is likely to be of short duration.  Two economic principles will see to that.  First, commodity businesses achieve good levels of profitability only when prices are fixed in some manner or when capacity is short.  Second, managers quickly add to capacity when prospects start to improve and capital is available.
-	
+		
 	共读版：然而获利改善的情况无法持续太久，经济上有两个主要原因，一是大宗商品企业只有当价格稳定或供给短缺的情况下才能维持不错的获利水平，二是行业景气转暖且业者资金充裕时便会猛增产能。
-	
+		
 	修改为：然而盈利改善的情况无法持续太久，主要有两个经济因素，一是大宗商品企业只有当价格稳定或供给短缺的情况下才能实现良好的盈利水平，二是行业景气转暖且从业者资金充裕时便会猛增产能。
 
 [^15]: By Yoan @20231013
 	
 	原文：In my 1982 report to you, I discussed the commodity nature of the insurance industry extensively.
-	
+		
 	共读版：在1982年年报中，我曾广泛地讨论大宗商品化企业的特点。
-	
+		
 	修改为：在1982年年报中，我曾展开讨论保险产品的特点。
 
 [^16]: By Yoan @20231013
 	
 	原文：One way to solve this problem might be deemed the Patrick Henry approach: “I have but one lamp by which my feet are guided, and that is the lamp of experience.”
-	
+		
 	共读版：一种解决这种难题的方法叫做Patrick Henry法则：我只有一盏灯可以指引我的脚，那就是经验之灯。
-	
+		
 	修改为：帕特里克·亨利提供了解决这种难题的方法：经验是指导我前进的惟一明灯。
 
 [^17]: By Yoan @20231013
 	
 	原文：Out with Patrick Henry and in with Pogo: “The future ain’t what it used to be.”
-	
+		
 	共读版：Patrick Henry失效，换成Pogo：未来已今非昔比了。
-	
+		
 	修改为：扔掉经验之灯，响起伴奏：未来已不同往日。
 
 [^18]: By Yoan @20231013
 	
 	原文：This development has left many issuing companies under pressure.  They can no longer commit their reinsurers, time after time, for tens of millions per policy as they so easily could do only a year or two ago, and they do not have the capital and/or appetite to take on large risks for their own account.  For many issuing companies, gross capacity has shrunk much closer to net capacity - and that is often small, indeed.
-	
+		
 	共读版：如此一来许多直保客户面临压力，他们再也不能够像以前一样，动不动就将上千万的保单转给再保业者。他们也没有能力与资本自行承接大额的保单，有的直保业者的承保总额也大幅缩水到净额附近。
-	
+		
 	修改为：如此一来许多直保公司面临压力，他们再也不能够像以前一样，动不动就将上千万的保单转给再保公司，他们也没有能力与资本自行承接大额保单。许多直保公司的承保总额也大幅缩水到净额附近——而他们的承保净额通常是很小的。
 
 [^19]: By Yoan @20231013
 	
 	原文：All of the FFIC business is written by National Indemnity Company, but two-sevenths of it is passed along to Wesco-Financial Insurance Company (“Wes-FIC”), a new company organized by our 80%-owned subsidiary, Wesco Financial Corporation.  Charlie Munger has some interesting comments about Wes-FIC and the reinsurance business on pages 60-62.
-	
+		
 	共读版：所有FFIC业务均由国民保险公司承保，之后再将其中的2/7再保给Wesco财务子公司(Wes-FIC)，这是一家新组建的再保险公司。
-	
+		
 	部分内容没有翻译，补充为：所有消防员基金保险业务均由国民保险公司承保，之后再将其中的2/7再保给西科金融保险公司，这是一家由我们持股80%的西科金融公司新组建的再保险公司。芒格在第 60-62 页对 西科金融保险公司和再保险业务发表了一些有趣的看法。
 
 [^20]: By Yoan @20231016
-	
+		
 	原文：To the Insurance Segment tables on page 41, we have added a new line, labeled Major Quota Share Contracts.  The 1985 results of the FFIC contract are reported there, though the newness of the arrangement makes these results only very rough approximations.
-	
+		
 	共读版：在保险部门我们特别新增一项份额保险合约，不过由于属于新业务，所有数字只能算是大概的估计。
-	
+		
 	部分内容没有翻译，补充为：在第 41 页的保险业务表格中，我们新增了一项：份额分担再保险合约。该项展示了 1985 年与消防员基金保险合同的细节，由于是新业务，所有数字都是粗略的估计。
 
 [^21]: By Yoan @20231016
 	
 	原文：We mentioned earlier that in the past decade the investment environment has changed from one in which great businesses were totally unappreciated to one in which they are appropriately recognized.  The Washington Post Company (“WPC”) provides an excellent example.
-	
+		
 	共读版：我们之前曾提到，过去十年来投资环境已从一个伟大企业完全不受重视转变成适当认可的环境，华盛顿邮报WPC就是一个最好的例子。
-	
+		
 	修改为：我们此前谈到过去十年来投资环境已经发生了变化，完全不受重视的伟大企业开始得到认可，华盛顿邮报就是一个很好的例子。
 
 [^22]: By Yoan @20231016
 	
 	原文：What we had thought ridiculously cheap a year earlier had become a good bit cheaper as the market, in its infinite wisdom, marked WPC stock down to well below 20 cents on the dollar of intrinsic value.
-	
+		
 	共读版：一年前我们认为便宜得离谱的东西现在变得更便宜了。仅仅一年，具有无比智慧的市场使得WPC的市值跌至内在价值的20%。
-	
+		
 	修改为：一年前我们认为便宜得离谱的东西现在变得更便宜了。仅仅一年，具有无比智慧的市场使得华盛顿邮报的股价比内在价值还要便宜20美分。
 
 [^23]: By Yoan @20231016
-	
+		
 	原文：He disposed of many that did not fit or had limited profit potential, but his focus on rationalizing the original potpourri was not so intense that he passed by World Book when it became available for purchase in 1978.
-	
+		
 	共读版：他大刀阔斧将不合适或不赚钱的业务处置掉，他对复兴这些业务没有任何兴趣，但1978年世界图书公司出售时买下了它。
-	
+		
 	修改为：他大刀阔斧将不合适或不赚钱的业务处置掉，但他对原有业务合理化的重视程度并没有高到在 1978 年世界图书公司待售时与之擦肩而过的地步。
