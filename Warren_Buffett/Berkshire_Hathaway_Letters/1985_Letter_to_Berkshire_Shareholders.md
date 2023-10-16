@@ -3,7 +3,7 @@
 - 标题：1985 Letter to Berkshire Shareholders
 - 作者：Warren Buffett
 - 发表时间：1986-03-04
-- 链接：[1985](https://berkshirehathaway.com/letters/1985.html)
+- 链接：[HTML](https://berkshirehathaway.com/letters/1985.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Yoan
 - 校译：Yoan

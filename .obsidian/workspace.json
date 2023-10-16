@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -161,13 +161,14 @@
   },
   "active": "037d748b82e24a83",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md",
+    "README.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2004_Letter_to_Berkshire_Shareholders.md",
-    "README.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621224_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
@@ -187,7 +188,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2003_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2000_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/19661202-【Berkshire Hathaway】1966 Annual Report.pdf",
     "Translator_Notes",
     "Warren_Buffett/Translator_Notes",
