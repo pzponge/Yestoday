@@ -53,7 +53,12 @@
 1962 年 11 月致合伙人信|1962-11-01
 1962 年 12 月致合伙人信|1962-12-24
 1962 年致合伙人信|1963-01-18|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md)
+1963 年半年度致合伙人信|1963-07-10|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md)
+1963 年 11 月致合伙人信|1963-11-06
+1963 年致合伙人信|1964-01-18|双语|诚明散人|诚明散人|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md)
 1969 年致合伙人信|1970-02-18|双语|Ponge|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
+
+
 
 ### RanRan 译本（双语版本）
 
