@@ -27,7 +27,7 @@ To bring the record up to date, the following summarizes the year-by-year perfor
 下表更新了道琼斯工业指数、未扣除普通合伙人分成前的合伙基金收益、有限合伙人收益，这些收益只包括当年运行已满一年的合并前的合伙基金以及新的巴菲特合伙基金：
 
 Year|Overall Results From Dow (1)|Partnership Results (2)|Limited Partners’ Results (3)
----|---|---|---
+---|---:|---:|---:
 1957|-8.4%|10.4%|9.3%
 1958|38.5%|40.9%|32.2%
 1959|20.0%|25.9%|20.9%
@@ -57,7 +57,7 @@ The following table shows the cumulative or compounded results based on the prec
 下表列出在上表的基础上以复利计算的累积收益：
 
 Year|Overall Results From Dow|Partnership Results|Limited Partners’ Results
----|---|---|---
+---|---:|---:|---:
 1957|-8.4%|10.4%|9.3%
 1957 – 58|26.9%|55.6%|44.5%
 1957 – 59|52.3%|95.9%|74.7%
@@ -96,7 +96,7 @@ Both our portfolio and method of operation differ substantially from the investm
 **YEARLY RESULTS** 年度收益
 
 Year|Mass. Inv. Trust (1)|Investors Stock (1)|Lehman (2)|Tri-Cont. (2)|Dow|Limited Partners
----|---|---|---|---|---|---
+---|---:|---:|---:|---:|---:|---:
 1957|-11.4%|-12.4%|-11.4%|-2.4%|-8.4%|9.3%
 1958|42.7%|47.5%|40.8%|33.2%|38.5%|32.2%
 1959|9.0%|10.3%|8.1%|8.4%|20.0%|20.9%
@@ -116,7 +116,7 @@ Year|Mass. Inv. Trust (1)|Investors Stock (1)|Lehman (2)|Tri-Cont. (2)|Dow|Limit
 **COMPOUNDED** 累积收益
 
 Year|Mass. Inv. Trust|Investors Stock|Lehman|Tri-Cont.|Dow|Limited Partners
----|---|---|---|---|---|---
+---|---:|---:|---:|---:|---:|---:
 1957|-11.4%|-12.4%|-11.4%|-2.4%|-8.4%|9.3%
 1957-58|26.4%|29.2%|24.7%|30.0%|26.9%|44.5%
 1957-59|37.8%|42.5%|34.8%|40.9%|52.3%|74.7%
@@ -157,7 +157,7 @@ Below are shown the gains from $100,000 compounded at various rates:
 下表列出了10万美元在各种不同复利率和时间长度情况下的变化：
 
  ||4%|8%|12%|16%
----|---|---|---|---
+---|---:|---:|---:|---:
 10 Years|$48,024|$115,892|$210,584|$341,143
 20 Years|$119,111|$366,094|$864,627| $1,846,060
 30 Years|$224,337|$906,260|$2,895,970|$8,484,940
@@ -405,7 +405,7 @@ Harry was the perfect man for the job. I have recited his triumphs before and th
 Harry是这项工作的完美人选。我之前已经复述过他的成就了，不过资产负债表比任何言语都更能够说明重新布署资产后的成效。
 
  ||11/30/61|7/31/63 (unaudited)
- ---|---|---
+ ---|---:|---:
 Cash</br>现金|$166,000|$89,000
 US Gov’t Securities – at cost</br>国债-以成本计算||$289,000
 Other marketable securities – at market (which exceeds cost)</br>其他公开上市证券-以市值计算||$2,049,000
