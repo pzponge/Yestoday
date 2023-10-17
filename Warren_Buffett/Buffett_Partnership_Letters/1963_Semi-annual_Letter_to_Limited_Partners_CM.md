@@ -153,11 +153,11 @@ Inventory|$977|60%|$586
 Ppd. Exp. Etc.|$12|25%|$3|Net Worth:
  |||||Per Books|$4,582
 Current Assets|$4,167||$3,835|As Adjusted to quickly realizable values|$4,028
- |
+ ||||
 Misc. Invest.|$62|100%|$62|Shares outstanding|62,146
- |
+ ||||
 Net Plant Equipment|$872|Est. net auction value|$650|Adjusted value per share|$64.81
- |
+ ||||
 Total Assets|$5,101||$4,547|
 
 I have included above the conversion factors we have previously used in valuing Dempster for B.P.L. purposes to reflect estimated immediate sale values of non-earning assets.
