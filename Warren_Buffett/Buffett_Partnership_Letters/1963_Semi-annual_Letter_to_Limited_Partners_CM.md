@@ -42,7 +42,7 @@ Now this year, our work-outs have done poorer than the Dow and have been a drag 
 
 今年我们的“Workouts”表现的比道指要差，拖了我们的后腿，但这是他们在牛市中的正常表现。或许最好能够在牛市中把资金100%投入到“Generals”，而在熊市中把资金100%投入到“Workouts”，但是我不会尝试去预测股票市场的走势。我们认为长期来看我们的三类投资都会是好的投资，尽管他们短期内的表现可能会因为不同的市场环境而有很大不同。我们认为从长期投资的角度来看，测量股票市场的波动是无意义的。我们不会这样做，并且我们也不会直接或间接地通过这些测量来的预测我们哪类投资短期内会表现的最好。
 
-# Investment Companies **投资公司**
+# Investment Companies 投资公司
 
 Shown below are the usual statistics on a cumulative basis for the Dow and Buffett Partnership. Ltd. (including predecessor partnerships) as well as for the two largest open-end (mutual funds) and two largest closed-end investment companies following a diversified common-stock investment policy:
 
@@ -108,7 +108,7 @@ Last year Harry did an extraordinary job of converting unproductive assets into 
 
 **November 30, 1961 (000’s omitted)** 1961年11月30日（缩小1000倍）：
 
-Assets</br>资产|Book Figure</br>账面价值|Valued @</br>调整系数|Adjusted Valuation</br>调整后的价值|Liabilities</br>负债|1 
+Assets</br>资产|Book Figure</br>账面价值|Valued @</br>调整系数|Adjusted Valuation</br>调整后的价值|Liabilities</br>负债|&emsp; 
 ---|---|---|---|---|---
 Cash</br>现金|$166|100%|$166|Notes Payable</br>应付账款|$1,230
 Accts. Rec. (net)</br>应收账款|$1,040|85%|$884|Other Liabilities</br>其他负债|$1,088
