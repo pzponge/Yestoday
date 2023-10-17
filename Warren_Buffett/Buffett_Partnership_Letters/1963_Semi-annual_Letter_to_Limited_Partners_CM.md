@@ -126,7 +126,7 @@ Total Assets</br>资产总额|$6,919||$4,438|Share outstanding 60,146. Adj. Valu
 
 **November 30, 1962 (000’s omitted)** 1962年11月30日（缩小1000倍）
 
-Assets|Book Figure|Valued @|Adjusted Valuation|Liabilities| 
+Assets|Book Figure|Valued @|Adjusted Valuation|Liabilities|&emsp;
 ---|---|---|---|---|---
 Cash|$60|100%|$60|Notes payable|$0
 Marketable securities|$758|Mrkt. 12/31/62|$834|Other liabilities|$346
@@ -144,7 +144,7 @@ Total Assets|$4,423||$3,471|Adjusted value per share|$51.26
 
 **November 30, 1963 (000’s omitted)** 1963年11月30日（缩小1000倍）
 
-Assets|Book Figure|Valued @|Adjusted Valuation|Liabilities| 
+Assets|Book Figure|Valued @|Adjusted Valuation|Liabilities|&emsp; 
 ---|---|---|---|---|---
 Cash|$144|100%|$144|Notes payable(paid 7/3/63)|$125
 Marketable securities|$1,772|Mkt. 6/30/63|$2,029|Other liabilities|$394
@@ -176,7 +176,7 @@ One sidelight for the fundamentalists in our group: B.P.L. owns 71.7% of Dempste
 
 我们合伙公司的一个侧面特写：巴菲特合伙公司过去以1,262,577.27美元的成本获得了Dempster公司71.7%的股权。在1963年6月30日，Dempster公司位于奥马哈国民银行的小保险箱中有价值2,028,415.25美元的证券。按照71.7%的股权比例，我们拥有这部分证券的权益为1,454,373.70美元。所以，那个保险箱之外（包括保险箱里面的一部分）的任何资产都是利润。我从事证券分析的朋友们也许会认为这是一种老掉牙的计算方法。但是我必须澄清这种掰着手指头和脚趾头计算的方法要比那些依靠祈祷希望以来年盈利35倍价格卖出的方法重要的多！
 
-# Advance Payments and Advance Withdrawals **提前投资和提前撤资**
+# Advance Payments and Advance Withdrawals 提前投资和提前撤资
 
 We accept advance payments from partners and prospective partners at 6% interest from date of receipt until the end of the year. While there is no obligation to convert the payment to a partnership interest at the end of the year, this should be the intent at the time of payment.
 
@@ -194,7 +194,7 @@ Why then the willingness to pay 6% for advance payment money when we can borrow 
 
 既然我们可以从商业银行用低得多的利率来借款，为什么我们还愿意为提前投入的资金支付6%的利率？今年上半年我们从银行借入的为期6个月的贷款利率就只有4%。答案就是我们希望，基于长期的角度来看，我们能够获得超出6%的收益（如果没有达到，普通合伙人的分成就是零），尽管从短期的角度来看，能够获得6%的收益率有很大的随机性。更重要的是，我对短期借款和提前投资有非常不同的看法——提前投资可能很快会成为我们合伙基金的一部分。提前投资可以让我们在年中以不同的时间获取资金，而不是都集中在一月份获得。从另外一个方面来说，提前投资的6%利率，可以让我们的合伙人获得比短期无风险投资更高的收益，这是一种双赢。截至1963年6月30日，我们的提前撤资是21,832美元，而提前投资是562,437.11美元。
 
-# Taxes **税负**
+# Taxes 税负
 
 There is some possibility that we may have fairly substantial realized gains this year. Of course, this may not materialize at all and actually does not have anything to do with our investment performance this year. I am an outspoken advocate of paying large amounts of income taxes -- at low rates. A tremendous number of fuzzy, confused investment decisions are rationalized through so-called "tax considerations.”
 
@@ -221,6 +221,7 @@ My closing plea for questions regarding anything not clear always draws a blank.
 我一再恳请大家对任何不清楚的地方提问，但总是没人回应。也许没人读到这里。不管怎样，我的提议仍然有效。
 
 Cordially, 
+
 Warren E. Buffett
 
 [^1]:似乎应该小写为“us”，不太清楚这里变为大写的原因。
