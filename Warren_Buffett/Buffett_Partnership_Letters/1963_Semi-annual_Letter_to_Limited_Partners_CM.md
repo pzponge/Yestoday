@@ -108,7 +108,7 @@ Last year Harry did an extraordinary job of converting unproductive assets into 
 
 **November 30, 1961 (000’s omitted)** 1961年11月30日（缩小1000倍）：
 
-Assets</br>资产|Book Figure</br>账面价值|Valued @</br>调整系数|Adjusted Valuation</br>调整后的价值|Liabilities</br>负债| 
+Assets</br>资产|Book Figure</br>账面价值|Valued @</br>调整系数|Adjusted Valuation</br>调整后的价值|Liabilities</br>负债|  
 ---|---|---|---|---|---
 Cash</br>现金|$166|100%|$166|Notes Payable</br>应付账款|$1,230
 Accts. Rec. (net)</br>应收账款|$1,040|85%|$884|Other Liabilities</br>其他负债|$1,088
