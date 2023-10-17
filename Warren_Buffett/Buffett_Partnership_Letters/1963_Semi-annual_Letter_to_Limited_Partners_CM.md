@@ -114,12 +114,12 @@ Cash</br>现金|$166|100%|$166|Notes Payable</br>应付账款|$1,230
 Accts. Rec. (net)</br>应收账款|$1,040|85%|$884|Other Liabilities</br>其他负债|$1,088
 Inventory</br>存货|$4,203|60%|$2,522|
 Ppd. Exp. Etc.</br>预付账款|$82|25%|$21|Total Liabilities|$2,318
- | 
+ |||
 Current Assets</br>流动资产|$5,491||$3,593|Net Worth:</br>净资产
  |||||Per Books|$4,601
 Cash Value Life ins., etc.</br>寿险的现金价值|$45|100%|$45|As adjusted to quickly realizable values</br>调整后的速动资产|$2,120
 Net Plant & equipment</br>厂房和设备|$1,383|Est. Net Auction Value</br>预计拍卖净值|$800
- |
+ ||||
 Total Assets</br>资产总额|$6,919||$4,438|Share outstanding 60,146. Adj. Value per Share</br>每股价值|$35.25
 
 
