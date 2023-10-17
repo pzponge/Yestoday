@@ -64,16 +64,22 @@
 
 标题|原文发表时间|语言|翻译|整理|链接
 ---|---|---|---|---|---
-1957 Letter to Partners|1958-02|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md)
-1958 Letter to Partners|1959-02-11|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md)
-1959 Letter to Partners|1960-02-20|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19600220_Letter_RR.md)
-1960 Letter to Partners|1961-01-30|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610130_Letter_RR.md)
-1961 Half-year Letter to Partners|1961-07-22|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610722_Letter_RR.md)
-1961 Letter to Partners|1962-01-24|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md)
-1962 Half-year Letter to Partners|1962-07-06|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620706_Letter_RR.md)
-1962 November Letter to Partners|1962-11-01|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md)
-1962 December Letter to Partners|1962-12-24|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621224_Letter_RR.md)
-1962 Letter to Partners|1963-01-18|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md)
+1957 年致合伙人信|1958-02|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md)
+1958 年致合伙人信|1959-02-11|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md)
+1959 年致合伙人信|1960-02-20|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19600220_Letter_RR.md)
+1960 年致合伙人信|1961-01-30|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610130_Letter_RR.md)
+1961 年半年度致合伙人信|1961-07-22|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610722_Letter_RR.md)
+1961 年致合伙人信|1962-01-24|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md)
+1962 年半年度致合伙人信|1962-07-06|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620706_Letter_RR.md)
+1962 年 11 月致合伙人信|1962-11-01|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md)
+1962 年 12 月致合伙人信|1962-12-24|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621224_Letter_RR.md)
+1962 年致合伙人信|1963-01-18|双语|RanRan|Ponge|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md)
+1963 年半年度致合伙人信|1963-07-10|双语|RanRan|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630710_Letter_RR.md)
+1963 年 11 月致合伙人信|1963-11-06|双语|RanRan|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19631106_Letter_RR.md)
+1963 年致合伙人信|1964-01-18|RanRan|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md)
+1964 年半年度致合伙人信|1964-07-08|双语|RanRan|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640708_Letter_RR.md)
+1964 年致合伙人信|1965-01-18|RanRan|孙萧萧|[链接](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19650118_Letter_RR.md)
+
 
 ## 1.2. 致伯克希尔哈撒韦股东信
 
