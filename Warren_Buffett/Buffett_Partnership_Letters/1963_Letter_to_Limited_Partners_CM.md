@@ -169,6 +169,7 @@ It is obvious that a variation of merely a few percentage points has an enormous
 Some of you may be downcast because I have not included in the above table the rate of 22.3% mentioned on page 3. This rate, of course, is before income taxes which are paid directly by you -- not the Partnership. Even excluding this factor, such a calculation would only prove the absurdity of the idea of compounding at very high rates -- even with initially modest sums. My opinion is that the Dow is quite unlikely to compound for any important length of time at the rate it has during the past seven years and, as mentioned earlier, I believe our margin over the Dow cannot be maintained at its level to date. The product of these assumptions would be a materially lower average rate of compound for BPL in the future than the rate achieved to date. Injecting a minus 30% year (which is going to happen from time to time) into our tabulation of actual results to date, with, say, a corresponding minus 40% for the Dow brings both the figures on the Dow and BPL more in line with longer range possibilities. As the compounding table above suggests, such a lowered rate can still provide highly satisfactory long term investment results.
 
 你们有些人也许会感到失落，因为我没在表格中列出复利率为22.3%的变化。当然，这个复利率是缴纳所得税之前的收益率——需要你们而非合伙公司去交税。不过即使扣除税收的影响、即使初始投资很少，计算结果也能显示想要保持如此高收益率想法的怪异之处。我的想法是道指不可能长久保持与过去七年或之前类似的年均收益率，并且我相信我们目前相比道指的优势幅度也不可能长久的保持下去。所以在这种假设下，巴菲特基金以后的年化收益率将会比目前的要低。如果在我们的表格中加上一行，让我们在某年道指下降40%时的收益率为负30%（这很可能会时常发生），就会让道指和巴菲特合伙基金的收益率回归较为正常的水平。就像上述表格显示的那样，这样低的收益率在相当长的时间后，也可以产生令人满意的投资收益。
+
 # Our Method of Operation 我们的投资方法
 
 At this point I always develop literary schizophrenia. On the one hand, I know that we have in the audience a number of partners to whom details of our business are interesting. We also have a number to whom this whole thing is Greek and who undoubtedly wish I would quit writing and get back to work.
@@ -183,37 +184,37 @@ Our three investment categories are not differentiated by their expected profita
 
 长期来看，我们三类投资的收益最终不会有太大差别。我们希望以10年或15年这样的时间段来看，他们能够比道指的收益高10个点。不过因为某一具体年份股票市场的变化不同，这三类投资的收益也会因他们的特性而有非常大的差别。具体如下：
 
-	“Generals” - A category of generally undervalued stocks, determined primarily by quantitative standards, but with considerable attention also paid to the qualitative factor. There is often little or nothing to indicate immediate market improvement. The issues lack glamour or market sponsorship. Their main qualification is a bargain price; that is, an overall valuation on the enterprise substantially below what careful analysis indicates its value to a private owner to be. Again let me emphasize that while the quantitative comes first and is essential, the qualitative is important. We like good management - we like a decent industry - we like a certain amount of “ferment” in a previously dormant management or stockholder group. But we demand value. The general group behaves very much in sympathy with the Dow and will turn in a big minus result during a year of substantial decline by the Dow. Contrarywise, it should be the star performer in a strongly advancing market. Over the years we expect it, of course, to achieve a satisfactory margin over the Dow.
-	
-	“Generals”——投资于被低估的股票，这部分收益主要取决于量的因素，但是也需要考虑到质的因素。他们的价格很少或几乎不太会马上回归价值。他们缺少活力和市场推动者。他们的主要优势是折扣价，也就是说整个公司的市值大幅低于私有化的估值。我需要再次强调量的因素是第一位的、非常关键，但是质的因素也很重要。我们喜欢好的管理层，我们喜欢令人满意的商业模式，我们喜欢因为之前不太活跃的管理层或者是股东群体导致的股价某种程度的“变酸”。但是，我们最看重的是价值。这类投资会跟道指表现得类似，会跟随道指大幅下降，也会跟随道指大幅上涨。我们期望长时间内能够获得比道指更令人满意的收益率。
-
-	“Workouts” - These are the securities with a timetable. They arise from corporate activity - sell-outs, mergers, reorganizations, spin-offs, etc. In this category we are not talking about rumors or "inside information" pertaining to such developments, but to publicly announced activities of this sort. We wait until we can read it in the paper. The risk pertains not primarily to general market behavior (although that is sometimes tied in to a degree), but instead to something upsetting the applecart so that the expected development does not materialize. Such killjoys could include anti-trust or other negative government action, stockholder disapproval, withholding of tax rulings, etc. The gross profits in many workouts appear quite small. A friend refers to this as getting the last nickel after the other fellow has made the first ninety-five cents. However, the predictability coupled with a short holding period produces quite decent annual rates of return. This category produces more steady absolute profits from year to year than generals do. In years of market decline, it piles up a big edge for us; during bull markets, it is a drag on performance. On a long term basis, I expect it to achieve the same sort of margin over the Dow attained by generals.
-	
-	“Workouts”——这是有时间表的一类投资。收益来自于公司的重新安排，例如出售、合并、重组、拆分等等。我们不会根据流言或“内部消息”来做决定，而是基于已公开的声明。除非能从报纸上看到这些声明，否则我们会一直等待。这部分的投资风险跟股票市场的表现无关（或许有些时候有一点关系），而是与能够阻碍既定计划的因素有关。这些因素包括反信托法和其他的政府行为、股东的反对、税收因素等等。很多“Workouts”投资的总收益很小。我的一位朋友说我们只是在其他人赚了95美分后，去赚最后的5分钱硬币。但是，可预测性加上较短的持有时间，可以产生令人非常满意的年化收益率。相对于“Generals”，这部分投资每年可以获得非常稳定的绝对收益。在熊市中他们可以让我们获得大的优势，但是在牛市中他也会拖我们的后腿。我们期望长时间内这部分投资能够获得跟“Generals”一样比道指更令人满意的收益率。
-
-	“Controls” - These are rarities, but when they occur they are likely to be of significant size. Unless we start off with the purchase of a sizable block or stock, controls develop from the general category. They result from situations where a cheap security does nothing price-wise for such an extended period of time that we are able to buy a significant percentage of the company's stock. At that point we are probably in a position to assume some degree of, or perhaps complete, control of the company's activities; whether we become active or remain relatively passive at this point depends upon our assessment of the company’s future and the management's capabilities. The general we have been buying the most aggressively in recent months possesses excellent management following policies that appear to make very good sense to us. If our continued buying puts us in a controlling position at some point in the future, we will probably remain very passive regarding the operation or this business.
-	
-	“Controls”——这部分投资很少见，但是一旦发生，就会是非常大的规模。除非我们一开始就买了很大比例的股票，否则一般来说“Controls”都是从“Generals”而来的。主要因为在我们购买某只股票时的很长时间段内，它的价格一直没有回归价值，以致于我们可以购买到这个公司很大比例的股票。到那时，我们就会处于某种程度上控股或者是完全控股的位置；我们是否会有所行动取决于我们对于公司的未来以及管理层能力的判断。我们最近几个月大幅购入的“Generals”，拥有非常优秀的管理层和非常令我们满意的经营策略。如果这种持续的购买会让我们将来某个时候某种程度上控股该公司，考虑到它的运营情况，我们很可能不会主动改变什么东西。
-
-	We do not want to get active merely for the sake of being active. Everything else being equal I would much rather let others do the work. However, when an active role is necessary to optimize the employment of capital you can be sure we will not be standing in the wings.
-	
-	我们不会为了行动而行动。如果其他的效果都相同，我们宁愿让其他人来做这些工作。但是如果到了必须要行动才能优化资产配置的时候，我们也不会坐视不理。
-
-	Active or passive, in a control situation there should be a built-in profit. The sine qua non of this operation is an attractive purchase price. Once control is achieved, the value of our investment is determined by the value of the enterprise, not the oftentimes irrationalities of the marketplace.
-	
-	不管主动与否，“Controls”类投资必须要有利可图。必要条件是要有一个有吸引力的买入价格。一旦达成“Controls”，我们对投资标的的估值不再取决于经常非理性波动的股票市场，而是企业的内在价值。
-
-	Our willingness and financial ability to assume a controlling position gives us two-way stretch on many purchases in our group of generals. If the market changes its opinion for the better, the security will advance in price. If it doesn't, we will continue to acquire stock until we can look to the business itself rather than the market for vindication of our judgment.
-
-	我们有开展控股投资的意愿和资金实力，这会给我们很多的“Generals”投资带来额外的选择机会。如果市场改变了它对这支股票的看法，那么这支股票的价格会上升；反之我们会继续持有这支股票，直到我们可以让企业本身而非股票市场来证明我们的判断。
-
-	Investment results in the control category have to be measured on the basis of at least several years. Proper buying takes time. If needed, strengthening management, re-directing the utilization of capital, perhaps effecting a satisfactory sale or merger, etc., are also all factors that make this a business to be measured in years rather than months. For this reason, in controls, we are looking for wide margins of profit-if it looks at all close, we pass.
-	
-	这类投资的结果必须要用数年时间才能检验。合理的建仓本身就需要很长时间。而且如果有必要，还需要进行加强管理和优化资产配置等能够影响出售或合并的操作。这些都会让这类投资结果需要用数年而非数月来检验。由于这些原因，在“Controls”类的投资中，我们需要找到有非常大利润空间的标的；如果它们不够大，我们就会略过。
-
-	Controls in the buying stage move largely in sympathy with the Dow. In the later stages their behavior is geared more to that of work.
-	
-	“Controls”类投资在建仓时受股票市场的影响较大，控股后他们的表现将类似于“Workouts”。
+> “Generals” - A category of generally undervalued stocks, determined primarily by quantitative standards, but with considerable attention also paid to the qualitative factor. There is often little or nothing to indicate immediate market improvement. The issues lack glamour or market sponsorship. Their main qualification is a bargain price; that is, an overall valuation on the enterprise substantially below what careful analysis indicates its value to a private owner to be. Again let me emphasize that while the quantitative comes first and is essential, the qualitative is important. We like good management - we like a decent industry - we like a certain amount of “ferment” in a previously dormant management or stockholder group. But we demand value. The general group behaves very much in sympathy with the Dow and will turn in a big minus result during a year of substantial decline by the Dow. Contrarywise, it should be the star performer in a strongly advancing market. Over the years we expect it, of course, to achieve a satisfactory margin over the Dow.
+> 
+> “Generals”——投资于被低估的股票，这部分收益主要取决于量的因素，但是也需要考虑到质的因素。他们的价格很少或几乎不太会马上回归价值。他们缺少活力和市场推动者。他们的主要优势是折扣价，也就是说整个公司的市值大幅低于私有化的估值。我需要再次强调量的因素是第一位的、非常关键，但是质的因素也很重要。我们喜欢好的管理层，我们喜欢令人满意的商业模式，我们喜欢因为之前不太活跃的管理层或者是股东群体导致的股价某种程度的“变酸”。但是，我们最看重的是价值。这类投资会跟道指表现得类似，会跟随道指大幅下降，也会跟随道指大幅上涨。我们期望长时间内能够获得比道指更令人满意的收益率。
+> 
+> “Workouts” - These are the securities with a timetable. They arise from corporate activity - sell-outs, mergers, reorganizations, spin-offs, etc. In this category we are not talking about rumors or "inside information" pertaining to such developments, but to publicly announced activities of this sort. We wait until we can read it in the paper. The risk pertains not primarily to general market behavior (although that is sometimes tied in to a degree), but instead to something upsetting the applecart so that the expected development does not materialize. Such killjoys could include anti-trust or other negative government action, stockholder disapproval, withholding of tax rulings, etc. The gross profits in many workouts appear quite small. A friend refers to this as getting the last nickel after the other fellow has made the first ninety-five cents. However, the predictability coupled with a short holding period produces quite decent annual rates of return. This category produces more steady absolute profits from year to year than generals do. In years of market decline, it piles up a big edge for us; during bull markets, it is a drag on performance. On a long term basis, I expect it to achieve the same sort of margin over the Dow attained by generals.
+> 
+> “Workouts”——这是有时间表的一类投资。收益来自于公司的重新安排，例如出售、合并、重组、拆分等等。我们不会根据流言或“内部消息”来做决定，而是基于已公开的声明。除非能从报纸上看到这些声明，否则我们会一直等待。这部分的投资风险跟股票市场的表现无关（或许有些时候有一点关系），而是与能够阻碍既定计划的因素有关。这些因素包括反信托法和其他的政府行为、股东的反对、税收因素等等。很多“Workouts”投资的总收益很小。我的一位朋友说我们只是在其他人赚了95美分后，去赚最后的5分钱硬币。但是，可预测性加上较短的持有时间，可以产生令人非常满意的年化收益率。相对于“Generals”，这部分投资每年可以获得非常稳定的绝对收益。在熊市中他们可以让我们获得大的优势，但是在牛市中他也会拖我们的后腿。我们期望长时间内这部分投资能够获得跟“Generals”一样比道指更令人满意的收益率。
+> 
+> “Controls” - These are rarities, but when they occur they are likely to be of significant size. Unless we start off with the purchase of a sizable block or stock, controls develop from the general category. They result from situations where a cheap security does nothing price-wise for such an extended period of time that we are able to buy a significant percentage of the company's stock. At that point we are probably in a position to assume some degree of, or perhaps complete, control of the company's activities; whether we become active or remain relatively passive at this point depends upon our assessment of the company’s future and the management's capabilities. The general we have been buying the most aggressively in recent months possesses excellent management following policies that appear to make very good sense to us. If our continued buying puts us in a controlling position at some point in the future, we will probably remain very passive regarding the operation or this business.
+> 
+> “Controls”——这部分投资很少见，但是一旦发生，就会是非常大的规模。除非我们一开始就买了很大比例的股票，否则一般来说“Controls”都是从“Generals”而来的。主要因为在我们购买某只股票时的很长时间段内，它的价格一直没有回归价值，以致于我们可以购买到这个公司很大比例的股票。到那时，我们就会处于某种程度上控股或者是完全控股的位置；我们是否会有所行动取决于我们对于公司的未来以及管理层能力的判断。我们最近几个月大幅购入的“Generals”，拥有非常优秀的管理层和非常令我们满意的经营策略。如果这种持续的购买会让我们将来某个时候某种程度上控股该公司，考虑到它的运营情况，我们很可能不会主动改变什么东西。
+> 
+> We do not want to get active merely for the sake of being active. Everything else being equal I would much rather let others do the work. However, when an active role is necessary to optimize the employment of capital you can be sure we will not be standing in the wings.
+> 
+> 我们不会为了行动而行动。如果其他的效果都相同，我们宁愿让其他人来做这些工作。但是如果到了必须要行动才能优化资产配置的时候，我们也不会坐视不理。
+> 
+> Active or passive, in a control situation there should be a built-in profit. The sine qua non of this operation is an attractive purchase price. Once control is achieved, the value of our investment is determined by the value of the enterprise, not the oftentimes irrationalities of the marketplace.
+> 
+> 不管主动与否，“Controls”类投资必须要有利可图。必要条件是要有一个有吸引力的买入价格。一旦达成“Controls”，我们对投资标的的估值不再取决于经常非理性波动的股票市场，而是企业的内在价值。
+> 
+> Our willingness and financial ability to assume a controlling position gives us two-way stretch on many purchases in our group of generals. If the market changes its opinion for the better, the security will advance in price. If it doesn't, we will continue to acquire stock until we can look to the business itself rather than the market for vindication of our judgment.
+> 
+> 我们有开展控股投资的意愿和资金实力，这会给我们很多的“Generals”投资带来额外的选择机会。如果市场改变了它对这支股票的看法，那么这支股票的价格会上升；反之我们会继续持有这支股票，直到我们可以让企业本身而非股票市场来证明我们的判断。
+> 
+> Investment results in the control category have to be measured on the basis of at least several years. Proper buying takes time. If needed, strengthening management, re-directing the utilization of capital, perhaps effecting a satisfactory sale or merger, etc., are also all factors that make this a business to be measured in years rather than months. For this reason, in controls, we are looking for wide margins of profit-if it looks at all close, we pass.
+> 
+> 这类投资的结果必须要用数年时间才能检验。合理的建仓本身就需要很长时间。而且如果有必要，还需要进行加强管理和优化资产配置等能够影响出售或合并的操作。这些都会让这类投资结果需要用数年而非数月来检验。由于这些原因，在“Controls”类的投资中，我们需要找到有非常大利润空间的标的；如果它们不够大，我们就会略过。
+> 
+> Controls in the buying stage move largely in sympathy with the Dow. In the later stages their behavior is geared more to that of work.
+> 
+> “Controls”类投资在建仓时受股票市场的影响较大，控股后他们的表现将类似于“Workouts”。
 
 As I have mentioned in the past, the division of our portfolio among the three categories is largely determined by the accident or availability. Therefore, in a minus year for the Dow, whether we are primarily in generals or workouts is largely a matter of luck, but it will have a great deal to do with our performance relative to the Dow. This is one or many reasons why a single year's performance is of minor importance and, good or bad, should never be taken too seriously.
 
@@ -329,21 +330,21 @@ The following are excerpts from some of the telephone conversations we had with 
 
 下面是从我们那几个月跟公司管理人员沟通谈话记录中的节选：
 
-	On June 18th the secretary stated "Union has been told a favorable IRS ruling has been formulated but must be passed on by additional IRS people. Still hoping for ruling in July.”
-	
-	6月18日，秘书说：“UOC获悉比较令人欣慰的国税局裁定已经形成，但必须要完成其内部的流程。仍有希望能在7月份完成。”
-
-	On July 24th the president said that he expected the IRS ruling “early next week.”
-	
-	7月24日，公司的主席说，他希望税务局的裁定能够在“下周早些时候通过”。
-
-	On August 13th the treasurer informed us that the TNP, Union Oil, and USC people were all in Washington attempting to thrash out a ruling.
-	
-	8月13日，财务人员告诉我们，TNP、UOC和USC的相关人员全部集中在华盛顿以推动通过这项税务裁决。
-
-	On September 18th the treasurer informed us "No news, although the IRS says the ruling could be ready by next week.
-	
-	9月18日，财务人员告诉我们“没有新的消息，虽然国税局说这项裁决或许在下周可以通过。”
+> On June 18th the secretary stated "Union has been told a favorable IRS ruling has been formulated but must be passed on by additional IRS people. Still hoping for ruling in July.”
+> 
+> 6月18日，秘书说：“UOC获悉比较令人欣慰的国税局裁定已经形成，但必须要完成其内部的流程。仍有希望能在7月份完成。”
+> 
+> On July 24th the president said that he expected the IRS ruling “early next week.”
+> 
+> 7月24日，公司的主席说，他希望税务局的裁定能够在“下周早些时候通过”。
+> 
+> On August 13th the treasurer informed us that the TNP, Union Oil, and USC people were all in Washington attempting to thrash out a ruling.
+> 
+> 8月13日，财务人员告诉我们，TNP、UOC和USC的相关人员全部集中在华盛顿以推动通过这项税务裁决。
+> 
+> On September 18th the treasurer informed us "No news, although the IRS says the ruling could be ready by next week.
+> 
+> 9月18日，财务人员告诉我们“没有新的消息，虽然国税局说这项裁决或许在下周可以通过。”
 
 The estimate on payout was still $7.42.
 
@@ -409,20 +410,20 @@ Cash</br>现金|$166,000|$89,000
 US Gov’t Securities – at cost</br>国债-以成本计算||$289,000
 Other marketable securities – at market (which exceeds cost)</br>其他公开上市证券-以市值计算||$2,049,000
 **Total Cash and Securities** </br>现金及证券总额|$166,000|$2,436,000
- |
+ ||
 Accounts receivable (net)</br>应收账款|$1,040,000|$864,000
 Inventory</br>存货|$4,203,000|$890,000
 Prepaid expenses, etc.</br>预付账款|$82,000|$12,000
 **Current Assets** </br>流动资产|$5,491,000|$4,202,000
- |
+ ||
 Other Assets</br>其他资产|$45,000|$62,000
 Net Plant and Equipment</br>厂房和设备净值|$1,383,000|$862,000
 **Total Assets** </br>总资产|$6,919,000|$5,126,000
- |
+ ||
 Notes Payable</br>应付账款|$1,230,000|
 Other Liability</br>其他负债|$1,088,000|$274,000
 **Total Liabilities**</br>负债合计|$2,318,000|$274,000
- |
+ ||
 Shares outstanding</br>股份数量|60,146|62,146
 Net worth</br>净资产|$4,601,000|$4,852,000
 **Total liabilities and net worth**</br>负债和股东权益|$6,919,000|$5,126,000
