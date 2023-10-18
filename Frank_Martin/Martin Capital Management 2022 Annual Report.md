@@ -127,39 +127,44 @@ In the early days of 2023, investors continue to wonder whether the Fed will be 
 		<th></th><th>Year</br>年</th><th>Percent Decline</br>下降百分比</th> 
 	</tr> 
 	<tr> 
-		<td rowspan="4">Great Depression</td><td>1929</td><td>-11.90%</td> 
+		<td rowspan="4">Great Depression</td><td>1929</td><td align="right">-11.90%</td> 
 	</tr> 
 	<tr>
-		 <td>*1930</td><td>-28.50%</td>
+		 <td><b>*1930</b></td><td align="right"><b>-28.50%</b></td>
 	  </tr>
 	   <tr> 
-		   <td>1931</td><td>-47.00%</td> 
+		   <td>1931</td><td align="right">-47.00%</td> 
 	   </tr>
 	   <tr> 
-		   <td>1932</td><td>-15.50%</td> 
+		   <td>1932</td><td align="right">-15.50%</td> 
+	   </tr>
+	   <tr> 
+		<td rowspan="3">World War II</td><td>1939</td><td align="right">-5.50%</td> 
+	</tr> 
+	<tr>
+		 <td><b>*1940</b></td><td align="right"><b>-15.30%</b></td>
+	  </tr>
+	   <tr> 
+		   <td>1941</td><td align="right">-17.90%</td> 
+	   </tr>
+	   <tr> 
+		<td rowspan="2">Oil Embargo</td><td>1973</td><td align="right">-17.40%</td> 
+	</tr> 
+	<tr>
+		 <td><b>*1974</b></td><td align="right"><b>-29.70%</b></td>
+	  </tr>
+	   <tr> 
+		<td rowspan="3">Dot.com Bubble</td><td>2000</td><td align="right">-10.10%</td> 
+	</tr> 
+	<tr>
+		 <td><b>*2001</b></td><td align="right"><b>-13.00%</b></td>
+	  </tr>
+	   <tr> 
+		   <td>2002</td><td align="right">-23.30%</td> 
 	   </tr>
 	</table>
 
-  
-
-
-
- ||Year</br>年|Percent Decline</br>下降百分比
----|---:|---:
-Great Depression|1929|-11.90%
- ||*1930|-28.50%
-||1931|-47.00%
-||1932|-15.50%
-World War II|1939|-5.50%
-||*1940|-15.30%
-||1941|-17.90%
-Oil Embargo|1973|-17.40%
-||*1974|-29.70%
-Dot.com Bubble|2000|-10.10%
-||*2001|-13.00%
-||2002|-23.30%
-
-*Second year of major bear markets always had larger declines than the first. 
+\* Second year of major bear markets always had larger declines than the first. 
 
 大熊市的第二年总是比第一年跌幅更大。
 
@@ -167,7 +172,7 @@ If the decline of 2022 does prove to be the first leg of a mighty bear market, w
 
 如果 2022 年的下跌确实被证明是强大熊市的第一段，美联储会放松政策吗？是否应该放松政策？如果放宽政策，通货膨胀是否会卷土重来？如何避免重蹈 20 世纪 70 年代的覆辙，同时尽可能减少人类的痛苦？摆在美联储面前的选择是不值得羡慕的。它们也是自找的。针对央行政策的警告由来已久，而且声音很大。虽然财富管理的时间跨度是跨代的，但它的实践却是日复一日的。我们必须面对复杂的挑战，面对世界所面临的奇异的宏观经济格局。我们非常清楚，我们可能会对美联储未来的行动做出错误判断。这就是我们不玩预言游戏的原因。尽管货币政策机关算尽，但我们的方法始终如一。由于利率、量化宽松政策（QE）、未来的技术成就以及其他变量在很大程度上都是未知的，因此我们仍然将估值作为投资的首要标准。这也是我们的投资原则，它有着可靠的记录，能够经受住市场给投资者带来的最坏影响。
 
-###Where have we been …? 我们在哪里......？
+# Where have we been …? 我们在哪里......？
 
 MCM stays within the realm of the comparatively knowable, seeking solid businesses that are valued by the market at a price that implies a generous margin of safety. A well-managed business that is conservatively capitalized, is producing an essential product, and can be purchased below its intrinsic value meets our requirements. These are the characteristics that our partners at Palm Valley seek when adding names to the portfolio we manage for clients at MCM. As these companies address macro issues at the micro level, the need to judge the direction of the economic winds is somewhat alleviated. 
 
@@ -189,6 +194,10 @@ To understand just how impressive the peak in the market has been, we will re-ex
 
 要想了解市场的顶峰有多令人印象深刻，我们将重新审视其背后的风向：美国政府提供的大量资金。图 4 的上半部分显示了标准普尔 500 指数（白色）及其 12 个月的 EPS（每股收益，蓝色）。由于投资者预期盈利将激增，白线引领了蓝线的走势。随着 COVID 停产后的复苏，收益也随之上升，指数也随之上升。图表中间部分说明了原因。
 
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure4.png)
+_Figure 4 Top: S&P 500 (white), trailing 12-month earnings (blue). Middle: Fed balance sheet (orange), Federal budget/surplus
+as a percentage of GDP (yellow). Bottom: Price-to-earnings ratio (purple), price-to-10-year-average-earnings ratio (teal)_
+
 The orange line is the balance sheet of the Federal Reserve. As markets crashed in 2020, the Fed flooded commercial banks with liquidity, doubling its assets through QE. We have written at length about the asset-price inflation that results from QE. Its suppression of long-term interest rates, ceteris paribus,results in risk assets selling at higher prices, despite their cash flows remaining unchanged. 
 
 橙色线是美联储的资产负债表。2020 年市场崩溃时，美联储向商业银行注入了大量流动性，通过量化宽松将其资产增加了一倍。我们曾详细论述过量化宽松导致的资产价格膨胀。尽管风险资产的现金流保持不变，但美联储压低长期利率的做法会导致风险资产以更高的价格出售。
@@ -201,7 +210,7 @@ The resurgent, post-COVID bull market that appears to have peaked in January 202
 
 COVID 后牛市的复苏似乎已在 2022 年 1 月达到顶峰，这在很大程度上是来自同一来源的两股互补力量的结果。美联储和财政部以大规模货币和财政刺激政策的形式提供的公共支持，反映在第三幅图（茶色和紫色）中飙升的市盈率上。货币政策刺激了股票价格。财政政策抬高了收益。结果是多重扩张。紫色线是使用追踪 12 个月盈利计算的市盈率。茶色线是周期性调整市盈率（CAPE）的代表，显示了泡沫的真实规模。这是去年年度报告的主题。100 多年来，该指标一直可靠地跟踪标普 500 指数的总价值。它在 2021 年 8 月达到 37 的峰值。目前为 28。其长期平均值为 17.3。也许与钟摆类似，平均 CAPE 通常是主要熊市的一个路标。
 
-While we prefer CAPE earnings for identifying long-term trends in the market, current earnings are useful for examining the present cycle. Though multiples have retreated somewhat, S&P 500 annual earnings have yet to materially decline. They were dropping throughout 2022, but they shrank only 12%, back to the level of August 2021. In 2009 earnings plummeted 90%. That was a remarkable example, though. Still, the muted economic pain after the 2000 dot-com bubble saw earnings fall more than 50%. Given the lags in monetary policy, it’s likely the economy is just beginning to feel the pain. Therefore, we find plenty of room for continued multiple contraction. Bear markets move in stages, and 2022 appears to us to be the first act.
+While we prefer CAPE earnings for identifying long-term trends in the market, current earnings are useful for examining the present cycle. Though multiples have retreated somewhat, S&P 500 annual earnings have yet to materially decline. They were dropping throughout 2022, but they shrank only 12%, back to the level of August 2021. In 2009 earnings plummeted 90%. That was a remarkable example, though. Still, the muted economic pain after the 2000 dot-com bubble saw earnings fall more than 50%. Given the lags in monetary policy, it’s likely the economy is just beginning to feel the pain. Therefore, we find plenty of room for continued multiple contraction. Bear markets [move in stages](https://frank-k-martin.com/2022/09/07/the-taxonomy-of-bear-markets/), and 2022 appears to us to be the first act.
 
 虽然我们更倾向于用 CAPE 收益来确定市场的长期趋势，但当前的收益对于研究当前的周期也很有用。尽管市盈率有所回落，但标准普尔 500 指数的年度盈利尚未出现实质性下降。整个 2022 年，盈利都在下降，但只缩水了 12%，回到了 2021 年 8 月的水平。2009 年，收益暴跌 90%。不过，这是一个非凡的例子。然而，在 2000 年网络泡沫之后的经济低迷时期，企业盈利的跌幅也超过了 50%。鉴于货币政策的滞后性，经济可能才刚刚开始感受到痛苦。因此，我们认为多重收缩仍有很大的空间。熊市是分阶段进行的，在我们看来，2022 年是第一阶段。
 
@@ -209,7 +218,7 @@ We consider ourselves well-positioned for what lies ahead. With a small allocati
 
 我们认为自己已经为未来做好了充分准备。我们在被低估的企业中配置了少量资金，在未来12个月里分配了合理的看跌头寸，并在等待个别股票的更高性价比时，我们在美国国债上投入了大量现金，收益率为4%，因此我们的投资组合能够经受 "绝大多数风暴"。我们希望客户睡得好，最终吃得好。通过最大限度地减少泡沫市场中负面波动的影响，并在不可避免的后果中寻求正面波动，我们摒弃了广为接受的高风险、高回报模式。我们相信，这一策略将继续为我们大家服务。
 
-###Final thoughts … 最后的想法
+# Final thoughts … 最后的想法
 
 It has been 56 years since I exchanged my naval officer’s uniform for a coat and tie to pursue a career as a professional investor and fiduciary. The challenge and responsibility of overseeing the wealth of others who have placed their trust in me was both daunting and exhilarating. Many of the relationships borne out of those professional bonds have grown into lifelong friendships.
 
@@ -219,11 +228,15 @@ Lane Miller and Kristen Smith-Myers, my associates and the operational lifeblood
 
 莱恩-米勒（Lane Miller）和克里斯汀-史密斯-迈尔斯（Kristen Smith-Myers）是我的同事，也是 MCM 的经营命脉，他们在过去的一年里再次证明了自己的能力。我的每一次呼吸都提醒我，他们就是 MCM 肺部的氧气。
 
-So it is that I continue to express my gratitude to those who have made my career journey so emotionally rewarding that thoughts of retiring before my mind or body serve notice are rare. While, admittedly, my physical options are limited, there is nothing I’d rather do professionally. Communally, though, there is a world of need crying out to all of us. Unabashedly promotional, I encourage you to click on this Owls Club link to discover one way of addressing the loneliness epidemic. If you live in Elkhart County, please take the survey and become a member!Despite the best-laid plans, serendipity has often interceded in surprisingly constructive ways in my professional life. A chance encounter with Eric Cinnamond years ago, then Jayme Wiggins more recently, ultimately led to my founder’s investment in Palm Valley Capital Management in 2018. Because the three of us are uncannily in sync philosophically, Palm Valley is my, and likely your, succession plan and the reason I sleep so peacefully and have no fear of the investment goblins of the future.
+So it is that I continue to express my gratitude to those who have made my career journey so emotionally rewarding that thoughts of retiring before my mind or body serve notice are rare. While, admittedly, my physical options are limited, there is nothing I’d rather do professionally. Communally, though, there is a world of need crying out to all of us. Unabashedly promotional, I encourage you to click on this Owls Club [link](https://owlsclub.org/) to discover one way of addressing the loneliness epidemic. If you live in Elkhart County, please take the survey and become a member!
 
-因此，我要继续向那些让我的职业生涯充满激情的人表示感谢，这些人让我很少想到在我的身心得到通知之前就退休。诚然，我在身体上的选择有限，但在职业上，我没有什么比这更愿意做的了。但是，从社会的角度来看，我们每个人都需要帮助。在此，我鼓励大家点击猫头鹰俱乐部的链接，了解解决孤独流行病的一种方法。如果您住在埃尔克哈特县，请参与调查并成为会员！尽管我有最周密的计划，但在我的职业生涯中，偶然性常常以出人意料的建设性方式介入。多年前，我与埃里克-桂皮翁德（Eric Cinnamond）的一次偶遇，以及最近与杰米-维金斯（Jayme Wiggins）的邂逅，最终促成了我的创始人在 2018 年对棕榈谷资本管理公司（Palm Valley Capital Management）的投资。因为我们三人在理念上不谋而合，棕榈谷是我的(很可能也是你的)接班人计划，也是我睡得如此安稳、不怕未来投资恶魔的原因。
+因此，我要继续向那些让我的职业生涯充满激情的人表示感谢，这些人让我很少想到在我的身心得到通知之前就退休。诚然，我在身体上的选择有限，但在职业上，我没有什么比这更愿意做的了。但是，从社会的角度来看，我们每个人都需要帮助。在此，我鼓励大家点击猫头鹰俱乐部的链接，了解解决孤独流行病的一种方法。如果您住在埃尔克哈特县，请参与调查并成为会员！
 
-Some third-party accolades bear repeating. Jim Grant, among the most respected and admired commentators/writers on Wall Street, is no stranger to readers of these reports. In a September 2022 WEALTHTRACK interview (beginning at 14:18 minutes), Grant uncharacteristically singled out the small-cap equity fund Palm Valley Capital Fund (PVCMX), which holds mainly cash “awaiting the return of valuations at which an unbending, unconventional, uncompromising, value-seeking investor can put other people’s money to work.” Grant also recommended reading the firm’s quarterly letters to shareholders: “some of the best and wittiest financial-markets commentary on the web.”
+Despite the best-laid plans, serendipity has often interceded in surprisingly constructive ways in my professional life. A chance encounter with Eric Cinnamond years ago, then Jayme Wiggins more recently, ultimately led to my founder’s investment in Palm Valley Capital Management in 2018. Because the three of us are uncannily in sync philosophically, Palm Valley is my, and likely your, succession plan and the reason I sleep so peacefully and have no fear of the investment goblins of the future.
+
+尽管我有最周密的计划，但在我的职业生涯中，偶然性常常以出人意料的建设性方式介入。多年前，我与埃里克-桂皮翁德（Eric Cinnamond）的一次偶遇，以及最近与杰米-维金斯（Jayme Wiggins）的邂逅，最终促成了我的创始人在 2018 年对棕榈谷资本管理公司（Palm Valley Capital Management）的投资。因为我们三人在理念上不谋而合，棕榈谷是我的(很可能也是你的)接班人计划，也是我睡得如此安稳、不怕未来投资恶魔的原因。
+
+Some third-party accolades bear repeating. Jim Grant, among the most respected and admired commentators/writers on Wall Street, is no stranger to readers of these reports. In a September 2022 WEALTHTRACK [interview](https://wealthtrack.com/inflations-damage-financial-consequences-investment-strategies-with-historian-james-grant/) (beginning at 14:18 minutes), Grant uncharacteristically singled out the small-cap equity fund Palm Valley Capital Fund (PVCMX), which holds mainly cash “awaiting the return of valuations at which an unbending, unconventional, uncompromising, value-seeking investor can put other people’s money to work.” Grant also recommended reading the firm’s quarterly letters to shareholders: “some of the best and wittiest financial-markets commentary on the web.”
 
 一些第三方的赞誉值得重复。吉姆-格兰特（Jim Grant）是华尔街最受尊敬和钦佩的评论员/作家之一，对这些报告的读者来说并不陌生。在 2022 年 9 月的一次 WEALTHTRACK 采访中（从 14:18 分钟开始），格兰特一反常态地特别提到了小型股票基金棕榈谷资本基金（PVCMX），该基金主要持有现金，"等待估值回归，在这个时候，一个不屈不挠、不走寻常路、不妥协、追求价值的投资者可以把别人的钱投入使用"。格兰特还建议阅读公司每季度写给股东的信： 这是 "网络上最好、最睿智的金融市场评论"。
 
