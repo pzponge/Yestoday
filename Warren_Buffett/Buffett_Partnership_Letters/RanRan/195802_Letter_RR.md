@@ -1,6 +1,6 @@
 原文信息：
 
-- 标题：1957 Letter to Partners
+- 标题：1957 Annual Letter to Partners
 - 作者：Warren Buffett
 - 发表时间：1958-02
 - 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-Letters-1957-1970-High-Quality.pdf)

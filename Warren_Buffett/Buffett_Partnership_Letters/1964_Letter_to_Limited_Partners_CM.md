@@ -3,18 +3,20 @@
 - 标题：1964 Letter to Limited Partners
 - 作者：Warren Buffett
 - 发表时间：1965-01-18
-- 链接：
+- 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-Letters-1957-1970-High-Quality.pdf)
 - 翻译：诚明散人
 - 整理：诚明散人
 ---
 
 BUFFETT PARTNERSHIP, LTD. 
+
 810 KIEWIT PLAZA 
+
 OMAHA 31, NEBRASKA
 
 January 18, 1965
 
-# Our Performance in 1964 **我们1964年的表现**
+# Our Performance in 1964 我们1964年的表现**
 
 Although we had an overall gain of $4,846,312.37 in 1964, it was not one of our better years as judged by our fundamental yardstick, the Dow-Jones Industrial Average (hereinafter called the "Dow"). The overall result for BPL was plus 27.8% compared to an overall plus 18.7% for the Dow. The overall result for limited partners was plus 22.3%. Both the advantage of 9.1 percentage points on a partnership basis and 3.6 points by the limited partners were the poorest since 1959, which was a year of roughly comparable gains for the Dow.
 
@@ -29,7 +31,7 @@ To bring the record up to date, the following summarizes the year-by-year perfor
 下表更新了道琼斯工业指数、未扣除普通合伙人分成前的合伙基金收益、有限合伙人收益：
 
 Year|Overall Results From Dow (1)|Partnership Results (2)|Limited Partners’ Results (3)
----|---|---|---
+---|---:|---:|---:
 1957|-8.4%|10.4%|9.3%
 1958|38.5%|40.9%|32.2%
 1959|20.0%|25.9%|20.9%
@@ -56,7 +58,7 @@ On a cumulative or compounded basis, the results are:
 下表列出了以复利计算的累积收益：
 
 Year|Overall Results From Dow|Partnership Results|Limited Partners’ Results
----|---|---|---
+---|---:|---:|---:
 1957|-8.4%|10.4%|9.3%
 1957 – 58|26.9%|55.6%|44.5%
 1957 – 59|52.3%|95.9%|74.7%
@@ -80,7 +82,7 @@ The purpose of this tabulation, which is shown below, is to illustrate that the 
 **YEARLY RESULTS** 年度收益
 
 Year|Mass. Inv. Trust (1)|Investors Stock (1)|Lehman (2)|Tri-Cont. (2)|Dow|Limited Partners
----|---|---|---|---|---|---
+---|---:|---:|---:|---:|---:|---:
 1957|-11.4%|-12.4%|-11.4%|-2.4%|-8.4%|9.3%
 1958|42.7%|47.5%|40.8%|33.2%|38.5%|32.2%
 1959|9.0%|10.3%|8.1%|8.4%|20.0%|20.9%
@@ -101,7 +103,7 @@ Year|Mass. Inv. Trust (1)|Investors Stock (1)|Lehman (2)|Tri-Cont. (2)|Dow|Limit
 **COMPOUNDED** 累积收益
 
 Year|Mass. Inv. Trust (1)|Investors Stock (1)|Lehman (2)|Tri-Cont. (2)|Dow|Limited Partners
----|---|---|---|---|---|---
+---|---:|---:|---:|---:|---:|---:
 1957|-11.4%|-12.4%|-11.4%|-2.4%|-8.4%|9.3%
 1957-58|26.4%|29.2%|24.7%|30.0%|26.9%|44.5%
 1957-59|37.8%|42.5%|34.8%|40.9%|52.3%|74.7%
@@ -167,7 +169,7 @@ Specifically, if those three years had occurred in sequence, the cumulative resu
 如果这三年是连续的，那么累积收益如下：
 
 Fund|The Cumulative Results
----|---
+---|---:
 Tri-Continental Corp.|-9.7%
 Dow|-20.6%
 Mass. Investors Trust|-20.9%
@@ -206,7 +208,7 @@ Some of you may view your investment policies on a shorter term basis. For your 
 你们有些人或许会认为你们的投资年限比上述时间要短一些。为了你们的方便，下面的表格描述了10万美元在不同时间长度和复利率下的价值变化：
 
  ||4%|8%|12%|16%
----|---|---|---|---
+---|---:|---:|---:|---:
 10 Years|$48,024|$115,892|$210,584|$341,143
 20 Years|$119,111|$366,094|$864,627| $1,846,060
 30 Years|$224,337|$906,260|$2,895,970|$8,484,940
@@ -340,7 +342,7 @@ To give an example of just how important the accident of division between these 
 让我用前三年的投资结果来举例说明我们各类投资资金比例配置的偶然性所带来的重要影响。跟衡量巴菲特合伙公司整体收益的标准不同，这里可以按月来计算市场价值的变动，而且可以较为精确的扣除贷款和运营费用（这为不同投资类型比较提供了最准确的依据，但不能反映巴菲特合伙公司的总体结果）。“Generals”（两类合在一起）、“Workouts”和道指的数据如下：
 
 Year|Generals|Workouts|Dow
----|---|---|---
+---|---:|---:|---:
 1962|-1.0%|14.6%|-8.6%
 1963|20.5%|30.6%|18.4%
 1964|27.8%|10.3%|16.7%
@@ -420,7 +422,7 @@ Here's how they shape up for all full years of existence
 以下是这两家基金公司成立以来所有完整年度的情况：
 
 Year|Federal Street|Westminster|Dow
----|---|---|---
+---|---:|---:|---:
 1962|-19.0%|-22.5%|-7.6%
 1963|17.0%|18.7%|20.6%
 1964|13.8%|12.3%|18.7%

@@ -3,13 +3,15 @@
 - 标题：1964 Semi-annual Letter to Limited Partners
 - 作者：Warren Buffett
 - 发表时间：1964-07-08
-- 链接：
+- 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-Letters-1957-1970-High-Quality.pdf)
 - 翻译：诚明散人
 - 整理：诚明散人
 ---
 
 BUFFETT PARTNERSHIP, LTD. 
+
 810 KIEWIT PLAZA 
+
 OMAHA 31, NEBRASKA
 
 July 8, 1964
@@ -29,7 +31,7 @@ To bring the record up to date, the following summarizes the performance of the 
 下表更新了道琼斯工业指数、未扣除普通合伙人分成前的合伙基金收益和有限合伙人收益：
 
 Year|Overall Results From Dow (1)|Partnership Results (2)|Limited Partners’ Results (3)
----|---|---|---
+---|---:|---:|---:
 1957|-8.4%|10.4%|9.3%
 1958|38.5%|40.9%|32.2%
 1959|20.0%|25.9%|20.9%
@@ -71,14 +73,14 @@ It is important to realize, however, that most of our holdings in the General ca
 
 不过更重要的是，我们要意识到很多我们所持有的“Generals”类型的投资将会处于持续被低估的状态，并且我们几乎没有取得控股地位的可能。我们希望市场能够在较为合理的时间段内证实我们的分析，但是在这类投资中我们的弓上并没有两条弦。
 
-# Investment Companies **投资公司**
+# Investment Companies 投资公司
 
 We regularly compare our results with the two largest open-end investment companies (mutual funds) that follow a policy of being typically 95%-100% invested in common stocks, and the two largest diversified closed-end investment companies. These four companies, Massachusetts Investors Trust, Investors Stock Fund, Tri-Continental Corp., and Lehman Corp., manage over $4 billion and are probably typical of most of the $28 billion investment company industry. Their results are shown below. My opinion is that this performance roughly parallels that of the overwhelming majority of other investment advisory organizations which handle, in aggregate, vastly greater sums.
 
 我们经常将我们的投资结果和两家最大的开放式基金（共同基金）和两家最大的封闭式基金做对比。按照他们的政策，这两家最大的开放式基金的资金有95%-100%的资金都投资在普通股上。这四家公司，Massachusetts Investors Trust、Investors Stock Fund 、Tri-Continental Corporation、Lehman Corporation的资产大概共有40亿美元。他们是拥有总额达280亿美元资产的投资基金公司中的典型代表。他们的投资结果见下表。我认为他们的投资收益跟那些管理着更多资产的大多数投资咨询公司的收益差不多。
 
 Year|Mass. Inv. Trust (1)|Investors Stock (1)|Lehman (2)|Tri-Cont. (2)|Dow|Limited Partners
----|---|---|---|---|---|---
+---|---:|---:|---:|---:|---:|---:
 1957|-11.4%|-12.4%|-11.4%|-2.4%|-8.4%|9.3%
 1958|42.7%|47.5%|40.8%|33.2%|38.5%|32.2%
 1959|9.0%|10.3%|8.1%|8.4%|20.0%|20.9% 
@@ -114,7 +116,7 @@ We will regularly follow this policy wherever it may lead. It is perhaps too obv
 
 我们会坚持这种较为合理的衡量标准，不管这会让我们的投资结果看起来怎么样。很明显，我们的衡量标准并不能保证我们的投资结果必然很好，它只能保证客观的评价。我需要强调我们在“基本原则”中的标准——因为我们的投资方式，所以必须要用至少三年的时间才能验证我们的投资结果，而且要排除那些投机特别严重的年份。不过我可以承诺的是：我们开始用的标准就是一米尺，而且我们会一直用这个标准；即使我们没有达到这个标准，我们也不会改变它。我认为，如果每个公司都能用一个好的标准来衡量他们的能力并有效施行，规模为数千亿资金的整个投资基金界将会更令人满意。当运营的是自己的生意，评估市场、人员、机器、方法等等时，大部分人都会用这种相对固定的标准去衡量，而资金管理是世界上最大的生意【却不以某种固定的标准去衡量】。
 
-# Taxes **税负**
+# Taxes 税负
 
 We entered 1964 with net unrealized gains of $2,991,090 which is all attributable to partners belonging during 1963. Through June 30th we have realized capital gains of $2,826,248.76 (of which 96% are long term) so it appears very likely that at least all the unrealized appreciation attributable to your interest and reported to you in our letter of January 25, 1964, (item 3) will be realized this year. I again want to emphasize that this has nothing to do with how we are doing. It is possible that I could have made the above statement, and the market value of your B.P.L. interest could have shrunk substantially since January 1st, so the fact that we have large realized gains is no cause for exultation. Similarly when our realized gains are very small there is not necessarily any reason to be discouraged. We do not play any games to either accelerate or defer taxes. We make investment decisions based on our evaluation of the most profitable combination of probabilities. If this means paying taxes I'm glad the rates on long-term capital gains are as low as they are.
 
