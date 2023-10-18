@@ -105,7 +105,7 @@
 
 标题|原文发表时间|语言|翻译|整合|链接
 ---|---|---|---|---|---
-1965 年致股东的信|1965-11-09|双语|芒格书院共读群友|Terrellchen|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
+1965 年致股东的信|1965-11-09|双语|芒格书院共读群友|Terrellchen|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
 1966 年致股东的信|1966-12-02|双语|芒格书院共读群友|Terrellchen|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
 1967 年致股东的信|1968-03-08|双语|芒格书院共读群友|Terrellchen|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
 1968 年致股东的信|1969-03-12|双语|芒格书院共读群友|Terrellchen|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md)
