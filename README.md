@@ -42,7 +42,7 @@
 
 标题|原文发表时间|语言|翻译|整合|链接
 ---|---|---|---|---|---
-有限合伙契约|1956-05-01|双语|芒格书院共读群友|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
+有限合伙契约|1956-05-01|双语|芒格书院共读群友|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
 1957 年致合伙人信|1958-02|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md)
 1958 年致合伙人信|1959-02-11|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md)
 1959 年致合伙人信|1960-02-20|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md)
@@ -56,6 +56,8 @@
 1963 年半年度致合伙人信|1963-07-10|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md)
 1963 年 11 月致合伙人信|1963-11-06
 1963 年致合伙人信|1964-01-18|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md)
+1964 年半年度致合伙人信|1964-07-08|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1964_Semi-annual_Letter_to_Limited_Partners_CM.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1964_Semi-annual_Letter_to_Limited_Partners_CM.md)
+1964 年致合伙人信|1965-01-18|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md)
 1969 年致合伙人信|1970-02-18|双语|Ponge|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
