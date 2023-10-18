@@ -182,7 +182,7 @@ We accept advance payments from partners and prospective partners at 6% interest
 
 我们接受合伙人或者潜在合伙人的提前投资，在年底时这笔资金将从提前投资之日起以6%的年化利率计算利息。虽然没有强制要求这笔资金在年底时转换为合伙基金份额，但在投入这笔资金时应该要有这种打算。
 
-Similarly, we allow partners to withdraw up to 20% of their partnership account prior to yearend and charge them 6% from date of withdrawal until yearend when it is charged against their capital account. Again, it is not intended that partners use US[^1] like a bank, but that they use the withdrawal right for unanticipated need for funds.
+Similarly, we allow partners to withdraw up to 20% of their partnership account prior to yearend and charge them 6% from date of withdrawal until yearend when it is charged against their capital account. Again, it is not intended that partners use us like a bank, but that they use the withdrawal right for unanticipated need for funds.
 
 同样，我们也允许合伙人在年底前提前赎回不超过他们在合伙基金中所占份额20%的资金。这笔资金也是从提前撤资之日起按照6%的年化利率来计算利息。这个利息将从他们的合伙份额中扣除。我仍旧要重复，这并不意味着我们的合伙基金会像银行一样，这只是给了我们合伙人一项在不虞之需时可以撤出部分投资的权利。
 
@@ -224,5 +224,4 @@ Cordially,
 
 Warren E. Buffett
 
-[^1]:似乎应该小写为“us”，不太清楚这里变为大写的原因。
 [^2]:此处似乎少了一个标点符号“)”，由1965年信可以证实。

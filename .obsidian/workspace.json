@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded21b6b92285919",
+  "active": "93c35161cea372d3",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630710_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19631106_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620706_Letter_RR.md",
     "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19631106_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19650118_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19650709_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640708_Letter_RR.md",
@@ -160,7 +161,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620706_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610722_Letter_RR.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1995_Letter_to_Berkshire_Shareholders.md",
