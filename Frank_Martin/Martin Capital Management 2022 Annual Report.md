@@ -2,7 +2,7 @@
 
 - 链接：[PDF](https://www.mcmadvisors.com/wp-content/uploads/2023/08/Martin-Capital-Management-2022-Annual-Report.pdf)
 - 中文翻译参考：Deepl
-- 整合：Terrellchen
+- 整合：Terrellchen，Ponge
 
 ---
 
