@@ -42,6 +42,8 @@
 
 For further information, contact Client Relations at [ClientRelations@mcmadvisors.com](mailto:ClientRelations@mcmadvisors.com)
 
+---
+
 Dear Client: 
 
 亲爱的客户
@@ -62,12 +64,15 @@ The acronymic leader of the FANG stocks, Meta (formerly Facebook) is a case in p
 
 FANG 股票中的佼佼者 Meta（前身为 Facebook）就是一个典型的例子。其五年走势图显示，脱离估值的收益昙花一现。在 11 月的低点，Meta的售价仅为 2021 年 11 月高点的 25%，令技术派散户投资者和被动指数投资者都大跌眼镜。
 
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure1.png)
+_Figure 1 Meta (formerly Facebook), 2018–present_
+
 Meta is not an outlier. All told, the original FANG—Facebook, Apple, Netflix, and Google, along with recent additions like Amazon and Tesla—have cast a pox, much like the Nifty Fifty of the early 1970s, on the “growth at any price” dogma.
 
 Meta 并非个例。总而言之，最初的 FANG--Facebook、苹果、Netflix 和谷歌，以及最近加入的亚马逊和特斯拉--就像 20 世纪 70 年代初的 Nifty Fifty 一样，给 "不惜代价实现增长 "的信条画上了一个句号。
 
-||Peak Price</br>峰值|Year-end</br>年末|Percentage Change</br>百分比变化
----:|---:|---:|---:
+ ||Peak Price</br>峰值|Year-end</br>年末|Percentage Change</br>百分比变化
+---|---:|---:|---:
 Meta (Facebook)|$385|$120|-69%
 Apple|$182|$130|-29%
 Netflix|$700|$294|-58%
@@ -81,13 +86,16 @@ The decline represents a re-evaluation of a diminished future. It’s a shift in
 
 股价下跌代表了对未来渺茫的重新评估。这是心理和叙事的转变。过去，特斯拉是一家科技公司，而不是汽车制造商。这种观点认为，科技公司的估值违背逻辑，因为它们销售的激进变革几乎具有不可估量的盈利潜力。这种观点认为，特斯拉预示的未来证明了其估值的合理性。该公司创造了独特的产品（市场上从未见过），将从根本上改变我们的生活--即太阳能瓦片、电动汽车和家用电池组的整合。如今，这种说法已迅速演变为另一种说法。我们听说各大汽车品牌都在推出电动车型。这些成熟的企业在扩大生产规模方面拥有丰富的经验。它们的设计各不相同，并提供了打破消费者对特斯拉的忠诚崇拜所必需的产品功能和品牌故事。
 
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure2.png)
+_Figure 2 Tesla share price (white), units shipped (blue)_
+
 Tesla has never had the high margins and network capabilities of a software firm. But even if it did, they would not have been enough to support the faulty assumptions of the growth investors buying at the peak of the cycle. The implosion of the FANG stocks demonstrates that true tech companies and those who rode their coattails are all eventually subject to the rules of value. Stories to the contrary are just tall tales. 
 
 特斯拉从来没有软件公司那样的高利润和网络能力。但即使有，也不足以支撑增长型投资者在周期顶峰时买入的错误假设。FANG 股票的内爆表明，真正的科技公司和那些追随它们的投资者最终都要服从价值规律。与此相反的故事都是无稽之谈。
 
-###Miscreants at the Fed 美联储的奸商
+# Miscreants at the Fed 美联储的奸商
 
-The catalyst for this shift toward rationality surely lies largely at the feet of the Federal Reserve, aided by the U.S. Congress. The central bank has finally ratcheted up its benchmark interest rate off the zero-bound, raising it faster than in any previous period of its history. The 1970s saw greater absolute increases to the Fed funds rate, but in terms of duration risk, the losses on bonds bought near zero are markedly greater. The Fed funds rate is one mechanism through which the Fed conducts monetary policy, and the rate went from essentially zero to 4.25% since mid-March 2022. Over the same period, the yield on thetwo-year and 10-year Treasury bonds levitated in harmony. The two-year surged from 1.3% to 4.3%, and the 10-year went from 1.8% to 3.6%. The spread between these two instruments inverted midsummer 2022 and has remained so. This phenomenon is a predictable precursor of recessions.
+The catalyst for this shift toward rationality surely lies largely at the feet of the Federal Reserve, aided by the U.S. Congress. The central bank has finally ratcheted up its benchmark interest rate off the zero-bound, raising it faster than in any previous period of its history. The 1970s saw greater absolute increases to the Fed funds rate, but in terms of duration risk, the losses on bonds bought near zero are markedly greater. The Fed funds rate is one mechanism through which the Fed conducts monetary policy, and the rate went from essentially zero to 4.25% since mid-March 2022. Over the same period, the yield on the two-year and 10-year Treasury bonds levitated in harmony. The two-year surged from 1.3% to 4.3%, and the 10-year went from 1.8% to 3.6%. The spread between these two instruments inverted midsummer 2022 and has remained so. This phenomenon is a predictable precursor of recessions.
 
 在美国国会的帮助下，美联储无疑是这一理性转变的催化剂。美联储终于将基准利率从零界点上调了上来，其上调速度超过了历史上任何时期。20 世纪 70 年代，美联储基金利率的绝对增幅更大，但就久期风险而言，在零附近购买债券的损失明显更大。美联储基金利率是美联储实施货币政策的机制之一，自 2022 年 3 月中旬以来，该利率从基本为零升至 4.25%。在同一时期，两年期和 10 年期国债的收益率也在和谐地波动。两年期国债收益率从 1.3% 飙升至 4.3%，10 年期国债收益率从 1.8% 升至 3.6%。这两种债券之间的利差在 2022 年仲夏出现了倒挂，并一直保持至今。这种现象是经济衰退的可预见前兆。
 
@@ -98,6 +106,9 @@ As 2022 wore on, overpriced stocks declined, unaccustomed to competition from a 
 Rising rates also mean that, mathematically, bond prices decline, with duration and quality determining just how much. The result was kryptonite for the traditional 60/40 portfolio. The inverse correlation of bonds to equities broke down. Absent that saving grace, bonds could offer no counterbalance to falling stock prices in 2022.
 
 从数学上讲，利率上升也意味着债券价格下降，而期限和质量决定了下降的幅度。这对传统的 60/40 投资组合来说是 "氪石"。债券与股票的反向相关性被打破。如果没有这个救命稻草，债券在 2022 年就无法抵消股票价格的下跌。
+
+![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure3.png)
+_Figure 3 S&P 500 (white), U.S. recessions (blue shaded bars), Fed funds rate (purple), Year-over-year inflation (yellow)_
 
 It was nearly five decades ago in the mid-1970s when markets last experienced a comparably sharp spike in the Fed funds rate. In the major bear markets since the 1980s—all coincided with recessions—the Fed began easing rates immediately. The mid-’70s and early 2020s, however, share a common exogenous threat that could presage the developments in this cycle—inflation. The deep recession of 1973–75 seemingly forced the hand of then Fed Chairman Arthur Burns, and the fight to quell inflation was abandoned. By 1976 a more virulent inflation was back, and it took the new strong-willed Fed chairman Paul Volcker, along with two back-to-back recessions, to finally slay the inflation dragon.
 
@@ -111,10 +122,32 @@ In the early days of 2023, investors continue to wonder whether the Fed will be 
 
 在 2023 年初，投资者仍在猜测美联储是否会面临这样的选择。也就是说，为期 12 个月的熊市是否已基本得到遏制，还是会有另一只鞋子掉下来？在上个世纪，只有四次出现股市连续数年下跌的情况，因此很多人抱有希望。但值得注意的是，这四次分别是 1929-32、1939-41、1973-75 和 2000-02。它们分别是在大萧条、第二次世界大战、20 世纪 70 年代石油危机和互联网泡沫破灭的背景下发生的。如下图所示，第二年的跌幅总是大于第一年。这些都不是普通的熊市；它们是能够严重破坏累积财富的灰熊。
 
-||Year</br>年|Percent Decline</br>下降百分比
----:|---:|---:
+<table> 
+	<tr> 
+		<th></th><th>Year</br>年</th><th>Percent Decline</br>下降百分比</th> 
+	</tr> 
+	<tr> 
+		<td rowspan="4">Great Depression</td><td>1929</td><td>-11.90%</td> 
+	</tr> 
+	<tr>
+		 <td>*1930</td><td>-28.50%</td>
+	  </tr>
+	   <tr> 
+		   <td>1931</td><td>-47.00%</td> 
+	   </tr>
+	   <tr> 
+		   <td>1932</td><td>-15.50%</td> 
+	   </tr>
+	</table>
+
+  
+
+
+
+ ||Year</br>年|Percent Decline</br>下降百分比
+---|---:|---:
 Great Depression|1929|-11.90%
-||*1930|-28.50%
+ ||*1930|-28.50%
 ||1931|-47.00%
 ||1932|-15.50%
 World War II|1939|-5.50%
