@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,8 +160,11 @@
   },
   "active": "93c35161cea372d3",
   "lastOpenFiles": [
-    "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19681101_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671101_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md",
     "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+    "README.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
@@ -180,14 +183,11 @@
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19691009_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690529_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19681101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19680711_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19680124_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671009_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670712_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660712_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19651101_Letter_RR.md",

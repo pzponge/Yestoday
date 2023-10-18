@@ -87,14 +87,14 @@
 1965 年 11 月致合伙人信|1965-11-01|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19651101_Letter_RR.md)
 1965 年致合伙人信|1966-01-20|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md)
 1966 年半年度致合伙人信|1966-07-12|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660712_Letter_RR.md)
-1966 年 11 月致合伙人信|1966-11-01|双语|RanRan|
+1966 年 11 月致合伙人信|1966-11-01|双语|RanRan|Yoan|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md)
 1966 年致合伙人信|1967-01-25|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md)
 1967 年半年度致合伙人信|1967-07-12|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670712_Letter_RR.md)
 1967 年 10 月致合伙人信|1967-10-09|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671009_Letter_RR.md)
-1967 年 11 月致合伙人信|1967-11-01|双语|RanRan|
+1967 年 11 月致合伙人信|1967-11-01|双语|RanRan|Yoan|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671101_Letter_RR.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671101_Letter_RR.md)
 1967 年致合伙人信|1968-01-24|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19680124_Letter_RR.md)
 1968 年半年度致合伙人信|1968-07-11|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19680711_Letter_RR.md)
-1968 年 11 月致合伙人信|1968-11-01|双语|RanRan|
+1968 年 11 月致合伙人信|1968-11-01|双语|RanRan|Yoan|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19681101_Letter_RR.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19681101_Letter_RR.md)
 1968 年致合伙人信|1969-01-22|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md)
 1969 年半年度致合伙人信|1969-05-29|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690529_Letter_RR.md)
 1969 年 10 月致合伙人信|1969-10-09|双语|RanRan|孙萧萧|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/RanRan/19691009_Letter_RR.md)
