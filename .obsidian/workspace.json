@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
+                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
                 "mode": "preview",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
+                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
+                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md"
+                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md"
               }
             }
           }
@@ -160,6 +160,17 @@
   },
   "active": "93c35161cea372d3",
   "lastOpenFiles": [
+    "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
+    "Elements/Frank_Martin/Figure4.png",
+    "Elements/Frank_Martin/Figure3.png",
+    "Elements/Frank_Martin/Figure2.png",
+    "Elements/Frank_Martin/Figure1.png",
+    "Elements/Frank_Martin",
+    "Elements/未命名文件夹",
+    "Martin Capital Management 2022 Annual Report.md",
+    "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
+    "Frank_Martin",
+    "未命名文件夹",
     "Warren_Buffett/Buffett_Partnership_Letters/1964_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19700225_Letter_RR.md",
@@ -182,10 +193,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19650709_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19650118_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640708_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19631106_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630710_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan",
     "Warren_Buffett/Berkshire_Hathaway_Letters/19661202-【Berkshire Hathaway】1966 Annual Report.pdf",
     "Translator_Notes",
@@ -196,10 +203,6 @@
     "Elements/Certificate_of_Limited_Partnership/4.png",
     "Elements/Certificate_of_Limited_Partnership/3.png",
     "Elements/Certificate_of_Limited_Partnership/2.png",
-    "Elements/Certificate_of_Limited_Partnership/1.png",
-    "Elements/Certificate_of_Limited_Partnership",
-    "Elements/未命名文件夹",
-    "Warren_Buffett/Buffett_Partnership_Letters",
-    "Charles_Munger/Wesco_Letter_to_Shareholders"
+    "Elements/Certificate_of_Limited_Partnership/1.png"
   ]
 }
