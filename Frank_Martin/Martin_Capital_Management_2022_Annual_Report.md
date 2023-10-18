@@ -76,7 +76,7 @@ Meta 并非个例。总而言之，最初的 FANG--Facebook、苹果、Netflix �
 Meta (Facebook)|$385|$120|-69%
 Apple|$182|$130|-29%
 Netflix|$700|$294|-58%
-Google|$151|$88|$88
+Google|$151|$88|-42%
 
 Tesla has been the poster child of the new investing era. For years, investors simply trusted that sufficient earnings would materialize for the company in the future to justify the stock price. Not unlike the self-driving car, Tesla’s outlandish earnings growth expectations are being pushed farther and farther into the future. A true signal that valuation matters again is that Tesla actually has increased production and profits in the last year. Still, its stock price cannot maintain the irrationality priced into its peak (Figure 2).
 
