@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frank_Martin/Martin Capital Management 2022 Annual Report.md"
+                "file": "README.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "93c35161cea372d3",
+  "active": "ded21b6b92285919",
   "lastOpenFiles": [
+    "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
@@ -168,7 +169,6 @@
     "Elements/Frank_Martin",
     "Elements/未命名文件夹",
     "Martin Capital Management 2022 Annual Report.md",
-    "Frank_Martin/Martin Capital Management 2022 Annual Report.md",
     "Frank_Martin",
     "未命名文件夹",
     "Warren_Buffett/Buffett_Partnership_Letters/1964_Semi-annual_Letter_to_Limited_Partners_CM.md",
