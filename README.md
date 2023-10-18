@@ -8,7 +8,7 @@
 
 过程中遇到任何问题，可以通过微信公众号私信或[飞书](https://www.feishu.cn/invitation/page/add_contact/?token=cb6qe42c-72ab-46a9-bf5d-0f90d1118a8a&amp;unique_id=aaa9cwGzc4RapO2WfQUoww==)（也可在公众号底边栏找到二维码）联系我。
 
-# 0. 文件夹说明
+# 0\. 文件夹说明
 
 ## 0.1. 经典投资人
 
@@ -22,6 +22,7 @@
 - John_Huber：投资人 John Huber 相关文章翻译。
 - Monish_Pabrai：投资人 Monish Pabrai 相关文章翻译。
 - Nick_Sleep：投资人 Nick Sleep 相关文章翻译。
+- Frank_Martin：投资人 Frank Martin 相关文章翻译。
 - Bharat_Shah：印度投资人 Bharat Shah 相关文章翻译。
 
 ## 0.3. 分析师
@@ -32,7 +33,7 @@
 
 - Elements：用于存放文中图片等素材。
 
-# 1. Warren E. Buffett
+# 1\. Warren E. Buffett
 
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
@@ -168,7 +169,7 @@
 2021|
 2022 年致股东的信|2023-02-25|双语|坚信价值|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
 
-# 2. Charles T. Munger
+# 2\. Charles T. Munger
 
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
@@ -181,20 +182,20 @@
 ---|---|---|---|---
 1986 年|Charles Munger|英语||[GitHub](https://github.com/pzponge/Yestoday/blob/main/Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
 
-# 3. Chuck Akre
+# 3\. Chuck Akre
 
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
 我们所谓的再投资指的是什么？|Chuck Akre|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
-# 4. 李录
+# 4\. 李录
 
 标题|作者|语言|链接
 ---|---|---|---
 2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
 
 
-# 5. Nick Sleep
+# 5\. Nick Sleep
 
 ## 5.1. Nomad Letters to Partners 2001-2014
 
@@ -204,14 +205,14 @@
 基金清盘时写给巴菲特的信及回复|双语|DeepL|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
 2001 年致合伙人的信|双语|DeepL|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
 
-# 6. Monish Pabrai
+# 6\. Monish Pabrai
 
 标题|语言|翻译|链接
 ---|---|---|---
 通过 Spawners 实现累进增长|中文|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Monish_Pabrai/Compounding_with_the_Spawners.md)
 
 
-# 7. John Huber
+# 7\. John Huber
 
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
@@ -223,13 +224,13 @@ ROIC 的重要性（第四部分）：复利的数学原理|John Huber|双语|Po
 ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_5.md)
 ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
-# 8. Michael J. Mauboussin
+# 8\. Michael J. Mauboussin
 
 标题|语言|翻译|链接
 ---|---|---|---
 衡量护城河：评估价值创造的规模和可持续性|中文|Spencer、冼颖彤、Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Michael_Mauboussin/Measuring_the_Moat.md)
 
-# 9. Bharat Shah
+# 9\. Bharat Shah
 
 ## 9.1. Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing
 
@@ -237,3 +238,9 @@ ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leon
 ---|---|---|---
 致谢（Acknowledgement）|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
 概述（Introduction）|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
+
+# 10\. Frank Martin
+
+标题|语言|翻译|整合|链接
+---|---|---|---|---
+马丁资管 2022 年年度报告|双语|DeepL|Terrellchen，Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Martin_Capital_Management_2022_Annual_Report.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Martin_Capital_Management_2022_Annual_Report.md)
