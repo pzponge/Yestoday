@@ -81,7 +81,7 @@ Annual Compounded Rate|11.4%|29.8%|23.9%
 
 After last year the question naturally arises, "What do we do for an encore?” A disadvantage of this business is that it does not possess momentum to any significant degree. If General Motors accounts for 54% of domestic new car registrations in 1965, it is a pretty safe bet that they are going to come fairly close to that figure in 1966 due to owner loyalties, dealer capabilities, productive capacity, consumer image, etc. Not so for BPL. We start from scratch each year with everything valued at market when the gun goes off. Partners in 1966, new or old, benefit to only a very limited extent from the efforts of 1964 and 1965. The success of past methods and ideas does not transfer forward to future ones.
 
-取得去年这样的成绩以后，一个问题很容易会被问到：“我们能够做什么来重复这样的成绩？”投资这门生意的缺点就是对于收益率不存在任何惯性。如果通用汽车1965年国内的汽车销售量增加了54%，或许预测1966年仍然可以达到这个增长率是非常可信的，因为这里有顾客忠诚度、经销商的能力、产品的产能、消费者的期望等等作为后盾。但是巴菲特合伙公司就不行。当猎枪收起时，我们只好重新又开始在市场中捡那些小鱼小虾。1966年的合伙人，不管是新的还是老的，只能从1964和1965年的投资经历中获取非常少的益处。过去成功的方法和观念也许在未来是没有用的。
+取得去年这样的成绩以后，一个问题很容易会被问到：“我们能够做什么来重复这样的成绩？”投资这门生意的缺点就是对于收益率不存在任何惯性。如果通用汽车1965年国内的汽车销售量增加了54%，或许预测1966年仍然可以达到这个增长率是非常可信的，因为这里有顾客忠诚度、经销商的能力、产品的产能、消费者的期望等等作为后盾。但是巴菲特合伙公司就不行。当猎枪收起时，我们只好重新又开始在市场中捡那些小鱼小虾[^4]。1966年的合伙人，不管是新的还是老的，只能从1964和1965年的投资经历中获取非常少的益处。过去成功的方法和观念也许在未来是没有用的。
 
 I continue to hope, on a longer-range basis, for the sort of achievement outlined in the "Our Goal" section of last year's letter (copies still available). However, those who believe 1965 results can be achieved with any frequency are probably attending weekly meetings of the Halley’s Comet Observers Club. We are going to have loss years and are going to have years inferior to the Dow - no doubt about it. But I continue to believe we can achieve average performance superior to the Dow in the future. If my expectation regarding this should change, you will hear immediately.
 
@@ -369,3 +369,4 @@ Warren E. Buffett
 [^1]: 以哈雷彗星的运行周期计算，70多年都会一无所获。
 [^2]: 意思大概是指自己就像吃了抗甲亢的药一样，变得不够亢奋了。
 [^3]: 意思是指这三家公司的股价太高，会让投资者难以安眠。
+[^4]: Ponge 补注：这句话在翻译时，诚明散人在原来的意思上引申的比较多，不知道会不会不好理解。这里放一个 RanRan 的译本：「每一年，发令枪一响，我们都一切按市值计算，从零开始」。

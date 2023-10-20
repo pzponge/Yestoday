@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
-                "mode": "source",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md"
               }
             }
           }
@@ -160,8 +160,8 @@
   },
   "active": "93c35161cea372d3",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19700225_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1967_October_Letter_to_Limited_Partners_CM.md",
