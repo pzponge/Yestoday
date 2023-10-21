@@ -72,6 +72,9 @@
 1967 年 10 月致合伙人信|1967-10-09|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1967_October_Letter_to_Limited_Partners_CM.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1967_October_Letter_to_Limited_Partners_CM.md)
 1967 年 11 月致合伙人信|1967-11-01|双语|
 1967 年致合伙人信|1968-01-24|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1967_Letter_to_Limited_Partners_CM.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1967_Letter_to_Limited_Partners_CM.md)
+1968 年半年度致合伙人信|1968-07-11|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1968_Semi-annual_Letter_to_Limited_Partners_CM.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1968_Semi-annual_Letter_to_Limited_Partners_CM.md)
+1968 年 11 月致合伙人信|1968-11-01|双语|
+1968 年致合伙人信|1969-01-22|双语|诚明散人|诚明散人|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md)
 1969 年致合伙人信|1970-02-18|双语|Ponge|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md)
 
 
