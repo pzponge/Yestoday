@@ -3,7 +3,7 @@
 - 标题：1989 Letter to Berkshire Shareholders
 - 作者：Warren Buffett
 - 发表时间：1990-03-02
-- 链接：[PDF](https://www.berkshirehathaway.com/letters/2009ltr.pdf)
+- 链接：[HTML](https://www.berkshirehathaway.com/letters/1989.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：when breath becomes air
 - 校译：
