@@ -730,27 +730,27 @@ Here’s what we’re looking for:
 
 (1) large purchases (at least $10 million of after-tax earnings),
 
-    具有一定的规模，税后净利润至少达到1000万美元。
+(1) 具有一定的规模，税后净利润至少达到1000万美元。
 
 (2) demonstrated consistent earning power (future projections are of little interest to us, nor are “turnaround” situations),
 
-    表现出持续稳定的盈利能力，我们对美好前景或困境反转的公司没有兴趣。
+(2) 表现出持续稳定的盈利能力，我们对美好前景或困境反转的公司没有兴趣。
 
 (3) businesses earning good returns on equity while employing little or no debt,
 
-    企业在很少或没有负债的情况下，取得了良好的股本回报率ROE。
+(3) 企业在很少或没有负债的情况下，取得了良好的股本回报率ROE。
 
 (4) management in place (we can’t supply it),
 
-    公司具备强大的管理团队，我们不参与管理。
+(4) 公司具备强大的管理团队，我们不参与管理。
 
 (5) simple businesses (if there’s lots of technology, we won’t understand it),
 
-    简单的容易理解的商业模式，我们对复杂的高科技一无所知。
+(5) 简单的容易理解的商业模式，我们对复杂的高科技一无所知。
 
 (6) an offering price (we don’t want to waste our time or that of the seller by talking, even preliminarily, about a transaction when price is unknown).
 
-    合理的价格，在价格不确定前，我们不希望浪费双方太多时间。
+(6) 合理的价格，在价格不确定前，我们不希望浪费双方太多时间。
 
 We will not engage in unfriendly takeovers. We can promise complete confidentiality and a very fast answer - customarily within five minutes - as to whether we’re interested. We prefer to buy for cash, but will consider issuing stock when we receive as much in intrinsic business value as we give.
 
