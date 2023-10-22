@@ -147,7 +147,7 @@
 1985 年致股东的信|1986-03-04|双语|芒格书院共读群友|Yoan|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md)
 1986 年致股东的信|1987-02-27|双语|芒格书院共读群友|知行 (进行中)|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md)
 1987 年致股东的信|1988-02-29|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md)
-1988 年致股东的信|1989-02-28|双语|芒格书院共读群友|当呼吸化为空气 (进行中)|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md)
+1988 年致股东的信|1989-02-28|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md)
 1989 年致股东的信|1990-03-02|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md)
 1990 年致股东的信|1991-03-01|双语|芒格书院共读群友|momo|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
 1991 年致股东的信|1992-02-28|双语|芒格书院共读群友|momo|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
