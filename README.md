@@ -224,3 +224,10 @@ ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leon
 标题|语言|翻译|整合|链接
 ---|---|---|---|---
 马丁资管 2022 年年度报告|双语|DeepL|Terrellchen，Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md)
+
+
+# 11\. 其他
+
+标题|作者|语言|翻译|链接
+---|---|---|---|---
+Owner Earnings vs. Free Cash Flow|Joe Ponzio|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)
