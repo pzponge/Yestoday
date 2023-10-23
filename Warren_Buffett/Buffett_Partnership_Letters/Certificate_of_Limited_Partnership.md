@@ -5,6 +5,7 @@
 - 发表时间：1956-05-01
 - 链接：[ORIGINAL WARREN BUFFETT PARTNERSHIP AGREEMENT FOUND HERE!](https://www.gurufocus.com/news/126451/original-warren-buffett-partnership-agreement-found-here)[^2]
 - 中文翻译来源参考：**梁孝永康**整理编辑的《巴菲特致合伙人+致股东的信全集》、芒格书院
+- 整合：Ponge、孙萧萧
 - 英文校对：孙萧萧
 - 校译：孙萧萧
 
