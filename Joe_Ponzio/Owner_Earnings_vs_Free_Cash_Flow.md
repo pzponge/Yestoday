@@ -12,29 +12,51 @@
 
 Managers  thinking about accounting issues should never forget one of Abraham Lincoln’s favorite riddles: “How many legs does a dog have if you call his tail a leg?” The answer: “Four, because calling a tail a leg does not make it a leg.” – Warren Buffett
 
+管理者在考虑会计问题时，千万不要忘记亚伯拉罕·林肯最喜欢的一个谜语：「一条狗有几条腿，如果你把它的尾巴叫做腿？」答案是「四条，因为称尾巴为腿并不能使它成为一条腿」。——沃伦·巴菲特
+
 Though many people consider free cash flow and owner earnings to be one in the same, this is not always the case.
+
+尽管很多人认为自由现金流和所有者收益是同一概念，但事实并非总是如此。
 
 This report discusses the differences between Free Cash Flow and Owner Earnings.
 
-For additional help or information, please feel free to visit www.FWallStreet.com.
+本报告将讨论自由现金流和所有者收益之间的区别。
+
+For additional help or information, please feel free to visit [www.FWallStreet.com](www.FWallStreet.com).
+
+如需更多帮助或信息，请随时访问 [www.FWallStreet.com](www.FWallStreet.com)。
 
 ---
 
 In his 1986 Letter to Berkshire Hathaway shareholders, Warren Buffett laid out a definition and equation for “owner earnings” - a number that he said is “the relevant item for valuation purposes- both for investors in buying stocks and for managers in buying entire businesses."
 
+在1986年的信中，巴菲特提到了「股东盈余（Owner Earnings）」的概念，并对其进行了定义。巴菲特认为该数字对于股票投资者和企业整体并购者而言，都是对标的进行估值的一个重要依据。
+
 What is owner earnings? Before we get into a full explanation, let's lay forth Buffett's formula, as written in the aforementioned letter: 
+
+什么是股东盈余？在全面解释之前，我们先来介绍一下巴菲特在上述信中所写的公式：
 
 "\[Owner earnings\] represent (a) reported earnings plus (b) depreciation, depletion, amortization, and certain other non-cash charges...less (c) the average annual amount of capitalized expenditures for plant and equipment, etc. that the business requires to fully maintain its long-term competitive position and its unit volume."
 
+「\[股东盈余\]是指（a）报告利润加上（b）折旧、损耗、摊销和某些其他非现金费用......减去（c）企业为完全保持其长期竞争地位和单位产量所需的厂房和设备等资本化支出的年均金额。」
+
 It's a mouthful; hence, the need for the discussion contained herein.
+
+这段话拗口，因此需要在此进行讨论。
 
 Of course, investors as a group tend to have a need for immediate gratification and tend to seek out a single, simple, quick formula for investing. Because of those needs, free cash flow was born as the “armchair investor's” owner earnings.
 
+大多的投资者都有着成为“翘脚老板”的梦想（原文是“armchair investor”，意思是指坐在扶手椅上悠闲投资的方式），所以，都希望能有一个快速、简单的公式来指导投资。自由现金流（Free Cash Flow）就是为了满足这一需求而诞生的，用于描述股东利润的一种快捷方式。
+
 Though at times free cash flow and owner earnings are substantially the same, there are times that they differ greatly which can have a very significant impact on an investor's estimation of intrinsic value. This report will outline the major differences between owner earnings and free cash flow. It assumes that the reader has, at the very least, a rudimentary understanding of financial terms and financial statements.
 
-For additional information and more examples, visit Joe Ponzio's www.FWallStreet.com.
+虽然，有的时候自由现金流和股东利润大体上是相同的；但在某些情况下，这两者之间有着巨大的差距，可能导致投资者对企业的内在价值评估相差万里。这篇文章将揭示这二者之间的主要差别。本报告假定读者至少对财务术语和财务报表有初步了解。
 
-# The Start-Up: X-Widget Incorporated
+For additional information and more examples, visit Joe Ponzio's [www.FWallStreet.com](www.FWallStreet.com).
+
+欲了解更多信息和实例，请访问乔·庞齐奥（Joe Ponzio）的 [www.FWallStreet.com](www.FWallStreet.com)。
+
+# The Start-Up: X-Widget Incorporated 初创公司：X-Widget 股份有限公司
 
 For this discussion of free cash flow versus owner earnings, we'll start by analyzing a fictional company: X-Widget Incorporated. In doing so, the reader should end up with a strong grasp of how the income statement, balance sheet, and statement of cash flows are tied together to give a clear picture of the financial health and performance of a business.
 
