@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c9720c3d93b94d06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -146,10 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2b910df62b4a44dc",
+  "active": "c9720c3d93b94d06",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/1970_February_25th_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
     "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1970_February_25th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_26th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
@@ -157,7 +173,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1968_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2002_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders1.md",
@@ -172,8 +187,6 @@
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
     "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670712_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
     "Elements/Frank_Martin/Figure2.png",
