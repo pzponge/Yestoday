@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "当猎枪收起时",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,7 +148,17 @@
   },
   "active": "2b910df62b4a44dc",
   "lastOpenFiles": [
+    "Warren_Buffett/Buffett_Partnership_Letters/1970_February_25th_Letter_to_Limited_Partners_CM.md",
     "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1969_December_26th_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1968_Semi-annual_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2002_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders1.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md",
@@ -157,7 +167,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1968_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1967_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
@@ -165,15 +174,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670712_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19700225_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1967_October_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671009_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1967_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1966_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
     "Elements/Frank_Martin/Figure2.png",
