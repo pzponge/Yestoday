@@ -230,4 +230,4 @@ ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leon
 
 标题|作者|语言|翻译|链接
 ---|---|---|---|---
-Owner Earnings vs. Free Cash Flow|Joe Ponzio|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)
+股东盈余和自由现金流|Joe Ponzio|双语|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)
