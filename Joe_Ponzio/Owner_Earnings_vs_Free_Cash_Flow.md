@@ -12,7 +12,7 @@
 
 Managers  thinking about accounting issues should never forget one of Abraham Lincoln’s favorite riddles: “How many legs does a dog have if you call his tail a leg?” The answer: “Four, because calling a tail a leg does not make it a leg.” – Warren Buffett
 
-管理者在考虑会计问题时，千万不要忘记亚伯拉罕·林肯最喜欢的一个谜语：「一条狗有几条腿，如果你把它的尾巴叫做腿？」答案是「四条，因为称尾巴为腿并不能使它成为一条腿」。——沃伦·巴菲特
+管理者在考虑会计问题时，千万不要忘记亚伯拉罕·林肯最喜欢的一个谜语：「如果你将狗的尾巴称为一条腿，一条狗有几条腿？」答案是「四条，因为就算你将尾巴称为一条腿，它不会因此就变成一条腿。」。——沃伦·巴菲特
 
 Though many people consider free cash flow and owner earnings to be one in the same, this is not always the case.
 
