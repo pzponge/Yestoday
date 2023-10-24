@@ -65,7 +65,7 @@ During the past year we have taken positions in two situations which have reache
 
 In 1957 the three partnerships which we formed in 1956 did substantially better than the general market. At the beginning of the year, the Dow-Jones Industrials stood at 499 and at the end of the year it was at 435 for a loss of 64 points. If one had owned the Averages, he would have received 22 points in dividends reducing the overall loss to 42 points or 8.470% for the year. This loss is roughly equivalent to what would have been achieved by investing in most investment funds and, to my knowledge, no investment fund invested in stocks showed a gain for the year.
 
-我们于 1956 年成立的三家合伙企业在 1957 年大幅跑赢市场。道琼斯工业指数去年年初站上了 499 点，年末收于 435 点，下跌 64 点。考虑买入指数可获得 22 点的分红，全年实际亏损降低到 42 点或 8.470%。投资大多数基金获得的差不多就是这个收益，据我所知，今年没有哪一个投资于股票的基金取得了正收益。
+我们于 1956 年成立的三家合伙企业在 1957 年大幅跑赢市场。道琼斯工业指数去年年初站上了 499 点，年末收于 435 点，下跌 64 点。考虑买入指数可获得 22 点的股息，全年实际亏损降低到 42 点或 8.470%。投资大多数基金获得的差不多就是这个收益，据我所知，今年没有哪一个投资于股票的基金取得了正收益。
 
 All three of the 1956 partnerships showed a gain during the year amounting to about 6.2%, 7.8% and 25% on yearend 1956 net worth. Naturally a question is created as to the vastly superior performance of the last partnership, particularly in the mind of the partners of the first two. This performance emphasizes the importance of luck in the short run, particularly in regard to when funds are received. The third partnership was started the latest in 1956 when the market was at a lower level and when several securities were particularly attractive. Because of the availability of funds, large positions were taken in these issues. Whereas the two partnerships formed earlier were already substantially invested so that they could only take relatively small positions in these issues.
 
