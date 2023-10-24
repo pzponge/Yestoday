@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md"
               }
             }
           }
@@ -159,13 +159,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded21b6b92285919",
+  "active": "c9720c3d93b94d06",
   "lastOpenFiles": [
+    "Warren_Buffett/Buffett_Partnership_Letters/1967_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1965_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
+    "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1963_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
-    "README.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_December_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
@@ -188,11 +193,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1969_December_26th_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
     "Elements/Frank_Martin/Figure2.png",
