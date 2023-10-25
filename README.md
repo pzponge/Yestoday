@@ -39,7 +39,7 @@
 ---|---|---|---|---|---
 沃伦·巴菲特崇拜|Gary Mishuris|双语|Ponge|Ponge|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/The_Cult_of_Warren_Buffett.md)
 新狗难教旧把戏：巴菲特 1988 年与亚当·斯密访谈|Kingswell|双语|DeepL|Terrellchen|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md)
-
+塔克商学院 2004-2005 访问巴菲特实录|佚名|双语|[GitHub](https://github.com/pzponge/Yestoday/blob/main/Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)
 
 ## 1.1. 致巴菲特合伙基金持有人信
 
