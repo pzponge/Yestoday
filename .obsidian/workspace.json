@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,8 +161,22 @@
   },
   "active": "c9720c3d93b94d06",
   "lastOpenFiles": [
+    "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1967_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1965_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
     "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_December_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_Semi-annual_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md",
     "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+    "Warren_Buffett/Visita a Warren Buffett - Thinkfn --- 拜访沃伦·巴菲特 - Thinkfn.md",
     "John_Huber/End_of_Mean_Reversion.md",
     "Elements/Mean_Reversion/image-1024x116.png",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
@@ -179,20 +193,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1969_December_26th_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1968_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2002_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders1.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
     "Elements/Frank_Martin/Figure2.png",
