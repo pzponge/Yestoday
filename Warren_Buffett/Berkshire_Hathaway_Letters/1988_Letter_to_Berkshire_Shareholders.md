@@ -822,61 +822,97 @@ February 28, 1989
 
 
 [^1]: By 伴读小兽 @20231025
+
 	原文：There are only a handful of businesses about which we have strong long-term convictions.
+	
 	共读版翻译：只有少部分企业是我们想要长期持有的，
+	
 	修改为：我们长期坚信的企业只有少数几家。
 
 [^2]: By 伴读小兽 @20231025
+
 	原文：cools any temptation we may have to relax our standards for long-term investments.
+	
 	共读版翻译：可以稍微缓和我们对于寻找长期资金去处的压力，
+	
 	修改为：可以冷却任何我们放松长期投资标准的诱惑。（这个是直译，但我感觉更能说明我自己在拿现金时的那种想出手买股票的诱惑。）
 
 [^3]: By 伴读小兽 @20231025
+
 	原文：bars.
+	
 	共读版翻译：市场。
+	
 	修改为：喧闹的市场。
 
 [^4]: By 伴读小兽 @20231025
+
 	原文：Sometimes there is more to stock valuation than price-earnings ratios.
+	
 	共读版翻译：有时股票的价格会远远超过合理的市盈率之外。
+	
 	修改为：有时候，股票估值不仅仅是市盈率（这么简单）。
 
 [^5]: By 伴读小兽 @20231025
+
 	原文：How long will your money be tied up?
+	
 	共读版翻译：你的资金总计要投入多久？
+	
 	修改为：你的资金会被占用多久？
 
 [^6]: By 伴读小兽 @20231025
+
 	原文：What will happen if the event does not take place because of anti-trust action, financing glitches, etc.?
+	
 	共读版翻译：因为反垄断或是财务意外状况发生导致并购案触礁的机率有多高？
+	
 	修改为：如果由于反垄断诉讼、融资故障等原因事件没有发生，会发生什么？
 
 [^7]: By 伴读小兽 @20231025
+
 	原文：Arcata Corp., one of our more serendipitous arbitrage experiences,
+	
 	共读版翻译：Arcata公司是我们最曲折离奇的并购经历，
+	
 	修改为：Arcata公司就是我们比较偶然发现的套利交易之一，
 
 [^8]: By 伴读小兽 @20231025
+
 	原文：a major leveraged-buy out firm.
+	
 	共读版翻译：最大的杠杆并购公司。
+	
 	修改为：一家主要的杠杆收购公司。
 
 [^9]: By 伴读小兽 @20231025
+
 	原文：acres
+	
 	共读版翻译：公顷
+	
 	修改为：英亩
 
 [^10]: By 伴读小兽 @20231025
+
 	原文：The enabling legislation stipulated 6% simple interest; Arcata argued for a much higher and compounded rate.
+	
 	共读版翻译：同时双方也对这期间适用的6%利率有争议，Arcata极力争取更高的赔偿金与适用的利率。
+	
 	修改为：双方还对财产被占用到最终付款的期间利率存在争议。征收法规定为6%的单利；Arcata公司主张采用高得多的复合利率。
 
 [^11]: By 伴读小兽 @20231025
+
 	原文： Our willingness to pay up - even though the closing had been postponed - reflected our leaning toward “a whole lot” rather than “zero” for the redwoods.
+	
 	共读版翻译：我们的努力终于获得回报，虽然有点拖延，但结果却相当令人满意。
+	
 	修改为：我们愿意支付（这个价格）-尽管交易完成时间已被推迟-这反映了我们对于红木林的价值更倾向于“相当多” 而不是“零”。
 
 [^12]: By 伴读小兽 @20231025
+
 	原文：About three million shares were accepted when we tendered our holdings to KKR, which acquired RJR, and the returned shares were promptly sold in the market. Our pre-tax profit was a better-than-expected $64 million.
+	
 	共读版翻译：有300万股是KKR决定并购RJR后，我们卖给KKR的，获利6,400万美元略高于预期。
+	
 	修改为：当我们向收购RJR的KKR公司提交持股时，大约300万股被接受，返回的股票被迅速在市场上卖出。我们的税前利润6400万美元高于预期。
