@@ -532,7 +532,7 @@ In recent years, most arbitrage operations have involved takeovers, friendly and
 
 To evaluate arbitrage situations you must answer four questions: (1) How likely is it that the promised event will indeed occur? (2) How long will your money be tied up? (3) What chance is there that something still better will transpire - a competing takeover bid, for example? and (4) What will happen if the event does not take place because of anti-trust action, financing glitches, etc.?
 
-在评估套利活动时，你必须要能回答四个问题：(1)已公布的事件有多少可能性确实会发生？(2)你的资金会被占用多久？[^5](3)有多少可能更好的结果会发生，例如并购竞价提高；(4)如果由于反垄断诉讼、融资故障等原因事件没有发生，会发生什么？[^6]
+在评估套利活动时，你必须要能回答四个问题：(1)已公布的事件有多少可能性确实会发生？(2)你的资金会被占用多久[^5]？(3)有多少可能更好的结果会发生，例如并购竞价提高；(4)如果由于反垄断诉讼、融资故障等原因事件没有发生，会发生什么？[^6]
 
 Arcata Corp., one of our more serendipitous arbitrage experiences, illustrates the twists and turns of the business. On September 28, 1981 the directors of Arcata agreed in principle to sell the company to Kohlberg, Kravis, Roberts & Co. (KKR), then and now a major leveraged-buy out firm. Arcata was in the printing and forest products businesses and had one other thing going for it: In 1978 the U.S. Government had taken title to 10,700 acres of Arcata timber, primarily old-growth redwood, to expand Redwood National Park. The government had paid $97.9 million, in several installments, for this acreage, a sum Arcata was contesting as grossly inadequate. The parties also disputed the interest rate that should apply to the period between the taking of the property and final payment for it. The enabling legislation stipulated 6% simple interest; Arcata argued for a much higher and compounded rate.
 
