@@ -6,7 +6,7 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1988.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：when breath becomes air
-- 校译：
+- 中文校译：伴读小兽
 
 ---
 
@@ -448,7 +448,9 @@ In 1988 we made major purchases of Federal Home Loan Mortgage Pfd. (“Freddie M
 
 We continue to concentrate our investments in a very few companies that we try to understand well. There are only a handful of businesses about which we have strong long-term convictions. Therefore, when we find such a business, we want to participate in a meaningful way. We agree with Mae West: “Too much of a good thing can be wonderful.”
 
-我们持续将投资集中在少数我们能够了解的公司之上，只有少部分企业是我们想要长期持有的，因为当我们好不容易找到这样的公司时，我们会想要达到一定的参与程度，我们同意Mae West的看法：好东西当然是多多益善。
+我们持续将投资集中在少数我们能够了解的公司之上，我们长期坚信的企业只有少数几家[^1]，因为当我们好不容易找到这样的公司时，我们会想要达到一定的参与程度，我们同意Mae West的看法：好东西当然是多多益善。
+
+
 
 ## Medium-term Fixed-income Securities 中期固定收益证券
 
@@ -494,7 +496,7 @@ Our WPPSS experience, though pleasant, does nothing to alter our negative opinio
 
 In past reports we have told you that our insurance subsidiaries sometimes engage in arbitrage as an alternative to holding short-term cash equivalents. We prefer, of course, to make major long-term commitments, but we often have more cash than good ideas. At such times, arbitrage sometimes promises much greater returns than Treasury Bills and, equally important, cools any temptation we may have to relax our standards for long-term investments. (Charlie’s sign off after we’ve talked about an arbitrage commitment is usually: “Okay, at least it will keep you out of bars.”)
 
-在过去的报告中我曾经告诉各位，保险子公司有时也会从事套利的操作，以作为短期资金的替代方案，当然我们比较喜欢长期的投入，但可惜资金总是多过于点子，与此同时，套利的报酬有时会好过于政府债券，同时很重要的一点是，可以稍微缓和我们对于寻找长期资金去处的压力，(每次在我们谈完套利投资之后，查理总是会附带一句：这样也好，至少能让你暂时远离市场)
+在过去的报告中我曾经告诉各位，保险子公司有时也会从事套利的操作，以作为短期资金的替代方案，当然我们比较喜欢长期的投入，但可惜资金总是多过于点子，与此同时，套利的报酬有时会好过于政府债券，同时很重要的一点是，可以冷却任何我们放松长期投资标准的诱惑[^2]，(每次在我们谈完套利投资之后，查理总是会附带一句：这样也好，至少能让你暂时远离喧闹的市场)[^3]
 
 During 1988 we made unusually large profits from arbitrage, measured both by absolute dollars and rate of return. Our pre-tax gain was about $78 million on average invested funds of about $147 million.
 
@@ -522,7 +524,7 @@ For several weeks I busily bought shares, sold beans, and made periodic stops at
 
 The architect of Rockwood’s restructuring was an unknown, but brilliant Chicagoan, Jay Pritzker, then 32. If you’re familiar with Jay’s subsequent record, you won’t be surprised to hear the action worked out rather well for Rockwood’s continuing shareholders also. From shortly before the tender until shortly after it, Rockwood stock appreciated from 15 to 100, even though the company was experiencing large operating losses. Sometimes there is more to stock valuation than price-earnings ratios.
 
-洛克伍德改造计划的规划者是32岁没有名气但相当优秀的芝加哥人杰伊·普利兹克(Jay Pritzker)，若你知道杰伊后来的记录，你应该就不会讶异这个动作对于公司股东有多大的益处了，在这项提议推出不久之后，虽然公司营运呈现亏损，但股价却从15美元涨到100美元，有时股票的价格会远远超过合理的市盈率之外。
+洛克伍德改造计划的规划者是32岁没有名气但相当优秀的芝加哥人杰伊·普利兹克(Jay Pritzker)，若你知道杰伊后来的记录，你应该就不会讶异这个动作对于公司股东有多大的益处了，在这项提议推出不久之后，虽然公司营运呈现亏损，但股价却从15美元涨到100美元，有时候，股票估值不仅仅是市盈率（这么简单）。[^4]
 
 In recent years, most arbitrage operations have involved takeovers, friendly and unfriendly. With acquisition fever rampant, with anti-trust challenges almost non-existent, and with bids often ratcheting upward, arbitrageurs have prospered mightily. They have not needed special talents to do well; the trick, a la Peter Sellers in the movie, has simply been “Being There.” In Wall Street the old proverb has been reworded: “Give a man a fish and you feed him for a day. Teach him how to arbitrage and you feed him forever.” (If, however, he studied at the Ivan Boesky School of Arbitrage, it may be a state institution that supplies his meals.)
 
@@ -530,11 +532,11 @@ In recent years, most arbitrage operations have involved takeovers, friendly and
 
 To evaluate arbitrage situations you must answer four questions: (1) How likely is it that the promised event will indeed occur? (2) How long will your money be tied up? (3) What chance is there that something still better will transpire - a competing takeover bid, for example? and (4) What will happen if the event does not take place because of anti-trust action, financing glitches, etc.?
 
-在评估套利活动时，你必须要能回答四个问题：(1)已公布的事件有多少可能性确实会发生？(2)你的资金总计要投入多久？(3)有多少可能更好的结果会发生，例如并购竞价提高；(4)因为反垄断或是财务意外状况发生导致并购案触礁的机率有多高？
+在评估套利活动时，你必须要能回答四个问题：(1)已公布的事件有多少可能性确实会发生？(2)你的资金会被占用多久？[^5](3)有多少可能更好的结果会发生，例如并购竞价提高；(4)如果由于反垄断诉讼、融资故障等原因事件没有发生，会发生什么？[^6]
 
 Arcata Corp., one of our more serendipitous arbitrage experiences, illustrates the twists and turns of the business. On September 28, 1981 the directors of Arcata agreed in principle to sell the company to Kohlberg, Kravis, Roberts & Co. (KKR), then and now a major leveraged-buy out firm. Arcata was in the printing and forest products businesses and had one other thing going for it: In 1978 the U.S. Government had taken title to 10,700 acres of Arcata timber, primarily old-growth redwood, to expand Redwood National Park. The government had paid $97.9 million, in several installments, for this acreage, a sum Arcata was contesting as grossly inadequate. The parties also disputed the interest rate that should apply to the period between the taking of the property and final payment for it. The enabling legislation stipulated 6% simple interest; Arcata argued for a much higher and compounded rate.
 
-Arcata公司是我们最曲折离奇的并购经历，能说明这种交易的曲曲折折。1981年9月28日，Arcata的董事同意将公司卖给KKR公司，KKR在当时同时也是现在最大的杠杆并购公司。Arcata所从事的是印刷与森林产品，但其中值得注意的是，在1978年美国政府决定征收该公司所有10700公顷的红木林，以扩增国家公园的范围，为此政府决定分期支付该公司总金额9790万美元的征收款，但Arcata公司却认为金额太少，同时双方也对这期间适用的6%利率有争议，Arcata极力争取更高的赔偿金与适用的利率。
+Arcata公司就是我们比较偶然发现的套利交易之一[^7]，能说明这种交易的曲曲折折。1981年9月28日，Arcata的董事同意将公司卖给KKR公司，KKR在当时同时也是现在一家主要的杠杆收购公司[^8]。Arcata所从事的是印刷与森林产品，但其中值得注意的是，在1978年美国政府决定征收该公司所有10700英亩[^9]的红木林，以扩增国家公园的范围，为此政府决定分期支付该公司总金额9790万美元的征收款，但Arcata公司却认为金额太少，双方还对财产被占用到最终付款的期间利率存在争议。征收法规定为6%的单利；Arcata公司主张采用高得多的复合利率。[^10]
 
 Buying a company with a highly-speculative, large-sized claim in litigation creates a negotiating problem, whether the claim is on behalf of or against the company. To solve this problem, KKR offered $37.00 per Arcata share plus two-thirds of any additional amounts paid by the government for the redwood lands.
 
@@ -558,7 +560,7 @@ We started buying Arcata stock, then around $33.50, on September 30 and in eight
 
 All did not go perfectly. In December it was announced that the closing would be delayed a bit. Nevertheless, a definitive agreement was signed on January 4. Encouraged, we raised our stake, buying at around $38.00 per share and increasing our holdings to 655,000 shares, or over 7% of the company. Our willingness to pay up - even though the closing had been postponed - reflected our leaning toward “a whole lot” rather than “zero” for the redwoods.
 
-然而过程不太顺利，到了12月宣布，交易可能会延后，尽管如此，1月4日正式签约了。受到这项鼓励，我们决定再加码以38元每股至65.5万股，约7%的股权。我们的努力终于获得回报，虽然有点拖延，但结果却相当令人满意。
+然而过程不太顺利，到了12月宣布，交易可能会延后，尽管如此，1月4日正式签约了。受到这项鼓励，我们决定再加码以38元每股至65.5万股，约7%的股权。我们愿意支付（这个价格）——尽管交易完成时间已被推迟——这反映了我们对于红木林的价值更倾向于“相当多” 而不是“零”。[^11]
 
 Then, on February 25 the lenders said they were taking a “second look” at financing terms “ in view of the severely depressed housing industry and its impact on Arcata’s outlook.” The stockholders’ meeting was postponed again, to April. An Arcata spokesman said he “did not think the fate of the acquisition itself was imperiled.” When arbitrageurs hear such reassurances, their minds flash to the old saying: “He lied like a finance minister on the eve of devaluation.”
 
@@ -594,7 +596,7 @@ The other way we differ from some arbitrage operations is that we participate on
 
 At yearend, our only major arbitrage position was 3,342,000 shares of RJR Nabisco with a cost of $281.8 million and a market value of $304.5 million. In January we increased our holdings to roughly four million shares and in February we eliminated our position. About three million shares were accepted when we tendered our holdings to KKR, which acquired RJR, and the returned shares were promptly sold in the market. Our pre-tax profit was a better-than-expected $64 million.
 
-到了年底，我们剩下唯一的套利投资是334.2万股的RJR Nabisco，投资成本2.82亿美元，目前市价3.04亿美元，今年一月我们增加持股到400万股，接着在二月全部出清。有300万股是KKR决定并购RJR后，我们卖给KKR的，获利6,400万美元略高于预期。
+到了年底，我们剩下唯一的套利投资是334.2万股的RJR Nabisco，投资成本2.82亿美元，目前市价3.04亿美元，今年一月我们增加持股到400万股，接着在二月全部出清。当我们向收购RJR的KKR公司提交持股时，大约300万股被接受，返回的股票被迅速在市场上卖出。我们的税前利润6400万美元高于预期。[^12]
 
 Earlier, another familiar face turned up in the RJR bidding contest: Jay Pritzker, who was part of a First Boston group that made a tax-oriented offer. To quote Yogi Berra; “It was deja vu all over again.”
 
@@ -817,3 +819,64 @@ Chairman of the Board
 February 28, 1989
 
 1989.02.28
+
+
+[^1]: By 伴读小兽 @20231025
+	原文：There are only a handful of businesses about which we have strong long-term convictions.
+	共读版翻译：只有少部分企业是我们想要长期持有的，
+	修改为：我们长期坚信的企业只有少数几家。
+
+[^2]: By 伴读小兽 @20231025
+	原文：cools any temptation we may have to relax our standards for long-term investments.
+	共读版翻译：可以稍微缓和我们对于寻找长期资金去处的压力，
+	修改为：可以冷却任何我们放松长期投资标准的诱惑。（这个是直译，但我感觉更能说明我自己在拿现金时的那种想出手买股票的诱惑。）
+
+[^3]: By 伴读小兽 @20231025
+	原文：bars.
+	共读版翻译：市场。
+	修改为：喧闹的市场。
+
+[^4]: By 伴读小兽 @20231025
+	原文：Sometimes there is more to stock valuation than price-earnings ratios.
+	共读版翻译：有时股票的价格会远远超过合理的市盈率之外。
+	修改为：有时候，股票估值不仅仅是市盈率（这么简单）。
+
+[^5]: By 伴读小兽 @20231025
+	原文：How long will your money be tied up?
+	共读版翻译：你的资金总计要投入多久？
+	修改为：你的资金会被占用多久？
+
+[^6]: By 伴读小兽 @20231025
+	原文：What will happen if the event does not take place because of anti-trust action, financing glitches, etc.?
+	共读版翻译：因为反垄断或是财务意外状况发生导致并购案触礁的机率有多高？
+	修改为：如果由于反垄断诉讼、融资故障等原因事件没有发生，会发生什么？
+
+[^7]: By 伴读小兽 @20231025
+	原文：Arcata Corp., one of our more serendipitous arbitrage experiences,
+	共读版翻译：Arcata公司是我们最曲折离奇的并购经历，
+	修改为：Arcata公司就是我们比较偶然发现的套利交易之一，
+
+[^8]: By 伴读小兽 @20231025
+	原文：a major leveraged-buy out firm.
+	共读版翻译：最大的杠杆并购公司。
+	修改为：一家主要的杠杆收购公司。
+
+[^9]: By 伴读小兽 @20231025
+	原文：acres
+	共读版翻译：公顷
+	修改为：英亩
+
+[^10]: By 伴读小兽 @20231025
+	原文：The enabling legislation stipulated 6% simple interest; Arcata argued for a much higher and compounded rate.
+	共读版翻译：同时双方也对这期间适用的6%利率有争议，Arcata极力争取更高的赔偿金与适用的利率。
+	修改为：双方还对财产被占用到最终付款的期间利率存在争议。征收法规定为6%的单利；Arcata公司主张采用高得多的复合利率。
+
+[^11]: By 伴读小兽 @20231025
+	原文： Our willingness to pay up - even though the closing had been postponed - reflected our leaning toward “a whole lot” rather than “zero” for the redwoods.
+	共读版翻译：我们的努力终于获得回报，虽然有点拖延，但结果却相当令人满意。
+	修改为：我们愿意支付（这个价格）-尽管交易完成时间已被推迟-这反映了我们对于红木林的价值更倾向于“相当多” 而不是“零”。
+
+[^12]: By 伴读小兽 @20231025
+	原文：About three million shares were accepted when we tendered our holdings to KKR, which acquired RJR, and the returned shares were promptly sold in the market. Our pre-tax profit was a better-than-expected $64 million.
+	共读版翻译：有300万股是KKR决定并购RJR后，我们卖给KKR的，获利6,400万美元略高于预期。
+	修改为：当我们向收购RJR的KKR公司提交持股时，大约300万股被接受，返回的股票被迅速在市场上卖出。我们的税前利润6400万美元高于预期。

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -159,11 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded21b6b92285919",
+  "active": "c9720c3d93b94d06",
   "lastOpenFiles": [
+    "README.md",
     "贡献说明.md",
     "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
-    "README.md",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
