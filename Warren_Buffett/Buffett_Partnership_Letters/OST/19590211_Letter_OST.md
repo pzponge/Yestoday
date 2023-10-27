@@ -67,17 +67,15 @@ Commonwealth was 25.5% owned by a larger bank (Commonwealth had assets of about 
 
 联邦信托的 25.5% 股权由一家更大的银行持有（联邦信托有大约 5000 万美元的资产，其规模大概是奥马哈第一国民银行 (First National) 的一半）。多年来，这家大银行一直期望合并联邦信托。合并因为个人原因受阻，不过有迹象表明这种状况不会无限期地持续下去。因此，我们对该笔投资的综合评判如下： 
 
-```
- 1. Very strong defensive characteristics;
- 2. Good solid value building up at a satisfactory pace and;
- 3. Evidence to the effect that eventually this value would be unlocked although it might be one year or ten years. If the latter were true, the value would presumably have been built up to a considerably larger figure, say, $250 per share.
-```
+1. Very strong defensive characteristics;
+2. Good solid value building up at a satisfactory pace and;
+3. Evidence to the effect that eventually this value would be unlocked although it might be one year or ten years. If the latter were true, the value would presumably have been built up to a considerably larger figure, say, $250 per share.
 
-```
- 1. 有极强的防御性； 
- 2. 具有良好而稳固的价值，正以令人满意的速度增长；
- 3. 虽然不确定是一年还是十年，但有迹象表明，公司价值终将得以显现。假如是十年的话，则该价值将会增长到一个可观的数字，比如说每股 250 美元。
-```
+&emsp;\---
+
+1. 有极强的防御性； 
+2. 具有良好而稳固的价值，正以令人满意的速度增长；
+3. 虽然不确定是一年还是十年，但有迹象表明，公司价值终将得以显现。假如是十年的话，则该价值将会增长到一个可观的数字，比如说每股 250 美元。
 
 Over a period of a year or so, we were successful in obtaining about 12% of the bank at a price averaging about $51 per share. Obviously it was definitely to our advantage to have the stock remain dormant in price. Our block of stock increased in value as its size grew, particularly after we became the second largest stockholder with sufficient voting power to warrant consultation on any merger proposal.
 
