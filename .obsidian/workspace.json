@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md"
+                "file": "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md"
               }
             }
           }
@@ -161,11 +161,15 @@
   },
   "active": "c9720c3d93b94d06",
   "lastOpenFiles": [
+    "Jerry_Neumann/Productive_Uncertainty.md",
+    "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+    "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+    "Jerry_Neumann",
     "README.md",
     "贡献说明.md",
     "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1968_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1967_November_Letter_to_Limited_Partners_CM.md",
@@ -180,7 +184,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1962_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md",
-    "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
     "Warren_Buffett/Visita a Warren Buffett - Thinkfn --- 拜访沃伦·巴菲特 - Thinkfn.md",
     "John_Huber/End_of_Mean_Reversion.md",
     "Elements/Mean_Reversion/image-1024x116.png",
@@ -190,8 +193,6 @@
     "Elements/Joe_Ponzio",
     "Joe_Ponzio",
     "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST",
     "Elements/Frank_Martin/Figure4.png",
     "Elements/Frank_Martin/Figure3.png",
@@ -203,7 +204,6 @@
     "未命名文件夹",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan",
     "Warren_Buffett/Berkshire_Hathaway_Letters/19661202-【Berkshire Hathaway】1966 Annual Report.pdf",
-    "Translator_Notes",
     "Elements/Certificate_of_Limited_Partnership/5.png",
     "Elements/Certificate_of_Limited_Partnership/4.png",
     "Elements/Certificate_of_Limited_Partnership/3.png"
