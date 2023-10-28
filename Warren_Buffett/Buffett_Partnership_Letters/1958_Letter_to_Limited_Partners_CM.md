@@ -34,7 +34,7 @@ In my letter of last year, I wrote:
 
 去年的信中，我写道：
 
-> “Our performance, relatively, is likely to be better in a bear market than in a bull market so that deductions made from the above results should be tempered by the fact that it was the type of year when we should have done relatively will. In a year when the general market had a substantial advance, I would be well satisfied to match the advance of the averages.”
+> “Our performance, relatively, is likely to be better in a bear market than in a bull market so that deductions made from the above results should be tempered by the fact that it was the type of year when we should have done relatively well. In a year when the general market had a substantial advance, I would be well satisfied to match the advance of the averages.”
 
 > “相对来说，我们在熊市的表现很可能会比在牛市的时候要好，所以大家应该对上述投资收益保持冷静，因为今年只是我们应当在熊市中获取超出市场平均收益的典型的一年。当某一年市场整体表现相当好时，能够与之持平我就很满意了。”
 
