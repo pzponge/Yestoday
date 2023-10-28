@@ -84,7 +84,7 @@ All but a small portion of our tax carryforward has been used as of the end of f
 
 As one might expect, in a business as highly cyclical as the textile business, the past decade for Berkshire Hathaway has been a recurring story of a period of earnings followed by a period of relatively heavy losses. The past year has been a significant one in this history because, not only was 1966 a year of profitable operations, but, also, it witnessed the restoration of our financial strength to the level that existed at the end of 1960. You will recall that the heavy losses of the years 1957 and 1958 had not yet been fully recouped by the profitable operations of the years 1959 and 1960, when our business was again hit with a three-year period of loss operations.
 
-正如人们所预料的那样，伯克希尔哈撒韦公司身处具有高度周期性的纺织品行业中，其过去十年经常出现盈利的年份，其后几年出现相对巨大的亏损。过去一年在这段历史中是一个重要年份，因为 1966 年不仅是业务盈利的一年，而且它见证了我们的财务实力已恢复到 1960 年底的水平。你或许记得 1959 年和 1958 年的盈利尚未完全挽回 1957 年和 1958 年产生的巨大亏损，当时我们的业务再次遭受三年亏损的打击。
+正如人们所预料的那样，伯克希尔哈撒韦公司身处具有高度周期性的纺织品行业中，其过去十年经常出现盈利的年份，其后几年出现相对巨大的亏损。过去一年在这段历史中是一个重要年份，因为 1966 年不仅是业务盈利的一年，而且它见证了我们的财务实力已恢复到 1960 年底的水平。你或许记得 1959 年和 1960 年的盈利尚未完全挽回 1957 年和 1958 年产生的巨大亏损，当时我们的业务再次遭受三年亏损的打击。
 
 Not only did our financial condition in these years suffer from the inroads created by these losses, but it also had to absorb the impact of our heavy capital expenditure program of the early 1960s.
 
