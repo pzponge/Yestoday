@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -159,13 +159,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c9720c3d93b94d06",
+  "active": "ded21b6b92285919",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19590211_Letter_OST.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
+    "README.md",
     "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
     "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST",
     "Warren_Buffett/Buffett_Partnership_Letters/1970_February_25th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
@@ -186,12 +189,9 @@
     "Jerry_Neumann/Productive_Uncertainty.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Jerry_Neumann",
-    "README.md",
     "贡献说明.md",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md",
     "Elements/Mean_Reversion/image-1024x116.png",
     "Elements/Joe_Ponzio/General Motors Corporation.png",
     "Elements/Frank_Martin/Figure4.png",
