@@ -35,11 +35,11 @@
 
 # 1\. Warren E. Buffett
 
-标题|作者|语言|翻译|整合|链接
----|---|---|---|---|---
-沃伦·巴菲特崇拜|Gary Mishuris|双语|Ponge|Ponge|[GitHub](./Warren_Buffett/The_Cult_of_Warren_Buffett.md)
-新狗难教旧把戏：巴菲特 1988 年与亚当·斯密访谈|Kingswell|双语|DeepL|Terrellchen|[GitHub](./Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md)
-塔克商学院 2004-2005 访问巴菲特实录|佚名|双语|DeepL|Terrellchen、Ponge|[GitHub](./Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)
+标题|作者|语言|翻译|整合
+---|---|---|---|---
+[沃伦·巴菲特崇拜](./Warren_Buffett/The_Cult_of_Warren_Buffett.md)|Gary Mishuris|双语|Ponge|Ponge
+[新狗难教旧把戏：巴菲特 1988 年与亚当·斯密访谈](./Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md)|Kingswell|双语|DeepL|Terrellchen
+[塔克商学院 2004-2005 访问巴菲特实录](./Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)|佚名|双语|DeepL|Terrellchen、Ponge
 
 ## 1.1. 致巴菲特合伙基金持有人信
 
