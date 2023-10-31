@@ -88,7 +88,7 @@
 
 标题|原文发表时间|语言|翻译|整合|链接
 ---|---|---|---|---|---
-1965 年致股东的信|1965-11-09|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
+1965 年致股东的信|1965-11-09|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
 1966 年致股东的信|1966-12-02|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
 1967 年致股东的信|1968-03-08|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
 1968 年致股东的信|1969-03-12|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md)
@@ -164,26 +164,26 @@
 
 # 3\. Chuck Akre
 
-标题|作者|语言|翻译|链接
----|---|---|---|---
-我们所谓的再投资指的是什么？|Chuck Akre|双语|Ponge|[GitHub](./Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
+标题|作者|语言|翻译
+---|---|---|---
+我们所谓的再投资指的是什么？|Chuck Akre|双语|[Ponge](./Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
 
 # 4\. 李录
 
-标题|作者|语言|链接
+标题|作者|语言|整理
 ---|---|---|---
-2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[GitHub](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
+2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[Ponge](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
 
 
 # 5\. Nick Sleep
 
 ## 5.1. Nomad Letters to Partners 2001-2014
 
-标题|语言|翻译|链接
----|---|---|---
-序言（Preamble）|双语|Ponge|[GitHub](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
-基金清盘时写给巴菲特的信及回复|双语|DeepL|[GitHub](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
-2001 年致合伙人的信|双语|DeepL|[GitHub](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
+标题|语言|翻译
+---|---|---
+序言（Preamble）|双语|[Ponge](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
+基金清盘时写给巴菲特的信及回复|双语|[DeepL](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
+2001 年致合伙人的信|双语|[DeepL](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
 
 # 6\. Monish Pabrai
 
@@ -194,21 +194,21 @@
 
 # 7\. John Huber
 
-标题|作者|语言|翻译|链接
----|---|---|---|---
-均值回归的终结？|John Huber|双语|Ponge|[GitHub](./John_Huber/End_of_Mean_Reversion.md)
-ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|John Huber|双语|Ponge|[GitHub](./John_Huber/Importance_of_ROIC_Part_1.md)
-ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|John Huber|双语|Ponge|[GitHub](./John_Huber/Importance_of_ROIC_Part_2.md)
-ROIC 的重要性（第三部分）：复利和再投资|John Huber|双语|Ponge|[GitHub](./John_Huber/Importance_of_ROIC_Part_3.md)
-ROIC 的重要性（第四部分）：复利的数学原理|John Huber|双语|Ponge|[GitHub](./John_Huber/Importance_of_ROIC_Part_4.md)
-ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|双语|Ponge|[GitHub](./John_Huber/Importance_of_ROIC_Part_5.md)
-ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|双语|Ponge|[GitHub](./John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
+标题|作者|语言|翻译
+---|---|---|---
+均值回归的终结？|John Huber|双语|[Ponge](./John_Huber/End_of_Mean_Reversion.md)
+ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票|John Huber|双语|[Ponge](./John_Huber/Importance_of_ROIC_Part_1.md)
+ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票|John Huber|双语|[Ponge](./John_Huber/Importance_of_ROIC_Part_2.md)
+ROIC 的重要性（第三部分）：复利和再投资|John Huber|双语|[Ponge](./John_Huber/Importance_of_ROIC_Part_3.md)
+ROIC 的重要性（第四部分）：复利的数学原理|John Huber|双语|[Ponge](./John_Huber/Importance_of_ROIC_Part_4.md)
+ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥|John Huber|双语|[Ponge](./John_Huber/Importance_of_ROIC_Part_5.md)
+ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leonard|双语|[Ponge](./John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)
 
 # 8\. Michael J. Mauboussin
 
-标题|语言|翻译|链接
----|---|---|---
-衡量护城河：评估价值创造的规模和可持续性|中文|Spencer、冼颖彤、Ponge|[GitHub](./Michael_Mauboussin/Measuring_the_Moat.md)
+标题|语言|翻译
+---|---|---
+衡量护城河：评估价值创造的规模和可持续性|中文|[Spencer / 冼颖彤 / Ponge](./Michael_Mauboussin/Measuring_the_Moat.md)
 
 # 9\. Bharat Shah
 
