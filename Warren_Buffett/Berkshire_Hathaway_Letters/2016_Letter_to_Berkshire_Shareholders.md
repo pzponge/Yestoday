@@ -124,9 +124,9 @@ That wreck was followed by three key happenings -- two positive, one negative --
 
 在这次灾难收购之后，又发生了三次关键性的收购，其中两次是有利的，一次是不利的。1996年初我们收购了GEICO另一半的所有权，这是一笔全现金交易，使我们的持股从证券投资转变为全资控股经营业务。GEICO凭借其几乎无限的增长潜力，很快成为我们的核心业务，我相信现在它是世界上首屈一指的财产意外险公司。
 
-Unfortunately, I followed the GEICO purchase by foolishly using Berkshire stock -- a _boatload_ of stock -- to buy General Reinsurance in late 1998. After some early problems, General Re has become a fine insurance operation that we prize. It was, nevertheless, a terrible mistake on my part to issue 272,200 shares of Berkshire in buying General Re, an act that increased our outstanding shares by a whopping 21.8%. My error caused Berkshire shareholders to give far more than they received (a practice that -- despite the Biblical endorsement -- is far from blessed when you are buying businesses).
+Unfortunately, I followed the GEICO purchase by foolishly using Berkshire stock -- a _boatload_ of stock -- to buy General Reinsurance in late 1998. After some early problems, General Re has become a fine insurance operation that we prize. It was, nevertheless, a terrible mistake on my part to issue 272,200 shares of Berkshire in buying General Re, an act that increased our outstanding shares by a whopping 21.8%. My error caused Berkshire shareholders to give far more than they received (a practice that -- despite the Biblical endorsement -- is far from blessed when you are buying businesses).[^1]
 
-不幸的是，在收购GEICO之后，在1998年末，我愚蠢地使用伯克希尔的股票(一揽子优质企业组合)收购了通用再保险公司。在经历了早期一些问题之后，通用再保险已经成为我们所珍视的一家优秀的保险公司。尽管如此，我在收购通用再保险时发行了272,200股伯克希尔股票，这使得伯克希尔流通股大幅增加了21.8%，这是一个严重的错误。我的错误导致伯克希尔股东付出的远远超过他们所获得的。尽管这笔收购得到了圣经的庇护，但当你收购企业时，发行股票的方式远远谈不上幸福。
+不幸的是，在收购GEICO之后，在1998年末，我愚蠢地使用伯克希尔的股票(一揽子优质企业组合)收购了通用再保险公司。在经历了早期一些问题之后，通用再保险已经成为我们所珍视的一家优秀的保险公司。尽管如此，我在收购通用再保险时发行了272,200股伯克希尔股票，这使得伯克希尔流通股大幅增加了21.8%，这是一个严重的错误。由于我的错误，伯克希尔公司的股东付出的远远多于他们得到的（尽管《圣经》称赞这种做法，但当你收购企业时，上帝却不会因此赐福给你）。[^1]
 
 Early in 2000, I atoned for that folly by buying 76% (since grown to 90%) of MidAmerican Energy, a brilliantly-managed utility business that has delivered us many large opportunities to make profitable and socially-useful investments. The MidAmerican _cash_ purchase -- I was learning -- firmly launched us on our present course of (1) continuing to build our insurance operation; (2) energetically acquiring large and diversified non-insurance businesses and (3) largely making our deals from internally-generated cash. (Today, I would rather prep for a colonoscopy than issue Berkshire shares.)
 
@@ -1161,3 +1161,10 @@ Warren E. Buffett
 Chairman of the Board
 
 董事会主席
+
+[^1]: By Ponge @20231031
+	
+	原文：My error caused Berkshire shareholders to give far more than they received (a practice that -- despite the Biblical endorsement -- is far from blessed when you are buying businesses).
+	原译文：我的错误导致伯克希尔股东付出的远远超过他们所获得的。尽管这笔收购得到了圣经的庇护，但当你收购企业时，发行股票的方式远远谈不上幸福。
+	修改为：由于我的错误，伯克希尔公司的股东付出的远远多于他们得到的（尽管《圣经》称赞这种做法，但当你收购企业时，上帝却不会因此赐福给你）。
+
