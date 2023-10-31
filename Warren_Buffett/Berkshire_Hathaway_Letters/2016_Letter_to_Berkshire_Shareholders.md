@@ -627,11 +627,11 @@ Charlie and I _want_ managements, _in their commentary_ , to describe unusual it
 
 Charlie and I cringe when we hear analysts talk admiringly about managements who always “make the numbers.”[^2] In truth, business is too unpredictable for the numbers always to be met. Inevitably, surprises occur. When they do, a CEO whose focus is centered on Wall Street will be tempted to _make up_ the numbers.
 
-每当我们听到分析师们赞叹那些总能「实现目标」的管理层时，查理和我都替分析师感到难为情。[^2]事实上，商业前景是很难预测的，因此公司也很难总是达成业绩预期。意外总是不可避免地出现，预期的业绩就会无法实现。当问题出现时，一个以华尔街为中心的CEO为了股价就会忍不住诱惑去粉饰财务数字。
+每当我们听到分析师们赞叹那些总能「实现目标」的管理层时，查理和我都替分析师感到难为情[^2]。事实上，商业前景是很难预测的，因此公司也很难总是达成业绩预期。意外总是不可避免地出现，预期的业绩就会无法实现。当问题出现时，一个以华尔街为中心的CEO为了股价就会忍不住诱惑去粉饰财务数字。
 
-Let’s get back to the two favorites of “don’t-count-this” managers, starting with “restructuring.” Berkshire, I would say, has been restructuring from the first day we took over in 1965. Owning only a northern textile business then gave us no other choice. And today a fair amount of restructuring occurs every year at Berkshire. That’s because there are always things that need to change in our hundreds of businesses. Last year, as I mentioned earlier, we spent significant sums getting Duracell in shape for the decades ahead.
+Let’s get back to the two favorites of “don’t-count-this” managers, starting with “restructuring.”[^3] Berkshire, I would say, has been restructuring from the first day we took over in 1965. Owning only a northern textile business then gave us no other choice. And today a fair amount of restructuring occurs every year at Berkshire. That’s because there are always things that need to change in our hundreds of businesses. Last year, as I mentioned earlier, we spent significant sums getting Duracell in shape for the decades ahead.
 
-让我们回顾两个喜欢"不要计入该项"的管理层，先从"重组费用"开始。我认为，从1965年我们接手开始，伯克希尔就一直在不停地在重组。当时公司仅拥有一个北方纺织业务，在重组方面并没有什么选择余地。如今，每年伯克希尔都会进行大量重组，这是因为公司数百家子公司中，总有一些业务需要改变。正如我之前提到的，去年我们在Duracell公司重组上投入了大量资金，以确保公司在未来几十年中能维持市场竞争力。
+让我们回到那些「不要计算在内」的管理层最喜欢的两个科目，首先是「重组费用」[^3]。我认为，从1965年我们接手开始，伯克希尔就一直在不停地在重组。当时公司仅拥有一个北方纺织业务，在重组方面并没有什么选择余地。如今，每年伯克希尔都会进行大量重组，这是因为公司数百家子公司中，总有一些业务需要改变。正如我之前提到的，去年我们在Duracell公司重组上投入了大量资金，以确保公司在未来几十年中能维持市场竞争力。
 
 We have never, however, singled out restructuring charges and told you to ignore them in estimating our normal earning power. If there were to be some truly major expenses in a single year, I would, of course, mention it in my commentary. Indeed, when there is a total rebasing of a business, such as occurred when Kraft and Heinz merged, it is imperative that for several years the huge one-time costs of rationalizing the combined operations be explained clearly to owners. That’s precisely what the CEO of Kraft Heinz has done, in a manner approved by the company’s directors (who include me). But, to tell owners year after year, “Don’t count this,” when management is simply making business adjustments that are necessary, is misleading. And too many analysts and journalists fall for this baloney.
 
@@ -1178,3 +1178,10 @@ Chairman of the Board
 	原译文：在听到一些分析师大举赞扬那些总能"制造数字"达成目标的公司管理层时，查理和我都会感到害怕。
 	
 	修改为：每当我们听到分析师们赞叹那些总能「实现目标」的管理层时，查理和我都替分析师感到难为情。
+
+[^3]: By Ponge @20231031
+	
+	原文：Let’s get back to the two favorites of “don’t-count-this” managers, starting with “restructuring.”
+	
+	原译文：让我们回顾两个喜欢"不要计入该项"的管理层，先从"重组费用"开始。
+	修改为：让我们回到那些「不要计算在内」的管理层最喜欢的两个科目，首先是「重组费用」。
