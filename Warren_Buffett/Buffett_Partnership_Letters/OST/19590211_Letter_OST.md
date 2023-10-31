@@ -59,9 +59,9 @@ So that you may better understand our method of operation, I think it would be w
 
 This stock was the Commonwealth Trust Co. of Union City, New Jersey. At the time we started to purchase the stock, it had an intrinsic value $125 per share computed on a conservative basis. However, for good reasons, it paid no cash dividend at all despite earnings of about $10 per share which was largely responsible for a depressed price of about $50 per share. So here we had a very well managed bank with substantial earnings power selling at a large discount from intrinsic value. Management was friendly to us as new stockholders and risk of any ultimate loss seemed minimal.
 
-这只股票就是新泽西州联合市的联邦信托公司 (Commonwealth Trust Co.)[^1]。在我们开始买入这只股票时，保守估算它的内在价值是每股 125 美元。尽管每股收益达 10 美元，但公司找到了合理的理由，就是不派发现金股息，因此原因其股价跌到了每股 50 美元左右。于是，我们以较内在价值大幅折价的价格买入了这家管理出色、盈利能力强的银行股票，管理层对新晋股东的我们态度友善，所以这笔投资最终亏损的风险很小。
+这只股票就是新泽西州尤宁城的联邦信托公司 (Commonwealth Trust Co.)[^1]。在我们开始买入这只股票时，保守估算它的内在价值是每股 125 美元。尽管每股收益达 10 美元，但公司找到了合理的理由，就是不派发现金股息，因此原因其股价跌到了每股 50 美元左右。于是，我们以较内在价值大幅折价的价格买入了这家管理出色、盈利能力强的银行股票，管理层对新晋股东的我们态度友善，所以这笔投资最终亏损的风险很小。
 
-[^1]: 译注： 网上有些译文将该公司名称翻译为“新泽西州的联合城联邦信托公司”，但“新泽西州的联合城联邦信托公司”在DeepL中被翻译为：Union City Federal Trust Company of New Jersey，与原文不符。根据DeepL的英译中和中译英反复验证，翻译为“新泽西州联合市的联邦信托公司”是正确的。
+[^1]: 译注： 网上有些译文将该公司名称翻译为“新泽西州的联合城联邦信托公司”，但“新泽西州的联合城联邦信托公司”在DeepL中被翻译为：Union City Federal Trust Company of New Jersey，与原文不符。根据DeepL的英译中和中译英反复验证，翻译为“新泽西州尤宁城的联邦信托公司”是正确的。另，对 Union City 的翻译，网上大部分译者、DeepL、百度百科翻译为“联合市”或“联合城”，考虑到地名翻译一般采用音译而非意译，同时经搜索维基百科、查询《世界地名翻译大辞典》、《外国地名译名手册（中型本）》，其翻译均为“尤宁城”，故本译文采用“尤宁城”的译法，感谢 @Ponge 对此提出的修改讨论及建议。
 
 Commonwealth was 25.5% owned by a larger bank (Commonwealth had assets of about $50 Million – about half the size of the First National in Omaha), which had desired a merger for many years. Such a merger was prevented for persona1 reasons, but there was evidence that this situation would not continue indefinitely. Thus we had a combination of:
 
