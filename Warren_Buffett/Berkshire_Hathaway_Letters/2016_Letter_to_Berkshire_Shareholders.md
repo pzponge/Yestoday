@@ -5,7 +5,8 @@
 - 发表时间：2017-02-25
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/2016ltr.pdf)
 - 中文翻译参考：芒格书院共读群友
-- 整理：Ponge
+- 中英文整合：Ponge
+- 校译：Ponge
 
 ---
 
@@ -142,7 +143,9 @@ Here’s our financial record since 1999, when the redirection of our business b
 
 **After-Tax Earnings (in billions of dollars)**
 
-Year|Operations (1)|Capital Gains (2)
+税后利润（单位：十亿美元）
+
+Year</br>年份|Operations (1)</br>税后营业利润|Capital Gains (2)</br>税后资本利得
 ---|---|---
 1999|0.67|0.89
 2000|0.94|2.39
@@ -297,7 +300,7 @@ One reason we were attracted to the P/C business was its financial characteristi
 
 我们被财产意外险业务吸引的一个原因是其财务特征：财产意外险公司提前收到保费，之后再支付理赔金。在极端情况下，例如大量因接触石棉而提出的索赔，款项支付可能长达数十年。这种先收后付的模式使得保险公司持有大量流动资金，我们称之为浮存金，这些资金最终会流向投保人。与此同时，保险公司能够用浮存金为自己的利益进行投资。虽然单个保单和索赔进进出出，但保险公司持有的浮存金规模相对于保费通常维持一个相对稳定的关系。因此，随着我们业务的扩张，浮存金规模也相应增长。至于它们是如何增长的，如下图所示：
 
-Year|Float (in millions)
+Year</br>年份|Float (in millions)</br>浮存金（单位：百万美元）
 ---|---:
 1970|$ 39
 1980|237
@@ -430,12 +433,12 @@ Here’s a recap of pre-tax underwriting earnings and float by division:
 
 以下按业务部门划分的税前承保业绩和浮存金规模摘要：
 
-Insurance Operations|Underwriting Profit (in millions) 2016|Underwriting Profit (in millions) 2015|Yearend Float (in millions) 2016| Yearend Float (in millions) 2015
+Insurance Operations</br>保险部门|Underwriting Profit (in millions) 2016</br>2016 年承保利润（百万美元）|Underwriting Profit (in millions) 2015</br>2015 年承保利润（百万美元）|Yearend Float (in millions) 2016</br>2016 年浮存金总额（百万美元）|Yearend Float (in millions) 2015</br>2016 年浮存金总额（百万美元）
 :---|---:|---:|---:|---:
-BH Reinsurance|$ 822|$ 421|$ 45,081|$ 44,108
-General Re|190|132|17,699|18,560
-GEICO|462|460|17,148|15,148
-Other Primary|657|824|11,649|9,906
+BH Reinsurance</br>伯克希尔再保险|$ 822|$ 421|$ 45,081|$ 44,108
+General Re</br>通用再保险|190|132|17,699|18,560
+GEICO</br>盖可保险|462|460|17,148|15,148
+Other Primary</br>其他优先保险|657|824|11,649|9,906
  ||$ 2,131|$ 1,837|$ 91,577|$ 87,722
 
 Berkshire’s great managers, premier financial strength and a range of business models protected by wide moats amount to something unique in the insurance world. This assemblage of strengths is a huge asset for Berkshire shareholders that time will only make more valuable.
@@ -534,7 +537,7 @@ HomeServices also _franchises_ many operations throughout the country that use o
 
 Our manufacturing, service and retailing operations sell products ranging from lollipops to jet airplanes. Let’s look, though, at a summary balance sheet and earnings statement for the entire group.
 
-我们的制造、服务和零售业务生产销售从从棒棒糖到喷气式飞机各种各样的产品。不过让我们先来看一看整个业务板块的资产负债表和利润表。
+我们的制造、服务和零售业务生产销售从棒棒糖到喷气式飞机各种各样的产品。不过让我们先来看一看整个业务板块的资产负债表和利润表。
 
 **Balance Sheet 12/31/16 (in millions)**
 
@@ -622,9 +625,9 @@ Charlie and I _want_ managements, _in their commentary_ , to describe unusual it
 
 查理和我希望公司管理层在财报附注部分详细描述，影响GAAP业绩数字的非正常项目，不管是好的还是坏的。毕竟，我们研究这些历史业绩数字是为了更好地对未来做出估计。但管理层经常试图通过强调"调整后的每股收益"来掩盖非常真实的成本，这让我们感到非常紧张，因为不良行为极具传染性：那些刻意寻找粉饰报表方法的管理层，往往会培养一种鼓励下属也努力粉饰报表的企业文化。比如，保险公司管理层这样的目标会导致公司低估其损失赔款准备金，过去这种行为已经摧毁了许多保险公司。
 
-Charlie and I cringe when we hear analysts talk admiringly about managements who always “make the numbers.” In truth, business is too unpredictable for the numbers always to be met. Inevitably, surprises occur. When they do, a CEO whose focus is centered on Wall Street will be tempted to _make up_ the numbers.
+Charlie and I cringe when we hear analysts talk admiringly about managements who always “make the numbers.”[^2] In truth, business is too unpredictable for the numbers always to be met. Inevitably, surprises occur. When they do, a CEO whose focus is centered on Wall Street will be tempted to _make up_ the numbers.
 
-在听到一些分析师大举赞扬那些总能"制造数字"达成目标的公司管理层时，查理和我都会感到害怕。事实上，商业前景是很难预测的，因此公司也很难总是达成业绩预期。意外总是不可避免的的出现，预期的业绩就会无法实现。当问题出现时，一个以华尔街为中心的CEO为了股价就会忍不住诱惑去粉饰财务数字。
+每当我们听到分析师们赞叹那些总能「实现目标」的管理层时，查理和我都替分析师感到难为情。[^2]事实上，商业前景是很难预测的，因此公司也很难总是达成业绩预期。意外总是不可避免地出现，预期的业绩就会无法实现。当问题出现时，一个以华尔街为中心的CEO为了股价就会忍不住诱惑去粉饰财务数字。
 
 Let’s get back to the two favorites of “don’t-count-this” managers, starting with “restructuring.” Berkshire, I would say, has been restructuring from the first day we took over in 1965. Owning only a northern textile business then gave us no other choice. And today a fair amount of restructuring occurs every year at Berkshire. That’s because there are always things that need to change in our hundreds of businesses. Last year, as I mentioned earlier, we spent significant sums getting Duracell in shape for the decades ahead.
 
@@ -1168,3 +1171,10 @@ Chairman of the Board
 	原译文：我的错误导致伯克希尔股东付出的远远超过他们所获得的。尽管这笔收购得到了圣经的庇护，但当你收购企业时，发行股票的方式远远谈不上幸福。
 	修改为：由于我的错误，伯克希尔公司的股东付出的远远多于他们得到的（尽管《圣经》称赞这种做法，但当你收购企业时，上帝却不会因此赐福给你）。
 
+[^2]: By Ponge @20231031
+	
+	原文：Charlie and I cringe when we hear analysts talk admiringly about managements who always “make the numbers.”
+	
+	原译文：在听到一些分析师大举赞扬那些总能"制造数字"达成目标的公司管理层时，查理和我都会感到害怕。
+	
+	修改为：每当我们听到分析师们赞叹那些总能「实现目标」的管理层时，查理和我都替分析师感到难为情。
