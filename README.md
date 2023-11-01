@@ -45,7 +45,7 @@
 
 **说明：合伙人信提供了多种翻译版本，欢迎读者自行选择译本。其中，OST 代表开源翻译小组（Open Source Translation Team）共同维护版本。**
 
-标题|原文发表时间|语言|版本
+标题|原文发表时间|语言|翻译版本
 ---|---|---|---
 有限合伙契约|1956-05-01|双语|[OST (孙萧萧)](./Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
 1957 年致合伙人信|1958-02|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md) / [OST (孙萧萧)](./Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md)
@@ -86,93 +86,93 @@
 
 ## 1.2. 致伯克希尔哈撒韦股东信
 
-标题|原文发表时间|语言|翻译|整合|链接
----|---|---|---|---|---
-1965 年致股东的信|1965-11-09|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)
-1966 年致股东的信|1966-12-02|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)
-1967 年致股东的信|1968-03-08|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)
-1968 年致股东的信|1969-03-12|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md)
-1969 年致股东的信|1970-04-03|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md)
-1970 年致股东的信|1971-03-15|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1970_Letter_to_Berkshire_Shareholders.md)
-1971 年致股东的信|1972-03-13|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md)
-1972 年致股东的信|1973-03-16|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1972_Letter_to_Berkshire_Shareholders.md)
-1973 年致股东的信|1974-03-29|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md)
-1974 年致股东的信|1975-03-31|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1974_Letter_to_Berkshire_Shareholders.md)
-1975 年致股东的信|1976-03-31|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1975_Letter_to_Berkshire_Shareholders.md)
-1976 年致股东的信|1977-03-21|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1976_Letter_to_Berkshire_Shareholders.md)
-1977 年致股东的信|1978-03-14|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1977_Letter_to_Berkshire_Shareholders.md)
-1978 年致股东的信|1979-03-26|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1978_Letter_to_Berkshire_Shareholders.md)
-1979 年致股东的信|1980-03-03|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)
-1980 年致股东的信|1981-02-27|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)
-1981 年致股东的信|1982-02-26|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1981_Letter_to_Berkshire_Shareholders.md)
-1982 年致股东的信|1983-03-03|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md)
-1983 年致股东的信|1984-03-14|双语|芒格书院共读群友|Terrellchen|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)
-1984 年致股东的信|1985-02-25|双语|芒格书院共读群友|Yoan|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)
-1985 年致股东的信|1986-03-04|双语|芒格书院共读群友|Yoan|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md)
-1986 年致股东的信|1987-02-27|双语|芒格书院共读群友|知行 (进行中)|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md)
-1987 年致股东的信|1988-02-29|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md)
-1988 年致股东的信|1989-02-28|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md)
-1989 年致股东的信|1990-03-02|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md)
-1990 年致股东的信|1991-03-01|双语|芒格书院共读群友|momo|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)
-1991 年致股东的信|1992-02-28|双语|芒格书院共读群友|momo|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)
-1992 年致股东的信|1993-03-01|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md)
-1993 年致股东的信|1994-03-01|双语|芒格书院共读群友|当呼吸化为空气|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md)
-1994 年致股东的信|1995-03-07|双语|芒格书院共读群友|Vito|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)
-1995 年致股东的信|1996-03-01|双语|芒格书院共读群友|XiaoTao|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1995_Letter_to_Berkshire_Shareholders.md)
-1996 年致股东的信|1997-02-28|双语|芒格书院共读群友|XiaoTao|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1996_Letter_to_Berkshire_Shareholders.md)
-1997 年致股东的信|1998-02-27|双语|芒格书院共读群友|XiaoTao|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1997_Letter_to_Berkshire_Shareholders.md)
-1998 年致股东的信|1999-03-01|双语|芒格书院共读群友|XiaoTao|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1998_Letter_to_Berkshire_Shareholders.md)
-1999 年致股东的信|2000-03-01|双语|芒格书院共读群友|009|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md)
-2000 年致股东的信|2001-02-28|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2000_Letter_to_Berkshire_Shareholders.md)
-2001 年致股东的信|2002-02-28|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md)
-2002 年致股东的信|2003-02-21|双语|芒格书院共读群友|Vito (进行中)|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2002_Letter_to_Berkshire_Shareholders.md)
-2003 年致股东的信|2004-02-27|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2003_Letter_to_Berkshire_Shareholders.md)
-2004 年致股东的信|2005-02-28|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2004_Letter_to_Berkshire_Shareholders.md)
-2005 年致股东的信|2006-02-28|双语|芒格书院共读群友|康鹏|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md)
-2006 年致股东的信|2007-02-28|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)
-2007 年致股东的信|2008-02-29|双语|芒格书院共读群友|黄谦 (进行中)|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md)
-2008 年致股东的信|2009-02-28|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md)
-2009 年致股东的信|2010-02-26|双语|芒格书院共读群友|孙萧萧|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2009_Letter_to_Berkshire_Shareholders.md)
-2010 年致股东的信|2011-02-26|双语|芒格书院共读群友|Hilary_和瑞 (进行中)|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md)
-2011 年致股东的信|2012-02-25|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)
-2012 年致股东的信|2013-03-01|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)
-2013 年致股东的信|2014-02-28|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)
-2014 年致股东的信|2015-02-27|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)
-2014 年特别信：伯克希尔的过去、现在和未来|2015-02-27|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)
-2014 年特别信：副董事长的思考——过去与未来|2015-02-27|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)
-2015 年致股东的信|2016-02-27|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)
-2016 年致股东的信|2017-02-25|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2016_Letter_to_Berkshire_Shareholders.md)
-2017|
-2018 年致股东的信|2019-02-23|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md)
-2019 年致股东的信|2020-02-22|双语|芒格书院共读群友|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md)
-2020 年致股东的信|2021-02-27|双语|上角里|Ponge|[GitHub](./Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md)
+标题|原文发表时间|语言|翻译版本
+---|---|---|---
+[1965 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md)|1965-11-09|双语|芒格书院共读群友
+[1966 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1966_Letter_to_Berkshire_Shareholders.md)|1966-12-02|双语|芒格书院共读群友
+[1967 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1967_Letter_to_Berkshire_Shareholders.md)|1968-03-08|双语|芒格书院共读群友
+[1968 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md)|1969-03-12|双语|芒格书院共读群友
+[1969 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md)|1970-04-03|双语|芒格书院共读群友
+[1970 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1970_Letter_to_Berkshire_Shareholders.md)|1971-03-15|双语|芒格书院共读群友
+[1971 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md)|1972-03-13|双语|芒格书院共读群友
+[1972 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1972_Letter_to_Berkshire_Shareholders.md)|1973-03-16|双语|芒格书院共读群友
+[1973 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md)|1974-03-29|双语|芒格书院共读群友
+[1974 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1974_Letter_to_Berkshire_Shareholders.md)|1975-03-31|双语|芒格书院共读群友
+[1975 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1975_Letter_to_Berkshire_Shareholders.md)|1976-03-31|双语|芒格书院共读群友
+[1976 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1976_Letter_to_Berkshire_Shareholders.md)|1977-03-21|双语|芒格书院共读群友
+[1977 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1977_Letter_to_Berkshire_Shareholders.md)|1978-03-14|双语|芒格书院共读群友
+[1978 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1978_Letter_to_Berkshire_Shareholders.md)|1979-03-26|双语|芒格书院共读群友
+[1979 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md)|1980-03-03|双语|芒格书院共读群友
+[1980 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md)|1981-02-27|双语|芒格书院共读群友
+[1981 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1981_Letter_to_Berkshire_Shareholders.md)|1982-02-26|双语|芒格书院共读群友
+[1982 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md)|1983-03-03|双语|芒格书院共读群友
+[1983 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)|1984-03-14|双语|芒格书院共读群友
+[1984 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)|1985-02-25|双语|芒格书院共读群友
+[1985 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md)|1986-03-04|双语|芒格书院共读群友
+[1986 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md) (进行中)|1987-02-27|双语|芒格书院共读群友
+[1987 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md)|1988-02-29|双语|芒格书院共读群友
+[1988 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md)|1989-02-28|双语|芒格书院共读群友
+[1989 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md)|1990-03-02|双语|芒格书院共读群友
+[1990 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md)|1991-03-01|双语|芒格书院共读群友
+[1991 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md)|1992-02-28|双语|芒格书院共读群友
+[1992 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1992_Letter_to_Berkshire_Shareholders.md)|1993-03-01|双语|芒格书院共读群友
+[1993 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md)|1994-03-01|双语|芒格书院共读群友
+[1994 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md)|1995-03-07|双语|芒格书院共读群友
+[1995 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1995_Letter_to_Berkshire_Shareholders.md)|1996-03-01|双语|芒格书院共读群友
+[1996 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1996_Letter_to_Berkshire_Shareholders.md)|1997-02-28|双语|芒格书院共读群友
+[1997 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1997_Letter_to_Berkshire_Shareholders.md)|1998-02-27|双语|芒格书院共读群友
+[1998 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1998_Letter_to_Berkshire_Shareholders.md)|1999-03-01|双语|芒格书院共读群友
+[1999 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md)|2000-03-01|双语|芒格书院共读群友
+[2000 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2000_Letter_to_Berkshire_Shareholders.md)|2001-02-28|双语|芒格书院共读群友
+[2001 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md)|2002-02-28|双语|芒格书院共读群友
+[2002 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2002_Letter_to_Berkshire_Shareholders.md) (进行中)|2003-02-21|双语|芒格书院共读群友
+[2003 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2003_Letter_to_Berkshire_Shareholders.md)|2004-02-27|双语|芒格书院共读群友
+[2004 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2004_Letter_to_Berkshire_Shareholders.md)|2005-02-28|双语|芒格书院共读群友
+[2005 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md)|2006-02-28|双语|芒格书院共读群友
+[2006 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2006_Letter_to_Berkshire_Shareholders.md)|2007-02-28|双语|芒格书院共读群友
+[2007 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md) (进行中)|2008-02-29|双语|芒格书院共读群友
+[2008 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md)|2009-02-28|双语|芒格书院共读群友
+[2009 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2009_Letter_to_Berkshire_Shareholders.md)|2010-02-26|双语|芒格书院共读群友
+[2010 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md) (进行中)|2011-02-26|双语|芒格书院共读群友
+[2011 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)|2012-02-25|双语|芒格书院共读群友
+[2012 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)|2013-03-01|双语|芒格书院共读群友
+[2013 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)|2014-02-28|双语|芒格书院共读群友
+[2014 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)|2015-02-27|双语|芒格书院共读群友
+[2014 年特别信：伯克希尔的过去、现在和未来](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)|2015-02-27|双语|芒格书院共读群友
+[2014 年特别信：副董事长的思考——过去与未来](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)|2015-02-27|双语|芒格书院共读群友
+[2015 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)|2016-02-27|双语|芒格书院共读群友
+[2016 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2016_Letter_to_Berkshire_Shareholders.md)|2017-02-25|双语|芒格书院共读群友
+[2017 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2017_Letter_to_Berkshire_Shareholders.md)|2018-02-24|双语|芒格书院共读群友
+[2018 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md)|2019-02-23|双语|芒格书院共读群友
+[2019 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md)|2020-02-22|双语|芒格书院共读群友
+[2020 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md)|2021-02-27|双语|上角里
 2021|
-2022 年致股东的信|2023-02-25|双语|坚信价值|Ponge|[GitHub](./Warren_Buffett/2022_Letter_to_Berkshire_Shareholders.md)
+[2022 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md)|2023-02-25|双语|坚信价值
 
 # 2\. Charles T. Munger
 
-标题|作者|语言|翻译|链接
----|---|---|---|---
-芒格 2020 年 12 月 14 日接受加州理工学院校友会采访|Charles Munger|中文|Ponge|[GitHub](./Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)
-为什么美国应该禁止加密货币？|Charles Munger|双语|Ponge|[GitHub](./Charles_Munger/Why_America_Should_Ban_Crypto.md)
+标题|作者|语言|翻译
+---|---|---|---
+[芒格 2020 年 12 月 14 日接受加州理工学院校友会采访](./Charles_Munger/%E8%8A%92%E6%A0%BC%202020%20%E5%B9%B4%2012%20%E6%9C%88%2014%20%E6%97%A5%E6%8E%A5%E5%8F%97%E5%8A%A0%E5%B7%9E%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E6%A0%A1%E5%8F%8B%E4%BC%9A%E9%87%87%E8%AE%BF.md)|Charles Munger|中文|Ponge
+[为什么美国应该禁止加密货币？](./Charles_Munger/Why_America_Should_Ban_Crypto.md)|Charles Munger|双语|Ponge
 
 ## 2.1. 西科金融股东信
 
-标题|作者|语言|翻译|链接
----|---|---|---|---
-1986 年|Charles Munger|英语||[GitHub](./Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)
+标题|作者|语言|翻译
+---|---|---|---
+[1986 年](./Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md)|Charles Munger|英语|
 
 # 3\. Chuck Akre
 
 标题|作者|语言|翻译
 ---|---|---|---
-我们所谓的再投资指的是什么？|Chuck Akre|双语|[Ponge](./Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)
+[我们所谓的再投资指的是什么？](./Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)|Chuck Akre|双语|Ponge
 
 # 4\. 李录
 
 标题|作者|语言|整理
 ---|---|---|---
-2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录|李录|中文|[Ponge](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)
+[2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)|李录|中文|Ponge
 
 
 # 5\. Nick Sleep
@@ -187,9 +187,9 @@
 
 # 6\. Monish Pabrai
 
-标题|语言|翻译|链接
----|---|---|---
-通过 Spawners 实现累进增长|中文|Ponge|[GitHub](./Monish_Pabrai/Compounding_with_the_Spawners.md)
+标题|语言|翻译
+---|---|---
+[通过 Spawners 实现累进增长](./Monish_Pabrai/Compounding_with_the_Spawners.md)|中文|Ponge
 
 
 # 7\. John Huber
@@ -206,9 +206,9 @@ ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leon
 
 # 8\. Michael J. Mauboussin
 
-标题|语言|翻译
----|---|---
-衡量护城河：评估价值创造的规模和可持续性|中文|[Spencer / 冼颖彤 / Ponge](./Michael_Mauboussin/Measuring_the_Moat.md)
+标题|语言|翻译|整合
+---|---|---|---
+[衡量护城河：评估价值创造的规模和可持续性](./Michael_Mauboussin/Measuring_the_Moat.md)|中文|Spencer，冼颖彤，Ponge|Ponge
 
 # 9\. Bharat Shah
 
@@ -221,13 +221,13 @@ ROIC 的重要性：再投资护城河与传统护城河|John Huber, Connor Leon
 
 # 10\. Frank Martin
 
-标题|语言|翻译|整合|链接
----|---|---|---|---
-马丁资管 2022 年年度报告|双语|DeepL|Terrellchen，Ponge|[GitHub](./Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md), [Gitee](https://gitee.com/ponge/Yestoday/blob/main/Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md)
+标题|语言|翻译|整合
+---|---|---|---
+[马丁资管 2022 年年度报告](./Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md)|双语|DeepL|Terrellchen，Ponge
 
 
 # 11\. 其他
 
-标题|作者|语言|翻译|链接
+标题|作者|语言|翻译|整合
 ---|---|---|---|---
-股东盈余和自由现金流|Joe Ponzio|双语|Ponge|[GitHub](./Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)
+[股东盈余和自由现金流](./Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)|Joe Ponzio|双语|DeepL，风远|Ponge
