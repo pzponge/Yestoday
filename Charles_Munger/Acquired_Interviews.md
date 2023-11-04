@@ -744,7 +744,7 @@ It looked attractive for half a percent, but you couldn't get it. But Berkshire 
 
 Ben: It's interesting that it's paradoxical. You need Berkshire's credit. But at Berkshire scale, it's actually hard to put enough money to work.
 
-**本**：有趣的是，这很矛盾。你需要伯克希尔的信用。但以伯克希尔的规模，实际上很难投入足够的资金。
+**本**：有趣的是，这很矛盾。你需要伯克希尔的信用。但以伯克希尔的规模，想要带来实质性的收益率提升，也是很有难度的。
 
 Charlie: That's true, but why shouldn’t it be hard to make money? Why should it be easy?
 
