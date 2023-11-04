@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d19c769e3f205427",
+  "active": "ded21b6b92285919",
   "lastOpenFiles": [
-    "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "Charles_Munger/Acquired_Interviews.md",
+    "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md",
     "贡献说明.md",
