@@ -5,6 +5,7 @@
 - 发表时间：2023-10-29
 - 链接：[Acquired FM](https://www.acquired.fm/episodes/charlie-munger)
 - 翻译：Ponge
+- 修订：Eason
 
 ---
 
