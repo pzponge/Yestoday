@@ -284,7 +284,7 @@ Ben: Wow. You mentioned Warren doesn't like retailers.
 
 Charlie: Blue Chip did something else you both don’t know about. We bought a little pissant savings and loan company for maybe $20 million. When we left that thing, we had taken out of our little $20 million investment over $2 billion in marketable securities, which went into Nebraska insurance companies as part of their bedrock capital. We had some wonderful early years, and that's what everybody needs, those wonderful early years.
 
-**查理**：蓝筹印花公司还做了一件你们俩都不知道的事。我们用 2000 万美元买下了一家小小的储贷公司。当我们卖掉那家公司的时候，我们已经从 2000 万美元的投资中拿到了 20 多亿美元的有价证券，这些有价证券进入了内布拉斯加州的保险公司（译者注：猜测可能是指国民赔偿保险），成为了他们基石资本的一部分。我们度过了美好的早年时光，而这正是每个人都需要的，美好的早年时光。
+**查理**：蓝筹印花公司还做了一件你们俩都不知道的事。我们用 2000 万美元买下了一家小小的农民储贷公司。当我们卖掉那家公司的时候，我们已经从 2000 万美元的投资中拿到了 20 多亿美元的有价证券，这些有价证券进入了内布拉斯加州的保险公司（**译者注：猜测可能是指国民赔偿保险**），成为了他们基石资本的一部分。我们度过了美好的早年时光，而这正是每个人都需要的，美好的早年时光。
 
 Ben: Wow.
 
@@ -292,7 +292,7 @@ Ben: Wow.
 
 David: In our Costco episode, we started with the joke. At one of the Berkshire meetings probably 10 years ago, Warren told the joke about you were on a plane being hijacked, and the hijackers gave you one final request, and you said you'd like to give your speech on the virtues.
 
-**大卫**：在我们播客《开市客》那一集中，我们是从一个笑话开始的。大概 10 年前的一次伯克希尔股东大会上，沃伦讲了一个笑话，说如果你在一架被劫持的飞机上，劫机者给你最后一个提要求的机会，你会说想发表关于美德的演讲。
+**大卫**：在我们播客《开市客》那一集中，我们是从一个笑话开始的。大概 10 年前的一次伯克希尔股东大会上，沃伦讲了一个笑话，说如果你在一架被劫持的飞机上，劫机者给你最后一个提要求的机会，你会说想再谈论一下开市客的优点。
 
 Charlie: Warren got tired of me reminding him.
 
@@ -1552,7 +1552,7 @@ Charlie: Yeah, I do. You've got a big truck company and take the depreciation ou
 
 Ben: You witnessed its rise with Malone, TCI, and Liberty when EBITDA was invented as a concept. What were you thinking?
 
-**本**：当 EBITDA 这一概念被发明出来时，你见证了它的流行和马龙（Malone）、TCI 和自由公司（Liberty）的崛起。你当时是怎么想的？
+**本**：当 EBITDA 这一概念被发明出来时，你见证了它的流行和马龙（Malone）、TCI 和自由媒体公司（Liberty）的崛起。你当时是怎么想的？
 
 Charlie: I've never liked John Malone's extreme manipulations. I don't want to be known as the great manipulator like John Malone is. He paid less income taxes than anybody. He just pushed everything to the ideological extreme.
 
