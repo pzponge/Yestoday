@@ -305,7 +305,7 @@ David: Yeah, and he said shoot me first. We were hoping you could give us your s
 
 Charlie: Warren was kidding me for being so repetitive on the subject. There aren't many times in a lifetime when you know you're right and you know you have one that's really going to work wonderfully. Maybe five or six times in a lifetime you get a chance to do it. People who do it two or three times early, all go broke because they think it's easy. In fact, it's very hard and rare.
 
-**查理**：沃伦总是笑话我，在美德的问题上絮絮叨叨。在人的一生中，你知道自己是对的，知道自己有一个真正能发挥奇效的方法的时候并不多。一生中也许有五六次这样的机会。人们往往在早年会有两三次成功的经验，然后会觉得这很容易，然后就破产了。事实上，这种机会是很难把握的，也很罕见。
+**查理**：沃伦总是笑话我，不停地念叨开市客有多好。在人的一生中，你知道自己是对的，知道自己有一个真正能发挥奇效的方法的时候并不多。一生中也许有五六次这样的机会。人们往往在早年会有两三次成功的经验，然后会觉得这很容易，然后就破产了。事实上，这种机会是很难把握的，也很罕见。
 
 Ben: What was it about Costco that made you realize this is one of those few moments in a lifetime?
 
