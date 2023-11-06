@@ -1161,7 +1161,7 @@ Andrew: Well that’s your philosophy on both sides, you got to be patient for t
 
 David: We turned off the mics to have dinner and then recorded a little bit more later in the evening about Costco and some life advice from Charlie.
 
-**大卫**：聊到这里，我们关掉了麦克风去吃晚饭，晚上再录一点关于开市客的内容，以及查理的一些生活建议。
+**大卫**：聊到这里，我们关掉了麦克风去吃晚饭，晚上又录了一点关于开市客的内容，以及查理的一些生活建议。
 
 Ben: One Costco question that I've been wanting to ask you is: all the puzzle pieces of the low SKU count, the high inventory turnover… there are just so many things that fit together so beautifully…
 
