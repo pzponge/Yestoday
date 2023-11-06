@@ -1561,11 +1561,11 @@ Charlie: I've never liked John Malone's extreme manipulations. I don't want to b
 
 Ben: In many ways, EBITDA was the community adjusted earnings of its era. Are you familiar with the community adjustment from WeWork?
 
-**本**：在许多方面，EBITDA 是那个时代的流行调整收益。你熟悉 WeWork 的流行调整吗？
+**本**：在许多方面，EBITDA 就是那个时代的「社区调整后收益（community adjustment earnings）」。你了解 Wework 提出的「社区调整后收益」吗？（**译者注：Wework 在 IPO 时创造性的发明了「社区调整后 EBITDA」这个会计指标，在 EBITDA 上进一步加回了管理费用等，声称其具备合理性。这么调整下，Wework 实现了盈利**）
 
 Charlie: No.
 
-**查理**：不熟悉。
+**查理**：不了解。
 
 David: Final question to wrap up. What is the set of companies that you think are the greatest that you've ever seen, either that you've owned or that you've not owned?
 
