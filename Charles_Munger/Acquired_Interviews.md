@@ -525,7 +525,7 @@ David: We really wanted to ask your thoughts on venture capital.
 
 Charlie: Some of the deals get so hot and you have to decide so quickly. You're all just sort of gambling.
 
-**查理**：有些收购太火热了，投资者必须迅速做出决定。投资者们都只是在赌博。
+**查理**：有些收购太火热了，投资者必须迅速做出决定。投资者们可以说都只是在赌博。
 
 Ben: Do you think the role of venture capital is being properly accomplished in society?
 
@@ -741,7 +741,7 @@ You could borrow for ten years ahead. Probably about a year you could buy the st
 
 It looked attractive for half a percent, but you couldn't get it. But Berkshire with its credit could, and the only way you could get it was be very patient, just pick away little pieces of the time. It took him forever to get $10 billion invested. It was like God just opening a chest and just pouring money. It's awfully easy money.
 
-0.5% 的利率看起来很诱人，但你拿不到。不过，伯克希尔公司凭借其信贷能力可以获得，而唯一的方法就是非常耐心地一点一点借出来。我们花了很长时间才拿到 100 亿美元的贷款去投资。这种投资就像上帝打开了一个箱子，直接把钱倒了进去。这钱来得太容易了。
+0.5% 的利率看起来很诱人，但你拿不到。不过，伯克希尔公司凭借其信贷能力可以获得，而唯一的方法就是非常耐心地一点一点借出来。我们花了很长时间才拿到 100 亿美元的贷款去投资。这种投资就像我们打开了一个箱子，上帝直接把钱倒了进去。这钱来得太容易了。
 
 Ben: It's interesting that it's paradoxical. You need Berkshire's credit. But at Berkshire scale, it's actually hard to put enough money to work.
 
@@ -937,7 +937,7 @@ Charlie: It depends on your temperament! Insurance would be ideal for a certain 
 
 Ben: I've heard you say, as soon as you're wealthy enough to self-insure, you should.
 
-**本**：我听你说过，只要你足够富有，能够自我保险，你就应该这样做。
+**本**：我听你说过，只要你足够富有，能够自我保险，你就不应该购买或考虑任何保险产品。
 
 Charlie: That's \[the answer for\] practically everything. Think of all the crumbums of the world that drink too much and file a claim to the insurance company, gets on fire or something. Why would you want to pay for your share of their stupidity?
 
@@ -1041,7 +1041,7 @@ Ben: Will we eventually have one?
 
 Charlie: Eventually, this craziness in venture capital, when they’re all gone stupid, that's a natural outcome.
 
-**查理**：最终，当风险投资家们变得愚蠢，这个行业变得疯狂，集中度进一步提高可能是自然的结局。
+**查理**：最终，当风险投资家们变得愚蠢，这个行业变得疯狂，集中度进一步提高是自然的结局。
 
 Ben: Will we have one $20 trillion company and then the next biggest company is—?
 
@@ -1057,15 +1057,15 @@ Person: Would you continue investing in China? What's your position on that?
 
 Charlie: My position in China has been that: (1) the Chinese economy has better future prospects over the next 20 years than almost any other big economy. That’s number one. (2) The leading companies of China are stronger and better than practically any other leading companies anywhere, and they're available at a much cheaper price.
 
-**查理**：我对中国的立场是：（1）中国经济在未来 20 年的前景比其他任何大经济体都要好。这是第一点。（2）中国的龙头企业比其他任何地方的龙头企业都更强更优秀，而且价格更便宜。
+**查理**：我对中国的立场是：（1）中国经济在未来 20 年的前景几乎比其他任何大经济体都要好。这是第一点。（2）中国的龙头企业比其他任何地方的龙头企业都更强更优秀，而且价格更便宜。
 
 So naturally, I'm willing to have some China risk in the Munger portfolio. How much China risk? Well that's not a scientific subject, but I don't mind whatever it is, 18% or something. Whatever its worked out in the Munger family, it's okay with me.
 
-因此，我自然愿意在芒格家族的投资组合中买入一些中国公司。中国公司占比有多大？这不是一个科学问题，我觉得不管是 18%还是多少，我都可以。不管芒格家族的投资结果如何，我都无所谓。
+因此，我自然愿意在芒格家族的投资组合中买入一些中国公司。中国公司占比有多大？这不是一个科学问题，我觉得不管是 18%还是多少，我都可以。不管芒格家族的投资结果如何，我都可以接受。
 
 Ben: What about other geopolitical considerations? Would you hold TSMC at this point?
 
-**本**：其他经济体的投资你有考虑吗？你现在会持有台积电吗？
+**本**：你会考虑其他涉及地缘政治的公司吗？你现在会持有台积电吗？
 
 Charlie: Well I don't like that as well as I like something with a real consumer brand of its own like Apple.
 
@@ -1225,7 +1225,7 @@ Ben: One thing that fascinates me about Costco is they seem to *only* be able to
 
 Charlie: I’ll tell you what is. It's hard to open too many stores a year. New store, new manager, new this, new politics. It's hard, plus a lot of stuff has to be learned, taught, and put in place. They didn't want to do more than they can comfortably handle.
 
-**查理**：我来告诉你什么才是制约因素：一年很难开太多店。新店、新经理、新事物、新政治。这很难，而且还有很多东西需要学习、传授和落实。他们不想做超出自己能力范围，不能很好处理的事情。
+**查理**：我来告诉你什么才是制约因素：一年很难开太多店。新店、新经理、新事物、新政治环境。这很难，而且还有很多东西需要学习、传授和落实。他们不想做超出自己能力范围，不能很好处理的事情。
 
 David: To the store openings, you mentioned China earlier. Was it 20 years that Costco had the license to operate in China?
 
@@ -1385,7 +1385,7 @@ Ben: Had you invested already when he told you this plan?
 
 Charlie: Yes, yes. And it worked fabulously well. After huge mistakes! They almost went broke with their early dealership building system, almost went broke.
 
-**查理**：是的，是的。最终效果非常好，不过是在经历了巨大的失误之后！他们早期的经销商系统几乎破产，差点破产。
+**查理**：是的，是的。最终效果非常好，不过是在经历了巨大的失误之后！他们早期经销商体系出了问题，比亚迪当时差点破产。（**译者注：猜测指的是 2010 年 4 月的「比亚迪退网门」**）
 
 David: What captivated you about it though?
 
@@ -1397,7 +1397,7 @@ Charlie: The guy was a genius. He had a PhD in engineering, and he look at some 
 
 He is a natural engineer and a get-it-done type production executive, and that's a big thing. It's a big lot of talent to happen in one place. It's very useful. He solved all his problems on these electric cars, the motors, the acceleration, the braking, and so on.
 
-他是一位天生的工程师和能够快速解决问题的生产负责人，这是很重要的一点。他是各种天赋的集合体，这非常有用。他解决了自己在电动汽车、电机、加速、制动等方面的所有问题。
+他是一位天生的工程师和能够快速解决问题的生产负责人，这是很重要的一点。他是各种天赋的集合体，这非常有用。他解决了自己在电动汽车上遇到的所有问题，包括电机、加速、刹车等等。
 
 David: How would you compare him and BYD to Elon and Tesla?
 
@@ -1661,7 +1661,7 @@ Ben: I know, with autographed copies of Poor Charlie's Almanack to prove it.
 
 David: As if the podcast wasn't enough. Actually, for those of you who haven't listened back in 2021, two-ish years ago, we did a whole three-part series, just us, covering the whole history of Berkshire Hathaway. Part one is on Warren, part two is on Charlie, part three is on Berkshire and Ted and Todd all the way up through to today. I assume many of you have listened to that, but there probably are a bunch of folks who haven't. If you want another 9 or 10 hours of Acquired content on Berkshire—I really think it's some of, if not our best work—go check those out.
 
-**大卫**：好像播客还不够似的。实际上，对于那些没有听过以前节目的人来说，早在 2021 年，也就是两年前，我们就做了一个由三部分组成的系列节目，只有我们，涵盖了伯克希尔·哈撒韦公司的整个历史。第一部分介绍沃伦，第二部分介绍查理，第三部分介绍伯克希尔公司，包括泰德（Ted）、托德（Todd），以及一直到今天的发展历程。我想你们很多人都听过了，但可能还有很多人没听过。如果你还想再听 9、10 个小时关于伯克希尔的 Acquired 播客内容，我真的认为这是我们最好的作品之一，去听听吧。
+**大卫**：好像播客还不够似的。实际上，对于那些没有听过以前节目的人来说，早在 2021 年，也就是两年前，我们就做了一个由三部分组成的系列节目，就我们两个，涵盖了伯克希尔·哈撒韦公司的整个历史。第一部分介绍沃伦，第二部分介绍查理，第三部分介绍伯克希尔公司，包括泰德（Ted）、托德（Todd），以及一直到今天的发展历程。我想你们很多人都听过了，但可能还有很多人没听过。如果你还想再听 9、10 个小时关于伯克希尔的 Acquired 播客内容，我真的认为这是我们最好的作品之一，去听听吧。
 
 Ben: With that, listeners, our huge thank you to Tiny for being the sole presenting sponsor of this episode. If you have, or you know of a wonderful internet business, you should reach out, hi@tiny.com. Just tell them that Ben, David, and Charlie sent you.
 
