@@ -6,7 +6,7 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1981.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 校译：Terrellchen，纪璐
 
 ---
 
@@ -83,7 +83,7 @@ In fairness, we should acknowledge that some acquisition records have been dazzl
 The first involves companies that, through design or accident, have purchased only businesses that are particularly well adapted to an inflationary environment.  Such favored business must have two characteristics: (1) an ability to increase prices rather easily (even when product demand is flat and capacity is not fully utilized) without fear of significant loss of either market share or unit volume, and (2) an ability to accommodate large dollar volume increases in business (often produced more by inflation than by real growth) with only minor additional investment of capital.  Managers of ordinary ability, focusing solely on acquisition possibilities meeting these tests, have achieved excellent results in recent decades.  However, very few enterprises possess both characteristics, and competition to buy those that do has now become fierce to the point of being self-defeating.
 
 第一类是你买到的(不管是有意或无意的)是那种特别能够适应通货膨胀的公司，这种受青睐的业务必须具备两种特征： (1) 能够相当轻松地提高价格，即使在产品需求平稳产能过剩的情况下，且不怕会失去市场占有率或销售量。 (2) 只要增加额外少量的资本支出，便可以使营业额大幅增加，虽然增加的原因大部分是因为通货膨胀而非实际增加产出的缘故。
-近几十年来，能力一般的管理者只关注满足这些测试条件的收购，就已经取得了优异的成绩。然而，同时具备这两个特点的企业很少，现在激烈的竞买已经到了适得其反的地步。
+近几十年来，能力一般的管理者只关注满足这些测试条件的收购，就已经取得了优异的成绩。然而，同时具备这两个特点的企业很少，现在激烈的竞买已经到了自取灭亡[^3]的地步。
 
 The second category involves the managerial superstars - men who can recognize that rare prince who is disguised as a toad, and who have managerial abilities that enable them to peel away the disguise.  We salute such managers as Ben Heineman at Northwest Industries, Henry Singleton at Teledyne, Erwin Zaban at National Service Industries, and especially Tom Murphy at Capital Cities Communications (a real managerial “twofer”, whose acquisition efforts have been properly focused in Category 1 and whose operating talents also make him a leader of Category 2).  From both direct and vicarious experience, we recognize the difficulty and rarity of these executives’ achievements. (So do they; these champs have made very few deals in recent years, and often have found repurchase of their own shares to be the most sensible employment of corporate capital.)
 
@@ -101,7 +101,7 @@ We have tried occasionally to buy toads at bargain prices with results that have
 
 We will continue to seek the acquisition of businesses in their entirety at prices that will make sense, even should the future of the acquired enterprise develop much along the lines of its past.  We may very well pay a fairly fancy price for a Category 1 business if we are reasonably confident of what we are getting.  But we will not normally pay a lot in any purchase for what we are supposed to bring to the party - for we find that we ordinarily don’t bring a lot.
 
-我们将继续寻求以合理的价钱买下整个公司，即使那家公司未来的发展与过去大体相同(没有增长)。我们也愿意以不错的价钱买下第一类的公司，若我们确实有理由相信他们就是第一类公司。但我们通常不会去买那些我们必须替其作许多改变的公司，因为我们发现我们所作的改变不见得是好的。
+我们将继续寻求以合理的价钱买下整个公司，即使那家公司未来的发展与过去大体相同(没有增长)。我们也愿意以不错的价钱买下第一类的公司，若我们确实有理由相信他们就是第一类公司。但我们通常不会因我们带来的改变而去支付高价，因为我们发现我们通常不会（因我们的到来）改善多少。[^4]
 
 During 1981 we came quite close to a major purchase involving both a business and a manager we liked very much.  However, the price finally demanded, considering alternative uses for the funds involved, would have left our owners worse off than before the purchase.  The empire would have been larger, but the citizenry would have been poorer.
 
@@ -117,11 +117,11 @@ Currently, we find values most easily obtained through the open-market purchase 
 
 We expect that undistributed earnings from such companies will produce full value (subject to tax when realized) for Berkshire and its shareholders.  If they don’t, we have made mistakes as to either: (1) the management we have elected to join; (2) the future economics of the business; or (3) the price we have paid.
 
-而我们也预期这些公司的未分配收益将会百分之百回报给伯克希尔及其股东，若最后没有，则可能是出了以下几种差错： (1) 公司的管理层有问题。 (2) 公司的未来的前景有问题。 (3) 我们支付的价格有问题。
+而我们也预期这些公司的未分配收益将会百分之百回报给伯克希尔及其股东，若最后没有，则可能是出了以下几种差错： (1) 我们任命加入的管理层有问题。 [^5](2) 公司的未来的前景有问题。 (3) 我们支付的价格有问题。
 
 We have made plenty of such mistakes - both in the purchase of non-controlling and controlling interests in businesses.  Category (2) miscalculations are the most common.  Of course, it is necessary to dig deep into our history to find illustrations of such mistakes - sometimes as deep as two or three months back.  For example, last year your Chairman volunteered his expert opinion on the rosy future of the aluminum business.  Several minor adjustments to that opinion - now aggregating approximately 180 degrees - have since been required.
 
-而事实上，不论在买进具控制权或非控制权的股权方面，我们曾犯了许多错误，其中以第二类误判的情况最常见。当然有必要翻开我们投资的历史，深入挖掘此类的案例(可能至少要回溯至少 2-3 个月以上吧)，例如去年你们的董事长发表看好铝业发展的前景，只是到后来陆续经过些微的调整，最后的结论却是 180 度的转弯。
+而事实上，不论在买进具控制权或非控制权的股权方面，我们曾犯了许多错误，其中以第二类误判的情况最常见。当然有必要翻开我们投资的历史，深入挖掘此类的案例(可能至少要回溯至少 2-3 个月以上吧)，例如，去年，你们的主席主动提出他对铝业前景看好的专家意见。 自那以后，他对这一观点进行了几次微小的调整——现在总计调整了大约 180 度。[^6]
 
 For personal as well as more objective reasons, however, we generally have been able to correct such mistakes far more quickly in the case of non-controlled businesses (marketable securities) than in the case of controlled subsidiaries.  Lack of control, in effect, often has turned out to be an economic plus.
 
@@ -129,7 +129,7 @@ For personal as well as more objective reasons, however, we generally have been 
 
 As we mentioned last year, the magnitude of our non-recorded “ownership” earnings has grown to the point where their total is greater than our reported operating earnings.  We expect this situation will continue.  In just four ownership positions in this category - GEICO Corporation, General Foods Corporation, R. J. Reynolds Industries, Inc. and The Washington Post Company - our share of undistributed and therefore unrecorded earnings probably will total well over $35 million in 1982.  The accounting rules that entirely ignore these undistributed earnings diminish the utility of our annual return on equity calculation, or any other single year measure of economic performance.
 
-而就像去年我曾提到的，我们在不具控制权的股权投资已经大到其依投资比例应分得之未分配收益甚至超越公司整体的报告收益，且我们预期这种情况将会持续下去，1982 年光是其中四家(GEICO 保险、通用食品、雷诺烟草及华盛顿邮报)未分配收益加起来就超过 3500 万美元，由于会计原则使得我们在计算帐面股东权益报酬与单一年度获利表现时，无法将这些未分配收益记入。
+正如我们去年提到的，我们不具控制权的投资收益（应按比例分配但会计报表尚未记录的）规模，已经增长到超过了我们（会计报告的）总收益的程度。 我们预计这种情况还会继续下去[^7]。1982 年光是其中四家(GEICO 保险、通用食品、雷诺烟草及华盛顿邮报)未分配收益加起来就超过 3500 万美元，由于会计原则使得我们在计算帐面股东权益报酬与单一年度获利表现时，无法将这些未分配收益记入。
 
 # Long-Term Corporate Performance 公司的长期业绩表现
 
@@ -475,3 +475,47 @@ February 26, 1982
 	（未译全，中英文对应不上）
 	
 	补全：我们的新计划让股东能够指定公司慈善捐款的接受者受到了热烈欢迎。在1981年10月14日寄出的那封信的第 51-53 页，描述了这项计划。在932,206张符合标准的有效股份中(即在本公司股份系由本人登记者)，有95.6%参与回复，而在即使不包含本人股份的情况下，也超过了90%。
+
+
+[^3]: By 纪璐 @20231105
+	
+	原文：to the point of being self-defeating.
+	
+	共读版：已经到了适得其反的地步。
+	
+	修改为：已经到了自取灭亡的地步。
+
+
+[^4]: By 纪璐 @20231105
+
+	原文：But we will not normally pay a lot in any purchase for what we are supposed to bring to the party - for we find that we ordinarily don’t bring a lot.
+	
+	共读版：但我们通常不会去买那些我们必须替其作许多改变的公司，因为我们发现我们所作的改变不见得是好的。
+	
+	修改为：但我们通常不会因我们带来的改变而去支付高价，因为我们发现我们通常不会（因我们的到来）改善多少。
+
+
+[^5]: By 纪璐 @20231105
+	
+	原文：the management we have elected to join
+	
+	共读版：公司的管理层有问题
+	
+	修改为：我们任命加入的管理层有问题
+
+
+[^6]: By 纪璐 @20231105
+	
+	原文：For example, last year your Chairman volunteered his expert opinion on the rosy future of the aluminum business.  Several minor adjustments to that opinion - now aggregating approximately 180 degrees - have since been required.
+	
+	共读版：例如去年你们的董事长发表看好铝业发展的前景，只是到后来陆续经过些微的调整，最后的结论却是 180 度的转弯。
+	
+	修改为：例如，去年，你们的主席主动提出他对铝业前景看好的专家意见。 自那以后，他对这一观点进行了几次微小的调整——现在总计调整了大约 180 度。
+
+[^7]: By 纪璐 @20231105
+	
+	原文：As we mentioned last year, the magnitude of our non-recorded “ownership” earnings has grown to the point where their total is greater than our reported operating earnings.  We expect this situation will continue. 
+	
+	共读版：而就像去年我曾提到的，我们在不具控制权的股权投资已经大到其依投资比例应分得之未分配收益甚至超越公司整体的报告收益，且我们预期这种情况将会持续下去
+	
+	修改为：正如我们去年提到的，我们不具控制权的投资收益（应按比例分配但会计报表尚未记录的）规模，已经增长到超过了我们（会计报告的）总收益的程度。 我们预计这种情况还会继续下去。
