@@ -133,7 +133,7 @@
 [2007 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md) (进行中)|2008-02-29|双语|芒格书院共读群友
 [2008 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md)|2009-02-28|双语|芒格书院共读群友
 [2009 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2009_Letter_to_Berkshire_Shareholders.md)|2010-02-26|双语|芒格书院共读群友
-[2010 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md) (进行中)|2011-02-26|双语|芒格书院共读群友
+[2010 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders.md)|2011-02-26|双语|芒格书院共读群友
 [2011 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md)|2012-02-25|双语|芒格书院共读群友
 [2012 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md)|2013-03-01|双语|芒格书院共读群友
 [2013 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)|2014-02-28|双语|芒格书院共读群友

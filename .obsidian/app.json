@@ -1,5 +1,6 @@
 {
   "showFrontmatter": true,
   "showLineNumber": true,
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true
 }
