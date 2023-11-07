@@ -6,7 +6,7 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1989.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：when breath becomes air
-- 校译：
+- 校译：伴读小兽
 
 **BERKSHIRE HATHAWAY INC.**
 
@@ -475,7 +475,7 @@ Through a truly rare blend of marketing and financial skills, Roberto has maximi
 
 Of course, we should have started buying Coke much earlier, soon after Roberto and Don began running things. In fact, if I had been thinking straight I would have persuaded my grandfather to sell the grocery store back in 1936 and put all of the proceeds into Coca-Cola stock. I've learned my lesson: My response time to the next glaringly attractive idea will be slashed to well under 50 years.
 
-当然我们应该在郭思达与唐开始接掌公司时，就早点买进该公司的股票，事实上，要是我有足够的远见，早在1936年我就应该说服我爷爷干脆卖掉杂货店，然后将钱全部用来买进可口可乐的股票，这次我终于吸取了教训，不过照这种情况看来，距离下一次我灵光一现的时间，可能要再等上个50年以上吧！
+当然我们应该在郭思达与唐开始接掌公司时，就早点买进该公司的股票，事实上，要是我有足够的远见，早在1936年我就应该说服我爷爷干脆卖掉杂货店，然后将钱全部用来买进可口可乐的股票，我已经吸取了教训：我对下一个具有明显吸引力的想法的反应时间将缩短到50年以下。[^1]
 
 As I mentioned earlier, the yearend prices of our major investees were much higher relative to their intrinsic values than theretofore. While those prices may not yet cause nosebleeds, they are clearly vulnerable to a general market decline. A drop in their prices would not disturb us at all - it might in fact work to our eventual benefit - but it *would* cause at least a one-year reduction in Berkshire's net worth. We think such a reduction is almost certain in at least one of the next three years. Indeed, it would take only about a 10% year-to-year decline in the aggregate value of our portfolio investments to send Berkshire's net worth down.
 
@@ -684,7 +684,7 @@ If you buy a stock at a sufficiently low price, there will usually be some hiccu
 
 Unless you are a liquidator, that kind of approach to buying businesses is foolish. First, the original "bargain" price probably will not turn out to be such a steal after all. In a difficult business, no sooner is one problem solved than another surfaces - never is there just one cockroach in the kitchen. Second, any initial advantage you secure will be quickly eroded by the low return that the business earns. For example, if you buy a business for $8 million that can be sold or liquidated for $10 million and promptly take either course, you can realize a high return. But the investment will disappoint if the business is sold for $10 million in ten years and in the interim has annually earned and distributed only a few percent on cost. Time is the friend of the wonderful business, the enemy of the mediocre.
 
-不过除非你是清算专家，否则买下这类公司实在是属于傻瓜行径。第一，长期而言，原来看起来划算的价格到最后可能一点都不便宜。在经营艰困的企业中，通常一个问题才刚解决，另外一个问题就又冒出来，厨房里绝不会只有一只蟑螂。第二，先前的价差优势很快地就会被企业赚取的低回报绩效所侵蚀。例如你用800万美元买下一家清算价值达1,000万美元的公司，若你能马上把这家公司给处理掉，不管是出售或是清算都好，换算下来你的报酬可能会很可观。但是若这家公司要花上你十年的时间才有办法把它给处理掉，而在这之前你只能拿回一点点可怜的股利的话，那么这项投资将会令人失望。时间是好公司的朋友，但却是烂公司最大的敌人。
+除非你是清算人[^2]，否则买下这类公司实在是属于傻瓜行径。第一，长期而言，原来看起来划算的价格到最后可能一点都不便宜。在经营艰困的企业中，通常一个问题才刚解决，另外一个问题就又冒出来，厨房里绝不会只有一只蟑螂。第二，先前的价差优势很快地就会被企业赚取的低回报绩效所侵蚀。例如你用800万美元买下一家清算价值达1,000万美元的公司，若你能马上把这家公司给处理掉，不管是出售或是清算都好，换算下来你的报酬可能会很可观。但是若这家公司要花上你十年的时间才有办法把它给处理掉，而在这之前你只能拿回一点点可怜的股利的话，那么这项投资将会令人失望。时间是好公司的朋友，但却是烂公司最大的敌人。
 
 You might think this principle is obvious, but I had to learn it the hard way - in fact, I had to learn it several times over. Shortly after purchasing Berkshire, I acquired a Baltimore department store, Hochschild Kohn, buying through a company called Diversified Retailing that later merged with Berkshire. I bought at a substantial discount from book value, the people were first-class, and the deal included some extras - unrecorded real estate values and a significant LIFO inventory cushion. How could I miss? So-o-o - three years later I was lucky to sell the business for about what I had paid. After ending our corporate marriage to Hochschild Kohn, I had memories like those of the husband in the country song, "My Wife Ran Away With My Best Friend and I Still Miss Him a Lot."
 
@@ -702,7 +702,7 @@ That leads right into a related lesson: Good jockeys will do well on good horses
 
 I've said many times that when a management with a reputation for brilliance tackles a business with a reputation for bad economics, it is the reputation of the business that remains intact. I just wish I hadn't been so energetic in creating examples. My behavior has matched that admitted by Mae West: "I was Snow White, but I drifted."
 
-我曾说过好几次：当一个绩效卓著的经理人遇到一家恶名昭彰的企业，通常会是后者占上风，但愿我再也没有那么多精力来创造新的例子，我以前的行为就像是Mae West曾说的︰"曾经我是个白雪公主，不过如今我已不再清白。"
+我曾说过好几次：当一个绩效卓著的经理人遇到一家恶名昭彰的企业，通常会是后者占上风，但愿我再也没有那么多精力来创造新的例子，我以前的行为就像是Mae West曾说的︰"我曾经是白雪公主，但我迷失了方向。"[^3]
 
 ## Identifying One-foot Hurdles 跨一尺栏杆
 
@@ -883,3 +883,29 @@ Chairman of the Board
 March 2, 1990
 
 1990.03.02
+
+
+[^1]: By 伴读小兽 @20231101
+	
+	原文：I've learned my lesson: My response time to the next glaringly attractive idea will be slashed to well under 50 years.
+	
+	共读版翻译：这次我终于吸取了教训，不过照这种情况看来，距离下一次我灵光一现的时间，可能要再等上个50年以上吧！
+	
+	修改为：我已经吸取了教训：我对下一个具有明显吸引力的想法的反应时间将缩短到50年以下。
+
+[^2]: By 伴读小兽 @20231101
+	
+	原文：Unless you are a liquidator,
+	
+	共读版翻译：不过除非你是清算专家，
+	
+	修改为：除非你是清算人，（清算人是有能力清算的人，而清算专家只是拥有这方面的技能的人）
+
+
+[^3]: By 伴读小兽 @20231101
+	
+	原文： "I was Snow White, but I drifted."
+	
+	共读版翻译："曾经我是个白雪公主，不过如今我已不再清白。"
+	
+	修改为：“我曾经是白雪公主，但我迷失了方向。”（双关语。drifted这个词在1990年股东信中写1970年代可口可乐的那段也有。）
