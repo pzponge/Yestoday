@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charles_Munger/Acquired_Interviews.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md"
               }
             }
           }
@@ -145,9 +145,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded21b6b92285919",
+  "active": "d19c769e3f205427",
   "lastOpenFiles": [
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19600220_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
+    "Charles_Munger/Acquired_Interviews.md",
     "README.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md",
@@ -159,7 +161,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2010_Letter_to_Berkshire_Shareholders1.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
-    "Charles_Munger/Acquired_Interviews.md",
     "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md",
     "贡献说明.md",
@@ -171,7 +172,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19600220_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan.zip",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md",
