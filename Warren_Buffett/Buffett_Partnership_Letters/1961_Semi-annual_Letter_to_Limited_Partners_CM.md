@@ -23,7 +23,7 @@ In the past, partners have commented that a once-a-year letter was “a long tim
 
 过去，有合伙人说每年一封信太少以至于“每次畅饮的间隔时间过长”，所以每半年一封信或许是个好主意。每年两次找些东西来说并不困难，特别是今年。以后我将会保持这种做法。
 
-During the first half of 1961, the overall gain of the Dow-Jones Industrial Average was about 13%, including dividends. Although this is the type of period when we should have the most difficulty in exceeding this standard, all partnerships that operated throughout the six months did moderately better then the Average. Partnerships formed during 1961 either equaled or exceeded results of the Average from the time of formation, depending primarily on how long they were in operation.
+During the first half of 1961, the overall gain of the Dow-Jones Industrial Average was about 13%, including dividends. Although this is the type of period when we should have the most difficulty in exceeding this standard, all partnerships that operated throughout the six months did moderately better than the Average. Partnerships formed during 1961 either equaled or exceeded results of the Average from the time of formation, depending primarily on how long they were in operation.
 
 1961年上半年，道琼斯工业指数包含分红大概上升了13%。尽管按照我们的投资理念，与整个股票市场相比我们今年的表现或许不太好。但是我们所有的合伙基金在上半年的表现均稍好于道琼斯工业指数。根据成立时间的不同，在1961年成立的合伙基金也能够超过或与指数收益持平。
 
