@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md"
               }
             }
           }
@@ -145,12 +145,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ded21b6b92285919",
+  "active": "d19c769e3f205427",
   "lastOpenFiles": [
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19590211_Letter_OST.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19600220_Letter_OST.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610722_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19600220_Letter_OST.md",
     "Charles_Munger/Acquired_Interviews.md",
     "README.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md",
@@ -172,8 +174,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610130_Letter_RR.md",
     "Warren_Buffett.zip",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/195802_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan.zip",
     "Warren_Buffett/Buffett_Partnership_Letters/OST",
     "Joe_Ponzio",
