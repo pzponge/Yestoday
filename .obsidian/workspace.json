@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md"
+=======
+                "file": "README.md"
+>>>>>>> Stashed changes
               }
             }
           }
@@ -147,6 +163,11 @@
   },
   "active": "d19c769e3f205427",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
+=======
+    "贡献说明.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/195802_Letter_OST.md",
+>>>>>>> Stashed changes
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19590211_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19600220_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
@@ -167,13 +188,15 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md",
-    "贡献说明.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2017_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2016_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1960_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610130_Letter_RR.md",
     "Warren_Buffett.zip",
+<<<<<<< Updated upstream
     "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
+=======
+>>>>>>> Stashed changes
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan.zip",
     "Warren_Buffett/Buffett_Partnership_Letters/OST",
     "Joe_Ponzio",
