@@ -7,7 +7,7 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1991.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：momo
-- 校译：momo
+- 校译：momo，伴读小兽
 
 ---
 **BERKSHIRE HATHAWAY INC.**
@@ -163,7 +163,7 @@ An approach of this kind will force the investor to think about long-term busine
 
 In last year's report, I stated my opinion that the decline in the profitability of media companies reflected secular as well as cyclical factors. The events of 1991 have fortified that case: The economic strength of once-mighty media enterprises continues to erode as retailing patterns change and advertising and entertainment choices proliferate. In the business world, unfortunately, the rear-view mirror is always clearer than the windshield: A few years back no one linked to the media business - neither lenders, owners nor financial analysts - saw the economic deterioration that was in store for the industry. (But give me a few years and I'll probably convince myself that I did.)
 
-在去年的报告中，我曾经表示媒体事业盈利能力衰退主要是反应景气的循环因素，但在1991年发生的情况则不是那么一回事，由于零售业态的转变加上广告与娱乐选择的多元化，以往曾经一度风光的媒体事业，其竞争力已受到严重的侵蚀，然而不幸的是，在商业世界中，从后视镜所看到的景象永远比挡风玻璃的还清楚。几年前几乎没有人，包含银行、股东与证券分析师在内，会不看好媒体事业的发展，(若是再多给我几年，我可能就能声称我已预见到了)。
+在去年的报告中，我曾经表示媒体公司盈利能力的下降既反映了长期趋势，也反映了周期性因素。1991年的事件进一步证实了这一观点[^5]：由于零售业态的转变加上广告与娱乐选择的多元化，以往曾经一度风光的媒体事业，其竞争力已受到严重的侵蚀，然而不幸的是，在商业世界中，从后视镜所看到的景象永远比挡风玻璃的还清楚。几年前几乎没有人，包含银行、股东与证券分析师在内，会不看好媒体事业的发展，(若是再多给我几年，我可能就能声称我已预见到了)。
 
 The fact is that newspaper, television, and magazine properties have begun to resemble *businesses* more than *franchises* in their economic behavior. Let's take a quick look at the characteristics separating these two classes of enterprise, keeping in mind, however, that many operations fall in some middle ground and can best be described as weak franchises or strong businesses.
 
@@ -651,3 +651,11 @@ February 28, 1992
 	肖良版：未翻译
 	
 	补全翻译：索取地址为：Corporate Secretary, Wesco Financial Corporation, 315 East Colorado Boulevard, Pasadena, CA 91101.
+
+[^5]: By 伴读小兽 @20231114
+	
+	原文：In last year's report, I stated my opinion that the decline in the profitability of media companies reflected secular as well as cyclical factors.
+	
+	共读版翻译：在去年的报告中，我曾经表示媒体事业盈利能力衰退主要是反应景气的循环因素，但在1991年发生的情况则不是那么一回事，
+	
+	修改为：在去年的报告中，我曾经表示媒体公司盈利能力的下降既反映了长期趋势，也反映了周期性因素。1991年的事件进一步证实了这一观点：
