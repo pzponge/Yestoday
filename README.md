@@ -109,7 +109,7 @@
 [1983 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md)|1984-03-14|双语|芒格书院共读群友
 [1984 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md)|1985-02-25|双语|芒格书院共读群友
 [1985 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1985_Letter_to_Berkshire_Shareholders.md)|1986-03-04|双语|芒格书院共读群友
-[1986 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md) (进行中)|1987-02-27|双语|芒格书院共读群友
+[1986 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md)|1987-02-27|双语|芒格书院共读群友
 [1987 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1987_Letter_to_Berkshire_Shareholders.md)|1988-02-29|双语|芒格书院共读群友
 [1988 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md)|1989-02-28|双语|芒格书院共读群友
 [1989 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md)|1990-03-02|双语|芒格书院共读群友
@@ -146,7 +146,7 @@
 [2018 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md)|2019-02-23|双语|芒格书院共读群友
 [2019 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md)|2020-02-22|双语|芒格书院共读群友
 [2020 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md)|2021-02-27|双语|上角里
-2021|
+[2021 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md)|2021-02-27|双语|芒格书院共读群友
 [2022 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md)|2023-02-25|双语|坚信价值
 
 # 2\. Charles T. Munger
