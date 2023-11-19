@@ -98,7 +98,7 @@ In my early days as a manager I, too, dated a few toads. They were cheap dates -
 
 After several failures of this type, I finally remembered some useful advice I once got from a golf pro (who, like all pros who have had anything to do with my game, wishes to remain anonymous). Said the pro: "Practice doesn't make perfect; practice makes permanent." And thereafter I revised my strategy and tried to buy good businesses at fair prices rather than fair businesses at good prices.
 
-在失败过几次之后，我终于想起我曾经从某位职业高尔夫选手那儿得到的建议（像所有职业选手一样，只要和我打过球的，通常都不太愿意让我提起他们的名字），他说：“不断的练习虽然无法达到完美的境界，但练习却能够使你的成绩持久保持”，也因此我决定改变我的投资策略，试着以合理的价格买进好公司，而不是以便宜的价格买进普通的公司。
+在失败过几次之后，我终于想起我曾经从某位职业高尔夫选手那儿得到的建议（像所有职业选手一样，只要和我打过球的，通常都不太愿意让我提起他们的名字），他说：“练习无法变得完美，练习只会巩固习惯。[^4]”，也因此我决定改变我的投资策略，试着以合理的价格买进好公司，而不是以便宜的价格买进普通的公司。
 
 Last year, in December, we made an acquisition that is a prototype of what we now look for. The purchase was 82% of Central States Indemnity, an insurer that makes monthly payments for credit-card holders who are unable themselves to pay because they have become disabled or unemployed. Currently the company's annual premiums are about $90 million and profits about $10 million. Central States is based in Omaha and managed by Bill Kizer, a friend of mine for over 35 years. The Kizer family - which includes sons Bill, Dick and John - retains 18% ownership of the business and will continue to run things just as it has in the past. We could not be associated with better people.
 
@@ -173,7 +173,7 @@ We cannot promise to achieve the $1.8 billion target. Indeed, we may not even co
 
 We do not, however, see this long-term focus as eliminating the need for us to achieve decent short-term results as well. After all, we were thinking long-range thoughts five or ten years ago, and the moves we made then should now be paying off. If plantings made confidently are repeatedly followed by disappointing harvests, something is wrong with the farmer. (Or perhaps with the farm: Investors should understand that for certain companies, and even for some industries, there simply is *no* good long-term strategy.) Just as you should be suspicious of managers who pump up short-term earnings by accounting maneuvers, asset sales and the like, so also should you be suspicious of those managers who fail to deliver for extended periods and blame it on their long-term focus. (Even Alice, after listening to the Queen lecture her about "jam tomorrow," finally insisted, "It must come sometimes to jam today.")
 
-不过，我们对于长期目标的专注并不代表我们就不注重短期结果，总的来说我们早在 5-10 年前就预先规划设想，而当时所作的举动现在才开始慢慢地回收，如果每次信心满满的播种，最后的收成却一再让人失望的话，农夫就应该要好好地检讨原因了，（不然就是农地有问题，投资人必须了解，对于某些公司甚至是某些产业，根本就没有所谓的长期性策略），就像是你可能会特别留心，那些利用会计手法或出售资产增加短期利润的经理人，同样，你也应该怀疑那些一再未能实现承诺，却把长期目标一直挂在嘴上的经理人，（即使是爱莉丝一再听到女王关于明天就有果酱的说教，她最后也会忍不住要求，总有一些应该今天有吧！）
+不过，我们对于长期目标的专注并不代表我们就不注重短期结果，总的来说我们早在 5-10 年前就预先规划设想，而当时所作的举动现在才开始慢慢地回收，如果每次信心满满的播种，最后的收成却一再让人失望的话，农夫就应该要好好地检讨原因了，（不然就是农地有问题，投资人必须了解，对于某些公司甚至是某些产业，根本就没有所谓的长期性策略），就像是你可能会特别留心，那些利用会计手法或出售资产增加短期利润的经理人，同样，你也应该怀疑那些未能实现长期承诺目标，却把责任归咎在长期目标上的管理者[^5]。（即使是爱莉丝一再听到女王关于明天就有果酱的说教，她最后也会忍不住要求，总有一些应该今天有吧！）
 
 The following table shows you how we calculate look-through earnings, though I warn you that the figures are necessarily *very* rough. (The dividends paid to us by these investees have been included in the operating earnings itemized on page 8, mostly under "Insurance Group: Net Investment Income.")
 
@@ -729,7 +729,7 @@ March 1, 1993 
 	译文（DeepL翻译）：(1) 我们财务报表中的账面价值
 
 
-[^2]: By 孙萧萧 @20231014
+[^3]: By 孙萧萧 @20231014
 	
 	原文：(2) Fair value as determined by Charlie and me
 	
@@ -737,3 +737,18 @@ March 1, 1993 
 	
 	译文（DeepL翻译）：(2) 查理和我确定的公允价值
 
+[^4]: By 伴读小兽（感谢 Terrellchen、诚明散人） @20231118
+	
+	原文："Practice doesn't make perfect; practice makes permanent."
+	
+	共读版翻译：“不断的练习虽然无法达到完美的境界，但练习却能够使你的成绩持久保持”
+	
+	修改为：练习无法变得完美，练习只会巩固习惯。(来自于诚明散人）。同时标注一下台版翻译：“熟不一定能生巧，不断练习只是巩固你的习惯而已。”
+
+[^5]: By 伴读小兽 @20231118
+	
+	原文：so also should you be suspicious of those managers who fail to deliver for extended periods and blame it on their long-term focus.
+	
+	共读版翻译：你也应该怀疑那些一再未能实现承诺，却把长期目标一直挂在嘴上的经理人，
+	
+	修改为：你也应该怀疑那些未能实现长期承诺目标，却把责任归咎在长期目标上的管理者。
