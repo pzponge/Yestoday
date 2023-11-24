@@ -6,7 +6,7 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1993.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：when breath becomes air
-- 校译：
+- 校译：伴读小兽
 
 ---
 
@@ -58,7 +58,7 @@ Let me add a lesson from history: Coke went public in 1919 at $40 per share. By 
 
 So how should Berkshire's over-performance in the market last year be viewed? Clearly, Berkshire was selling at a higher percentage of intrinsic value at the end of 1993 than was the case at the beginning of the year. On the other hand, in a world of 6% or 7% long-term interest rates, Berkshire's market price was not inappropriate if - and you should understand that this is a huge if - Charlie Munger, Berkshire's Vice Chairman, and I can attain our long-standing goal of increasing Berkshire's per-share intrinsic value at an average annual rate of 15%. We have not retreated from this goal. But we again emphasize, as we have for many years, that the growth in our capital base makes 15% an ever-more difficult target to hit.
 
-所以，我们应该如何看待伯克希尔去年的股价的超常表现呢？显然在1993年底，伯克希尔的股价占内在价值比重较年初更高。另外一方面，在长期利率只有6-7%的投资环境下，若是你能了解，查理·芒格跟本人只能让伯克希尔的内在价值每年以15%的成长的话，你就应该知道伯克希尔去年这样的股价表现实在是有点反常。虽然对于这样的目标我们从不妥协，但我们必须再一次强调，随着资本规模的日益扩大，想要达到这个目标的困难度也与日俱增。
+所以，我们应该如何看待伯克希尔去年的股价的超常表现呢？显然在1993年底，伯克希尔的股价占内在价值比重较年初更高。另外一方面，在长期利率只有6-7%的投资环境下，如果——你应该明白这是一个巨大的假设——伯克希尔的副董事长查理·芒格和我能够实现我们长期的目标，即以每年平均15%的速度增加伯克希尔的每股内在价值，那么其市场价格就不会不合适[^1]。虽然对于这样的目标我们从不妥协，但我们必须再一次强调，随着资本规模的日益扩大，想要达到这个目标的困难度也与日俱增。
 
 What we have going for us is a growing collection of good-sized operating businesses that possess economic characteristics ranging from good to terrific, run by managers whose performance ranges from terrific to terrific. You need have no worries about this group.
 
@@ -403,7 +403,7 @@ Academics, however, like to define investment "risk" differently, averring that 
 
 For owners of a business - and that's the way we think of shareholders - the academics' definition of risk is far off the mark, so much so that it produces absurdities. For example, under beta-based theory, a stock that has dropped very sharply compared to the market - as had Washington Post when we bought it in 1973 - becomes "riskier" at the lower price than it was at the higher price. Would that description have then made any sense to someone who was offered the entire company at a vastly-reduced price?
 
-对于企业的所有权人来说，这是我们认为公司股东应该有的想法，学术界对于风险的定义实在是有点离谱，甚至于有点荒谬。举例来说，根据Beta理论，若是有一种股票的价格相对于大盘下跌的幅度更高，就像是我们在1973年买进华盛顿邮报股份时一样，那么其风险远比原来高股价时还要更高，那么要是哪天有人愿意以极低的价格把整家公司卖给你时，你是否也会认为这样的风险太高，而予以拒绝呢？
+对于企业的所有权人来说，这是我们认为公司股东应该有的想法，学术界对于风险的定义实在是有点离谱，甚至于有点荒谬。举例来说，根据Beta理论，若是有一种股票的价格相对于大盘下跌的幅度更高，就像是我们在1973年买进华盛顿邮报股份时一样，那么其风险远比原来高股价时还要更高，那么，有人以极低的价格收购了整个公司，这种做法是否还说得通呢？[^2]
 
 In fact, the true investor *welcomes* volatility. Ben Graham explained why in Chapter 8 of *The Intelligent Investor*. There he introduced "Mr. Market," an obliging fellow who shows up every day to either buy from you or sell to you, whichever you wish. The more manic-depressive this chap is, the greater the opportunities available to the investor. That's true because a wildly fluctuating market means that irrationally low prices will periodically be attached to solid businesses. It is impossible to see how the availability of such prices can be thought of as increasing the hazards for an investor who is totally free to either ignore the market or exploit its folly.
 
@@ -459,7 +459,7 @@ Beta学者所架构的理论根本就没有能力去分辨，销售宠物玩具�
 
 In many industries, of course, Charlie and I can't determine whether we are dealing with a "pet rock" or a "Barbie." We couldn't solve this problem, moreover, even if we were to spend years intensely studying those industries. Sometimes our own intellectual shortcomings would stand in the way of understanding, and in other cases the nature of the industry would be the roadblock. For example, a business that must deal with fast-moving technology is not going to lend itself to reliable evaluations of its long-term economics. Did we foresee thirty years ago what would transpire in the television-manufacturing or computer industries? Of course not. (Nor did most of the investors and corporate managers who enthusiastically entered those industries.) Why, then, should Charlie and I now think we can predict the future of other rapidly-evolving businesses? We'll stick instead with the easy cases. Why search for a needle buried in a haystack when one is sitting in plain sight?
 
-当然有许多产业，连查理或是我可能都无法判断，到底我们面对的是宠物石头还是芭比娃娃，即使我们花了许多年时间去深入研究这些产业，还是无法解决这个问题。有时是因为我们本身知识上的缺陷，阻碍了我们对事情的理解，有时则是因为产业特性成为障碍。例如，对于一家随时都必须面临技术快速变迁的公司来说，我们根本就无法对其长期的竞争力做出任何的评断，人类在三十年前，是否就能预知现在电视制造或计算机产业的演进？当然不能，就算是大部分钻研于这方面领域的投资人与企业经理人也没有办法，那么为什么查理跟我要觉得应该要有去预测其它产业快速变迁前景的能力呢？我们宁愿挑些简单一点的，一个人坐的舒舒服服就好了，为什么还要费事去捡稻草里面的针呢？
+当然有许多产业，连查理或是我可能都无法判断，到底我们面对的是宠物石头还是芭比娃娃，即使我们花了许多年时间去深入研究这些产业，还是无法解决这个问题。有时是因为我们本身知识上的缺陷，阻碍了我们对事情的理解，有时则是因为产业特性成为障碍。例如，对于一家随时都必须面临技术快速变迁的公司来说，我们根本就无法对其长期的竞争力做出任何的评断，人类在三十年前，是否就能预知现在电视制造或计算机产业的演进？当然不能，就算是大部分钻研于这方面领域的投资人与企业经理人也没有办法，那么为什么查理跟我要觉得应该要有去预测其它产业快速变迁前景的能力呢？我们宁愿挑些简单一点的，当一根针就在眼前时，为什么要在干草堆里找针呢？[^3]
 
 Of course, some investment strategies - for instance, our efforts in arbitrage over the years - require wide diversification. If significant risk exists in a single transaction, overall risk should be reduced by making that purchase one of many mutually-independent commitments. Thus, you may consciously purchase a risky investment - one that indeed has a significant possibility of causing loss or injury - if you believe that your gain, weighted for probabilities, considerably exceeds your loss, comparably weighted, and if you can commit to a number of similar, but unrelated opportunities. Most venture capitalists employ this strategy. Should you choose to pursue this course, you should adopt the outlook of the casino that owns a roulette wheel, which will want to see lots of action because it is favored by probabilities, but will refuse to accept a single, huge bet.
 
@@ -692,3 +692,28 @@ Chairman of the Board
 董事会主席
 
 March 1, 1994 
+
+
+[^1]: By 伴读小兽 @20231122
+	
+	原文：Berkshire's market price was not inappropriate if - and you should understand that this is a huge if - Charlie Munger, Berkshire's Vice Chairman, and I can attain our long-standing goal of increasing Berkshire's per-share intrinsic value at an average annual rate of 15%.
+	
+	共读版翻译：若是你能了解，查理·芒格跟本人只能让伯克希尔的内在价值每年以15%的成长的话，你就应该知道伯克希尔去年这样的股价表现实在是有点反常。
+	
+	修改为：如果——你应该明白这是一个巨大的假设——伯克希尔的副董事长查理·芒格和我能够实现我们长期的目标，即以每年平均15%的速度增加伯克希尔的每股内在价值，那么其市场价格就不会不合适。
+
+[^2]: By 伴读小兽 @20231122
+	
+	原文：Would that description have then made any sense to someone who was offered the entire company at a vastly-reduced price?
+	
+	共读版翻译：那么要是哪天有人愿意以极低的价格把整家公司卖给你时，你是否也会认为这样的风险太高，而予以拒绝呢？
+	
+	修改为：那么，有人以极低的价格收购了整个公司，这种做法是否还说得通呢？
+
+[^3]: By 伴读小兽 @20231122
+	
+	原文：Why search for a needle buried in a haystack when one is sitting in plain sight?
+	
+	共读版翻译：一个人坐的舒舒服服就好了，为什么还要费事去捡稻草里面的针呢？
+	
+	修改为：当一根针就在眼前时，为什么要在干草堆里找针呢？
