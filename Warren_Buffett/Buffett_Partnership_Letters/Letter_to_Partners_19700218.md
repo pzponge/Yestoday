@@ -64,11 +64,11 @@ Year|Overall Results From Dow (1)|Partnership Results (2)|Limited Partners’ Re
 
 (2) For 1957-61 consists of combined results of all predecessor limited partnerships operating throughout the entire year after all expenses, but before distributions to partners or allocations to the General Partner.
 
-(2) 1957-61 年的数据是之前全年管理的所有有限合伙人账户的综合业绩，其中扣除了经营费用，未计算有限合伙人利息和总合伙人分成。
+(2) 1957-61 年的数据是之前全年管理的所有有限合伙人账户的综合业绩，其中扣除了经营费用，未计算有限合伙人利息和普通合伙人分成。
 
 (3) For 1957-61 computed on the basis of the preceding column of Partnership results allowing for allocation to the General Partner based upon the present Partnership Agreement, but before monthly withdrawals by limited partners.
 
-(3) 1957-61 年的数据按前一列合伙基金收益率计算得出，按照当前合伙协议，扣除了总合伙人分成。
+(3) 1957-61 年的数据按前一列合伙基金收益率计算得出，按照当前合伙协议，扣除了普通合伙人分成。
 
 On a cumulative or compounded basis, the results are:
 
