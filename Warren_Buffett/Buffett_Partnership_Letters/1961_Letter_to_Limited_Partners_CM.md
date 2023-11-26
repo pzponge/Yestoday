@@ -230,9 +230,9 @@ I might add that in no way does the fact that our portfolio is not conventional 
 
 需要补充的是，不能因为我们的投资组合不同于传统就认为我们比标准的投资方式更为保守或激进，仅应该依据我们的投资方法和投资结果来做判断。
 
-I feel the most objective test as to just how conservative our manner of investing is arises through evaluation of performance in down markets. Preferably these should involve a substantial decline in the Dow. Our performance in the rather mild declines of 1957 and 1960 would confirm my hypothesis that we invest in an extremely conservative manner. I would welcome any partner’s suggesting objective tests as to conservatism to see how we stack up. We have never suffered a realized loss of more than 0.5% of 1% of total net assets, and our ratio of total dollars of realized gains to total realized losses is something like 100 to 1. Of course; this reflects the fact that on balance we have been operating in an up market. However, there have been many opportunities for loss transactions even in markets such as these (you may have found out about a few of these yourselves) so I think the above facts have some significance.
+I feel the most objective test as to just how conservative our manner of investing is arises through evaluation of performance in down markets. Preferably these should involve a substantial decline in the Dow. Our performance in the rather mild declines of 1957 and 1960 would confirm my hypothesis that we invest in an extremely conservative manner. I would welcome any partner’s suggesting objective tests as to conservatism to see how we stack up. We have never suffered a realized loss of more than 1/2 of 1% of total net assets, and our ratio of total dollars of realized gains to total realized losses is something like 100 to 1. Of course; this reflects the fact that on balance we have been operating in an up market. However, there have been many opportunities for loss transactions even in markets such as these (you may have found out about a few of these yourselves) so I think the above facts have some significance.
 
-我认为可以通过我们在熊市中的表现来检测我们投资方式是如何保守的。或许应该在一个大熊市中来检测。不过，在1957年和1960年相对温和的熊市中已经证明了我们投资方式的保守性。我欢迎任何合伙人用任何能客观测试保守性的方法对我们进行检测。我们从来没有哪怕是净资产万分之0.5的亏损，我们投资所得与损失比率为100比1。当然，很可能只是因为我们处在一个长牛阶段中。但是，即使在牛市，很多人也会亏损（你们或许认识一些这样的人），所以我认为上述事实已经足够清楚。
+我认为可以通过我们在熊市中的表现来检测我们投资方式是如何保守的。或许应该在一个大熊市中来检测。不过，在1957年和1960年相对温和的熊市中已经证明了我们投资方式的保守性。我欢迎任何合伙人用任何能客观测试保守性的方法对我们进行检测。我们从来没有哪怕是净资产百分之0.5的亏损，我们投资所得与损失比率为100比1。当然，很可能只是因为我们处在一个长牛阶段中。但是，即使在牛市，很多人也会亏损（你们或许认识一些这样的人），所以我认为上述事实已经足够清楚。
 
 # The Question of Size 关于规模的疑问
 
@@ -296,9 +296,9 @@ We are now installed in an office at 810 Kiewit Plaza with a first-class secreta
 
 我们现在的办公地点在810 Kiewit Plaza，我们有第一流的秘书——Beth Henley和一个有丰富经验的副手——Bill Scott。我的父亲和我们共用一间办公室（他也分担了相应的费用）。他做的是证券经纪业务，但是我们没有任何证券买卖是通过他办理的，所以我们没有任何“裙带”关系。
 
-Overall, I expect our overhead, excluding interest on borrowings and Nebraska Intangibles Tax, to run less than 0.5 of 1% of net assets. We should get our money's worth from this expenditure, and you are most cordially invited to drop in and see how the money is being spent.
+Overall, I expect our overhead, excluding interest on borrowings and Nebraska Intangibles Tax, to run less than 1/2 of 1% of net assets. We should get our money's worth from this expenditure, and you are most cordially invited to drop in and see how the money is being spent.
 
-总之，我希望我们的上头成本，扣除贷款利息和内布拉斯加无形资产税，要小于净资产的万分之0.5。我们会让这些费用物有所值，随时欢迎你们来访并了解这笔钱是如何花费的。
+总之，我希望我们的上头成本，扣除贷款利息和内布拉斯加无形资产税，要小于净资产的百分之0.5。我们会让这些费用物有所值，随时欢迎你们来访并了解这笔钱是如何花费的。
 
 With over 90 partners and probably 40 or so securities, you can understand that it is quite a welcome relief to me to shake loose from some of the details.
 
