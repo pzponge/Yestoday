@@ -26,7 +26,7 @@ Mr. Buffett’s comments to his fellow shareholders follow:
 巴菲特先生对伯克希尔的其他股东们说：
 
 * * * * * * * * * * * * 
-* 
+
 The donations itemized above repeat those made at Thanksgiving last year. They supplement certain of the *lifetime* pledges I made in 2006 and that continue until my death (at 93, I feel good but fully realize I am playing in extra innings). The 2006 pledges, available at berkshirehathaway.com, include various conditions, all of which continue to be met by the recipients. 
 
 上面所列捐赠项目与去年感恩节时的捐赠相同。延续了我在2006年时公布的那些*终身*认捐承诺，这些认捐将一直持续到我去世（93岁的我感觉良好，但我也充分意识到这是在打加时赛了）。2006年的认捐承诺可在berkshirehathaway.com网站上查阅原文[^2]，其中包括各种条件，受捐者仍需满足所有这些条件。
@@ -92,15 +92,24 @@ Marc D. Hamburg
 有任何问题，请通过402-346-1400，致电马克·D·汉伯格[^10]
 
 
-[^1]: 苏珊·汤普森·巴菲特（Susan Thompson Buffett，1932年6月15日—2004年7月29日），巴菲特第一任妻子，逝世前拥有2.2%伯克希尔公司的股票。1952年与巴菲特在奥马哈的邓迪长老会教堂结婚。育有三个孩子：苏西（Susan Alice Buffett，1953年7月30日出生）、霍华德（Howard Graham Buffett，1954年12月16日出生）和彼得（Peter Andrew Buffett，1958年5月4日出生）。这四家慈善基金的信息可见其官网：苏珊·汤普森·巴菲特基金会，https://buffettscholarships.org/；舍伍德基金会，https://sherwoodfoundation.org/；霍华德·巴菲特基金会，https://www.thehowardgbuffettfoundation.org/；诺沃基金会，2006年由Jennifer and Peter Buffett设立，笔者没有搜索到其官网。（相关数据摘自维基百科）
-[^2]: https://www.berkshirehathaway.com/donate/webdonat.html 笔者将陆续将这些文件译为中文并发布在此公众号上。
+[^1]: 苏珊·汤普森·巴菲特（Susan Thompson Buffett，1932年6月15日—2004年7月29日），巴菲特第一任妻子，逝世前拥有2.2%伯克希尔公司的股票。1952年与巴菲特在奥马哈的邓迪长老会教堂结婚。育有三个孩子：苏西（Susan Alice Buffett，1953年7月30日出生）、霍华德（Howard Graham Buffett，1954年12月16日出生）和彼得（Peter Andrew Buffett，1958年5月4日出生）。这四家慈善基金的信息可见其官网：[苏珊·汤普森·巴菲特基金会](https://buffettscholarships.org/)；[舍伍德基金会](https://sherwoodfoundation.org/)；[霍华德·巴菲特基金会](https://www.thehowardgbuffettfoundation.org/)；诺沃基金会，2006年由Jennifer and Peter Buffett设立，笔者没有搜索到其官网。（相关数据摘自维基百科）
+
+[^2]: 笔者将陆续将[这些文件](https://www.berkshirehathaway.com/donate/webdonat.html)译为中文并发布在此公众号上。
+
 [^3]: 笔者的理解是，巴老将他99%以上的财产分别捐赠给了包括比尔·盖茨基金会以及以他已故妻子和三个子女命名的慈善基金，他的三个子女分别作为各自名字命名的慈善基金的受托人，并将那些资金二次分配，捐赠给不同的慈善基金或事业。
+
 [^4]: 笔者理解的巴老的意思是，财产本身并无善恶之分，不会让人变得更善或更恶。他的选择，是保留1%以内的财富（以伯克希尔当前市值计约10-20亿美金）作为遗产留给后人以保持必要的生活水平，其余的99%以上都捐做慈善。从这份文件和之前的历史看，一大部分捐给了比尔·盖茨基金会，其余的捐给了本文中提到的四家慈善基金，三个子女作为受托人的基金得到的资金是一样的。
+
 [^5]: 巴老一直宣扬的他的“卵巢彩票理论”。他对能够生在美国而不是什么其他的贫穷国家感到幸运。
+
 [^6]: 很好奇，如果三人不一致会怎么办，巴老会在遗嘱中如何解决那样的问题。很期待巴老遗嘱最终的公开。
+
 [^7]: 笔者未来将找出这份章程并译为中文发布于本公众号。
+
 [^8]: 到那个时候，伯克希尔会像如今的大多数历史悠久的美国大公司那样，成为一家没有实际控制人的多元化公司，董事会将非常多元化，可以想见，很大可能也会出现董事席位的争夺，甚至会出现类似公司清算者那样的基金袭击伯克希尔，到时候，或许会更大程度释放伯克希尔被隐藏的价值。
+
 [^9]: 非常拭目以待伯克希尔的后续发展。看看巴老的影响力能够在他去世后维持多长时间。这是一个验证道德力量的绝佳案例。
+
 [^10]: 译者写在最后：11月22日，伯克希尔发布公告，说巴老减持了8亿多美金B类股，但SEC文件显示的是零对价。因为当时尚无其他信息，笔者也还不知道有这封信，就很奇怪这意味着什么。昨天，中文媒体出现了相关信息，才知道巴老是在感恩节之际再次履行之前的捐赠承诺，捐出了这些钱。可惜的是，在笔者认识的和不认识的人中，几乎没人相信巴老是在做善事，普遍的看法是”避税“。尤其是，这封信中明确讲出来的，这一次捐赠的所有这240万股B类股，全部捐给了巴老的已故妻子和三个子女命名的四家慈善基金。这是一种”从左口袋放到右口袋“的行为吗？是在愚弄公众吗？是为了避税吗？笔者实在是不了解美国的慈善基金运作制度，也尚无时间去搞清楚这个可能还比较复杂的问题。就先把巴老的这封信译成中文，公之于中文世界。后续，笔者将把巴老涉及慈善捐赠的相关文件一件件译成中文发布在本公众号上，让世人自己搞清楚巴老其人其事。功过是非，自有后世评说。
 	
 	”你必须首先相信有美好的事情，美好的事情才可能发生。“
