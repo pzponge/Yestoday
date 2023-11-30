@@ -641,11 +641,11 @@ This year, on May 1st, we are planning to go one better. Again, we will rely on 
 
 Our formal meeting will commence at 5:00 p.m. EDT and should finish by 5:30 p.m. Earlier, between 1:30-5:00, we will answer your questions as relayed by Becky. As always, we will have no foreknowledge as to what questions will be asked. Send your zingers to [BerkshireQuestions@cnbc.com](mailto:BerkshireQuestions@cnbc.com). Yahoo will wrap things up after 5:30.
 
-我们的正式会议将于美国东部时间下午5点开始，下午5点半结束。早些时候，在1:30-5:00之间，我们会回答由贝琪转达的问题。一如既往，我们无法预知会被问到哪些问题。请将你的生动问题发送到，[BerkshireQuestions@cnbc.com](mailto:BerkshireQuestions@cnbc.com)，雅虎直播将在5:30后结束。
+我们的正式会议将于美国东部时间下午5:00开始，下午5:30结束。在那之前的1:30-5:00之间，我们会回答由贝琪转达的问题。像往常一样，我们无法预知会被问到哪些问题。请将你的生动问题发送到 [BerkshireQuestions@cnbc.com](mailto:BerkshireQuestions@cnbc.com)。雅虎直播将在5:30后结束。
 
-And now -- drum roll, please -- a surprise. This year our meeting will be held in Los Angeles.and _Charlie will be on stage with me_ offering answers and observations throughout the 3.5-hour question period. I missed him last year and, more important, _you_ clearly missed him. Our other invaluable vice-chairmen, Ajit Jain and Greg Abel, will be with us to answer questions relating to their domains.
+And now -- drum roll, please -- a surprise. This year our meeting will be held in Los Angeles and _Charlie will be on stage with me_ offering answers and observations throughout the 3.5-hour question period. I missed him last year and, more important, _you_ clearly missed him. Our other invaluable vice-chairmen, Ajit Jain and Greg Abel, will be with us to answer questions relating to their domains.
 
-现在鼓声响起来，我有一个惊喜，今年我们的会议将在洛杉矶举行，查理将会在台上和我一起回答三个半小时的问题。去年我很想念他，更重要的是，大家更想念他。我们其他的优秀副主席，Ajit Jain和Greg Abel，也将与我们一起回答有关他们领域的问题。
+现在鼓声响起来，我有一个惊喜告诉大家，今年我们的会议将在洛杉矶举行，查理将会在台上和我一起回答三个半小时的问题。去年我很想念他，更重要的是，你们显然也很想念他。我们优秀的副主席 Ajit Jain 和 Greg Abel，也将加入我们并回答与他们相关的问题。
 
 Join us via Yahoo. Direct your really tough questions to Charlie! We will have fun, and we hope you will as well.
 
@@ -657,13 +657,13 @@ Better yet, of course, will be the day when we see you face to face. I hope and 
 
 February 27, 2021
 
-2021年2月27日
-
 Warren E. Buffett
 
-沃伦·巴菲特
-
 Chairman of the Board
+
+2021年2月27日
+
+沃伦·巴菲特
 
 董事会主席
 
