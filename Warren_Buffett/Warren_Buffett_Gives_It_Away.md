@@ -7,6 +7,8 @@
 - 翻译：Vito
 - 校对：Vito，Ponge
 
+---
+
 By Carol J. Loomis
 
 作者：卡罗尔·J·卢米斯，
