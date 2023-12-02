@@ -1,6 +1,6 @@
 原文信息：
 
-- 原文见于李录先生朋友圈，英文来自于微信群
+- 标题：Remembering my teacher Charlie Munger
 - 作者：李录
 - 发表时间：2023-11-30
 - 链接：[Statement Regarding the Passing of Charlie Munger](https://assets-global.website-files.com/5ef3c7300432b40ed865991a/656a8ceee9e7fe82b04f1156_Remember%20my%20teacher%20Charlie%20Munger%20Nov%2030%202023.pdf)
