@@ -559,9 +559,9 @@ Most institutional investors in the early 1970s, on the other hand, regarded bus
 
 在1970年代早期，大部分的机构投资者在考量买进卖出的价格时，认为与其内在价值并无太大相关性，现在看来似乎令人难以置信。然而当时他们受到知名的商学院所提出的新理论所惑：股票市场是完全有效的，因此计算企业的价值对于投资活动来说一点也不重要。我们非常感谢这些学者：在不管是桥牌、国际象棋还是选股等智力竞赛中，当对手被教导思考是白费力气时，还有什么比这更有利的？
 
-Through 1973 and 1974, WPC continued to do fine as a business, and intrinsic value grew.  Nevertheless, by yearend 1974 our WPC holding showed a loss of about 25%, with market value at $8 million against our cost of $10.6 million.  What we had thought ridiculously cheap a year earlier had become a good bit cheaper as the market, in its infinite wisdom, marked WPC stock down to well below 20 cents on the dollar of intrinsic value.[^22]
+Through 1973 and 1974, WPC continued to do fine as a business, and intrinsic value grew.  Nevertheless, by yearend 1974 our WPC holding showed a loss of about 25%, with market value at $8 million against our cost of $10.6 million.  What we had thought ridiculously cheap a year earlier had become a good bit cheaper as the market, in its infinite wisdom, marked WPC stock down to well below 20 cents on the dollar of intrinsic value.
 
-在1973~1974年间，华盛顿邮报表现依旧良好，内在价值持续增加。尽管如此，我们的持股市值却由原始成本的1060万减少25%变成800万美元，一年前我们认为便宜得离谱的东西现在变得更便宜了。仅仅一年，具有无比智慧的市场使得华盛顿邮报的股价比内在价值还要便宜20美分。
+在1973~1974年间，华盛顿邮报表现依旧良好，内在价值持续增加。尽管如此，我们的持股市值却由原始成本的1060万减少25%变成800万美元，一年前我们认为便宜得离谱的东西现在变得更便宜了。一年前我们认为便宜得离谱的东西现在变得更便宜了。仅仅一年，具有无比智慧的市场使得WPC的市值跌至内在价值的20%。
 
 You know the happy outcome.  Kay Graham, CEO of WPC, had the brains and courage to repurchase large quantities of stock for the company at those bargain prices, as well as the managerial skills necessary to dramatically increase business values.  Meanwhile, investors began to recognize the exceptional economics of the business and the stock price moved closer to underlying value.  Thus, we experienced a triple dip: the company’s business value soared upward, per-share business value increased considerably faster because of stock repurchases and, with a narrowing of the discount, the stock price outpaced the gain in per-share business value.
 
@@ -918,14 +918,6 @@ March 4, 1986
 	共读版：我们之前曾提到，过去十年来投资环境已从一个伟大企业完全不受重视转变成适当认可的环境，华盛顿邮报WPC就是一个最好的例子。
 		
 	修改为：我们此前谈到过去十年来投资环境已经发生了变化，完全不受重视的伟大企业开始得到认可，华盛顿邮报就是一个很好的例子。
-
-[^22]: By Yoan @20231016
-	
-	原文：What we had thought ridiculously cheap a year earlier had become a good bit cheaper as the market, in its infinite wisdom, marked WPC stock down to well below 20 cents on the dollar of intrinsic value.
-		
-	共读版：一年前我们认为便宜得离谱的东西现在变得更便宜了。仅仅一年，具有无比智慧的市场使得WPC的市值跌至内在价值的20%。
-		
-	修改为：一年前我们认为便宜得离谱的东西现在变得更便宜了。仅仅一年，具有无比智慧的市场使得华盛顿邮报的股价比内在价值还要便宜20美分。
 
 [^23]: By Yoan @20231016
 		
