@@ -12,8 +12,7 @@ By Carol J. Loomis
 作者：卡罗尔·J·卢米斯，《财富》杂志，2006年7月10日
 
 ---
-[](./Elements//Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png)
-
+![](../Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png)
 We were sitting in a Manhattan living room on a spring afternoon, and Warren Buffett had a Cherry Coke in his hand as usual. But this unremarkable scene was about to take a surprising turn. “Brace yourself,” Buffett warned with a grin. He then described a momentous change in his thinking. **Within months, he said, he would begin to give away his Berkshire Hathaway fortune, then and now worth well over $40 billion.** This news was indeed stunning. Buffett, 75, has for decades said his wealth would go to philanthropy but has just as steadily indicated the handoff would be made at his death. Now he was revising the timetable. "I know what I want to do,” he said, “and it makes sense to get going.” On that spring day his plan was uncertain in some of its details; today it is essentially complete. And it is typical Buffett: rational, original, breaking the mold of how extremely rich people donate money. 
 
 春日午后，我们坐在曼哈顿的一间普通客厅，沃伦·巴菲特（Warren Buffett）像往常一样手里拿着一杯樱桃可乐。但这平淡无奇的一幕即将发生惊人转折。“做好准备”，巴菲特笑着提醒道。接着，他描述了自己思想上的一个重大变化。**他说，他将在几个月内开始捐出他在伯克希尔·哈撒韦公司的财富，当时和现在的价值都超过400亿美元**。这个消息确实令人震惊。现年75岁的巴菲特几十年来一直表示，他的财富将用于慈善事业，但他同样坚定地表示，将在他去世后移交财产。现在他正在修改时间表。“我知道这意味着什么，”他说，“开始行动是有意义的。”在那个春天的日子里，他的计划在某些细节上还不那么确定；如今，它基本上成型了。这是典型的巴菲特风格：理性、原创，打破了超级富豪捐款的模式。
