@@ -9,10 +9,15 @@
 
 By Carol J. Loomis
 
-作者：卡罗尔·J·卢米斯，《财富》杂志，2006年7月10日
+作者：卡罗尔·J·卢米斯，
+
+July 10, 2006 FORTUNE 
+
+《财富》杂志，2006年7月10日
 
 ---
-![](../Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png)
+![](../Elements/Warren_Buffett_Gives_It_Away/front.png)
+
 We were sitting in a Manhattan living room on a spring afternoon, and Warren Buffett had a Cherry Coke in his hand as usual. But this unremarkable scene was about to take a surprising turn. “Brace yourself,” Buffett warned with a grin. He then described a momentous change in his thinking. **Within months, he said, he would begin to give away his Berkshire Hathaway fortune, then and now worth well over $40 billion.** This news was indeed stunning. Buffett, 75, has for decades said his wealth would go to philanthropy but has just as steadily indicated the handoff would be made at his death. Now he was revising the timetable. "I know what I want to do,” he said, “and it makes sense to get going.” On that spring day his plan was uncertain in some of its details; today it is essentially complete. And it is typical Buffett: rational, original, breaking the mold of how extremely rich people donate money. 
 
 春日午后，我们坐在曼哈顿的一间普通客厅，沃伦·巴菲特（Warren Buffett）像往常一样手里拿着一杯樱桃可乐。但这平淡无奇的一幕即将发生惊人转折。“做好准备”，巴菲特笑着提醒道。接着，他描述了自己思想上的一个重大变化。**他说，他将在几个月内开始捐出他在伯克希尔·哈撒韦公司的财富，当时和现在的价值都超过400亿美元**。这个消息确实令人震惊。现年75岁的巴菲特几十年来一直表示，他的财富将用于慈善事业，但他同样坚定地表示，将在他去世后移交财产。现在他正在修改时间表。“我知道这意味着什么，”他说，“开始行动是有意义的。”在那个春天的日子里，他的计划在某些细节上还不那么确定；如今，它基本上成型了。这是典型的巴菲特风格：理性、原创，打破了超级富豪捐款的模式。
@@ -48,6 +53,22 @@ Because the value of Buffett's gifts are tied to a future, unknowable price of B
 So that's the plan. What follows is a conversation in which Buffett explains how he moved away from his original thinking and decided to begin giving now. The questioner is yours truly, FORTUNE editor-at-large Carol Loomis. I am a longtime friend of Buffett's, a Berkshire Hathaway shareholder, and a director of the Susan Thompson Buffett Foundation.
 
 这就是巴菲特的捐赠计划。接下来的这段对话，巴菲特解释了他是如何改变最初的想法，决定从现在就开始捐赠的。提问者是《财富》杂志特约编辑卡罗尔·卢米斯。我是巴菲特的老朋友，是伯克希尔-哈撒韦公司的股东，也是苏珊·汤普森·巴菲特基金会的董事。
+
+---
+
+**What the Legends Gave 传奇人物的贡献**
+
+Their philanthropies were immense, given the small economic worlds of their time. But Buffett's contribution is miles bigger：
+
+他们的慈善事业在当时经济规模较小的情况下也是巨大的。但巴菲特的贡献更加巨大：
+
+Philanthropists</br>慈善家|Span of Giving</br>捐赠年代|Amount</br>捐赠金额|In Current Dollars</br>当前美元价值
+---|---|---|---
+Andrew Carnegie</br>安德鲁·卡内基|1902-1919|＄350 million|＄7.2 billion
+John D. Rockefeller</br>约翰·洛克菲勒|1889-1937|＄530 million|＄7.1 billion
+John D. Rockefeller Jr.</br>小约翰·洛克菲勒|1927-1960|＄475 million|$5.5 billion
+
+---
 
 **Coming from you, this plan is pretty startling. Up to now you haven't been famous for giving away money. In fact, you've been roundly criticized now and then for not giving it away. So let's cut to the obvious question: Are you ill?**
 
@@ -97,6 +118,20 @@ Certainly neither Susie nor I ever thought we should pass huge amounts of money 
 
 当然，苏茜和我都从未想过我们应该把大笔财富传给我们的孩子。我们的孩子都很棒。但我想说的是，当你的孩子无论如何都拥有了所有的优势，就他们的成长方式和受教育的机会而言，包括他们在家里学到的东西，我想说的是，倾财相授既不好也不理性。实际上，在一个渴望任人唯贤的社会，他们已经占据了巨大先机。家族财富帝国会使我们本应努力铲平的竞争环境进一步倾斜。
 
+---
+
+![](../Elements/Warren_Buffett_Gives_It_Away/THE_BUFFETTS_AT_SUN_VALLEY.png)
+
+*The Buffetts At Sun Valley in 1996: At Susie's left, in front row, is son Howard. From left in the second row are son Peter with wife Jennifer; Howards wife, Devon; and daughter Susie.*
+
+*1996 年，巴菲特一家在太阳谷：前排苏茜的左边是儿子霍华德。第二排左起分别是儿子彼得和妻子詹妮弗、霍华德的妻子德文和女儿苏茜。*
+
+*Suresh Shivdasani — Allen & Co.*
+
+*苏雷什·希夫达萨尼 - 艾伦公司*
+
+---
+
 **From the fact that you've given your kids money before to set up foundations and are planning to give them more now, I gather you don't think that kind of flooding them with money is wrong.**
 
 **从你以前把钱交给孩子们让他们设立基金会，现在又打算给他们更多钱这一情况来看，我想你不会认为给他们太多钱会是错误的。**
@@ -129,6 +164,87 @@ Compare what I'm doing with them to my situation at Berkshire, where I have tale
 how I feel about this decision about my money.
 
 与我在伯克希尔的情况相比，在那里，我选择了那些有才华和有实绩的人掌管我们的业务。他们在经营具体业务上比我做得好得多。无论你想做什么，还有什么比找一位比你更胜任的人来做更符合逻辑的呢？谁不会选择泰格·伍兹(Tiger Woods)来代替他参加一场高风险的高尔夫比赛呢？这就是我对这个关于我的捐赠决定的想法。
+
+---
+**How Buffett's Giveaway Will Work**
+
+**巴菲特的捐赠将如何运作**
+
+*Carol J. Loomis*
+
+*卡罗尔·J·卢米斯*
+
+*The mind that built the fortune also came up with a complex plan to hand it off.*
+
+*积累了那些财富的头脑也想出了一个复杂的计划，将财富拱手相让。*
+
+Warren Buffett holds only Berkshire Hathaway A stock (474,998 shares), but his gifts are to be made in Berkshire B stock, into which each A share is convertible at a ratio of 30 to 1. He will convert A shares to obtain the B shares he needs for his gifts.
+
+沃伦·巴菲特只持有伯克希尔·哈撒韦公司的 A 类股（474,998 股），但他的捐赠将以伯克希尔公司的 B 类股赠出，每股 A 类股可以按 1:30 的比例转换成 B 类股。他将通过转换A类股获得捐赠所需的 B 类股。
+
+Buffett is earmarking a set number of B shares for each of the five foundations he has chosen to receive his gifts. In 2006 he will give 5% of the designated shares to each recipient. Next year the gifts will be 5% of the residual shares, and so on for every year until either Buffett's death or until certain conditions are no longer met at the foundations. At Buffett's death, his estate will distribute, in a way not yet definite, the remaining earmarked shares.
+
+巴菲特为他选定接受捐赠的五家基金会分别指定了一定数量的B类股。2006年，他将把指定股份的 5%捐赠给每家受赠基金会。次年的捐赠将是剩余股份的5%，以后每年都如此重复，直到巴菲特去世或基金会不再满足某些受赠条件为止。巴菲特去世后，他的遗产将以某种尚未确定的方式分配剩余的指定股份。
+
+Here are the recipients and the number of B shares to be allocated to them.
+
+以下是受赠人以及分配给他们的B类股数量。
+
+**Bill & Melinda Gates Foundation: Ten Million Shares**
+
+**比尔·梅琳达·盖茨基金会：一千万股**
+
+This foundation, the largest in world, has around $30 billion of assets right now and has given away $8 billion in its 12 years of existence. Most of its money (typically funneled through partners)has gone to world health programs and to U.S. education. Buffett's gifts to this foundation will continue only as long as either Bill or Melinda Gates is alive and active in its work.
+
+该基金会是世界上最大的慈善基金，目前资产规模约300亿美元，成立12年来已经捐出了80亿美元。它的大部分资金（通常由合伙人筹集）都流向了世界卫生项目和美国教育事业。只要比尔·盖茨或梅琳达·盖茨健在并积极参与基金会的工作，巴菲特对基金会的捐赠就会一直持续下去。
+
+![](../Elements/Warren_Buffett_Gives_It_Away/Susie_Buffett.png)
+
+*Susie Buffett would have approved of Warren's revised timetable.*
+
+*苏茜·巴菲特一定会同意沃伦修订后的时间表*
+
+**Susan Thompson Buffett Foundation: One Million Shares**
+
+**苏珊·汤普森·巴菲特基金会：一百万股**
+
+Once called simply the Buffett Foundation and renamed in 2004 for Buffett's wife, who died that year, this foundation has $270 million in assets. Most of its funds came from the estate of Susan T. Buffett, and $2.1 billion more is expected from that source. This foundation has focused on reproductive health, family planning, and pro-choice causes, and on preventing the spread of nuclear weapons.
+
+该基金会曾被简称为巴菲特基金会，2004年，为了纪念在这一年去世的巴菲特的妻子而更为现名，目前资产规模2.7亿美元。其大部分资金来自苏珊·T·巴菲特的遗产，预计还将有21亿美元出自同一来源。该基金会重点关注生殖健康、计划生育、支持堕胎运动，以及防止核武器扩散。
+
+**Susan A. Buffett Foundation: 350,000 Shares**
+
+**苏珊·A·巴菲特基金会：35 万股**
+
+This philanthropy is named for and chaired by Buffett's daughter, 52, who lives in Omaha (and who has also chaired the Susan Thompson Buffett Foundation since her mother's death). The daughter's foundation, which today has $118 million in assets, has funded early education for children of low-income families. With her father's new gifts, Susan Buffett expects to continue that work and expand into public-education and foster-care grants. 
+
+该慈善机构以巴菲特52岁的女儿命名，并由她担任主席，她住在奥马哈（在母亲去世后，她还担任苏珊·汤普森·巴菲特基金会主席）。女儿的基金会目前资产规模1.18亿美元，为低收入家庭子女的早期教育提供资助。有了父亲的新捐赠，苏珊·巴菲特希望能继续这项工作，并将其扩展到公共教育和寄养补助领域。
+
+**Howard G. Buffett Foundation: 350,000 Shares**
+
+**霍华德·G·巴菲特基金会：35 万股**
+
+Now holding $129 million in assets, this foundation was set up by Buffett's older son, 51, who farms 840 acres outside Decatur, Ill., and is on several corporate boards, including Berkshire's. (His middle name, by the way, is Graham — for famed investor Ben Graham.)This foundation's giving has been very international, taking in 42 countries and often aimed at conservation goals such as the protection of African wildlife habitats. But with its new money, the foundation plans to move much more heavily into clean-water projects, food relief, the plight of children entangled in illegal immigration, and other humanitarian areas. 
+
+该基金会资产规模1.29亿美元，由巴菲特的大儿子设立，他今年51岁，在伊利诺伊州迪凯特郊外拥有840英亩的农场，是包括伯克希尔公司在内的多家公司董事会成员（顺便提一下，他的中间名是格雷厄姆，也就是著名的投资家本·格雷厄姆的名字）。该基金会的捐赠非常国际化，涉及42个国家，通常以保护为目标，如保护非洲野生动物栖息地。但有了新的资金，该基金会计划在清洁水项目、食品救济、非法移民中的困境儿童救济以及其他人道主义领域加大投入。
+
+**NoVo Foundation: 350,000 Shares**
+
+**诺沃基金会：35 万股**
+
+Named for the Latin word novo(meaning "I alter"), this foundation is run by Peter Buffett, 48, a musician and composer, and his wife, Jennifer, who live in New York City. Currently holding $120 million in assets, it has focused on funding individuals and organizations working to open up education opportunities, reverse environmental degradation, up-hold human rights, and improve understanding and respect among various cultures and ethnicities.
+
+该基金会以拉丁文novo（意为 "我改变"）命名，由48 岁的音乐家兼作曲家彼得·巴菲特和他的妻子詹妮弗管理，他们定居纽约。该基金会目前资产规模1.2亿美元，主要资助致力于开拓教育机会、扭转环境退化、维护人权以及增进不同文化和种族之间的理解和尊重的个人和组织。
+
+---
+
+![](../Elements/Warren_Buffett_Gives_It_Away/TIMES_2005_PERSONS_OF_THE_YEAR.png)
+
+*Times 2005 Persons of the Year were the Gateses and musician/humanitarian Bono. A photo caught Buffett too, because it was shot in Omaha, where Bono was appearing.*
+
+*2005 年时代杂志年度人物是盖茨夫妇和音乐家/慈善家波诺。照片中也拍到了巴菲特，因为照片是在奥马哈拍摄的，波诺当时正在那里。*
+
+---
 
 **People will be very curious, I think, as to how much your decision — and its announcement at this particular time is connected to Bill Gates' announcement in mid-June that he would phase out of his operating responsibilities at Microsoft and begin to devote most of his time to the foundation. What's the story here?**
 
@@ -190,6 +306,53 @@ And, you know, though this may surprise some people, it's a non-event for me too
 
 而且，你知道，虽然这可能会让一些人感到惊讶，但在某种程度上对我来说也不是什么大事。泰德 · 特纳（CNN创始人），我非常钦佩他的捐赠善举，曾经告诉我，在他签署一份10亿美元的捐赠承诺时，手都在抖。我却一点也没有。对我来说，（捐赠这件事）没有任何情绪上的负面影响。
 
+---
+
+**The Global Force Called The Gates Foundation**
+
+**被称为“盖茨基金会”的环球力量**
+
+*The philanthropy's impact, already immense, will be magnified by Buffett's billions.*
+
+*巴菲特的数十亿美元将放大这项慈善事业本已巨大的影响力。*
+
+It is by far the largest foundation in the world — even now, before Warren Buffett's historic gifts. And its creed is appropriately broad: "Guided by the belief that every life has equal value, the Bill Melinda Gates Foundation works to reduce inequities and improve lives around the world."
+
+这是**目前世界上规模最大**的基金会——在沃伦·巴菲特（Warren Buffett）做出历史性捐赠之前就已经是。该基金会的宗旨非常宽泛： 比尔·梅琳达·盖茨基金会秉承 "每个生命都一样珍贵"的信念，致力于减少不平等现象，改善全世界人民的生活。
+
+To further its work, the foundation currently has just over $30 billion in assets, a purse built up from Bill and Melinda Gates' gifts of $26 billion and appreciation in its broadly diversified investments(which at the moment contain no Microsoft). The $30 billion, of course, does not include the $8 billion in gifts that the foundation has made since 1994. Last year it gave $1.36 billion, and this year it expects to spend around $1.5 billion.
+
+为了推动基金会的发展，基金会目前的资产规模超300亿美元，这些资产来自比尔·盖茨和梅琳达·盖茨夫妇捐赠的260亿美元，以及基金会广泛的多元化投资（目前不包括微软公司）的增值。当然，这300亿美元并不包括基金会自1994年以来已经捐出去的80亿美元。去年，基金会捐出了13.6亿美元，今年预计将捐出约15亿美元。
+
+Now it will be Buffett and the Gateses building up the foundation together. Bill and Melinda have said that almost all their fortune will go to charity, and right now they still have an estimated net worth of $50 billion.
+
+如今，将由巴菲特和盖茨夫妇共同发展这家基金会。比尔和梅琳达曾表示，他们几乎所有的财产都将用于慈善事业，目前他们的净资产估计仍有500亿美元。
+
+![](../Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png)
+
+*In Mozambique Bill meets a small client*
+
+*在莫桑比克，比尔见到了一个小客户。*
+
+The foundation works heavily through partners(nongovernmental organizations, usually)and has focused on big causes. Its original giving was directed at providing U.S. libraries free online access — and today more than 99% are hooked up. The foundation then broadened its efforts to global health, on which it now spends around 60% of its funds. Much of that is beamed at what Bill Gates calls "the Big Three diseases": malaria, HIV/AIDS, and tuberculosis. The foundation is both pushing to discover a preventive AIDS vaccine and to deliver antiretrovirals to people already afflicted with the disease. In other areas, spending is focused on making medical "leaps" — the discovery, say, of a chemical that would block malaria-transmitting mosquitoes from smelling humans.
+
+该基金会主要通过合作伙伴（通常是非政府组织）开展工作，并专注于重大议题。基金会最初的捐赠目标是为美国图书馆提供免费在线访问——如今已有超过99%的图书馆接入了这一服务。随后，基金会将工作范围扩大到了全球健康领域，目前约有60%的资金投向该领域。其中大部分用于支持解决比尔·盖茨所说的 "三大疾病"：疟疾、艾滋病和肺结核。基金会既在努力寻找预防艾滋病的疫苗，也在为已经感染艾滋病的人提供抗逆转录病毒药物。在其他领域，基金会的支出重点是实现医学上的 "飞跃"——例如，发现一种化学物质，可以阻止传播疟疾的蚊子闻到人类的气味。
+
+The Pacific Northwest receives sizable Gates grants. The national drive, meanwhile, is riveted on improving high schools, which Bill Gates has called"obsolete."The foundation and its partners have started 900 new schools and "redesigned" 700 others. The schools effort has stuttered some as the foundation has struggled to find out what works. But CEO Patty Stonesifer says roadblocks only stiffen the foundation's resolve. "We'll be stepping up our investment here,"she says, "because providing every student a quality education is key to ensuring equality of opportunity."
+
+西北太平洋地区获得了盖茨基金会的大量赠款。与此同时，全国性的投入则集中在改善被比尔·盖茨称为"过时"的高中。基金会及其合作伙伴已经开办了900所新学校，并"重新设计"了700所其他学校。由于基金会一直在努力寻找更为行之有效的方法，学校的工作有些停滞不前。但首席执行官帕蒂·斯通西弗（Patty Stonesifer）表示，道路上的障碍只会坚定基金会的决心。"她说："我们将加大对这方面的投资，因为为每个学生提供优质教育是确保机会平等的关键。
+
+---
+
+![](../Elements/Warren_Buffett_Gives_It_Away/The_Fate_of_His_Fortune_Sealed.png)
+
+*The fate of his fortune sealed, Buffett (at Omaha headquarters) will, as usual, be focusing on the job he loves: running Berkshire Hathaway.*
+
+*他的财富终局已经确定，巴菲特（在奥马哈总部）将像往常一样，专注于他热爱的工作：经营伯克希尔哈撒韦公司。*
+
+---
+
+
 **Won't the foundations that are getting your stock need to sell it?**
 
 **获得你捐赠股票的基金会需要卖出那些股票吗?**
@@ -224,91 +387,8 @@ Remember I said that way back when I was buying Berkshire, I had less than $1 mi
 
 FEEDBACK cloomis@fortunemail.com
 
-July 10, 2006 FORTUNE 
 
 
 
 
-# HOW BUFFETT'S GIVEAWAY WILL WORK 巴菲特的捐赠将如何运作
 
-*Carol J. Loomis*
-
-*卡罗尔·J·卢米斯*
-
-***The mind that built the fortune also came up with a complex plan to hand it off.***
-
-***积累了那些财富的头脑也想出了一个复杂的计划，将财富拱手相让。***
-
-Warren Buffett holds only Berkshire Hathaway A stock (474,998 shares), but his gifts are to be made in Berkshire B stock, into which each A share is convertible at a ratio of 30 to 1. He will convert A shares to obtain the B shares he needs for his gifts.
-
-沃伦·巴菲特只持有伯克希尔·哈撒韦公司的 A 类股（474,998 股），但他的捐赠将以伯克希尔公司的 B 类股赠出，每股 A 类股可以按 1:30 的比例转换成 B 类股。他将通过转换A类股获得捐赠所需的 B 类股。
-
-Buffett is earmarking a set number of B shares for each of the five foundations he has chosen to receive his gifts. In 2006 he will give 5% of the designated shares to each recipient. Next year the gifts will be 5% of the residual shares, and so on for every year until either Buffett's death or until certain conditions are no longer met at the foundations. At Buffett's death, his estate will distribute, in a way not yet definite, the remaining earmarked shares.
-
-巴菲特为他选定接受捐赠的五家基金会分别指定了一定数量的B类股。2006年，他将把指定股份的 5%捐赠给每家受赠基金会。次年的捐赠将是剩余股份的5%，以后每年都如此重复，直到巴菲特去世或基金会不再满足某些受赠条件为止。巴菲特去世后，他的遗产将以某种尚未确定的方式分配剩余的指定股份。
-
-Here are the recipients and the number of B shares to be allocated to them.
-
-以下是受赠人以及分配给他们的B类股数量。
-
-**Bill & Melinda Gates Foundation: Ten Million Shares**
-
-**比尔·梅琳达·盖茨基金会：一千万股**
-
-This foundation, the largest in world, has around $30 billion of assets right now and has given away $8 billion in its 12 years of existence. Most of its money (typically funneled through partners)has gone to world health programs and to U.S. education. Buffett's gifts to this foundation will continue only as long as either Bill or Melinda Gates is alive and active in its work.
-
-该基金会是世界上最大的慈善基金，目前资产规模约300亿美元，成立12年来已经捐出了80亿美元。它的大部分资金（通常由合伙人筹集）都流向了世界卫生项目和美国教育事业。只要比尔·盖茨或梅琳达·盖茨健在并积极参与基金会的工作，巴菲特对基金会的捐赠就会一直持续下去。
-
-**Susan Thompson Buffett Foundation: One Million Shares**
-
-**苏珊·汤普森·巴菲特基金会：一百万股**
-
-Once called simply the Buffett Foundation and renamed in 2004 for Buffett's wife, who died that year, this foundation has $270 million in assets. Most of its funds came from the estate of Susan T. Buffett, and $2.1 billion more is expected from that source. This foundation has focused on reproductive health, family planning, and pro-choice causes, and on preventing the spread of nuclear weapons.
-
-该基金会曾被简称为巴菲特基金会，2004年，为了纪念在这一年去世的巴菲特的妻子而更为现名，目前资产规模2.7亿美元。其大部分资金来自苏珊·T·巴菲特的遗产，预计还将有21亿美元出自同一来源。该基金会重点关注生殖健康、计划生育、支持堕胎运动，以及防止核武器扩散。
-
-**Susan A. Buffett Foundation: 350,000 Shares**
-
-**苏珊·A·巴菲特基金会：35 万股**
-
-This philanthropy is named for and chaired by Buffett's daughter, 52, who lives in Omaha (and who has also chaired the Susan Thompson Buffett Foundation since her mother's death). The daughter's foundation, which today has $118 million in assets, has funded early education for children of low-income families. With her father's new gifts, Susan Buffett expects to continue that work and expand into public-education and foster-care grants. 
-
-该慈善机构以巴菲特52岁的女儿命名，并由她担任主席，她住在奥马哈（在母亲去世后，她还担任苏珊·汤普森·巴菲特基金会主席）。女儿的基金会目前资产规模1.18亿美元，为低收入家庭子女的早期教育提供资助。有了父亲的新捐赠，苏珊·巴菲特希望能继续这项工作，并将其扩展到公共教育和寄养补助领域。
-
-**Howard G. Buffett Foundation: 350,000 Shares**
-
-**霍华德·G·巴菲特基金会：35 万股**
-
-Now holding $129 million in assets, this foundation was set up by Buffett's older son, 51, who farms 840 acres outside Decatur, Ill., and is on several corporate boards, including Berkshire's. (His middle name, by the way, is Graham — for famed investor Ben Graham.)This foundation's giving has been very international, taking in 42 countries and often aimed at conservation goals such as the protection of African wildlife habitats. But with its new money, the foundation plans to move much more heavily into clean-water projects, food relief, the plight of children entangled in illegal immigration, and other humanitarian areas. 
-
-该基金会资产规模1.29亿美元，由巴菲特的大儿子设立，他今年51岁，在伊利诺伊州迪凯特郊外拥有840英亩的农场，是包括伯克希尔公司在内的多家公司董事会成员（顺便提一下，他的中间名是格雷厄姆，也就是著名的投资家本·格雷厄姆的名字）。该基金会的捐赠非常国际化，涉及42个国家，通常以保护为目标，如保护非洲野生动物栖息地。但有了新的资金，该基金会计划在清洁水项目、食品救济、非法移民中的困境儿童救济以及其他人道主义领域加大投入。
-
-**NoVo Foundation: 350,000 Shares**
-
-**诺沃基金会：35 万股**
-
-Named for the Latin word novo(meaning "I alter"), this foundation is run by Peter Buffett, 48, a musician and composer, and his wife, Jennifer, who live in New York City. Currently holding $120 million in assets, it has focused on funding individuals and organizations working to open up education opportunities, reverse environmental degradation, up-hold human rights, and improve understanding and respect among various cultures and ethnicities. -C.J.L.
-
-该基金会以拉丁文novo（意为 "我改变"）命名，由48 岁的音乐家兼作曲家彼得·巴菲特和他的妻子詹妮弗管理，他们定居纽约。该基金会目前资产规模1.2亿美元，主要资助致力于开拓教育机会、扭转环境退化、维护人权以及增进不同文化和种族之间的理解和尊重的个人和组织。-C.J.L.
-
-**THE GLOBAL FORCE CALLED THE GATES FOUNDATION**
-**被称为 "盖茨基金会 "的环球力量**
-
-**The philanthropy's impact, already immense, will be magnified by Buffett's billions.** 
-**巴菲特的数十亿美元将放大这项慈善事业本已巨大的影响力。**
-
-**IT IS BY FAR THE LARGEST** foundation in the world — even now, before Warren Buffett's historic gifts. And its creed is appropriately broad: "Guided by the belief that every life has equal value, the Bill Melinda Gates Foundation works to reduce inequities and improve lives around the world."
-这是**目前世界上规模最大**的基金会——在沃伦·巴菲特（Warren Buffett）做出历史性捐赠之前就已经是。该基金会的宗旨非常宽泛： 比尔·梅琳达·盖茨基金会秉承 "每个生命都一样珍贵"的信念，致力于减少不平等现象，改善全世界人民的生活。
-
-To further its work, the foundation currently has just over $30 billion in assets, a purse built up from Bill and Melinda Gates' gifts of $26 billion and appreciation in its broadly diversified investments(which at the moment contain no Microsoft). The $30 billion, of course, does not include the $8 billion in gifts that the foundation has made since 1994. Last year it gave $1.36 billion, and this year it expects to spend around $1.5 billion.
-为了推动基金会的发展，基金会目前的资产规模超300亿美元，这些资产来自比尔·盖茨和梅琳达·盖茨夫妇捐赠的260亿美元，以及基金会广泛的多元化投资（目前不包括微软公司）的增值。当然，这300亿美元并不包括基金会自1994年以来已经捐出去的80亿美元。去年，基金会捐出了13.6亿美元，今年预计将捐出约15亿美元。
-
-Now it will be Buffett and the Gateses building up the foundation together. Bill and Melinda have said that almost all their fortune will go to charity, and right now they still have an estimated net worth of $50 billion.
-如今，将由巴菲特和盖茨夫妇共同发展这家基金会。比尔和梅琳达曾表示，他们几乎所有的财产都将用于慈善事业，目前他们的净资产估计仍有500亿美元。
-
-The foundation works heavily through partners(nongovernmental organizations, usually)and has focused on big causes. Its original giving was directed at providing U.S. libraries free online access — and today more than 99% are hooked up. The foundation then broadened its efforts to global health, on which it now spends around 60% of its funds. Much of that is beamed at what Bill Gates calls "the Big Three diseases": malaria, HIV/AIDS, and tuberculosis. The foundation is both pushing to discover a preventive AIDS vaccine and to deliver antiretrovirals to people already afflicted with the disease. In other areas, spending is focused on making medical "leaps" — the discovery, say, of a chemical that would block malaria-transmitting mosquitoes from smelling humans.
-该基金会主要通过合作伙伴（通常是非政府组织）开展工作，并专注于重大议题。基金会最初的捐赠目标是为美国图书馆提供免费在线访问——如今已有超过99%的图书馆接入了这一服务。随后，基金会将工作范围扩大到了全球健康领域，目前约有60%的资金投向该领域。其中大部分用于支持解决比尔·盖茨所说的 "三大疾病"：疟疾、艾滋病和肺结核。基金会既在努力寻找预防艾滋病的疫苗，也在为已经感染艾滋病的人提供抗逆转录病毒药物。在其他领域，基金会的支出重点是实现医学上的 "飞跃"——例如，发现一种化学物质，可以阻止传播疟疾的蚊子闻到人类的气味。
-
-The Pacific Northwest receives sizable Gates grants. The national drive, meanwhile, is riveted on improving high schools, which Bill Gates has called"obsolete."The foundation and its partners have started 900 new schools and "redesigned" 700 others. The schools effort has stuttered some as the foundation has struggled to find out what works. But CEO Patty Stonesifer says roadblocks only stiffen the foundation's resolve. "We'll be stepping up our investment here,"she says, "because providing every student a quality education is key to ensuring equality of opportunity."
-
-西北太平洋地区获得了盖茨基金会的大量赠款。与此同时，全国性的投入则集中在改善被比尔·盖茨称为"过时"的高中。基金会及其合作伙伴已经开办了900所新学校，并"重新设计"了700所其他学校。由于基金会一直在努力寻找更为行之有效的方法，学校的工作有些停滞不前。但首席执行官帕蒂·斯通西弗（Patty Stonesifer）表示，道路上的障碍只会坚定基金会的决心。"她说："我们将加大对这方面的投资，因为为每个学生提供优质教育是确保机会平等的关键。
