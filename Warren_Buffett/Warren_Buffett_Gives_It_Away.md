@@ -56,6 +56,8 @@ So that's the plan. What follows is a conversation in which Buffett explains how
 
 这就是巴菲特的捐赠计划。接下来的这段对话，巴菲特解释了他是如何改变最初的想法，决定从现在就开始捐赠的。提问者是《财富》杂志特约编辑卡罗尔·卢米斯。我是巴菲特的老朋友，是伯克希尔-哈撒韦公司的股东，也是苏珊·汤普森·巴菲特基金会的董事。
 
+（译者注：下面为文中插入的补充资料）
+
 ---
 
 **What the Legends Gave 传奇人物的贡献**
@@ -71,6 +73,8 @@ John D. Rockefeller</br>约翰·洛克菲勒|1889-1937|＄530 million|＄7.1 bil
 John D. Rockefeller Jr.</br>小约翰·洛克菲勒|1927-1960|＄475 million|$5.5 billion
 
 ---
+
+（译者注：接补充资料前正文）
 
 **Coming from you, this plan is pretty startling. Up to now you haven't been famous for giving away money. In fact, you've been roundly criticized now and then for not giving it away. So let's cut to the obvious question: Are you ill?**
 
@@ -167,7 +171,10 @@ how I feel about this decision about my money.
 
 与我在伯克希尔的情况相比，在那里，我选择了那些有才华和有实绩的人掌管我们的业务。他们在经营具体业务上比我做得好得多。无论你想做什么，还有什么比找一位比你更胜任的人来做更符合逻辑的呢？谁不会选择泰格·伍兹(Tiger Woods)来代替他参加一场高风险的高尔夫比赛呢？这就是我对这个关于我的捐赠决定的想法。
 
+（译者注：下面为文中插入的补充资料）
+
 ---
+
 **How Buffett's Giveaway Will Work**
 
 **巴菲特的捐赠将如何运作**
@@ -248,6 +255,8 @@ Named for the Latin word novo(meaning "I alter"), this foundation is run by Pete
 
 ---
 
+（译者注：接补充资料前正文）
+
 **People will be very curious, I think, as to how much your decision — and its announcement at this particular time is connected to Bill Gates' announcement in mid-June that he would phase out of his operating responsibilities at Microsoft and begin to devote most of his time to the foundation. What's the story here?**
 
 **我想，人们会非常好奇，你的决定——以及为什么在这一时间宣布这个决定——与比尔·盖茨在6月中旬宣布他将逐步退出他在微软的经营职责，并将他的大部分时间投入到基金会有多大的联系。这里边有什么故事吗?**
@@ -308,6 +317,8 @@ And, you know, though this may surprise some people, it's a non-event for me too
 
 而且，你知道，虽然这可能会让一些人感到惊讶，但在某种程度上对我来说也不是什么大事。泰德 · 特纳（CNN创始人），我非常钦佩他的捐赠善举，曾经告诉我，在他签署一份10亿美元的捐赠承诺时，手都在抖。我却一点也没有。对我来说，（捐赠这件事）没有任何情绪上的负面影响。
 
+（译者注：下面为文中插入的补充资料）
+
 ---
 
 **The Global Force Called The Gates Foundation**
@@ -354,6 +365,7 @@ The Pacific Northwest receives sizable Gates grants. The national drive, meanwhi
 
 ---
 
+（译者注：接补充资料前正文）
 
 **Won't the foundations that are getting your stock need to sell it?**
 
