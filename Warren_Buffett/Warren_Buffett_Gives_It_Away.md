@@ -12,6 +12,7 @@ By Carol J. Loomis
 作者：卡罗尔·J·卢米斯，《财富》杂志，2006年7月10日
 
 ---
+[](./Elements//Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png)
 
 We were sitting in a Manhattan living room on a spring afternoon, and Warren Buffett had a Cherry Coke in his hand as usual. But this unremarkable scene was about to take a surprising turn. “Brace yourself,” Buffett warned with a grin. He then described a momentous change in his thinking. **Within months, he said, he would begin to give away his Berkshire Hathaway fortune, then and now worth well over $40 billion.** This news was indeed stunning. Buffett, 75, has for decades said his wealth would go to philanthropy but has just as steadily indicated the handoff would be made at his death. Now he was revising the timetable. "I know what I want to do,” he said, “and it makes sense to get going.” On that spring day his plan was uncertain in some of its details; today it is essentially complete. And it is typical Buffett: rational, original, breaking the mold of how extremely rich people donate money. 
 
