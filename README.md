@@ -40,7 +40,9 @@
 [沃伦·巴菲特崇拜](./Warren_Buffett/The_Cult_of_Warren_Buffett.md)|Gary Mishuris|双语|Ponge|Ponge
 [新狗难教旧把戏：巴菲特 1988 年与亚当·斯密访谈](./Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md)|Kingswell|双语|DeepL|Terrellchen
 [塔克商学院 2004-2005 访问巴菲特实录](./Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)|佚名|双语|DeepL|Terrellchen、Ponge
+[沃伦 · 巴菲特捐出自己的财富](./Warren_Buffett/Warren_Buffett_Gives_It_Away.md)|Carol J. Loomis|双语|Vito|Vito
 [2023 年 11 月 21 日巴菲特捐赠公告](./Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md)|Berkshire Hathaway|双语|Vito|Vito
+
 
 ## 1.1. 致巴菲特合伙基金持有人信
 
@@ -172,10 +174,10 @@
 
 # 4\. 李录
 
-标题|作者|语言|整理
----|---|---|---
-[2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)|李录|中文|Ponge
-
+标题|作者|语言|翻译|整合
+---|---|---|---|---
+[2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)|李录|中文||Ponge
+[追念恩师](./Li_Lu/Remembering_my_teacher_Charlie_Munger.md)|李录|双语|Ponge|Ponge
 
 # 5\. Nick Sleep
 
