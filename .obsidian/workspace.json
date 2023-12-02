@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "贡献说明.md",
-                "mode": "preview",
+                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "贡献说明.md",
+                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "贡献说明.md",
+                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "贡献说明.md"
+                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md"
               }
             }
           }
@@ -148,9 +148,18 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Elements/Warren_Buffett_Gives_It_Away/The_Fate_of_His_Fortune_Sealed.png",
+    "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png",
+    "Elements/Warren_Buffett_Gives_It_Away/TIMES_2005_PERSONS_OF_THE_YEAR.png",
+    "Elements/Warren_Buffett_Gives_It_Away/Susie_Buffett.png",
+    "Elements/Warren_Buffett_Gives_It_Away/THE_BUFFETTS_AT_SUN_VALLEY.png",
+    "Elements/Warren_Buffett_Gives_It_Away/front.png",
+    "Elements/Warren_Buffett_Gives_It_Away",
+    "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
+    "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
+    "贡献说明.md",
     "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
-    "贡献说明.md",
     "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
     "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
@@ -170,7 +179,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders1.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders_.md",
-    "Warren_Buffett/1986_Letter_to_Berkshire_Shareholders.md"
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders_.md"
   ]
 }
