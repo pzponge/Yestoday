@@ -85,13 +85,14 @@ As we look at the major acquisitions that others made during 1982, our reaction 
 
 (去年你们的董事长也曾数度离开那个房间，且差点在那场闹剧成为主角，回想起来，这一年的主要成就是，我们曾坚定承诺的一笔巨额并购由于完全无法控制的原因流产了。如果交易成功，这笔交易将耗费大量的时间精力，但所有工作可能只是为了获得一些虚无缥缈的回报。如果我们要在这份报告中引入图表，描绘过去一年令人欣喜的业务进展，那么两页空白将是这桩交易最合适的插图。)
 
-Our partial-ownership approach can be continued soundly only as long as portions of attractive businesses can be acquired at attractive prices.  We need a moderately-priced stock market to assist us in this endeavor.  The market, like the Lord, helps those who help themselves.  But, unlike the Lord, the market does not forgive those who know not what they do.  For the investor, a too-high purchase price for the stock of an excellent company can undo the effects of a subsequent decade of favorable business developments.
+Our partial-ownership approach can be continued soundly only as long as portions of attractive businesses can be acquired at attractive prices.  We need a moderately-priced stock market to assist us in this endeavor. The market, like the Lord, helps those who help themselves.  But, unlike the Lord, the market does not forgive those who know not what they do.  For the investor, a too-high purchase price for the stock of an excellent company can undo the effects of a subsequent decade of favorable business developments.
 
-只有以诱人的价格买到吸引人的生意，我们的部分所有权方法才能稳健地继续下去。同时还需要一个温和的股市配合，而市场先生就像上帝一样，帮助那些自助的人，但与上帝不同的是，市场先生不会原谅那些不知道自己在做什么的人。对投资人来说，即使是一家十分优秀公司的股票，过高的买入价格可能会抵消随后十年的业务靓丽成长。
+只有以诱人的价格买到吸引人的生意，我们的部分所有权方法才能稳健地继续下去。我们需要一个价格适中的股票市场来帮助我们实现这一目标[^6]，而市场先生就像上帝一样，帮助那些自助的人，但与上帝不同的是，市场先生不会原谅那些不知道自己在做什么的人。对投资人来说，即使是一家十分优秀公司的股票，过高的买入价格可能会抵消随后十年的业务靓丽成长。
 
-Should the stock market advance to considerably higher levels, our ability to utilize capital effectively in partial-ownership positions will be reduced or eliminated.  This will happen periodically: just ten years ago, at the height of the two-tier market mania (with high-return-on-equity businesses bid to the sky by institutional investors), Berkshire’s insurance subsidiaries owned only $18 million in market value of equities, excluding their interest in Blue Chip Stamps.  At that time, such equity holdings amounted to about 15% of our insurance company investments versus the present 80%.  There were as many good businesses around in 1972 as in 1982, but the prices the stock market placed upon those businesses in 1972 looked absurd.  While high stock prices in the future would make our performance look good temporarily, they would hurt our long-term business prospects rather than help them.  We currently are seeing early traces of this problem.
 
-当股市上涨到相当高的水平，将使我们有效地运用资金买进部分优质股权的能力大打折扣或甚至完全消失。这种情形会周期性的出现：就在十年前，当股市在两级市场到达狂热的顶峰时，高股东权益报酬股票被机构投资人捧上天际，伯克希尔的保险子公司(不包括在蓝筹印花部分)仅仅持有 1800 万市值的股票，当时，此类股权投资仅占我们保险公司投资仓位的 15% 左右，而目前为 80% 。虽然 1972 年的好企业和 1982 年一样多，但 1972 年的股价实在离谱。虽然股价高涨对公司短期的表现有所助益，但会严重损害我们业务的长期前景，而目前我们已观察到一些早期迹象。
+Should the stock market advance to considerably higher levels, our ability to utilize capital effectively in partial-ownership positions will be reduced or eliminated. This will happen periodically: just ten years ago, at the height of the two-tier market mania (with high-return-on-equity businesses bid to the sky by institutional investors), Berkshire’s insurance subsidiaries owned only $18 million in market value of equities, excluding their interest in Blue Chip Stamps.  At that time, such equity holdings amounted to about 15% of our insurance company investments versus the present 80%. There were as many good businesses around in 1972 as in 1982, but the prices the stock market placed upon those businesses in 1972 looked absurd. While high stock prices in the future would make our performance look good temporarily, they would hurt our long-term business prospects rather than help them.  We currently are seeing early traces of this problem.
+
+如果股市大幅走高，我们可以以较低价格在市场上获得公司部分股权的优势就会减弱或丧失[^7]。这种情形会周期性的出现：就在十年前，当股市在两级市场到达狂热的顶峰时，高股东权益报酬股票被机构投资人捧上天际，伯克希尔的保险子公司(不包括在蓝筹印花部分)仅仅持有 1800 万市值的股票，当时，此类股权投资仅占我们保险公司投资仓位的 15% 左右，而目前为 80% 。1972 年和 1982 年一样，也有很多优秀的企业，但 1972 年股票市场对这些企业的定价看起来却很荒谬[^8]。虽然股价高涨对公司短期的表现有所助益，但会严重损害我们业务的长期前景，而目前我们已观察到一些早期迹象。
 
 # Long-Term Corporate Performance 长期的公司业绩
 
@@ -105,7 +106,7 @@ During the 18-year tenure of present management, book value has grown from $19.4
 
 Berkshire’s economic goal remains to produce a long-term rate of return well above the return achieved by the average large American corporation.  Our willingness to purchase either partial or total ownership positions in favorably-situated businesses, coupled with reasonable discipline about the prices we are willing to pay, should give us a good chance of achieving our goal.
 
-伯克希尔的经济目标仍然是希望获得高于一般美国大型企业的长期回报率，我们的期望是以合理的价格购买部分或整个具竞争力企业的所有权，这将有助于我们达成上述目标。
+伯克希尔的经济目标仍然是希望获得高于一般美国大型企业的长期回报率，我们愿意购买有利（有竞争力）的企业的部分或全部所有权，再加上我们乐意支付的价格的约束，应该会有很好的机会实现这一目标。[^9]
 
 Again this year the gain in market valuation of partially-owned businesses outpaced the gain in underlying economic value of those businesses.  For example, $79 million of our $208 million gain is attributable to an increased market price for GEICO.  This company continues to do exceptionally well, and we are more impressed than ever by the strength of GEICO’s basic business idea and by the management skills of Jack Byrne. (Although not found in the catechism of the better business schools, “Let Jack Do It” works fine as a corporate creed for us.)
 
@@ -565,3 +566,37 @@ Chairman of the Board
 	肖良版：未译 
 	
 	增加有道机译：在本报告的第 45-61 页，我们复制了蓝筹公司和韦斯科公司首席执行官的叙述性报告，他们在报告中描述了 1982 年的运营情况。任何一家公司的完整年度报告副本都将邮寄给伯克希尔股东，请 Robert H. Bird 先生(Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040)或 Jeanne Leach 夫人(Wesco Financial Corporation, 315 East Colorado Boulevard, Pasadena, California 91109)索取。
+
+
+[^6]: By 纪璐 @20231203
+	
+	原文：We need a moderately-priced stock market to assist us in this endeavor.
+	
+	共读版：同时还需要一个温和的股市配合，
+	
+	修改为：我们需要一个价格适中的股票市场来帮助我们实现这一目标
+
+[^7]: By Ponge @20231204
+	
+	原文：Should the stock market advance to considerably higher levels, our ability to utilize capital effectively in partial-ownership positions will be reduced or eliminated.
+	
+	共读版：当股市上涨到相当高的水平，将使我们有效地运用资金买进部分优质股权的能力大打折扣或甚至完全消失
+	
+	修改为：如果股市大幅走高，我们可以以较低价格在市场上获得公司部分股权的优势就会减弱或丧失。
+
+[^8]: By 纪璐 @20231203
+	
+	原文：There were as many good businesses around in 1972 as in 1982, but the prices the stock market placed upon those businesses in 1972 looked absurd.
+	
+	共读版：虽然 1972 年的好企业和 1982 年一样多，但 1972 年的股价实在离谱
+	
+	修改为：1972 年和 1982 年一样，也有很多优秀的企业，但 1972 年股票市场对这些企业的定价看起来却很荒谬。
+
+
+[^9]: By 纪璐 @20231203
+	
+	原文：Our willingness to purchase either partial or total ownership positions in favorably-situated businesses, coupled with reasonable discipline about the prices we are willing to pay, should give us a good chance of achieving our goal.
+	
+	共读版：我们的期望是以合理的价格购买部分或整个具竞争力企业的所有权，这将有助于我们达成上述目标。
+	
+	修改为：我们愿意购买有利（有竞争力）的企业的部分或全部所有权，再加上我们乐意支付的价格的约束，应该会有很好的机会实现这一目标。
