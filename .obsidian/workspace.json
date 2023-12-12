@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Charles_Munger/Acquired_Interviews.md",
     "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+    "README.md",
+    "Charles_Munger/Acquired_Interviews.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
     "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
-    "README.md",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
     "Li_Lu/Remembering_my_teacher_Charlie_Munger.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1968_Letter_to_Berkshire_Shareholders.md",
