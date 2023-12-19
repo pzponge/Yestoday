@@ -46,7 +46,7 @@ The primary test of managerial economic performance is the achievement of a high
 
 In measuring long term economic performance - in contrast to yearly performance - we believe it is appropriate to recognize fully any realized capital gains or losses as well as extraordinary items, and also to utilize financial statements presenting equity securities at market value. Such capital gains or losses, either realized or unrealized, are fully as important to shareholders over a period of years as earnings realized in a more routine manner through operations; it is just that their impact is often extremely capricious in the short run, a characteristic that makes them inappropriate as an indicator of single year managerial performance.
 
-在衡量长期业绩时，与年度业绩相反，我们认为，应当确认所有已实现的资本损益和非经常性损益，在财务报表上以市场价列示证券投资的价值。长期而言，对于股东来说，这类资本损益(无论是否已经实现)会变得和日常经营慢慢积累的利润同等重要。只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们适合作为评估年度管理表现的指标。
+在衡量长期业绩时，与年度业绩相反，我们认为，应当确认所有已实现的资本损益和非经常性损益，在财务报表上以市场价列示证券投资的价值。长期而言，对于股东来说，这类资本损益(无论是否已经实现)会变得和日常经营慢慢积累的利润同等重要。只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们不适合作为评估单年度管理表现的指标。[^3]
 
 The book value per share of Berkshire Hathaway on September 30, 1964 (the fiscal yearend prior to the time that your present management assumed responsibility) was $19.46 per share. At yearend 1979, book value with equity holdings carried at market value was $335.85 per share. The gain in book value comes to 20.5% compounded annually. This figure, of course, is far higher than any average of our yearly operating earnings calculations, and reflects the importance of capital appreciation of insurance equity investments in determining the overall results for our shareholders. It probably also is fair to say that the quoted book value in 1964 somewhat overstated the intrinsic value of the enterprise, since the assets owned at that time on either a going concern basis or a liquidating value basis were not worth 100 cents on the dollar. (The liabilities were solid, however.)
 
@@ -386,3 +386,11 @@ March 3, 1980
 	芒格书院共读群友：虽然半睡半醒，比起熟睡要好得多，但却不能保证你不会被熊吃掉。
 	
 	比较下来，改为张志雄版：虽然其他人都在沉睡，但半梦半醒状态下的你依然无法为自己提供足够的保护。
+
+[^3]: By 雪球网友@日常30 @20231219
+	
+	原文：it is just that their impact is often extremely capricious in the short run, a characteristic that makes them inappropriate as an indicator of single year managerial performance.
+	
+	芒格书院共读群友：只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们适合作为评估年度管理表现的指标。
+	
+	修改为：只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们不适合作为评估单年度管理表现的指标。
