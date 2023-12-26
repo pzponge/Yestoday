@@ -449,9 +449,9 @@ If you want to go into the business like restaurants, most people fail, small pe
 
 查理：航空公司就像某人建了座大酒店，它就那样呆在那里，只能从入住中获得一些增量收入。如果有人入住和员工工作，总比让它空着要好。这几乎是在强迫非理性的激烈竞争。而在谷物食品行业，就不会有这样的情况。
 
-**John:** \[00:26:19\] **The NSF was one of the biggest acquisitions you guys did. And my sense from the outside is that it's maybe even been more successful than you would have expected. Is that accurate? Or did you expect it to be this successful?**
+**John:** \[00:26:19\] **The BNSF[^1] was one of the biggest acquisitions you guys did. And my sense from the outside is that it's maybe even been more successful than you would have expected. Is that accurate? Or did you expect it to be this successful?**
 
-约翰：NSF（Norfolk Southern）是你们进行的最大的收购之一。我从外部的感觉是，它甚至比你们预期的还要成功。这准确吗？还是你预料到它会这么成功？
+约翰：BNSF 是你们进行的最大的收购之一。我从外部的感觉是，它甚至比你们预期的还要成功。这准确吗？还是你预料到它会这么成功？
 
 **Charlie:** \[00:26:31\] The railroads were a lousy investment. There were a few people when they were first created that basically stole all the money by milking the government, bribing legislators and doing all kinds of terrible stuff. But by and large, most railroads are lousy investors, like the airlines for a long time. And finally, it got down after years of fighting unions and consolidations, so you get down to a few big systems.
 
@@ -1716,3 +1716,8 @@ By the way, that's the way the Chinese got -- when 1 man in 6 in China was addic
 **Charlie:** \[01:38:20\] I'm glad to do it.
 
 查理：我很荣幸。
+
+
+[^1]: 20231226 更正：这里英文原文是 NSF，经胡维考证，应该是英文标注错误。之前被翻译为 NSF （Norfolk Southern），已按照 BNSF 进行了调整。
+	
+	胡维：我去看了一下，根据文中的意思，确实应该是 BNSF（伯克希尔旗下铁路业务），而不是 Norfolk Southern ，后者就算缩写也是 NFS ，而不 NSF。 Norfolk Southern 是单独上市的诺福克南方铁路公司，股票代码 NSC。
