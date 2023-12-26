@@ -243,7 +243,7 @@ For the last few years our insurance companies have not been a net purchaser of 
 
 However, the mild degree of caution that we exercised was an improper response to the world unfolding about us. You do not adequately protect yourself by being half awake while others are sleeping.[^2] It was a mistake to buy fifteen-year bonds, and yet we did; we made an even more serious mistake in not selling them (at losses, if necessary) when our present views began to crystallize. (Naturally, those views are much clearer and definite in retrospect; it would be fair for you to ask why we weren’t writing about this subject last year.)
 
-然而，虽然较之同业我们稍具警觉心，却仍是不够的。"虽然其他人都在沉睡，但半梦半醒状态下的你依然无法为自己提供足够的保护[^2]。"若说买进四十年期的债券是个大错，那么投资十五年期的也好不到那里去，很遗憾的是，我们属于后者，更惨的是，我们未能适时地忍痛卖掉，而眼睁睁的看着它们的价值日益缩水。(当然，事后回想起来，会觉得真是笨得可以，而或许你会认为要是去年我就看透这点就好了)。
+然而，虽然较之同业我们稍具警觉心，却仍是不够的。"虽然其他人都在沉睡，但半梦半醒状态下的你依然无法为自己提供足够的保护[^2]。"购买 15 年期债券是一个错误，这个错误我们犯了，更严重的是在我们现在的观点已经明确的情况下，我们没有卖出他们（即便是亏损价位）。（当然，在事后看来，这些观点更加清晰和明确；你也有权质询我们为什么去年没有提及这个话题。）[^4]
 
 Of course, we must hold significant amounts of bonds or other fixed dollar obligations in conjunction with our insurance operations. In the last several years our net fixed dollar commitments have been limited to the purchase of convertible bonds. We believe that the conversion options obtained, in effect, give that portion of the bond portfolio a far shorter average life than implied by the maturity terms of the issues (i.e., at an appropriate time of our choosing, we can terminate the bond contract by conversion into stock).
 
@@ -394,3 +394,13 @@ March 3, 1980
 	芒格书院共读群友：只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们适合作为评估年度管理表现的指标。
 	
 	修改为：只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们不适合作为评估单年度管理表现的指标。
+
+
+[^4]: By 雪球网友@日常30 @20231226
+	
+	原文：It was a mistake to buy fifteen-year bonds, and yet we did; we made an even more serious mistake in not selling them (at losses, if necessary) when our present views began to crystallize. (Naturally, those views are much clearer and definite in retrospect; it would be fair for you to ask why we weren’t writing about this subject last year.)
+	
+	共读版：若说买进四十年期的债券是个大错，那么投资十五年期的也好不到那里去，很遗憾的是，我们属于后者，更惨的是，我们未能适时地忍痛卖掉，而眼睁睁的看着它们的价值日益缩水。(当然，事后回想起来，会觉得真是笨得可以，而或许你会认为要是去年我就看透这点就好了)。
+	
+	修改为：购买 15 年期债券是一个错误，这个错误我们犯了，更严重的是在我们现在的观点已经明确的情况下，我们没有卖出他们（即便是亏损价位）。（当然，在事后看来，这些观点更加清晰和明确；你也有权质询我们为什么去年没有提及这个话题。）
+
