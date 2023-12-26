@@ -123,7 +123,7 @@ His book began, therefore, with a confession: "These studies are the record of a
 
 For the crux of Smith's insight, I will quote an early reviewer of his book, none other than John Maynard Keynes: "I have kept until last what is perhaps Mr. Smith's most important, and is certainly his most novel, point. Well-managed industrial companies do not, as a rule, distribute to the shareholders the whole of their earned profits. In good years, if not in all years, they retain a part of their profits and put them back into the business. Thus *there is an element of compound interest* (Keynes' italics) operating in favour of a sound industrial investment. Over a period of years, the real value of the property of a sound industrial is increasing at compound interest, quite apart from the dividends paid out to the shareholders."
 
-关于史密斯洞见的核心，我将引述一位他著作的早期评论家的话，不是别人，证实约翰·梅纳德·凯恩斯(John Maynard Keynes)："我一直读完全书，才大致搞清楚了史密斯先生最新奇的，当然也是最重要的观点到底是什么。一般来说，管理良好的工业企业通常不会将其赚取的所有收益都派发给股东。哪怕不是所有年景，至少在好年景，这些企业都会保留部分收益，并将其重新投入到自身业务中去。因此，留存收益有助于一个完备工业企业再投资创造出一个复利运营模式。多年来，除了向股东支付的股息之外，一个完备工业企业资产的真实价值正在以复利的方式增长。"
+关于史密斯洞见的核心，我将引述一位他著作的早期评论家的话，不是别人，正是约翰·梅纳德·凯恩斯(John Maynard Keynes)："我一直读完全书，才大致搞清楚了史密斯先生最新奇的，当然也是最重要的观点到底是什么。一般来说，管理良好的工业企业通常不会将其赚取的所有收益都派发给股东。哪怕不是所有年景，至少在好年景，这些企业都会保留部分收益，并将其重新投入到自身业务中去。因此，留存收益有助于一个完备工业企业再投资创造出一个复利运营模式。多年来，除了向股东支付的股息之外，一个完备工业企业资产的真实价值正在以复利的方式增长。"
 
 And with that sprinkling of holy water, Smith was no longer obscure.
 

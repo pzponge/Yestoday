@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
-                "mode": "preview",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md",
     "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
+    "Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md",
     "README.md",
