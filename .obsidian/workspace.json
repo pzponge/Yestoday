@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md",
     "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md",
@@ -179,7 +180,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
     "Charles_Munger/Charlie Munger Quotes on Investing and Life.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md"
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md"
   ]
 }

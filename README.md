@@ -149,7 +149,7 @@
 [2018 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md)|2019-02-23|双语|芒格书院共读群友
 [2019 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md)|2020-02-22|双语|芒格书院共读群友
 [2020 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md)|2021-02-27|双语|上角里
-[2021 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md)|2021-02-27|双语|上角里
+[2021 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md)|2022-02-26|双语|上角里
 [2022 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md)|2023-02-25|双语|坚信价值
 
 # 2\. Charles T. Munger
