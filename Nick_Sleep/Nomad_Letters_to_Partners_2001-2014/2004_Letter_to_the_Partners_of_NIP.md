@@ -394,7 +394,7 @@ State Street Corp|2.7%
 Capital Guardian Trust|2.3%
 Vanguard Group|2.2%
 
-![](.Elements/Nick_Sleep/COST_Price_History.png)
+![](../../Elements/Nick_Sleep/COST_Price_History.png)
 
 **The Bottom Line**
 
@@ -410,7 +410,7 @@ Sources: Company reports, other publicly available information
 
 ### Privileges of Membership 好市多会员权益
 
-![](.Elements/Nick_Sleep/Costco_Membership.png)
+![](../../Elements/Nick_Sleep/Costco_Membership.png)
 
 Costco’s membership-only model helps foster a unique relationship with its customers. People shop there because it’s Costco, not because it stocks Pepsi or Pampers. As Costco has raised its basic annual membership fee over time, to $45 currently, membership renewal rates have barely budged from an enviable 86%.
 
