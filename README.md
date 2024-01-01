@@ -190,6 +190,8 @@
 序言（Preamble）|双语|[Ponge](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
 基金清盘时写给巴菲特的信及回复|双语|[DeepL](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
 2001 年致合伙人的信|双语|[DeepL](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
+2004 年致合伙人的信|双语|[Terrellchen](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md)
+
 
 # 6\. Monish Pabrai
 
