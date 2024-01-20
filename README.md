@@ -152,6 +152,12 @@
 [2021 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md)|2022-02-26|双语|上角里
 [2022 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md)|2023-02-25|双语|坚信价值
 
+## 1.3. 伯克希尔哈撒韦股东大会
+
+标题|原文发表时间|语言|翻译版本
+---|---|---|---
+[1994 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md)|1994-04-25|双语|一朵喵
+
 # 2\. Charles T. Munger
 
 标题|作者|语言|翻译
