@@ -297,13 +297,13 @@ Our news hole policy costs us significant extra money for newsprint.  As a resu
 
 我们的新闻政策耗费了我们大量额外的新闻纸费用。因此我们的新闻成本(新闻纸成本加上新闻编辑部门的工资和日常开支)占总收入的百分比高于类似规模的大多数报纸。即便如此，我们的报纸或其他占主导地位的报纸都有足够的利润空间来维持这些成本：在同等规模的报纸上，新闻成本高低之间的差异可能达到3%，但税前利润率往往是这一数字的十倍。
 
-The economics of a dominant newspaper are excellent, among the very best in the business world.  Owners, naturally, would like to believe that their wonderful profitability is achieved only because they unfailingly turn out a wonderful product.  That comfortable theory wilts before an uncomfortable fact.  While first-class newspapers make excellent profits, the profits of third-rate papers are as good or better - as long as either class of paper is dominant within its community.  Of course, product quality may have been crucial to the paper in achieving dominance.  We believe this was the case at the News, in very large part because of people such as Alfred Kirchhofer who preceded us.
+The economics of a dominant newspaper are excellent, among the very best in the business world. Owners, naturally, would like to believe that their wonderful profitability is achieved only because they unfailingly turn out a wonderful product. That comfortable theory wilts before an uncomfortable fact. While first-class newspapers make excellent profits, the profits of third-rate papers are as good or better - as long as either class of paper is dominant within its community.  Of course, product quality may have been crucial to the paper in achieving dominance.  We believe this was the case at the News, in very large part because of people such as Alfred Kirchhofer who preceded us.
 
-一家占主导地位的报纸的经济效益极为出色，在整个商业界都名列前茅。老板通常相信他们出色的盈利能力是源于努力地推出最好的产品，但是这种令人舒服的理论却被无法令人舒服的事实打破，当一流的报纸维持高获利时，三流报纸所赚得的钱却一点也不逊色，有时甚至更多，只要该报纸能在当地占据主导地位，当然产品的品质对于一家报纸提高市场占有率极为关键，而我们相信在布法罗晚报也是如此，而且有Alfred Kirchhofer这样的前辈领导也是重要原因。
+一家占主导地位的报纸的经济效益极为出色，在整个商业界都名列前茅。老板通常相信他们出色的盈利能力是源于努力地推出最好的产品，但这个舒适的理论在一个不舒服的事实面前显得苍白无力[^5]，当一流的报纸维持高获利时，三流报纸所赚得的钱却一点也不逊色，有时甚至更多，只要该报纸能在当地占据主导地位，当然产品的品质对于一家报纸提高市场占有率极为关键，而我们相信在布法罗晚报也是如此，而且有Alfred Kirchhofer这样的前辈领导也是重要原因。
 
 Once dominant, the newspaper itself, not the marketplace, determines just how good or how bad the paper will be.  Good or bad, it will prosper.  That is not true of most businesses: inferior quality generally produces inferior economics.  But even a poor newspaper is a bargain to most citizens simply because of its “bulletin board” value.  Other things being equal, a poor product will not achieve quite the level of readership achieved by a first-class product.  A poor product, however, will still remain essential to most citizens, and what commands their attention will command the attention of advertisers.
 
-一旦主宰当地市场，报纸本身而非市场将会决定这份报纸是好还是坏，不管好坏，都将大发横财。但在一般行业却不是这样，劣质品质的产品它的生意一定很差。但即使是一份内容差劲的报纸对一般民众来说也是便宜货，因为它仍具有布告栏的价值。在其他条件相同的情况下，差劲报纸不会触达顶流报纸所能触达的读者层次。然而，对大多数普通人来说，劣质产品仍是有需求的，而吸引他们的产品也将吸引相应广告商的注意力。
+一旦某一家报纸媒体在某个地区占据了市场主导地位，内容质量是高是低就要全凭自觉了，市场对此毫无办法。无论内容质量是高是低，这家报纸都能卖出去。大多数生意却并非如此：一般来说，更差的产品质量往往带来更差的经济回报。一份质量很差的报纸对大多数市民来说还是很划算的，之所以会这样，仅仅是因为报纸自身具备的「布告栏」价值。在其他条件相同的情况下，内容质量较差的报纸其读者水平无法媲美一流报纸。但是，对大多数市民来说，哪怕报纸质量较差，这份报纸对他们来说依然是必不可少的。一份能够吸引大多数市民注意力的报纸，自然也会吸引广告商的注意力。[^6]
 
 Since high standards are not imposed by the marketplace, management must impose its own.  Our commitment to an above-average expenditure for news represents an important quantitative standard.  We have confidence that Stan Lipsey and Murray Light will continue to apply the far-more important qualitative standards.  Charlie and I believe that newspapers are very special institutions in society.  We are proud of the News, and intend an even greater pride to be justified in the years ahead.
 
@@ -728,3 +728,19 @@ Subsequent Event: On March 18, a week after copy for this report went to the typ
 	肖良版：此外复活节与情人节期间的业绩也特别好，但剩下的时间里几乎都是踩水。
 	
 	参照剑桥词典的释义，将踩水换为中文语境下同一意思的表达：不尽如人意。修改为：此外复活节与情人节期间的业绩也特别好，但剩下的时间就不尽如人意了。
+
+[^5]: By 纪璐 @20240108
+	
+	原文：That comfortable theory wilts before an uncomfortable fact.
+	
+	共读版：但是这种令人舒服的理论却被无法令人舒服的事实打破
+	
+	修改为：这个舒适的理论在一个不舒服的事实面前显得苍白无力
+
+[^6]: By Ponge @20240120
+
+	原文：本段重译
+	
+	共读版：一旦主宰当地市场，报纸本身而非市场将会决定这份报纸是好还是坏，不管好坏，都将大发横财。但在一般行业却不是这样，劣质品质的产品它的生意一定很差。但即使是一份内容差劲的报纸对一般民众来说也是便宜货，因为它仍具有布告栏的价值。在其他条件相同的情况下，差劲报纸不会触达顶流报纸所能触达的读者层次。然而，对大多数普通人来说，劣质产品仍是有需求的，而吸引他们的产品也将吸引相应广告商的注意力。
+	
+	修改为：一旦某一家报纸媒体在某个地区占据了市场主导地位，内容质量是高是低就要全凭自觉了，市场对此毫无办法。无论内容质量是高是低，这家报纸都能卖出去。大多数生意却并非如此：一般来说，更差的产品质量往往带来更差的经济回报。一份质量很差的报纸对大多数市民来说还是很划算的，之所以会这样，仅仅是因为报纸自身具备的「布告栏」价值。在其他条件相同的情况下，内容质量较差的报纸其读者水平无法媲美一流报纸。但是，对大多数市民来说，哪怕报纸质量较差，这份报纸对他们来说依然是必不可少的。一份能够吸引大多数市民注意力的报纸，自然也会吸引广告商的注意力。
