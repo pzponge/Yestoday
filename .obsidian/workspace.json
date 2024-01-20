@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
-                "mode": "source",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "贝叶斯",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -146,8 +147,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "650eb438c83b0b0d",
+  "active": "6b379e494ab564ed",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md",
     "README.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
     "Elements/Nick_Sleep/Costco_Membership.png",
