@@ -14,7 +14,7 @@
 
 (1994 年 4 月 25 日）巴菲特警告说，再保险业务中的过度风险可能要到多年后出现大问题时才会显现出来，并称衍生产品是「无知和借来的钱」的危险结合。他和芒格还告诉投资者，为什么不需要做非凡的事情就能获得非凡的结果。
 
-Berkshire Hathaway Shareholder Letters: [1993 Letter to Berkshire Shareholders](./Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md)
+Berkshire Hathaway Shareholder Letters: [1993 Letter to Berkshire Shareholders](.../.../Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md)
 
 # Morning Session 上午场
 
