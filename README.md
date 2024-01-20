@@ -156,7 +156,7 @@
 
 标题|原文发表时间|语言|翻译版本
 ---|---|---|---
-[1994 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md)|1994-04-25|双语|一朵喵
+[1994 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md)（英文完整，中文进行中）|1994-04-25|双语|一朵喵
 
 # 2\. Charles T. Munger
 

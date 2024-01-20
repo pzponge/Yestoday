@@ -41,41 +41,69 @@ AUDIENCE: Morning.
 
 WARREN BUFFETT: We were a little worried today because we weren’t sure from the reservations whether we can handle everybody, but it looks to me like there may be a couple seats left up there.
 
-巴菲特：我们今天有点担心，因为我们不确定，我们场地是不是足够大，但我看可能还有几个座位空着。但我认为明年，我们将不得不寻找一个新的地点。我们今年比去年增加了大约600个座位，为了安全起见，明年我们将寻找一个更大的地点。
+巴菲特：我们今天有点担心，因为我们不确定，我们场地是不是足够大，但我看可能还有几个座位空着。
 
 But I think next year, we’re going to have to find a different spot because it looks to me like we’re up about 600 this year from last year, and to be on the safe side we will seek out a larger spot.
 
+但我认为明年，我们将不得不寻找一个新的地点。我们今年比去年增加了大约600个座位，为了安全起见，明年我们将寻找一个更大的地点。
+
 Now, there are certain implications to that because, as some of the more experienced of you know, a few years ago we were holding this meeting at the Joslyn Museum, which is a temple of culture. (Laughter)
+
+你们当中一些更有经验的人知道，几年前我们在乔斯林博物馆举行了这个会议，那是一个文化圣殿。(笑声)
 
 And we’ve now, of course, moved to an old vaudeville theater. And the only place in town that can hold us next year, I think, is the Ak-Sar-Ben Coliseum where they have keno and racetracks. (Laughter)
 
+当然，我们现在搬到了一个古老的歌剧院。我想，明年城里唯一能容纳我们的地方是Ak - Sar - Ben竞技场，那里有基诺（注：一种赌博游戏）和赛马场。(笑声)
+
 We are sliding down the cultural chain — (laughter) — just as Charlie predicted years ago. He saw all this coming. (Laughter)
 
-## 2\. Buffett loses “Miss Congeniality” title to Munger
+我们的文化品味正在下降——(笑声)——就像查理几年前预测的那样。他预见到了这一切。(笑声)
+
+## 2\. Buffett loses “Miss Congeniality” title to Munger 巴菲特把“万人迷”的头衔输给了芒格
 
 WARREN BUFFETT: Charlie — I have some rather distressing news to report. There are always a few people that vote against everyone on the slate for directors and there’s maybe a dozen or so people do that. And then there are others that single shot it, and they pick out people to vote against.
 
+巴菲特：查理，我有一些非常令人沮丧的消息要告诉你。总有一些人投票反对董事候选人，也许有十几个人这样做，然后还有一些人是只针对某人投反对票。
+
 And, this will come as news to Charlie, I haven’t told him yet. But he is the only one among our candidates for directors that received no negative votes this year. (Applause).
+
+我还没通知查理这个消息——他是今年我们的董事候选人中唯一没有收到反对票的人。(掌声)。
 
 Hold it — hold it. No need to applaud.
 
+等等，等等。没必要鼓掌。
+
 I tell you, when you lose out the title of Miss Congeniality to Charlie, you know you’re in trouble. (Laughter)
 
-## 3\. Meeting timetable
+我告诉你们，我“万人迷”的头衔被查理抢去了，你们要有麻烦了。(笑声)
+
+## 3\. Meeting timetable 会议日程
 
 WARREN BUFFETT: Now, I’d like to tell you a little bit how we’ll run this. We will have the business meeting in a hurry with the cooperation of all of you, and then we will introduce our managers who are here, and then we will have a Q&A period.
 
+巴菲特：现在，我想告诉你我们今天股东大会的日程。先是在各位的配合下，把股东大会普通流程走完，然后我们会介绍我们的经理，然后我们会有一个问答环节。
+
 We will run that until 12 o’clock, at which point we’ll break, and then at 12:15, if the hardcore want to stick around, we will have another hour or so until about 1:15 of questions.
+
+我们会一直持续到12点，到那时我们会休息15分钟，然后在12点15分继续，预计下午我们会有1个小时左右的时间，问答会在大约1点15分结束。
 
 So, you’re free to leave, of course, any time and I’ve pointed out in the past that it’s much better form if you leave while Charlie is talking rather than when I’m talking, but — (Laughter)
 
+在此期间，你可以自由地离开。当然，如果你在查理发言而不是我发言的时候离开，那样更好。(笑声)
+
 Feel free anytime, but you can — if you’re panicked and you’re worried about being conspicuous by leaving, you will be able to leave at noon.
+
+你们任何时候都可以离席，但如果你感到恐慌，担心离开会惹人注意，你可以选择在中午离开。
 
 We will have buses out front that will take you to the hotels or the airport or to any place in town in which we have a commercial interest. (Laughter)
 
+(会议结束的时候)，门口会有大巴，可以载大家回酒店、去机场或者前往我们位于奥马哈的任何一家子公司。(笑声)
+
 We encourage you staying around on that basis.
 
-## 4\. Berkshire directors introduced
+不过我们还是希望你们都留下来。
+
+## 4\. Berkshire directors introduced 伯克希尔的董事介绍
 
 WARREN BUFFETT: Let’s have the — let’s get the business of the meeting out of the way. Then we can get on to more interesting things.
 
@@ -85,7 +113,7 @@ First of all, there’s Charlie, who is the vice chairman of Berkshire, and if t
 
 We have Susan T. Buffett, Howard Buffett, Malcolm Chase III, and Walter Scott Jr. And that’s it. (Applause)
 
-## 5\. Meeting quorum
+## 5\. Meeting quorum 会议议案
 
 WARREN BUFFETT: Also with us today are partners in the firm of Deloitte and Touche, our auditors, Mr. Ron Burgess and Mr. Craig Christiansen (PH).
 
@@ -123,7 +151,7 @@ Does the secretary have a report of the number of Berkshire shares outstanding e
 
 FORREST KRUTTER: Yes, I do. As indicated in the proxy statement that accompanied the notice of this meeting that was sent by first class mail to all shareholders of record on March 8, 1994, being the record date for this meeting, there were 1,177,750 shares of Berkshire common stock outstanding, with each share entitled to one vote on motions considered at the meeting. Of that number, 1,035,680 shares are represented at this meeting by proxies returned through last Friday.
 
-## 6\. Directors elected
+## 6\. Directors elected 董事会选举
 
 WARREN BUFFETT: Thank you. We will proceed to elect directors.
 
@@ -163,7 +191,7 @@ WARREN BUFFETT: Thank you, Mr. Fitzsimmons.
 
 Warren E. Buffett, Susan T. Buffett, Howard G. Buffett, Malcolm G. Chase III, Charles T. Munger, and Walter Scott Jr. have been elected as directors. (Applause)
 
-## 7\. Formal meeting adjourns
+## 7\. Formal meeting adjourns 股东大会普通流程结束
 
 WARREN BUFFETT: Does anyone have any further business to come before this meeting before we adjourn?
 
@@ -183,7 +211,7 @@ WARREN BUFFETT: Opposed say no, the meeting is adjourned. (Laughter)
 
 It’s democracy in Middle America. (Laughter)
 
-## 8\. Berkshire managers introduced
+## 8\. Berkshire managers introduced 伯克希尔的管理者团队介绍
 
 WARREN BUFFETT: Now, I’d like to introduce some of the people that make this place work to you. And if you would hold your applause until the end because there are quite a number of our managers here.
 
@@ -231,13 +259,19 @@ Harry saved our bacon back in 19 — what? — 62 or so, when in some mad moment
 
 That’s our group of managers and I appreciate it if you give them a hand. (Applause)
 
-## 9\. Midwest Express adding flights to Omaha
+## 9\. Midwest Express adding flights to Omaha 中西部航空公司增加了飞往奥马哈的航班
 
 WARREN BUFFETT: I have one piece of good news about next year for you.
 
+巴菲特：我有一个好消息要告诉你们。
+
 In addition to moving to larger quarters, they’re going to add nonstop air service from New York, Washington, and Los Angeles here in the next few months, Midwest Express.
 
+在接下来的几个月里，中西部航空公司将增加从纽约、华盛顿和洛杉矶到这里的直达航班。
+
 So, I hope they do very well with it and I hope that makes it easier for you to get into town.
+
+我希望能让你更加容易来奥马哈。
 
 ## 10\. Q&A logistics
 
