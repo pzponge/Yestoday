@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md",
+    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
     "Elements/Nick_Sleep/being_Costco_customer.png",
+    "Elements/Nick_Sleep/Punch_Cartoons.png",
     "Elements/Nick_Sleep/GEICO_Fair_Division.png",
     "README.md",
-    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
-    "Elements/Nick_Sleep/Punch_Cartoons.png",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
     "贡献说明.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
@@ -186,7 +187,6 @@
     "Elements/Warren_Buffett_Gives_It_Away/TIMES_2005_PERSONS_OF_THE_YEAR.png",
     "Elements/Warren_Buffett_Gives_It_Away/Susie_Buffett.png",
     "Elements/Warren_Buffett_Gives_It_Away/THE_BUFFETTS_AT_SUN_VALLEY.png",
-    "Elements/Warren_Buffett_Gives_It_Away/front.png",
     "Elements/Warren_Buffett_Gives_It_Away"
   ]
 }
