@@ -13,7 +13,7 @@ To June 30th, 2005: </br>至2005年6月30日|Nomad Investment Partnership</br>�
 One year|+26.2%|+11.2%
 Two years|+78.1%|+38.3%
 Three years|+118.7%|+35.3%
-Since inception (Sept. 10 th^ 2001)|+150.5%|+28.9%
+Since inception (Sept. 10th 2001)|+150.5%|+28.9%
 Annualised since inception|
 &emsp;Before performance fees|+27.1%|+6.9%
 &emsp;After performance fees|+22.6%|+6.9%
@@ -29,7 +29,7 @@ To June 30th, 2005: </br>至2005年6月30日|Nomad Investment Partnership</br>�
 2004|+22.1%|+15.2%
 2003|+79.6%|+34.0%
 2002|+1.30%|-19.3%
-2001(inception 10/09/01)|+10.1%|+3.9%
+2001(inception Sept. 10th 2001)|+10.1%|+3.9%
 
 ---
 
@@ -41,28 +41,30 @@ It is a constant feature of the investment landscape that people applaud recent 
 
 人们在为近期收益喝彩的同时，应该更多地考虑未来，这是投资领域的一个常态。我们在某种程度上都是这样。我们都喜欢回报，喜欢与成功联系在一起。我们很难不被人群所吸引。我们最喜欢的漫画之一是 20 世纪 70 年代在《Punch》杂志上刊登的一幅漫画（几年后，罗伯特·西亚迪尼（Robert Cialdini）在《影响力》一书中再次引用了这幅漫画）。
 
-![](https://xqimg.imedao.com/18be31046f115b2a3fd24b05.png!800.jpg)
+![](../../Elements/Nick_Sleep/Punch_Cartoons.png)
+*Reproduced under licence and with the kind permission of the Punch Cartoon Library*
 
-Following what everyone else is doing may be hard to resist, but it is also unlikely to be associated with good investment results. Zak and I concentrate on the price to value ratio of the Partnership and ignore its performance as much as is practical, and we would encourage you to do the same. In our opinion you should be more pleased with the improvement in the price to value ratio of the Partnership than the gain in the price of the Partnership this year. That’s easy to say when results have been reasonable. But it would feel quite different if the Partnership had declined in price instead. Unfortunately, nature does not always help us to think rationally. Psychologists (McClure, Laibson, Loewenstein and Cohen 2004) have found that the brain perceives immediate rewards differently to deferred rewards because two different parts of the brain are involved. Immediate gains are perceived positively compared to larger deferred gains as the limbic (survival) system has the ability to over-ride the fronto-parietal (analytical) system. Interestingly, stress induces this over- ride, and of course, money induces stress. So, the more stressed we are, the more we value short-term outcomes! This is not without reason, for if starving is a real possibility, a meal today is more important than a feast in a week’s time, and the brain’s wiring reflects that survival bias. Such notions are embedded in popular phrases such as “a bird in the hand is worth two in the bush”. But at
-Nomad we try to be more analytical: it is the two birds in the bush we are concerned with and how they compare to the bird in the hand. In our opinion, today, the birds in the bush are around 47% (68c/100c) bigger than the bird in the hand. This compares with only around 37% (73c/100c) bigger at the end of last year. The Partnership is up this year, but you can see that it also does not mean very much compared to the deferred gains. It is price to value that's important.
+*根据授权转载，并已获得 Punch 漫画图书馆的许可*
+
+Following what everyone else is doing may be hard to resist, but it is also unlikely to be associated with good investment results. Zak and I concentrate on the price to value ratio of the Partnership and ignore its performance as much as is practical, and we would encourage you to do the same. In our opinion you should be more pleased with the improvement in the price to value ratio of the Partnership than the gain in the price of the Partnership this year. That’s easy to say when results have been reasonable. But it would feel quite different if the Partnership had declined in price instead. Unfortunately, nature does not always help us to think rationally. Psychologists (McClure, Laibson, Loewenstein and Cohen 2004) have found that the brain perceives immediate rewards differently to deferred rewards because two different parts of the brain are involved. Immediate gains are perceived positively compared to larger deferred gains as the limbic (survival) system has the ability to over-ride the fronto-parietal (analytical) system. Interestingly, stress induces this over- ride, and of course, money induces stress. So, the more stressed we are, the more we value short-term outcomes! This is not without reason, for if starving is a real possibility, a meal today is more important than a feast in a week’s time, and the brain’s wiring reflects that survival bias. Such notions are embedded in popular phrases such as “a bird in the hand is worth two in the bush”. But at Nomad we try to be more analytical: it is the two birds in the bush we are concerned with and how they compare to the bird in the hand. In our opinion, today, the birds in the bush are around 47% (68c/100c) bigger than the bird in the hand. This compares with only around 37% (73c/100c) bigger at the end of last year. The Partnership is up this year, but you can see that it also does not mean very much compared to the deferred gains. It is price to value that's important.
 
 追随别人的做法可能难以抗拒，但也不太可能带来好的投资结果。扎克和我专注于合伙企业的内在价值/市值比率，尽可能忽略股价涨跌带来的业绩表现，我们鼓励你们也这样做。在我们看来，与合伙企业今年的价格涨幅相比，合伙企业内在价值/市值比率的提高更应该让你们感到高兴。在收益为正的情况下，这很容易说出口。但如果合伙公司净值下跌，那感觉就完全不同了。不幸的是，大自然并不总能帮助我们理性思考。几位心理学家（McClure、Laibson、Loewenstein 和 Cohen）2004 年的研究成果表明，大脑对即时奖励和延迟奖励的感知是不同的，因为这涉及大脑的两个不同部分。由于大脑有时会优先处理来自边缘系统（和生存相关）而非前顶叶系统（和理性分析相关）的信息，因此与较高的递延收益相比，人们对即时收益的感觉更为强烈。有趣的是，压力会诱发这种情况，当然，金钱也会诱发压力。因此，压力越大的情况下，我们会越重视短期结果！这并非没有道理，因为如果真的可能挨饿，那么今天的一餐就比一周后的盛宴更重要，大脑的线路反映了这种生存偏差。"一鸟在手，胜过两鸟在林 "等流行语就蕴含着这种观念。但在游牧人基金，我们更注重分析：我们关心的是丛林中的两只鸟，以及它们与“在手的鸟”相比如何。在我们看来，如今丛林中的鸟儿比手中的鸟儿大 47%【投资组合的内在价值/市值为0.68，1÷0.68=1.47】。而在去年年底，这个数字仅为 37%（1/0.73）。今年合伙企业的净值有所增长，但与我们未来将获取的收益相比，它的意义也不大。重要的是内在价值/市值比率。
 
-##Competitive Advantage 竞争优势
+# Competitive Advantage 竞争优势
 
-As a young(ish) man there is something slightly depressing about thinking things through for a while, arriving at a somewhat reasoned conclusion only to find that others have been there before, and years earlier. In some respects, we are fifty years behind Buffett, but that’s ok so long as the average investor is at least fifty-one years behind! I would estimate we were some way behind Bill Miller as well, as evidenced by his recent speech to students at the Columbia Business School in which he posed the question – what is your competitive advantage in investing? It was the elegance of the answer that grabbed us. Broadly Bill Miller argued that there are three competitive advantages in investing: informational (I know a meaningful fact nobody else does); analytical (I have cut up the public information to arrive at a superior conclusion) and psychological (that is to say, behavioural). Sustainable competitive advantages are usually a product of analytical and or psychological factors, and the overwhelming advantage with regard to Nomad is the patience of the investor base and the alignment of that disposition with the analytical and psychological traits of your manager. It simply would not work otherwise. In the investment objective section of the Nomad prospectus, we say that our job is to “pass custody [of your investment] over at the right price and to the right people” and that “the approach will require patience”. That’s what investing is, at least for us. But let me return to the speech for a moment.
+As a young(ish) man there is something slightly depressing about thinking things through for a while, arriving at a somewhat reasoned conclusion only to find that others have been there before, and years earlier. In some respects, we are fifty years behind Buffett, but that’s ok so long as the average investor is at least fifty-one years behind! I would estimate we were some way behind Bill Miller as well, as evidenced by his recent speech to students at the Columbia Business School in which he posed the question – what is your competitive advantage in investing? It was the elegance of the answer that grabbed us. Broadly Bill Miller argued that there are three competitive advantages in investing: informational (I know a meaningful fact nobody else does); analytical (I have cut up the public information to arrive at a superior conclusion) and psychological (that is to say, behavioural). Sustainable competitive advantages are usually a product of analytical and or psychological factors, and the overwhelming advantage with regard to Nomad is the patience of the investor base and the alignment of that disposition with the analytical and psychological traits of your manager. It simply would not work otherwise. In the investment objective section of the Nomad prospectus, we say that our job is to “pass custody \[of your investment] over at the right price and to the right people” and that “the approach will require patience”. That’s what investing is, at least for us. But let me return to the speech for a moment.
 
-作为一个年轻人，在思考问题一段时间后得出合理的结论，却发现别人已经走在前面，而且早走了很多年，这不禁让人有些沮丧。在某些方面，我们比巴菲特晚了 50 年，但没有关系，只要普通投资者比巴菲特晚 51 年意识到这些道理，我们就能享有一年的先发优势了！著名基金经理比尔·米勒最近在哥伦比亚商学院对学生发表演讲，提出了一个问题——你在投资中的竞争优势是什么？这个问题的答案非常优雅，让我们眼前一亮。概括地说，米勒认为，投资有三种竞争优势：信息优势（我知道一个别人不知道的有意义的事实）；分析优势（我对公开信息进行了深入分析，得出了一个卓越的结论）和心态优势（也就是行为优势）。可持续的竞争优势通常是分析优势和心态优势的产物，而游牧人基金的压倒性优势在于投资者的耐心，以及这种耐心与基金经理的分析方法和心理特征相一致。否则，我们根本无法成功。在游牧人基金招股说明书的投资目标部分，我们说我们的工作是 "以合适的价格将[您的投资]托管权交给合适的人"，而且 "这种方法需要耐心"。这就是投资，至少对我们来说是这样。不过，让我回过头来再谈谈米勒的演讲。
+作为一个年轻人，在思考问题一段时间后得出合理的结论，却发现别人已经走在前面，而且早走了很多年，这不禁让人有些沮丧。在某些方面，我们比巴菲特晚了 50 年，但没有关系，只要普通投资者比巴菲特晚 51 年意识到这些道理，我们就能享有一年的先发优势了！著名基金经理比尔·米勒最近在哥伦比亚商学院对学生发表演讲，提出了一个问题——你在投资中的竞争优势是什么？这个问题的答案非常优雅，让我们眼前一亮。概括地说，米勒认为，投资有三种竞争优势：信息优势（我知道一个别人不知道的有意义的事实）；分析优势（我对公开信息进行了深入分析，得出了一个卓越的结论）和心态优势（也就是行为优势）。可持续的竞争优势通常是分析优势和心态优势的产物，而游牧人基金的压倒性优势在于投资者的耐心，以及这种耐心与基金经理的分析方法和心理特征相一致。否则，我们根本无法成功。在游牧人基金招股说明书的投资目标部分，我们说我们的工作是 "以合适的价格将\[您的投资\]托管权交给合适的人"，而且 "这种方法需要耐心"。这就是投资，至少对我们来说是这样。不过，让我回过头来再谈谈米勒的演讲。
 
->“Think of how the future will be different from the past. Most people default to the directions and trends that they are currently observing...The important thing is that most things change. In longer term projections, Peter Bernstein tells us, that cone of uncertainty gets wider as time goes out. What are the chances that IBM will be bankrupt tomorrow morning? Probably none. A year from now? Five years from now? What about one hundred years from now? The point being that the possibilities increase as time goes out. So, what you are trying to do as an investor is exploit the fact that fewer things will happen than can happen. So, you are trying to figure out how that probability distribution works and stay in the middle of what will happen. The market has to worry about all the things that can happen.”
+> “Think of how the future will be different from the past. Most people default to the directions and trends that they are currently observing...The important thing is that most things change. In longer term projections, Peter Bernstein tells us, that cone of uncertainty gets wider as time goes out. What are the chances that IBM will be bankrupt tomorrow morning? Probably none. A year from now? Five years from now? What about one hundred years from now? The point being that the possibilities increase as time goes out. So, what you are trying to do as an investor is exploit the fact that fewer things will happen than can happen. So, you are trying to figure out how that probability distribution works and stay in the middle of what will happen. The market has to worry about all the things that can happen.”
+>
+> "想想未来与过去有何不同。大多数人默认他们目前观察到的方向和趋势......重要的是，大多数事情都会改变。彼得-伯恩斯坦告诉我们，在长期预测中，随着时间的推移，不确定性的范围会越来越大。明天早上 IBM 破产的可能性有多大？可能没有。一年后呢？五年后呢？一百年后呢？关键是随着时间的推移，可能性会越来越大。因此，作为投资者，你要做的就是利用会发生的事情比可能发生的事情少这一事实。你要弄清楚概率分布是如何运行的，并时时关注将要发生的事情。市场必须担心所有可能发生的事情"。
 
->"想想未来与过去有何不同。大多数人默认他们目前观察到的方向和趋势......重要的是，大多数事情都会改变。彼得-伯恩斯坦告诉我们，在长期预测中，随着时间的推移，不确定性的范围会越来越大。明天早上 IBM 破产的可能性有多大？可能没有。一年后呢？五年后呢？一百年后呢？关键是随着时间的推移，可能性会越来越大。因此，作为投资者，你要做的就是利用会发生的事情比可能发生的事情少这一事实。你要弄清楚概率分布是如何运行的，并时时关注将要发生的事情。市场必须担心所有可能发生的事情"。
+To repeat: “*what you are trying to do as an investor is exploit the fact that fewer things will happen than can happen*”. That is exactly what we are trying to do. We spend a considerable portion of our waking hours thinking about how company behaviour can make the future more predictable and lower the risk of investment. Costco’s obsession with sharing scale benefits with the customer makes that company’s future much more predictable and less risky than the average business and that is why it is our largest holding. Our smaller holdings are less predictable but in certain circumstances could do much better as investments. We are just not sure that they will as their “*cone of uncertainty*” has a much greater radius than at Costco. Bill Miller got there years ago. We are just getting there today.
 
-To repeat: “what you are trying to do as an investor is exploit the fact that fewer things will happen than can happen”. That is exactly what we are trying to do. We spend a considerable portion of our waking hours thinking about how company behaviour can make the future more predictable and lower the risk of investment. Costco’s obsession with sharing scale benefits with the customer makes that company’s future much more predictable and less risky than the average business and that is why it is our largest holding. Our smaller holdings are less predictable but in certain circumstances could do much better as investments. We are just not sure that they will as their “cone of uncertainty” has a much greater radius than at Costco. Bill Miller got there years ago. We are just getting there today.
+重复一遍："*作为投资者，你要做的是利用未来会发生的事情少于可能发生的事情这一事实*"。这正是我们要做的。我们在醒着的时候，都会花大量时间思考公司行为如何使未来更可预测，并降低投资风险。Costco 执着于与客户分享规模经济效益，这使得该公司的未来比一般企业更可预测，风险更低，这也是它成为我们第一重仓的原因。我们持有的较小仓位的可预测性较低，但在某些情况下，其投资收益可能会更好。我们只是不确定它们是否会这样，因为它们的 "*不确定性*"范围要比 Costco 大得多。比尔·米勒多年前就已经做到了这一点。我们今天才刚刚领悟到这一点。
 
-重复一遍："作为投资者，你要做的是利用未来会发生的事情少于可能发生的事情这一事实"。这正是我们要做的。我们在醒着的时候，都会花大量时间思考公司行为如何使未来更可预测，并降低投资风险。Costco 执着于与客户分享规模经济效益，这使得该公司的未来比一般企业更可预测，风险更低，这也是它成为我们第一重仓的原因。我们持有的较小仓位的可预测性较低，但在某些情况下，其投资收益可能会更好。我们只是不确定它们是否会这样，因为它们的 "不确定性"范围要比 Costco 大得多。比尔·米勒多年前就已经做到了这一点。我们今天才刚刚领悟到这一点。
-
-##The Robustness Ratio 稳健性比率
+# The Robustness Ratio 稳健性比率
 
 At the risk of mildly boring some readers, it may be worth completing the analysis of Costco here by introducing the robustness ratio. (Avid readers will recognise that this ratio was introduced in a Global Investment Review, contained in the appendix to this letter). The robustness ratio is a framework we use to help think about the size of the moat around a company. It is the amount of money a customer saves compared to the amount earned by shareholders. This ratio is more appropriate for some companies than others, the prime criteria being that the customer proposition is based on price, such as exists at Costco, as opposed to an advertising-reinforced purchase such as Nike trainers. In the Berkshire Hathaway annual report this year, the Chairman tells us that Geico policyholders saved U$1bn on their policies compared to the next cheapest carrier. It also turns out that Geico earned around U$1bn as well. So that’s one dollar saving to the customers and one dollar retained for shareholders. At Costco we think the customer saving is around five dollars, compared to shopping at most supermarkets, for every dollar retained by the company.
 
@@ -76,7 +78,7 @@ It does not happen in the investment industry where fees can be levied regardles
 
 在投资行业，这种情况不会发生，因为无论业绩如何，基金经理都可以收取费用——这不是什么稳健比率，也没有考虑到所涉及风险的不对称性。在 Costco 购物不会亏钱，但投资却可能亏钱。这就表明，投资行业的稳健性比率需要比普通企业高得多，以弥补所涉及的风险。我们在一定程度上试图通过游牧人基金 6% 的门槛收益率（hurdle rate）来弥补这种不对称性。这个数字并不完美，背后也没有科学依据，其目的是为存款利率提供一个宽松的替代指标。此外，有了门槛收益率，我们晚上也睡得踏实。
 
-##Zimbabwe as an Example of a Second Investment Model. 津巴布韦是第二种投资模式的范例
+# Zimbabwe as an Example of a Second Investment Model. 津巴布韦是第二种投资模式的范例
 
 We have begun making some investments in Zimbabwe and wrote about the background to these in a recent Global Investment Review (also contained in the appendix). The investment case relies upon extreme undervaluation compared to normalised values, so much so that a wait of ten years for normalisation would still yield wonderful results. It makes little sense to discuss stocks we may or are buying (Costco is likely to be a rare exception in this regard) but I can illustrate the investment case by describing Zimcem. This is the country’s largest cement producer (after the local division of Pretoria Portland Cement), with around 700,000 tons of cement capacity and a replacement cost of around U$70 to U$100m. The firm has no debt and business conditions are awful (general inflation exceeds cement price inflation and product demand is low) but the company is priced on the Harare stock exchange at one seventieth (1/70th!) of its replacement cost.
 
@@ -90,7 +92,7 @@ This last point, along with other confiscation events, does not have a zero prob
 
 在津巴布韦，企业被国有化以及以其他形式被没收资产的可能性并非为零，这也是我们在该国投资规模不大的主要原因。即使我们能够获得我们想要的所有股份（我们似乎做不到），投资总额也不太可能超过合伙企业资产规模的几个百分点。津巴布韦企业没有理由不以高于重置成本的价格进行交易。津巴布韦北边的赞比亚，在经历了多年的管理不善之后，随着经济的复苏，其占主导地位的水泥公司目前的估值已高于重置成本。在津巴布韦，这可能需要领导人换代，乃至政权更迭。也许我们投资的理由在于您的基金经理比津巴布韦现任领导人穆加贝年轻 50 岁。
 
-##The Pricing of Shares in Zimbabwe 津巴布韦的股票定价
+# The Pricing of Shares in Zimbabwe 津巴布韦的股票定价
 
 The official exchange rate at the time of writing is Z$9,100 to the U$1. The unofficial, street rate is around Z$17,000 to the U$1. In other words, the Central Bank values its own currency at over twice the price set by the public with the effect that money entering the country via the Central Bank buys approximately half as much as at the street rate. Fortunately, there is an alternative to the Central Bank for foreign investors, which is to purchase Old Mutual shares in Johannesburg, re-register the same shares in Harare and then sell the shares in Harare. This we have done. But it creates a problem in valuing our Zimbabwean shares as Bloomberg, Reuters and the other main sources of currency prices use feeds from the Central Bank. In other words, if we solely relied upon the official rate of exchange our investments would immediately show an 86% gain. This gain is entirely illusory. Were we to reverse the process by re-registering the shares in Johannesburg and selling our stock there, the proceeds would approximate the money we first put in (minus frictional costs and any change in the price of Old Mutual shares). The only way we could realise the 86% gain would be to present our Zim dollars to the Central Bank and ask for US dollars at a rate of Z$9,100. And we would be waiting for Godot. There are almost no transactions taking place at the Central Bank and priority is given to trade and working capital requirements, not foreign investment portfolios. So, we could try, but I don’t think it is prudent to value the portfolio on the basis of a warm response from the Zimbabwean Central Bank. So, our solution has been to value the Zimbabwean investments at the rate of exchange implied by the Old Mutual share price in Harare divided by the price of exactly the same share in Johannesburg (note that the shares are fungible in both directions). The effect is to approximate the street rate of exchange and remove the artificial book gain implied by the official exchange rate, and hopefully the worst of any pricing distortions should be minimised as a result. This is a somewhat unusual solution, but one that I think is fair, and the auditors, board and administrators have decided to agree with my methodology. Please do call however, if all is not clear.
 
@@ -100,37 +102,37 @@ The official exchange rate at the time of writing is Z$9,100 to the U$1. The uno
 
 *“任何一年，如果你没有毁掉你最喜欢的一个想法，那可能就是虚度的一年"*——查理·芒格（Charles T. Munger）。
 
-In January this year, the market town of Carlisle (located between the English Lake District and the border with Scotland and incidentally home to your manager’s family-in-law) was flooded when the River Eden broke its banks. Parts of the city center were under many feet of water and residents were shown on national TV being evacuated from roof tops by helicopter. As the water receded the city slowly returned to normal, although the damage remained extensive, and included the traffic light system at Hardwicke Circus, a junction of seven roads controlled by a series of traffic lights dotted throughout approaching roads and a central roundabout. Although the lights remained out of use, the authorities opened the roads and trusted the residents to drive with care. Soon afterwards, drivers began to suspect that the traffic flowed better through the complex junction without the traffic lights than before, and in March this year the City Council began a trial in which the lights were covered up, and drivers left to get on with it. What they found confirmed public suspicions, the speed of traffic through the intersection had indeed risen, and better still, it appeared that the number of accidents may actually have fallen as well. What they found was entirely contrary to accepted wisdom in council planning, that the roundabout was faster and may also be safer without the traffic lights! Ayn Rand would recognise what was happening, as may members of the Santa Fe Institute (which recently published a study entitled “How Individuals Learn to Take _Turns: Emergence of Alternating Cooperation in a Congestion Game and the Prisoner’s_Dilemma”). The point is that, often, if one removes the rules, and instead ask people to think for themselves, the system works better.
+In January this year, the market town of Carlisle (located between the English Lake District and the border with Scotland and incidentally home to your manager’s family-in-law) was flooded when the River Eden broke its banks. Parts of the city center were under many feet of water and residents were shown on national TV being evacuated from roof tops by helicopter. As the water receded the city slowly returned to normal, although the damage remained extensive, and included the traffic light system at Hardwicke Circus, a junction of seven roads controlled by a series of traffic lights dotted throughout approaching roads and a central roundabout. Although the lights remained out of use, the authorities opened the roads and trusted the residents to drive with care. Soon afterwards, drivers began to suspect that the traffic flowed better through the complex junction without the traffic lights than before, and in March this year the City Council began a trial in which the lights were covered up, and drivers left to get on with it. What they found confirmed public suspicions, the speed of traffic through the intersection had indeed risen, and better still, it appeared that the number of accidents may actually have fallen as well. What they found was entirely contrary to accepted wisdom in council planning, that the roundabout was faster and may also be safer without the traffic lights! Ayn Rand would recognise what was happening, as may members of the Santa Fe Institute (which recently published a study entitled “*How Individuals Learn to Take Turns: Emergence of Alternating Cooperation in a Congestion Game and the Prisoner’s Dilemma*”). The point is that, often, if one removes the rules, and instead ask people to think for themselves, the system works better.
 
 今年 1 月，英国的伊登河决堤，卡莱尔集镇（位于英格兰湖区和苏格兰交界处，也是你们基金经理岳父的家乡）被洪水淹没。市中心部分地区被淹没在数英尺深的水中，国家电视台播放了居民乘坐直升机从屋顶撤离的画面。随着洪水的退去，城市慢慢恢复了正常，尽管受损范围仍然很广，其中包括哈德威克广场的红绿灯系统：这是一个由七条道路组成的交叉路口，由分布在各条道路和中央环岛上的一系列红绿灯控制。虽然红绿灯仍未启用，但当局还是开放了道路，并相信居民会小心驾驶。不久之后，司机们开始怀疑，没有红绿灯的复杂路口交通比以前更顺畅了。今年 3 月，市政委员会开始进行一项试验，将红绿灯遮盖起来，让司机们继续行驶。他们的发现证实了公众的猜测，通过交叉路口的车速确实提高了，更妙的是，事故数量似乎也确实减少了。他们的发现与市政规划中公认的观点完全背道而驰，即没有交通信号灯，环岛的车速更快，也可能更安全！安·兰德（Ayn Rand）会意识到发生了什么，圣塔菲研究所（Santa Fe Institute）的成员也会意识到发生了什么（该研究所最近发表了一项题为 "个人如何学会轮流：拥堵博弈和囚徒困境中交替合作的出现” 的研究）。问题的关键在于，通常情况下，如果取消规则，转而要求人们自己思考，系统就会运行得更好。
 
-We criticise hedge funds for their fee scales and short investment time frames, but they have a point when it comes to investment rules and certain regulations. Traditional investment management can become heavily burdened by bureaucracy, compliance and corrupted by marketing expediency. These business forces can work at the expense of the investment process, and the trick for any growing investment firm is not to sap the life out of the investment team through stapling them to the bureaucratic equivalent of the US Department of Agriculture. We think of ourselves as reasonably entrepreneurial, but even we suffer to some extent from this culture-drift. The solution is not hard to come by. What is required is for people to behave in such a way that, in the words of Charlie Munger, one builds “a seamless web of deserved trust”. The operative word is “deserved”. The problem is that rules do not require people to think, and how are people to deserve trust if first they don’t think? Degenerative spirals of behaviour do not build good results (or fast roundabouts), but that is where the industry is going, and it is a destination we will all do well to avoid.
+We criticise hedge funds for their fee scales and short investment time frames, but they have a point when it comes to investment rules and certain regulations. Traditional investment management can become heavily burdened by bureaucracy, compliance and corrupted by marketing expediency. These business forces can work at the expense of the investment process, and the trick for any growing investment firm is not to sap the life out of the investment team through stapling them to the bureaucratic equivalent of the US Department of Agriculture. We think of ourselves as reasonably entrepreneurial, but even we suffer to some extent from this culture-drift. The solution is not hard to come by. What is required is for people to behave in such a way that, in the words of Charlie Munger, one builds “*a seamless web of deserved trust*”. The operative word is “deserved”. The problem is that rules do not require people to think, and how are people to deserve trust if first they don’t think? Degenerative spirals of behaviour do not build good results (or fast roundabouts), but that is where the industry is going, and it is a destination we will all do well to avoid.
 
-我们批评对冲基金的收费标准高，投资时限短；但在投资规则和某些法规方面，他们说得也有道理。传统的投资管理可能因官僚主义、合规性和市场营销的权宜之计而负担沉重。这些商业力量可能会以牺牲投资流程为代价。对于任何一家处于成长期的投资公司来说，诀窍就是不要把投资团队束缚在相当于美国农业部的官僚机构中，从而耗尽他们的生命力。我们认为自己是合理的创业者，但即使是我们也在一定程度上受到这种文化偏差的影响。解决方案并不难找到。用查理-芒格的话说，我们需要的是人们以这样一种方式行事，即建立 "理应得到信任的无缝网络"。关键词是 "理应"。问题在于，规则并不要求人们思考，而如果人们不思考，又如何值得信任呢？ 堕落的螺旋式行为不会产生好的结果，但这正是行业发展的方向，我们都应该避免。
+我们批评对冲基金的收费标准高，投资时限短；但在投资规则和某些法规方面，他们说得也有道理。传统的投资管理可能因官僚主义、合规性和市场营销的权宜之计而负担沉重。这些商业力量可能会以牺牲投资流程为代价。对于任何一家处于成长期的投资公司来说，诀窍就是不要把投资团队束缚在相当于美国农业部的官僚机构中，从而耗尽他们的生命力。我们认为自己是合理的创业者，但即使是我们也在一定程度上受到这种文化偏差的影响。解决方案并不难找到。用查理-芒格的话说，我们需要的是人们以这样一种方式行事，即建立 "*理应得到信任的无缝网络*"。关键词是 "理应"。问题在于，规则并不要求人们思考，而如果人们不思考，又如何值得信任呢？ 堕落的螺旋式行为不会产生好的结果，但这正是行业发展的方向，我们都应该避免。
 
 We try not to be too hard and fast about rules. In previous letters we have quoted H.O. Hirt, founder of Erie Indemnity, and it would be a shame not to do so again. Hirt posted the following notice to staff:
 
 我们尽量不硬性规定规则。在以前的信中，我们曾引用过伊利赔偿公司创始人 H.O. Hirt 的观点，如果不再引用一次，那就太可惜了。Hirt 向员工发布了如下通知：
 
->“** RULES**
-
-Are for INFANTS, **INCOMPETENTS**,
-
-**INCARCERATED CRIMINALS** and **IMBECILES**
-
-- **NONE** of WHOM should have any place in the **ERIE FAMILY **.”
-
+> “**RULES**
+> 
+> Are for INFANTS, **INCOMPETENTS**,
+> 
+> **INCARCERATED CRIMINALS** and **IMBECILES**
+> 
+> \- **NONE** of WHOM should have any place in the **ERIE FAMILY **.”
+> 
 >"**规则**
-
-是为幼童、不称职者、未阉割的罪犯和胎儿制定的。
-
-- 任何人都不应在伊利家族中占有一席之地"。
+> 
+> 是为幼童、不称职者、未阉割的罪犯和胎儿制定的。
+> 
+> \- 任何人都不应在伊利家族中占有一席之地"。
 
 Even so a few rules end up slipping in overtime and need to be viewed with great suspicion. One was that a low share price was better than a high share price, all other things being equal, which proved unwise when the low market capitalisation undermined shareholders’ bargaining position in the recapitalisation of Conseco a few years ago. This year we shall have to discard another strongly held bias which is that high inside ownership is a good thing. This too is not always helpful, as shareholders in Northwest Airlines are finding out. In this instance the unions appear to reason that management (who are the largest group of shareholders) will not risk placing the company in bankruptcy and are holding out for the last dollar in negotiations. Oddly here, high inside ownership is hindering the process that would lead to a more viable airline. Who would have thought that a low share price and high inside ownership could be bearish? But they can. I wonder what other “best loved ideas” we will need to rethink in the coming years.
 
 即便如此，还是有一些规则需要以极大的怀疑来看待。其中一条规则是，在其他条件相同的情况下，低股价比高股价要好。几年前，当低市值损害了股东在 Conseco 破产重组中的议价地位时，这条规则被证明是不明智的。今年，我们必须摒弃另一种强烈的偏见，即内部员工持股比例高不一定是件好事。西北航空公司的股东们就发现了这一点。在这种情况下，工会似乎认为管理层（他们是最大的股东群体）不会冒公司破产的风险，因此在劳资谈判中坚持索要最后一美元。奇怪的是，高内部持股比例阻碍了建立一家更有活力的航空公司的进程。谁会想到低股价和高内部持股比例会带来负面影响呢？但它们可以。我想知道，在未来几年里，我们还需要重新思考哪些 "最受欢迎的想法"是否真的成立。
 
-##Thank you 致谢
+# Thank you 致谢
 
 We don’t write to you that often, as measured by number of letters per annum. But the sum of the letters we write amounts to around ten per stock holding period (two annual letters times five years). On this measure we may be more communicative than many investors who write more often, but trade shares more frequently still. Even so, we like the balance as it is, and are hesitant to fall into say-something territory. We are very conscious that investors in the Partnership have reciprocated and allowed us to get on with our job of roaming the globe looking for value. Thank you.
 
@@ -167,10 +169,9 @@ In this article, we use the term "Partners" as a generic term referring to all N
 
 在本文中，我们使用 "合伙人 "一词作为通用术语，指所有 Nomad 投资者，无论是联接基金的股东还是合伙企业的有限合伙人，而不是在严格的法律意义上暗示在联接基金股东、Nomad 和/或 Marathon Asset Management 之间建立合伙关系。
 
+# Appendix 1 附录1
 
-##Appendix 1 附录1
-
-###“Measuring the Moat”. Global Investment Review, May 2005. "衡量护城河" ——马拉松资管《全球投资评论》，2005 年 5 月
+## “Measuring the Moat”. Global Investment Review, May 2005. "衡量护城河" ——马拉松资管《全球投资评论》，2005 年 5 月
 
 The phrase “business moat” is often banded around when discussing the absolute or comparative strength of a franchise. That there are businesses with defendable positions is of little doubt; but what these discussions often lack is any empirical method by which moat size or longevity can be measured, compared or monitored over time. In addition, stock investors (particularly those who, for their sins, have been labelled growth investors) face an important task, namely, how can one recognise the creation of a business moat well in advance of its value being discounted in the stock market? While reading the 2005 Berkshire Hathaway Annual Report, one paragraph stood out for us as Warren Buffett referred in passing to the division of operating and underwriting cost savings at motor insurer GEICO. These “benefits” were divided between shareholders, policy holders and employees and the statistics spelt out in some detail. This simple breakdown struck a chord with our continuing analysis of Costco, a significant Marathon shareholding in the United States. What is becoming clearer in our minds is that one can empirically measure the strength of a business franchise through such an analysis of the division of benefits, what we have come to call its  “robustness ratio”.
 
@@ -180,13 +181,13 @@ First, a brief recap of Buffett’s comments with respect to GEICO.
 
 首先，我们简要回顾一下巴菲特对 GEICO 的评论：
 
->*“Indeed, GEICO delivers all of its constituents major benefits: In 2004 its customers saved $1 billion or so compared to what they would otherwise have paid for coverage, its associates earned a $191 million profit-sharing bonus that averaged 24.3% of salary, and its owner – that’s us –enjoyed excellent financial returns.”*
-
->*"事实上，GEICO 为其所有成员带来了重大利益： 2004 年，它的客户比他们原本需要支付的保险费用节省了 10 亿美元左右，它的员工赚取了 1.91 亿美元的利润分享奖金，平均占工资的 24.3%，它的所有者——也就是我们——享受到了极佳的财务回报。”*
-
-Source: Berkshire Hathaway, 2005 Annual Report
-
-资料来源：伯克希尔-哈撒韦公司，2005 年年报
+> *“Indeed, GEICO delivers all of its constituents major benefits: In 2004 its customers saved $1 billion or so compared to what they would otherwise have paid for coverage, its associates earned a $191 million profit-sharing bonus that averaged 24.3% of salary, and its owner – that’s us –enjoyed excellent financial returns.”*
+> 
+> *"事实上，GEICO 为其所有成员带来了重大利益： 2004 年，它的客户比他们原本需要支付的保险费用节省了 10 亿美元左右，它的员工赚取了 1.91 亿美元的利润分享奖金，平均占工资的 24.3%，它的所有者——也就是我们——享受到了极佳的财务回报。”*
+> 
+> Source: Berkshire Hathaway, 2005 Annual Report
+> 
+> 资料来源：伯克希尔-哈撒韦公司，2005 年年报
 
 These financial returns, measured in terms of an underwriting profit, were close to US$1 billion pre-tax last year but this excludes the investment returns earned on the US$5-6 billion of float generated by GEICO throughout the year (on which we may want to assign subjectively a return of 5%). These benefits, of course, only accrue to the three groups as a result of scale (if one assumes that underwriting skill can be developed or acquired). This allows us to construct a pie chart (Figure 1) representing how these scale economies are shared. The robustness ratio, defined as the combined distribution to customers and employees (through a profit share or the like) divided by the distribution to shareholders, is in GEICO’s case about 1:1.
 
@@ -194,11 +195,10 @@ These financial returns, measured in terms of an underwriting profit, were close
 
 Figure 1: GEICO: A fair division of spoils
 
-图1:GEICO:公平的利益分配
+图1 GEICO:公平的利益分配
 
-![](https://xqimg.imedao.com/18be31b6b1a15b453fe48d18.png!800.jpg)
-
-Source: Marathon
+![](../../Elements/Nick_Sleep/GEICO_Fair_Division.png)
+*Source: Marathon*
 
 This picture, of course, represents a snapshot; just as important is how this division of benefits develops over time, a subject we will touch on later. Tracking back to Costco, we are able to construct a similar pie chart using the following facts and figures. On average, a Costco cardholder (as opposed to household; on average each household holds 2 cards) spends US$1,100 per year in the store. Costco spends US$980 at cost to supply these goods which, if one assumes similar buying power and a comparable basket make up, would cost US$1,300 at a competing supermarket such as Kroger or US$1,250 at Wal-Mart (gross margins of 26% and 23% respectively, compared with 11% at Costco). Now these comparisons are not quite so straightforward as Costco’s members must “pay to play”, currently US$23 per cardholder on average, and this annual fee is fixed whatever a cardholder spends (this implies the distribution of customer savings is not even across the membership base, a fascinating influence on customer behaviour and itself worthy of analysis). But we can estimate that, on average, a Costco cardholder saves somewhere in the region of US$175 per year by shopping at Costco in return for an annual fee investment of US$23, or a net gain in the region of US$150 per cardholder per year.
 
@@ -212,10 +212,8 @@ Figure 2: Happiness is... being a Costco customer.
 
 图2:幸福是……成为好市多的顾客。
 
-![](https://xqimg.imedao.com/18be31ba9bb144123fda10a4.png!800.jpg)
-
-Source: Marathon
-
+![](../../Elements/Nick_Sleep/being_Costco_customer.png)
+*Source: Marathon*
 
 While the standard Wall Street view is that such a picture is retailing’s equivalent of collectivism, in our view it represents an excitingly wide and unassailable moat. While “unassailable” may seem like a bold assertion, an analysis of the limited disclosure of financials at Sam’s Club suggests that the size of the distribution to Costco customers is so large that any attempt to match its prices would cost Sam’s somewhere in the region of US$1.4 billion annually while matching Costco’s pay scales would set them back another US$750million. Such numbers are not insignificant even to Wal-Mart which last year earned net profits of US$9 billion. Such a chasm of competitiveness is, of course, difficult to capture using traditional analytical tools. After all, both Costco and Sam’s Club generate thin profit margins, both are growing revenues, and both are placing enormous pressure on traditional supermarkets and smaller wholesale clubs. But it seems inevitable that the long-term outcome for the two businesses will be significantly different particularly as measured by the growth of revenue per unit of selling space over the long-term. And Costco’s business model dictates that this competitive gap should expand over time as a fall in Costco’s relative asset intensity and increasing buying power will lead to greater scale efficiencies, which in turn are handed back to the customer in the form of lower prices. Game over.
 
@@ -233,18 +231,18 @@ Early in a firm’s development it makes sense to reward customers  disproportio
 
 在公司发展的早期，对客户进行不成比例的奖励是合理的，因为客户推荐和回头客对于发展有价值的特许经营至关重要。随着企业的成熟，这种偏向可以减少，股东可以合理地分得更多的蛋糕。但如果股东分得太多，护城河就会被抽干，对企业的长远发展造成负面影响。诱惑是巨大的，因为资本市场会奖励暴利。有很多公司过度 "收割"的例子，而他们或许应该把重点放在长寿上。可口可乐公司过度依赖装瓶商，吉列公司削减广告，甚至家得宝公司近年来提高毛利率，都可能是这种情况。当优秀的公司进入 "增长炼狱 "时，股东往往会遭受双重打击，因为就在股东发现自己对公司财报盈利能力的分析出现错误时，公司的增长却放缓了。
 
-##Appendix 2 附录2
+# Appendix 2 附录2
 
-###“Zimbabwe”. Global Investment Review, February 2005. "津巴布韦。"—— 马拉松资管《全球投资评论》，2005 年 2 月
+## “Zimbabwe”. Global Investment Review, February 2005. "津巴布韦。"—— 马拉松资管《全球投资评论》，2005 年 2 月
 
 
->“That’s what brothers are for, brother.”
-
+> “That’s what brothers are for, brother.”
+> 
 >"这才是兄弟们的使命，兄弟"
-
-Gil Scott-Heron, “Small Talk at 125th and Lenox”
-
-吉尔-斯科特-赫伦，在125 街与莱诺克斯大道路口的闲谈
+> 
+> Gil Scott-Heron, “Small Talk at 125th and Lenox”
+> 
+> 吉尔-斯科特-赫伦，在125 街与莱诺克斯大道路口的闲谈
 
 Some commentators believe that the current condition of stock markets is now more dangerous than the bubble of the late 1990s. Then at least there was the anti-bubble formed from cheap low growth companies. Today there is no Zen-like symmetry to stock prices; and there are few obvious pockets of undervaluation for the contrarian. A cheer all round then for Zimbabwe. The clients will hate it. Compliance will hate it. The consultants will hate it. Marketing will hate it. The size of the investment opportunity is tiny. It is not part of the benchmark. It is not even part of the Commonwealth. It’s perfect.
 
@@ -270,57 +268,64 @@ In the early 1970s the black American poet and musician Gil Scott-Heron was an a
 
 20 世纪 70 年代初，美国黑人诗人兼音乐家吉尔·斯科特-赫伦（Gil Scott-Heron）是一个愤怒的人。与其他活动家不同的是，他不仅对白人当权者感到愤怒，还对黑人同胞的不诚实感到愤怒：尤其是 "那些在哈林区街头巷尾闲逛、抱着'比你更黑'态度的人"，他们觉得其他人都欠他们一条命。这就是津巴布韦政治阶层的态度。他们就是安·兰德笔下的 "掠夺者"。与他的一些活动家同僚相比，斯科特-赫伦希望他的黑人同僚正直、真诚，并成为资本家。津巴布韦现在就需要几个斯科特-赫伦。或许我们可以试着把斯科特-赫伦的歌曲《兄弟》的歌词塞进津巴布韦现任领导人罗伯特·穆加贝的意见箱：
 
->“We deal in too many externals, brother
+> “We deal in too many externals, brother
+> 
+> Always afros, handshakes and dashikis
+> 
+> Never can a man build a working structure for black capitalism,
+> 
+> Always does the man rebound off a known.
+> 
+> I think I know you would-be black revolutionaries too well
+> 
+> 
+> 
+> Standing on a box, on the corner, talking about blowing the white boy away, But
+> 
+> that’s not where it is at yet, brother.
+> 
+> 
+> 
+> ...You need to get your memory banks organised, brother Show
+> 
+> that man you call an Uncle Tom just where he is wrong Show that
+> 
+> woman you are a sincere black man
+> 
+> All we need to do is see you shut up and be black Help
+> 
+> that woman!
+> 
+> Help that man!
+> 
+> That’s what brothers are for, brother.”
 
->Always afros, handshakes and dashikis
 
->Never can a man build a working structure for black capitalism,
-
->Always does the man rebound off a known.
-
->I think I know you would-be black revolutionaries too well
-
-Standing on a box, on the corner, talking about blowing the white boy away, But
-
-_that’s not where it is at yet, brother._
-
-
->...You need to get your memory banks organised, brother Show
-
->that man you call an Uncle Tom just where he is wrong Show that
-
->woman you are a sincere black man
-
->All we need to do is see you shut up and be black Help
-
->that woman!
-
->Help that man!
-
->That’s what brothers are for, brother.”
-
-
-"我们过于注重外在的东西，兄弟
-
-总是以非洲发型、握手和非洲短裙为主题
-
-一个人永远无法为黑人资本主义建立一个可行的结构
-
-总是会被已知的事物所限制。
-
-我想我太了解你们这些黑人革命者了
-
-站在街角的箱子上，谈论着要把白人小子轰走，但还没到那一步，兄弟。
-
-......你需要整理一下你的记忆库，兄弟
-
-向那个你称之为汤姆叔叔的人展示他的错误，让那个女人知道你是个真诚的黑人
-
-我们要做的就是看到你闭嘴，做个黑人
-
-帮助那个女人!
-
-帮助那个男人!
-
-这才是兄弟们的使命，兄弟。"
+> "我们过于注重外在的东西，兄弟
+> 
+> 总是以非洲发型、握手和非洲短裙为主题
+> 
+> 一个人永远无法为黑人资本主义建立一个可行的结构
+> 
+> 总是会被已知的事物所限制。
+> 
+> 
+> 
+> 我想我太了解你们这些黑人革命者了
+> 
+> 站在街角的箱子上，谈论着要把白人小子轰走，但还没到那一步，兄弟。
+> 
+> 
+> 
+> ......你需要整理一下你的记忆库，兄弟
+> 
+> 向那个你称之为汤姆叔叔的人展示他的错误，让那个女人知道你是个真诚的黑人
+> 
+> 我们要做的就是看到你闭嘴，做个黑人
+> 
+> 帮助那个女人!
+> 
+> 帮助那个男人!
+> 
+> 这才是兄弟们的使命，兄弟。"
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md"
               }
             }
           }
@@ -148,15 +148,19 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
+    "Elements/Nick_Sleep/being_Costco_customer.png",
+    "Elements/Nick_Sleep/GEICO_Fair_Division.png",
     "README.md",
+    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
+    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
+    "Elements/Nick_Sleep/Punch_Cartoons.png",
+    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
     "贡献说明.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md",
-    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
     "Elements/Nick_Sleep/Costco_Membership.png",
     "Elements/Nick_Sleep/COST_Price_History.png",
     "Elements/Nick_Sleep",
@@ -177,8 +181,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md",
     "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
     "Charles_Munger/Acquired_Interviews.md",
-    "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
-    "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
     "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png",
     "Elements/Warren_Buffett_Gives_It_Away/The_Fate_of_His_Fortune_Sealed.png",
     "Elements/Warren_Buffett_Gives_It_Away/TIMES_2005_PERSONS_OF_THE_YEAR.png",
