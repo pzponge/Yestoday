@@ -1,3 +1,79 @@
+**2019 meeting**
+
+**Morning session**
+
+**1. Welcome and Munger’s insurgency campaign**
+
+WARREN BUFFETT: Thank you.
+
+Good morning and welcome to Berkshire Hathaway.
+
+And for those of you who have come from out of state, welcome to Omaha. The city is delighted to have you here at this event.
+
+And for those of you who came from outside of the country, welcome to the United States.
+
+So, we’ve got people here from all over the world. We’ve got some overflow rooms that are taking care of people. And we will just have a few preliminaries and then we will move right into the Q&A period.
+
+We’ll break about noon for about an hour. We’ll come back and do more Q&A until about 3:30. Then we’ll adjourn for a few minutes, and then we’ll conduct the meeting.
+
+I understand that in the room adjacent, that Charlie has been conducting a little insurgency campaign.
+
+I don’t know whether you’ve seen these, but these are the buttons that are available for those of you — you keep asking questions about succession. And Charlie wants to answer that question by getting your vote today. So, it says — this one says, “Maturity, experience, why accept second best? Vote for Charlie.” (Laughter)
+
+I, however, have appointed the monitors who have — collect the votes, so I feel very secure. (Laughter)
+
+**2. Berkshire directors introduced**
+
+WARREN BUFFETT: The first thing I’d like to do — Charlie is my partner of 60 years, a director and vice chairman, and we make the big decisions jointly. It’s just that we haven’t had any big decisions. So, (laughter) we haven’t — we’re keeping him available for the next big one.
+
+But now at the formal meeting today, we’ll elect 14 directors, and you’re looking at two of them. And I’d like to introduce the 12 that will be on the ballot at 3:45.
+
+And I’m going to proceed alphabetically. And if they’ll stand. If you’ll withhold your applause because some of them get sensitive if certain people get more applause than others, and (Laughter) they’ll — and if you’ll withhold it till I’m finished, then you can applaud or not, as you see fit, having looked at these directors. (Laughter)
+
+So, we’ll start on my left. Greg Abel, who’s both a chairman and a director. Greg? Yeah, oh, there we are. Right, OK. And going along alphabetically, Howard Buffett, Steve Burke, Sue Decker, Bill Gates, Sandy Gottesman— (applause) — Charlotte Guyman, Ajit Jain, who is also a vice chairman, Tom Murphy, Ron Olson, Walter Scott, and Meryl Witmer. Now you can applaud. (Applause)
+
+**3. Berkshire’s Q1: Pay attention to operating earnings**
+
+WARREN BUFFETT: Now, this morning we posted on our website the quarterly, the 10Q that’s required to be filed with the SEC. We published it at 7 o’clock Central Time. And we also published an accompanying press release.
+
+And if we’ll put slide one up — these figures as usual require some explanation. As we’ve mentioned in the annual report, the new GAAP rule of Generally Accepted Accounting Principles require that we mark our securities to market and then report any unrealized gains in our earnings.
+
+And you can see, I’ve warned you about the distortions from this sort of thing. And, you know, the first quarter of 2019 actually was much like the first quarter of 2018, and I hope very much that newspapers do not read headlines saying that we made $21.6 billion in the first quarter this year against a loss of last year.
+
+These — the bottom line figures are going to be totally capricious, and what I worry about is that not everybody studied accounting in school, or they can be very smart people but that doesn’t mean that they’ve spent any real time on accounting.
+
+And I really regard these bottom line figures, particularly if they’re emphasized in the press, as doing — as potentially being harmful to our shareholders, and really not being helpful. So, I encourage you now, and I encourage all the press that’s here, focus on what we call our operating earnings, which were up a bit. And forget about the capital gains or losses in any given period.
+
+Now, they’re enormously important over time. We’ve had substantial capital gains in the future; we have substantial unrealized capital gains at the present time; we expect to have more capital gains in the future.
+
+They are an important part of Berkshire, but they have absolutely no predictive value or analytical value on a quarterly basis or an annual basis. And I just hope that nobody gets misled in some quarter when stocks are down and people say, “Berkshire loses money,” or something of the sorts. It’s really a shame that the rules got changed in that way, but we will report.
+
+But we will also explain, and we will do our best to have the press understand the importance of focusing on operating earnings, and that we do not attract shareholders who think that there’s some enormous gain because in the first quarter the stock market was up.
+
+There’s one other footnote to these figures that I should point out. It’s already been picked up by the wires from our 7 o’clock filing.
+
+We report on Kraft Heinz, of which we own about 27 percent or so. We report on what they call the equity method. Now, most stocks, when you get dividends, that goes into our earnings account, and their undistributed earnings don’t affect us. They affect us in a real way, but they don’t affect us in an accounting way.
+
+We are part of a control group at Kraft Heinz, so instead of reporting dividends, we report what they call equity earnings.
+
+Kraft Heinz has not filed their 10K for the 2018 year with the SEC. And therefore, they have not released the first quarter of 2019 earnings. Now, normally, we would include our percentage share of those earnings, and we’ve done that every quarter up till this quarter. But because we do not have those figures, we’ve just — we’ve not included anything.
+
+We received 40 cents times — $130 million of dividends in the first quarter from our shares, but that reduces our carrying basis and it is not reflected in the earnings. So, that’s an unusual item which we have mentioned, specifically pointed out in our press release as well as included in our own.
+
+But there is nothing in here, plus or minus, for Kraft earnings, Kraft Heinz earnings this year, whereas there was last year. And when we have the figures, obviously we will report them. Let’s see what beyond that I want to tell you.
+
+**4. Berkshire signs 20-year lease for its Omaha headquarters**
+
+WARREN BUFFETT: I think — oh yes, I’d wanted to mention to you, the Kiewit Company, which has been our landlord since 1962 — 57 years — has owned the building in which Berkshire is headquartered.
+
+Kiewit Company is moving their headquarters and, in the process, will be doing something with the building. And they very generously, as they always have been, they came and said, “What kind of a lease would you like? Since we’re leaving, and we’ve always sort of worked these things out as we’ve gone along.” And so Bruce Grewcock, who runs Kiewit, said, “You just sort of — you name your terms and what you’d like. So, you — no matter with happens with the building, you’re all set.”
+
+So, I was about to sign a ten-year lease for the present space, but Charlie said, “Ten years might be long enough for me but,” he said he would like me to sign one for 20 years, considering.
+
+And — so we are entering a 20-year lease, and I confess to you that we now occupy one full floor, as we have for decades, and the new lease provides for two floors. So, I just want you to know that your management is loosening up just a little bit. (Laughter)
+
+And whether or not we fill them is another question. But we will have that, and I would like to say to Omaha that I think the fact that Berkshire has signed up for 20 years is very good news for the city over time. It — (Applause) OK.
+
 **5. Berkshire employees pitch in for annual meeting**
 
 WARREN BUFFETT: And now I would like to tell you something about the people that make all of this possible. This is totally a — this is a homegrown operation.

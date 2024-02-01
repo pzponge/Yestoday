@@ -1,3 +1,1337 @@
+**2021 meeting**
+
+**Part1**
+
+**1. Good morning from Los Angeles**
+
+WARREN BUFFETT: Good morning. It’s 11:30 — or 10:30 here in Los Angeles, and we’re going to hold our second virtual annual meeting of Berkshire Hathaway. We did it in Omaha last year on short notice. We had more warning this time. And so, we came to Los Angeles.
+
+And the reason we’re doing it from here is because of the man on my left. Not because he asked for it, but because all of us wanted to do it with Charlie in — here in Los Angeles.
+
+So, I’ll introduce the three vice chairmen of Berkshire in a minute.
+
+I’ll show you the first quarter earnings. We won’t take much time on that.
+
+I’ll have one or two very short lessons for, perhaps, the new investors, who are — not necessarily in Berkshire Hathaway — but people who have entered the stock market in the last year. And there’s — I think there have been a record number that have entered the stock market. I’ll have a couple of little examples for them.
+
+And then we’ll swing into a Q&A led by Becky Quick, who’s looked at thousands of questions that have been submitted to her. But more can be submitted during this meeting. And we will put up on camera, from time to time, the way you can communicate directly with her if you want to send questions in during the meeting.
+
+She got flooded with them last time. And she miraculously keeps sorting them out. And so, feel free to send in a question. And we will have a question period for about three and a half hours.
+
+And then we will finally have the annual meeting, which won’t take long, at the end.
+
+**2. Charlie Munger introduction: He’s lived in the same house for 62 years**
+
+WARREN BUFFETT: So, with that, I would like to first introduce the three vice chairmen of Berkshire Hathaway. I’ll tell you just a little bit about them. And then I’ll have a mild surprise for you at the end, perhaps.
+
+On my left is Charlie Munger. And I met Charlie 62 years ago. He was practicing law in Los Angeles.
+
+He was building a house at that time a few miles from here. And 62 years later, he’s still living in the same house.
+
+Now that’s kind of interesting, because I was buying a house just a few months before, 62 years ago. And I’m still living in the same house. So, you’ve got a couple of fairly peculiar guys, just to start with, in terms of their love affair with their homes.
+
+And Charlie and I hit it off immediately. And I would say he’s probably the vice chairman in charge of culture, among other things.
+
+But, if I ever want to get questions about where true north is, I talk to Charlie. And he has been an enormous help. He’s done it with a lot fewer hours and a lot less talking and everything than I have. But he’s contributed in an incredible way to Berkshire.
+
+So, Charlie’s been out here in Los Angeles for 60-plus years.
+
+**3. Greg Abel introduction: He plays hockey**
+
+WARREN BUFFETT: On my right, your left, I have the vice chairman in charge of everything except insurance and investments, Greg Abel.
+
+Greg was born and raised in Edmonton, Alberta. He’s Canadian. Plays hockey. His eight-year-old plays hockey.
+
+And he came to the United States sometime after he graduated from college in Canada. And he is in charge of a business which has well over 150 billion in sales and employs 200 — more than 250,000 — probably 275,000 people. And does a much better job at doing that than I was doing previously.
+
+**4. Ajit Jain introduction: He’s learned a lot about insurance**
+
+WARREN BUFFETT: And on my far left, your right, we have Ajit Jain. And Ajit was born and raised in India, and graduated from college there.
+
+And I met Ajit on a Saturday in 1986. And I’d been in the insurance business — Berkshire had been in the insurance business — for quite a while. And I was kind of stumbling around in various ways. And Ajit came to the office. And Saturday, I was opening the mail.
+
+And I said, “How much do you know about insurance?” And he said, “Nothing.” And I said, “Well, nobody’s perfect. And let’s (laughs) talk about it some.”
+
+And by the end of the morning, I knew I had somebody that was going to build a great insurance business. And starting from that point, this improbable little company in Omaha became the largest property-casualty company in the world, in terms of net worth.
+
+It writes risks — it writes risks, occasionally, in a 24-hour period that other companies simply couldn’t take on themselves. They’d have to assemble other people. It would take them a long time to come to a decision. That was very important at various times in the past. It’s not so important now.
+
+But he’s built an incredible — the world’s leading property-casualty insurance company.
+
+**5. We all lived in Omaha at one point**
+
+WARREN BUFFETT: So, here we have Charlie from LA, 60-some years. We’ve got Greg from Canada. We’ve got Ajit from India.
+
+And the one thing in common that these three fellows have, aside from working for Berkshire and doing a sensational job, the one thing in common is that at one time or another, for some extended period, they lived within a mile of me in Omaha, Nebraska.
+
+And Charlie, in 1934, moved about a hundred yards away from where I now live. And went through high school and eventually went in the service. And knows the neighborhood as well as I do. Went to the same grade school my kids went to and so on.
+
+Greg spent significant time in — living in Omaha. Lived about five or six blocks from me. And now lives in Des Moines. And Ajit was in Omaha about a mile away for a couple years.
+
+So, we started in very different places, and sort of came together, and now go our separate ways, but it’s all worked very well.
+
+I would — and you’ll hear from them during this meeting — I urge you to send questions if you’re (unintelligble), then you can direct them to me, or you can direct them to anyone of the other three.
+
+And it will be a big relief to me if you direct a fair number to the other people.
+
+**6. Read the 10-Q, but don’t focus on the net earnings**
+
+WARREN BUFFETT: So, we this morning, as we always do — we always do it on Saturday — we published our 10-Q, which gave the quarterly earnings. It’s up on our website, BerkshireHathaway.com.
+
+And it’s very interesting. We put these out on Saturday morning. That’s not because the media likes us to do it that way. It’s not because the analysts like to do it that way. But we want to give you the maximum time to digest an awful lot of information that’s in that 10-Q.
+
+It can’t be summarized in a perfect way. We’ll give you some summary figures. But if you’re really a student of the place — and most of our investors buy because they simply have faith in these other three fellows to do a good job — and that’s not a misplaced faith.
+
+But if you really enjoy going into the details and you want to understand the nuts and bolts of Berkshire Hathaway’s various operations, you should read that 10-Q.
+
+And it’ll take you — it may take you a couple of hours. I mean, it’s not a small investment of time. But it’s got a lot of information about all our various businesses. And for those of you who are business students of a sort, I recommend you go to it.
+
+The summary figures you see here, which are the ones we put in our press release, show kind of an interesting pair of numbers.
+
+I mean, down there at the bottom, you know, we have last year. When you see those brackets around numbers, you know, you’ve got to start worrying. (Laughs)
+
+And first quarter, we actually showed a loss of almost $50 billion. I never thought I’d ever see a figure like that.
+
+And was thinking back. I was trying to remember whether I’d gone on vacation during that quarter and turned things over to the other guys or what. But I checked the calendar, and that was me. (Laughs)
+
+And that figure this year is a positive figure of 11.7 billion.
+
+And neither figure is very meaningful in itself. The (Financial) Accounting Standards Board, a few years ago — for many, many, many, many years, unrealized gains or losses of a company like Berkshire were made adjustments to the net worth of Berkshire, but they did not run through earnings.
+
+And a few years ago, the rule was changed so that every time stocks go up or down, it goes through our earnings account.
+
+So, in the first quarter of last year, when stocks went down a lot, we had a huge sum of unrealized — well, it was a reduction of unrealized gains, largely. (Laughs)
+
+And when you start saying things like that, you start losing people. But —
+
+That item is a mild plus this year.
+
+But if you — if we reported earnings daily, you would see earnings one day of 3 billion. Next year — day — of minus 2 billion.
+
+And it’s an accounting treatment that we don’t think is particularly appropriate, but it’s required. And we explain, very carefully, both in our press releases — there we got to explain — and I try to write in my letter and explain why I don’t think that’s the way to look at Berkshire.
+
+We think, over time, that we will have investment gains for reasons I lay out in my letter.
+
+Over a period of time, the companies we own stock in retain earnings. And they use those reinvested earnings, usually, to our benefit. And that shows up in capital gains someday.
+
+But reported earnings for a company that has a lot of common stocks — marketable stocks — like ours, you don’t want to look at that final line, and you do want to look at the operating earnings line.
+
+Now, I would say that if you had taken the first two months of last year and compared to the first two months of this year, those figures would have been quite comparable.
+
+But, of course, in March of 2020, the economy was shut down, in effect. I mean, it was a self-induced recession. And an abrupt one, very abrupt.
+
+And so, the economy went off a cliff in March. It was resurrected in an extraordinarily effective way by Federal Reserve action. And later, on the fiscal front, by Congress. And we’ll get into that later, but —
+
+The figure you see that — the difference was March, basically, of the two.
+
+And our businesses have done — we’ll get into more specifics later — but our business has done really quite well. This has been a very, very, very unusual recession, in that it’s been localized, as to industry, to an extraordinary extent.
+
+And right now, business is really very good in a great many segments of the economy, which we’ll talk about later. But there’s still problems if you’re in a few types of business that really have been decimated. You know, such as international air travel or something of the sort.
+
+So, with that, we’ll go back to the figures later on, perhaps in some of the questions.
+
+**7. Lesson for new investors: Extraordinary things can happen**
+
+WARREN BUFFETT: I would like to just go over two items that I would like — particularly new entrants to the stock market — to ponder just a bit before they try and do 30 or 40 trades a day in order to profit what — from what looks like a very easy game.
+
+So, I would like to go to slide L-1. So, put that up.
+
+And these, on March 31st, I ran off a list of the 20 largest companies in the world, by stock market value.
+
+And those names — a good many of which will be familiar to you — but they were led by Apple at slightly over 2 trillion. And it went down to the number 20th was worth 330-odd billion.
+
+But those are the 20 largest companies in the world, by market value, on March 31st.
+
+Now if I had a little — I was hoping I could get a little quiz machine so I could have everybody weigh on this answer, and we could flash it up a little later, but that proved technically impossible for — but what I would like you to do is look at that list.
+
+It starts off with Apple, and Saudi Aramco is a pretty kind of a specialized country — company. I don’t know whether it’s 95% owned by the government or what, but it’s essentially a country that’s for sale there (laughs), in terms of that business.
+
+But the top — of the top six companies, five of them are American. So, when you hear people say that America hasn’t done — you know, it’s got all the — it’s not working very well or something of the sort — you know, in the whole world, of the six top companies in value, five of them are in the United States.
+
+And if you think about it — you know, we talked a little about this last year — but in 1790, we had one-half of one percent of the world’s population — a little less — we had four million people, 3.9 million people. Six-hundred thousand of them were slaves.
+
+Ireland had more people than the United States had. Russia had five times as many people as the U.S. did. Ukraine had twice as many people as the United States.
+
+So, here we were, well, what did we have? We had a map for the future, an aspirational map, that somehow, now only 200 and — well, after the Constitution — 232 years later, leaves us with five of the top six companies in the world. You know, that’s not an accident.
+
+And it’s not because we were way smarter, way stronger, you know, anything of the sort. We had good soil, decent climate. But so do some of those other countries I named.
+
+And the system has worked unbelievably well. Just imagine thinking of five of the top six companies in the world ending up with a country that started with a half of one percent of the population just a few hundred years ago.
+
+But what I would like you to do is look at that list for a minute or two, if you want to. And then make an estimate, make your own guess. How many of those companies are going to be on the list 30 years from now?
+
+Here they are. These powerhouses. How many would you guess are going to be on the list?
+
+Well, you know, it’s not going to be all 20. It may not even be all 20 today or tomorrow. (Laughs) This was March 31st.
+
+But what would you guess? And think about that yourself. Would you put down five? Eight?
+
+Well, whatever it would be, I would now invite you to look at slide two — or L-2 — which goes back a little more than 30 years. And look at the top 20 from 1989.
+
+And if you look at the top 20 from 1989, there’s two things that should grab your interest. At least two.
+
+None of the 20 from 30 years ago are on the present list. None. Zero.
+
+There were then six U.S. companies on the list. And their names are familiar to you. They have General Electric. We have Exxon. We have IBM Corp. And these are — they’re still around. Merck is down there at number — none made it to the list 30 years later. Zero.
+
+And I would guess that very few of you, when I asked you to play the quiz a little — a few minutes ago — would have put down zero. And I don’t think it will be zero.
+
+But it is a reminder of what extraordinary things can happen. Things that seem obvious to you.
+
+Japan had this wonderful bull market for a very long time. So, you had a number of Japanese companies on the list. Today there are none.
+
+And the United States had the six. Now we have 13. But they aren’t the same six.
+
+I would invite you to think about one other thing as you look at this list.
+
+1989 was not the dark ages. And we weren’t just discovering capitalism or anything else. And people thought they knew a lot about the stock market. And the efficient market theory was in. And they were — it was not a backward time.
+
+And if you look, the top company at that time had a market value of 100 billion, 104 billion.
+
+So, the largest company in the world, of title, in just a shade over 30 years, has gone from 100 billion to 2 trillion.
+
+At the bottom, the number 20 has gone from 34 billion to something a little over ten times that.
+
+Well, that tells you something about what’s happened with equality, which is a hot subject in this country.
+
+It tells you a little bit about inflation. But this was not a highly inflationary period, as a whole.
+
+But it tells you that capitalism has worked incredibly well, especially for the capitalists. And it’s a pretty astounding number.
+
+Do you think it could be repeated now that — 30 years from now — that you could take 2 trillion for Apple, and multiply any company, and come up with 30 times that for the leader?
+
+You know, it seems impossible. And maybe it is impossible.
+
+But that just — we were just as sure of ourselves as investors — and Wall Street was — in 1989 as we are today. But the world can change in very, very dramatic ways.
+
+And I’ll just give you one other example you might ponder.
+
+This is — when you start feeling too sure of yourself —
+
+One thing it shows, incidentally, is that — it’s a great argument for index funds — is that, you know, the main thing to do was to be aboard the ship — you know, a ship.
+
+You know, they were all going to a better promised land — you used to know which one was the one they’d necessarily get on — but you couldn’t help but do well if you just had a diversified group of equities — U.S. equities would be my preference — to hold over a 30-year period.
+
+But if you thought you knew a lot about which ones to pick, or the person that you had hiring, you were paying a lot of money to, had all these ideas.
+
+And I could tell you their best ideas in 1989 did not necessarily do that well. Although, overall, equities were absolutely the place to be.
+
+**8. Lesson for new investors: Picking winners isn’t “as easy as it sounds”**
+
+WARREN BUFFETT: Secondly, people get enormously attracted to various industries. I mean, they think if — they think if you know — if a company says it’s in the XYZ industry and that’s a popular one, you can sell IPOs, you can sell SPACs, you can — people disregard sales numbers, earnings numbers — that just, you know, it’s the place to be.
+
+So, Berkshire Hathaway — where was the place to be in 1903 when — my dad was born in 1903, but that wasn’t really that big of news — but it was big news that actually Henry Ford was starting the Ford Motor Company. He’d failed a couple of times before. But he was about to change the world.
+
+I mean, the auto — when you think about everything — we’ve got a great auto insurance company. (Laughs) If there weren’t any autos, we wouldn’t have GEICO, the —
+
+But it’s transformed the country. And Henry Ford brought in the $5 daily wage, and that was a huge thing. Assembly lines — I mean, everything autos came along.
+
+So, let’s just assume that you had seen a quick glance back in 1903 of all the interstate highways, 290 million vehicles on the road in the United States. You know, everything about it.
+
+And you said, “Well, this is pretty easy. It’s going to be cars. It’s going to be autos.”
+
+Well, Berkshire — let’s see what we’ve got up there. Yeah, no, stay where you were. Go back. (Laughs) I don’t want to change slides yet. The — go back to the L’s — the —
+
+Berkshire, by accident — well, we own a company called Marmon. We bought it from the Pritzker family some years ago. The Pritzkers had built this business from many, many, many companies that they’d acquired. And the name of their company was Marmon.
+
+And I don’t know exactly why Jay and Bob decided to name it Marmon. But they did own a company called Marmon.
+
+And the Marmon Company had — getting slightly ahead of me on the slides again, but that’s OK — the — we called it — it was — they owned this company Marmon, which, in 1911 had been the company whose car won the first Indianapolis 500.
+
+And maybe that’s why they called it Marmon. They were proud of the fact that the company in 1911 named the — won the first Indianapolis 500.
+
+It also was the company that invented the rearview mirror. I’m not sure whether that was a big contribution to society. Certainly, around your household — (laughs) — a rearview mirror, you don’t want to emphasize too much.
+
+But they — the car that was entered in the Indianapolis 500, the guy who normally sat next to the driver and looked backwards to tell what the competitors were doing, he was sick, so they invented the rearview mirror.
+
+So, let’s just assume that you had decided that autos were this incredible thing. And someday, there’d be an Indianapolis 500. And someday, they’d have rearview mirrors on cars. And someday, 290 million cars would be buzzing around the United States — or autos — they’re counting trucks there.
+
+And so, I decided to look at the history. And I thought I’d put up the list of auto companies from over the years.
+
+And I was originally going to put up just the ones that were the M’s, so I could get them on one slide. But when I went to the M’s, it went on and on and on.
+
+So, I just decided to put up the ones that started with M-A. And as you can see, there were almost 40 companies that went into the auto business — just starting with M-A — including our little — our Marmon there in the middle column, which lasted for a while, quite a while. It was selling cars in the 1930s (that) were really quite special.
+
+But in any event, there were at least 2,000 companies that entered the auto business, because they clearly had this incredible future. And, of course, you remember, that in 2009, there were three left. Two of which went bankrupt.
+
+So, there’s a lot more to picking stocks than figuring out, you know, what’s going to be a wonderful industry in the future.
+
+The Maytag Company put out a car. Allstate put out a car. DuPont put out a car. I mean, there was a Nebraska Motor Company.
+
+Everybody started car companies, just like everybody’s starting something now that can be — where you can get money from people.
+
+But there were very, very, very few people that picked the winner, got the opportunity.
+
+At Ford Motor, Henry Ford had a few partners, and he didn’t like them, so he figured a way to buy them out. That was sort of the — that was one — is sort of the beginning of the auto finance. That’s a long story, but we won’t get into that.
+
+But you couldn’t buy into Ford Motor. And, of course, General Motors became the dominant company, finally, when Henry Ford did not really make the shift from the Model T to the Model A very — it did not work very well.
+
+So, I just want to tell you, it’s not as easy as it sounds.
+
+**9. Q&A begins**
+
+WARREN BUFFETT: And with that, we will go to Becky Quick. And she will ask any of the four of us questions she has selected, and which we don’t — she doesn’t share with us.
+
+And we will do this for a considerable period of time. So, you can be sending in questions to her. And then later on, after about three and a half hours, we will have the annual meeting, which won’t take long. So, Becky, over to you.
+
+**10. “I still wouldn’t want to buy the airline business”**
+
+BECKY QUICK: Thanks, Warren. And hello to everybody.
+
+This first question that came in, came in from Andy Cies. He says he’s the owner of not nearly enough B shares.
+
+He says, “Mr. Buffett, you’re well known for saying to be fearful when others are greedy and be greedy when others are fearful. But, by all appearances, Berkshire was fearful when others were most fearful in the early months of COVID, dumping airline stocks at or near the low, not taking advantage of the fear gripping the market to buy shares of public companies at exceptional discounts, and being hesitant to buy back significant amounts of Berkshire stock at very attractive prices.
+
+“I’d appreciate hearing your thoughts surrounding this time and how Berkshire approached its decision making, specifically after it was assured, through the CARES Act, that the government would provide a robust backstop to the financial markets.”
+
+WARREN BUFFETT: Well, it wasn’t until late — until both monetary and fiscal policy kicked in — well, you knew we had an incredible problem. And I am, just as Charlie is the chief culture officer, I’m the chief risk officer of Berkshire. That’s my job. We hope we do well, but we want to be sure we don’t do terribly.
+
+But we didn’t sell a substantial amount. I mean we’re a company with six, probably $700 billion worth of businesses, some we own in their entirety, some we own a piece of.
+
+And I don’t know whether we were sellers of maybe 1% of the value of all the businesses we had at that period.
+
+But the airline — it’s kind of interesting with the airline businesses, in particular. And I’ll get to what was done in fiscal and monetary policy.
+
+But we had a few people at various subsidiaries of Berkshire that wanted to go in for help from the government.
+
+And, in some cases, they had minority shareholders who owned a few percent, and they said, well, this — you know, we’re going to get killed by what’s happening with the regulations that are being put out and that were stopping the economy. And they said everybody’s going in for them, and why don’t we go in?
+
+I said, you know — (laughs) — Berkshire can handle it. This is for people that can’t handle what’s happening. And so, we’re not applying.
+
+But the airlines were the most prominent beneficiaries of what took place immediately. They got 25 billion, initially, most of which went to the big four airlines, and some of which went is as grants, not loans.
+
+And, you know, I think that was fine public policy. I think it — I wished it could go to every restaurant and dry cleaner and every small business that really was out of business and had no — I mean they were made toast of, you know, basically.
+
+But the airlines — clearly, what happened was not their fault in any way, shape, or form. It wasn’t like 2008 and ’09 when people blamed the banks and hated to see them helped. So, it was —
+
+Now, airlines operate in bankruptcy. So, it isn’t like that — three of the four big ones, as we know, went through bankruptcy within the previous 10 or 15 — so the airlines that were kind of used to operating in bankruptcy, they would have kept operating.
+
+But it was perfectly proper for the airlines to be helped. The entire airline business, you know — you look at these figures of 2 trillion for Apple and so on — the entire big four airlines, they sold for about $100 billion, almost — I mean it’s a very, very small — combined, they wouldn’t come close to making the cut. I mean, they wouldn’t be in the top 50.
+
+So anyway, they went into the government. They needed the government help, or they needed — or they would go bankrupt, some of them.
+
+And really the Congress, but (Treasury Secretary) Steve Mnuchin, too, they decided they deserved the help, which I do not quarrel with at all.
+
+But imagine if Berkshire was the 10% holder, which they had been, of everyone in the airlines, they said, “Take it up in Berkshire.” (Laughs)
+
+It’s — it would be like one of our — they would have had — they might have very well had a very, very, very different result if they’d had a very, very, very rich shareholder that owned 8 or 9%. And they didn’t have that. You know, when they went in.
+
+So, our — you might not have gotten the same result.
+
+In fact, I would think you probably wouldn’t. I mean, I can just see the headlines now. I mean, you know, because you’ve seen the headlines on some companies that took a hundred million or two, you know, and really didn’t need it. And some of them gave it back — most of them gave it back.
+
+But you were looking — you’re actually looking at probably a different result than if we’d kept our stock.
+
+But in any event, an industry that was really selling for less than a hundred billion dollars lost a significant amount of money. They lost prospective earning power. I mean right now, they’re — you know, international travel’s not come back.
+
+But I would say, overall, to — the economic recovery has gone far better than you could say with any assurance.
+
+So, we didn’t like having as much money as we had in banks at that time. So I cut back some of the bank investment.
+
+But basically, our net sales were about 1% or one and a half percent.
+
+And looking back, you know, it would have been better to be buying. But what — I do not consider it a great moment in Berkshire’s history. But also, we’ve got more net worth than any company in the United States, under accounting principles. And we’ve got six or 700 billion of generally good businesses.
+
+And I think, as I think, I think the airline business has done better because we’ve sold, and I wish them well.
+
+But I still wouldn’t want to buy the airline business (laughs). International — people really want to — they want to travel for personal reasons, and business travel is another thing.
+
+And we’ve got a big exposure to business travel, of course, through the fact that we own 19% of American Express and we own Precision Castparts, which services the air business.
+
+So, we’ve still got a big investment in air travel, a big commitment to it.
+
+But we wish the big four the best. And I think their managements have done a very good job during this period.
+
+**11. Why Berkshire didn’t buy stocks when the pandemic pushed prices lower**
+
+BECKY QUICK: More specifically, beyond the airlines, though, just the idea of — and this came from several questions, too, including one from Chris Blaine (PH). Just —
+
+“You spent years accumulating cash, insisting you had your elephant gun ready. The March 2020 listed equity selloff came with promises from the U.S. government that they would do what it takes. Yet, you sat on your hands. Please help me understand what I missed.”
+
+WARREN BUFFETT: I didn’t get quite the last part. What was the final question?
+
+BECKY QUICK: Just, “Please help me understand what I missed.” Why — why didn’t you use more of the cash at hand?
+
+WARREN BUFFETT: Oh. Well, we have about — our cash on hand has been about 15% of our values — of our businesses — and that’s a healthy chunk.
+
+And I say it’ll never get below 20 billion, but we’re going to raise that number, because it’s just the size and importance of Berkshire is —
+
+But we could have deployed 50 or 75 billion, and right before the Fed acted. I mean, we hit a point where the calls were — two calls came in. But there was two or three days that nothing could happen. When (Federal reserve Chair) Jay Powell acted as he did, that was incredibly important — I mean, I should say the Fed acted as they did — but they moved with a speed and a decisiveness on March 23rd that changed the situation where the economy had stopped.
+
+The government bond market was even disrupted. Berkshire Hathaway probably could not have gone out with a debt offering the day before.
+
+It didn’t get a lot of publicity at the time, but there was a run on money market funds, a very substantial run. And — if you look at the numbers — daily numbers on that — it was a repeat of September 2008.
+
+And this time — I give great credit to what (then-Federal Reserve Chair Ben) Bernanke and (then-Treasury Secretary Henry) Paulson did — but this time, the Fed knew that saying whatever it takes, and saying it and demonstrating it — which they did on March 23rd — they took a market where Berkshire couldn’t sell bonds on the day before and turned it into one where Carnival Cruise Lines or something (laughs) could sell it a day or two later.
+
+And there was, you know, this record issuance of corporate debt. And companies losing money, companies who were closed, whatever. It was the most dramatic move that you can imagine.
+
+And at the time, as I remember the chairman saying, you know, how about a little help on the fiscal front?
+
+And then Congress acted very, very big. Again, in 2008 and ’09, they argued about, you know, we don’t want to give any money to those dirty banks and all that sort of thing. But this time, there really wasn’t anybody to blame. So, they saw what was necessary, and Congress responded.
+
+So, you had fiscal and monetary policy that responded in a way that was incredible. And it did the job. And it did, I think, it did a better job (laughs) than either the Fed or the Treasury or anybody expected.
+
+I mean this economy right now is — 85% of it is running in super-high gear. And people can’t — you know, and you’re seeing some inflation and all of that. It’s responded in an incredible way.
+
+And we learned something out of 2008 and ’09, and then we applied it. But I don’t think it was a sure thing that would happen.
+
+And the one thing about Berkshire is we never want — we don’t want to depend on anybody. We’re not a bank. We can’t go to the Federal Reserves if we need money.
+
+And we’ve got to be sure that, under any circumstances — any circumstances — we can’t solve nuclear war, and maybe we can’t, you know — but, you know —
+
+Blanche DuBois, if you remember, in (Tennessee Williams’ 1947 play) A Streetcar Named Desire, said, “I depend on the kindness of strangers.” You can’t depend on the kindness of your friends if things have really stopped. I mean I’ve seen that in several different places.
+
+And we were start — we were seeing it on March — in the middle of March. Everybody was drawing down the credit lines. The banks did not expect that. They just weren’t sure they were going to be able to draw down their credit lines ten days later. And so, they just drew them down, and they took the money out of money market funds.
+
+We got very prompt — I give great credit, on both the monetary and fiscal side, to what was done.
+
+But I didn’t think it was a sure thing it would happen. And I didn’t know how it would be implemented. And it’s worked — I think it’s worked better than just about anybody has expected. And I think — well, you’re seeing it now.
+
+You know, Charlie’s got some views on this, too. So, we shouldn’t leave him out of it. (Laughs)
+
+CHARLIE MUNGER: Well, it’s crazy to think anybody’s going to be smart enough to husband money and then just come out on the bottom tick in some crazy crisis and spend it all.
+
+There always is some person that does that by accident. But that’s too tough a standard. Anybody expects that of Berkshire Hathaway is out of his mind.
+
+WARREN BUFFETT: Yeah, Charlie and I never were very good at dancing. But we really can’t do that dance. (Laughs)
+
+CHARLIE MUNGER: No, no, we can’t. And by the way, almost nobody else can, either.
+
+WARREN BUFFETT: Not with tens of billions.
+
+CHARLIE MUNGER: No.
+
+WARREN BUFFETT: Or hundreds of billions.
+
+But it’s worked out.
+
+Well, we forgot to show one of the financial sides, actually, if you go back to the balance sheet. But we did buy in, in the first — you’ll see the shares outstanding if we go back to — what is it, E3?
+
+BECKY QUICK: E2. They look —
+
+WARREN BUFFETT: Slide.
+
+BECKY QUICK: E2.
+
+WARREN BUFFETT: Pardon me?
+
+BECKY QUICK: I think it’s E2, isn’t it?
+
+WARREN BUFFETT: Well — the balance sheet. Yeah, there it shows the shares outstanding at the bottom. And we have — we have — we spent about 25 billion in the first quarter, and more money since.
+
+And we’ve — it’s the best thing — we can’t buy companies as cheap as we can buy our own. And we can’t buy stocks as cheap as we can buy our own. So — and we’ve been able to do that with a fair amount of money.
+
+But looking back, I mean if you — you know, definitely, we could have done better things. (Laughs)
+
+We would have sold the — we would have sold airlines and cut back on banks regardless.
+
+Whether we should have bought something else at the same time is another question.
+
+**12. Why Buffett doesn’t recommend buying Berkshire stock**
+
+BECKY QUICK: This question comes from a long-term shareholder who’s been here for more than 25 years. His name’s Ben Knoll. He’s from Minneapolis, Minnesota.
+
+And he says, “Mr. Munger and Mr. Buffett, after a 15-year period of market underperformance, you’re cautious about predicting Berkshire being able to outperform the market in the future.
+
+“Given this, what do you see as the arguments for long-time shareholders to continue holding their stock versus diversifying their risk across an index?”
+
+WARREN BUFFETT: Charlie, you want to answer that?
+
+CHARLIE MUNGER: Well, sure. Well, I personally prefer holding Berkshire to holding the market, so —
+
+BECKY QUICK: Because?
+
+CHARLIE MUNGER: I’m quite comfortable holding Berkshire. I like — I think our businesses are better than the average in the market.
+
+BECKY QUICK: Is it because you don’t think the market values it fairly?
+
+CHARLIE MUNGER: Well, these are just accidents of history and things are fluctuating at all times.
+
+But on a composite basis, I’d bet on Berkshire over the market. And that’s assuming we’re all dead.
+
+WARREN BUFFETT: B, I recommend — I recommend the S&P 500 index fund — and I have for a long, long time — to people.
+
+And I’ve never recommended Berkshire to anybody. Because I don’t want people to buy it because they think (laughs) I’m tipping them into some — never. I mean, no matter what it was selling for.
+
+And, you know — I’ve made it public, you know — on my death, there’s a fund for my then-widow, and 90% will go into an S&P 500 index fund and 10% in Treasury bills.
+
+On the other hand, I’m very happy having my future contributions to a group of charities, that’ll be spread over 12 years or so after my death, to stay in Berkshire.
+
+I think the odds are — Berkshire is — you know, I like it, but I’m not —
+
+I do not think the average person can pick stocks. We happen to have a large group of people that didn’t pick stocks, but they picked Charlie and me to manage money for them 50 or 60 years ago.
+
+And so we have a very unusual group of shareholders, I think, who look at Berkshire as a lifetime savings vehicle, and one they don’t have to think about, and one that, you know, if they don’t look at it again for 10 or 20 years, that will have taken care of their money reasonably well.
+
+But that — I wouldn’t argue that the S&P 500, over time — I would — I prefer — I like Berkshire.
+
+But I think that the — a person who doesn’t know anything about stocks at all and doesn’t have any special feelings about Berkshire, I think they ought to buy the S&P 500 index.
+
+**13. Why Buffett’s will calls for his wife’s inheritance to be invested in an index fund**
+
+BECKY QUICK: As a follow-up to that, Gerald Silver writes in. He says, “The trustees of your estate — I believe you’ve directed the trustees of your estate to invest substantial assets into the index fund. Isn’t that a vote of no confidence to your managers?”
+
+WARREN BUFFETT: Well, no, because we’re talking about way less than one percent of my estate. (Laughs)
+
+And one thing I’m going to do, incidentally — I mean all rich people get advised by their lawyers to set up trusts so that nobody can see your will and all that sort of thing.
+
+My will’s going to be public record. And you can — you’ll be able to check at some point whether I’ve been telling you the truth (laughs) about what is going to get done.
+
+But 99.7%, roughly, of my estate will either go to philanthropies or to the federal government.
+
+And before it does it, I think Berkshire is a very good thing to hold. But for a given individual, particularly my wife, I just think that having a tiny fraction — which is all it takes for her to do very well for the rest of her life — I just think that the best thing to do is buy 90% in an S&P 500 index fund.
+
+Now, the index fund people, naturally, have started — over time — they market more and more products that go to other indices and everything. So, they’re really starting to say to the American public, they’re saying, well, you can pick what continent to invest in, or you can pick what industry (laughs) and we’ll sell you something for that.
+
+And when they just have gotten through telling them, you know, you really don’t know anything about stocks, just buy the whole index. (Laughs)
+
+So, I name the 500 index as one.
+
+But it’s a tiny portion, but it will be her livelihood, and she’ll have all the money she needs, and way beyond it, and that’s that.
+
+But I don’t mind having the 99.7% — a large portion of it — assuming the laws are the same as now — that go to philanthropy, to be kept in Berkshire until they finally are disposed of.
+
+**14. “Chevron is not an evil company”**
+
+BECKY QUICK: This question comes from Andrew Dixon in the UK.
+
+He says, “My question is in relation to the oil and gas business and your purchase of Chevron stock.
+
+“When being asked a question on tobacco stocks in 1997, you mentioned that individuals and companies occasionally have to draw moral lines about what they’re willing to do.
+
+“You stated at the time that you were not comfortable in making a big commitment in tobacco stocks, and that you were uncomfortable about their prospects.
+
+Charlie has also referenced passing up on a private tobacco deal that you both knew was a cinch, yet you both have no regrets in saying no to the transaction.
+
+“I’m not suggesting that the oil and gas business has the same known negative externalities as cigarettes. They do not. With tobacco, the cause and effect relationship between the products and career is direct, obvious, and measurable. With hydrocarbons, the societal costs and benefits are far more complex to evaluate.
+
+“However, an increasing portion of society is drawing their lines in such a way that their painting does not include hydrocarbons, period.
+
+“My question is: has the alarmism from the climate community now become pervasive across society to the extent it has become irrational?
+
+“Have we built our own unrealistic consensus on the pace of change achievable with regards to the transition to greener energy sources to the extent that this is becoming an overly expensive tax worn by the current younger generation?”
+
+“Can we gather from your purchase of Chevron stock that you do not believe the howling from society, regulators, and politicians will impair the prospects of hydrocarbons, and Chevron for that matter, in the next ten years?
+
+“Can investors still assume an oil and gas business that finds and produces oil at low cost per barrel can generate a sufficient return on capital for a long time to come?”
+
+WARREN BUFFETT: Well, (laughs), I’ll give you a ten-word answer to that. (Laughs)
+
+I can’t remember all the questions there were there. But I would say that people that are on the extremes of both sides are a little nuts. (Laughs)
+
+I would hate to have all the hydrocarbons banned in three years. You know, you wouldn’t want a world that — it wouldn’t work.
+
+And on the other hand, you know, what’s happening will be adapted to over time, just as we’ve adapted to all kinds of things.
+
+I do not think — I’m interested in that quote from 1997, because, you know, we’ve talked about this before.
+
+We have no problem owning Costco or Walmart, you know, and a substantial number of their stores, you know, they sell cigarettes. It’s big item. You know, it’s something that brings people in. They know the price of cigarettes. And, you know, they put them up front.
+
+And so, we don’t — it’s a very tough situation. We made that decision a long time ago when we went to Memphis. And we looked at a business that was a very, very good business. And it was much less harmful — at least from everything I could find out — it was much less harmful than smoking tobacco — chewing tobacco was.
+
+And these were decent people. And they were running a legal business. And they all chewed tobacco themselves. (Laughs)
+
+So, they — and they told me that their mother was 100 and chewing tobacco, and all these things.
+
+But Charlie and I did go down in the lobby of that hotel. And we just said to ourselves, “This is probably the best business we’ve ever seen.”
+
+And I called my then-son-in-law, Allen Greenberg. And he’d studied chewing tobacco and its effects when he was working for a Nader-related organization (Public Citizen). And we decided not to do it.
+
+But, you know, would we — you know, I see — I used to see ads in our paper from financial companies where I knew they were terrible, you know?
+
+And it’s a very tough thing to decide whether you get in or out of a business. And it’s a very tough time to decide what — would companies benefit society more than others. I mean it’s — I don’t know whether — I think Chevron’s benefited society in all kinds of ways. And I think it continues to do so.
+
+And I think we’re going to need a lot of hydrocarbon for a long time, and we’ll be very glad we’ve got them.
+
+But I do think that the world’s moving away from them, too. And that could change.
+
+I don’t like making the moral judgments on stocks in terms of actually running the businesses.
+
+But there’s something about every business that, if you knew it, you wouldn’t like.
+
+And, you know, meatpackers — have you ever gone through a meatpacking plant? (Laughs)
+
+You know, there’s — if you expect perfection, you know, in your spouse or in your friends or in companies, you’re not going to find it.
+
+And what you elect to do yourself — if you own an index fund, you’re going the own Chevron.
+
+And believe me, Chevron is not an evil company in the least. (Laughs)
+
+And I have no compunction about owning — in the least — about owning Chevron.
+
+And if we owned the entire business, I wouldn’t — I would not feel uncomfortable about being in that business. Charlie?
+
+CHARLIE MUNGER: Well, I agree.
+
+You know, you can imagine two things. A young man marries into your family. He’s a English professor at, say, Swarthmore, or he works for Chevron. Which would you pick, sight unseen? I want to admit I’d take the guy from Chevron. (LAUGHTER)
+
+WARREN BUFFETT: Hope your daughters agree with you. (LAUGHTER)
+
+**15. “Asinine” to make a climate report for every subsidiary**
+
+BECKY QUICK: On the other side of that argument, because there were lots of emails that came in, both — on both sides of these ESG questions.
+
+This one comes from Cristina Gallegos, who’s been a shareholder since 2018. And she says, “On items two and three of the proxy materials, the board recommended voting ‘Against’ on the shareholder proposal regarding the reporting of climate-related risks and opportunities, as well as on the shareholder proposal regarding diversity and inclusion reporting.
+
+“Berkshire is such a force for good when it comes to financial literacy and empowerment through wealth creation. Why not be a force for good and an example when it comes to these very two important — two very important issues? Please share with us more about the ‘Against’ recommendation.”
+
+WARREN BUFFETT: Well, I think maybe Greg can talk a little bit about what Berkshire has done, as opposed to — in terms of the environmental.
+
+I would say this. It’s very interesting. With everything that’s being — I think we have over a million shareholders. I mean you can’t be 100% sure because of street name and duplicate accounts and all that sort. But it certainly seems very, very likely.
+
+I’ve had — and I get the letters that are written to me. I don’t think I’ve had — I don’t think I’ve had three letters in the last year or anything from shareholders.
+
+Now, I have them — and our vote on this, as you’ll see later, is that, overwhelmingly, the people that bought Berkshire with their own money voted against those propositions. Most of the votes for it were by — came from people who’ve never put a dime of their own money into Berkshire. (Laughs)
+
+And so, they — and I don’t think they’ve read our annual reports. And I don’t think they’ve read the reports of Berkshire Hathaway Energy. And I don’t think they know. You know, if I talk about what we’re doing in high voltage transmission, we’re doing more than any company in the country.
+
+The president talked about what the government’s going to do, and how important it is, and, you know.
+
+We have a record in that’s, overall, is incredibly good.
+
+But we have a group of organizations, just generally, and they’re nice people. But they want us to answer a bunch of questionnaires their way, so they want us to go to Dairy Queen and Borsheims, and all those people, and have them fill out reports that show a bunch of figures.
+
+But the reports that count are the reports that Greg gets on Berkshire Hathaway Energy and the railroad (BNSF). You talk about three of our companies, and you’ve covered 95% of it.
+
+And it’s asinine, frankly, in my view. Now, we do some other asinine things, because we’re required to do them. So, we’ll do whatever’s required.
+
+But to have the people at, you know, Business Wire, you know, Dairy Queen, all these places, filling out reports to make up some common report that comes in — we don’t do that stuff at Berkshire.
+
+We’ve got — during the pandemic, we probably have about 12 people who come into headquarters. And we’ve got, you know, 360,000 people working in a company that — all kinds of diverse activities.
+
+And it’s built — I don’t want to get in the whole thing of it. But it’s built on autonomy.
+
+And I am probably the only CEO of an S&P 500 company that does not get a consolidated income statement every month. I mean every other company, I’ll bet, in the S&P 500, prints out the earnings they had at the end, you know, from February and March, and CEO gets and a whole bunch of other people get it.
+
+I don’t get it. I don’t need it (laughs), you know.
+
+And I can put 60 or 70 companies to a whole lot of trouble and everything. And they’d hand me something, and I know the answer to it already, and it doesn’t make any difference. I mean they’ve got the money they need.
+
+So, we don’t do things just because we’ve got a department of this or a department of that. And we don’t want to set up a lot of departments like that.
+
+And what’s important is what we’re doing in the — well, primarily at Berkshire Hathaway Energy and the railroad. I mean that’s — and I’ll let Greg tell you about that in just one second. But the —
+
+CHARLIE MUNGER: Warren, I don’t think we think we know the answer to all these questions about global warming and so forth. And the people who ask the questions think they know the answers. We’re just more modest.
+
+WARREN BUFFETT: Well, but even if we knew the answer, I mean, in terms of what we — the reports we would —
+
+CHARLIE MUNGER: Yeah.
+
+WARREN BUFFETT: —we would not collect a whole lot of things that don’t mean anything to us —
+
+CHARLIE MUNGER: No.
+
+WARREN BUFFETT: — to satisfy people who actually don’t own any stock themselves and, in many cases, I can tell they haven’t read our annual report, even.
+
+You know, we, as I point out in the annual report, and I never — nobody would have guessed this. People think we’re a bunch of guys that own stocks and all that sort of thing.
+
+Berkshire Hathaway owns, by GAAP accounting, more property plant equipment, business infrastructure — which the president just got through talking about Wednesday night — infrastructure, the importance of it — we have, measured by GAAP accounting, more than any other company in the United States.
+
+We have more than any of those companies that are on the list of the largest companies in the country, but we — and we’ve got it by a substantial margin.
+
+So, we have an investment in what makes this country move and work. Fifteen percent of the interstate goods move on our railroad. We’re building transmission.
+
+And we started, in 2006 or ’07, planning how we would close coal plants, but —
+
+You can’t close coal plants until you get the electricity from where it’s generated to the customer. And if you’re going to generate it in Wyoming, and it’s going to go to Las Vegas or someplace, and previously they had a coal plant near the place, because that was the way it was done 50 years ago or 75 years ago, you’d better have the transmission. There’s no sense having the wind blow in Wyoming and people turn around and turn on the lights in Las Vegas.
+
+So, we went at the transmission plan question a lot earlier than people were talking about it. And we’ve done — we said 16 billion or whatever it was in the annual report that we — underway. And we just added 2 billion since the annual report came out. And there’s no utility in the country that’s coming anywhere close to that. Tell them a little bit about it.
+
+**16. Abel details Berkshire Hathaway Energy’s actions on climate change**
+
+GREG ABEL: Sure, Warren. Thank you.
+
+And, really, as Warren touched on, BHE and BNSF have our — have the significant carbon footprints when you think of Berkshire.
+
+And Warren, you touched on the disclosure that we’ve provided in the past going all the way back to 2007. I did pull those two investor presentations, one from 2007, and then our most recent one in 2021.
+
+So, if we could pull up BHE-1 as a slide, I think it would just highlight, going all the way back to 2007, we’ve been doing investor presentations for what we call our fixed-income investors, and we’ve done that through — every year through 2021.
+
+We’ve provided very similar disclosures to our board on an annual basis and had discussions around Berkshire Hathaway Energy’s plans to decarbonize.
+
+Now, it’s interesting. If you go back to the 2007 fixed-income conference — and we are having a conference at that point in time — we have third-party debt, capital debt, that our utilities raise. It’s a traditional capital structure used across our regulated entities to manage our total cost to the customer.
+
+So, we have investors. We present to them, as we’re highlighting, on an annual basis. And if you go back to that 2007 investor conference, it’s interesting. In that presentation, we’re highlighting climate change, that it’s a fundamental risk. And we discussed what good policy would be.
+
+We discussed innovation. We discussed market transformation and the importance of — and the importance of setting targets, at that point in time. And we had recommendations for our industry.
+
+And then, since then, each year, we’ve presented, really, a plan and a strategy around how each of our businesses in BHE, but each of our regulated entities, how they’re going to transform.
+
+And the whole transformation has been around decarbonization, managing that risk on behalf of our stakeholders in our many states, our customers that we serve, and ultimately managing that risk for Berkshire Hathaway’s shareholders.
+
+Now, as you go through those presentations, there’s a common theme. And Warren touched on it already.
+
+You have to build the foundation first. And that foundation is around building the high-voltage — the transmission system.
+
+Warren touched on it in his annual report this year and letter. He highlighted that at Berkshire Hathaway Energy, we’ll be spending, just in the West, $18 billion on transmission. Five billion of that’s already been spent as we sit here today. And that $13 billion will be spent over the next ten years.
+
+That’s the foundation that then allows us to build incremental renewable resources and move it to our many states that we serve at Berkshire Hathaway Energy, and well beyond that.
+
+I would highlight, well — we’ve been building the transmission infrastructure in place. We have been building renewables. If you look at our investment through the end of 2020, we’ve invested $30 billion — or in excess of $30 billion — into renewables and have really completely changed the way our businesses do business, i.e. our utility businesses. They’ve been decarbonizing and delivering a valued product to our stakeholders, to our customers.
+
+And I think the — and I think the results are really amazing when you look at them, and I’ll give you a couple of reference points.
+
+If you go back to 2015, when the U.S. was discussing — excuse me — joining the Paris Agreement, very specific targets were set. Prior to those targets being set, Berkshire Hathaway Energy and 12 other companies, including the Apples of the world, Google, Walmart, committed to Paris, and that targets needed to be set. Berkshire Hathaway Energy was one of those companies in 2015.
+
+WARREN BUFFETT: Yeah, how many other utilities were there?
+
+GREG ABEL: Right. Warren, there were no other energy companies that made any type of commitment at that point in time. I’m happy to report we made a variety of pledges.
+
+Well, one of them was, at that point, we’d invested $15 billion in renewables, and that we would commit 30 billion in total. Well, we far exceeded that total now.
+
+So, there’s been a clear commitment to reduce — decarbonizing our businesses. We have focused on very identifiable, quantifiable outcomes. And I think that’s very important.
+
+If you look at the standards that were set with the — that were the original U.S. government’s commitments associated with the Paris Agreement, the target was 26% to 28% reductions in carbon footprints going back to 2005. So, that’s the reduction period through 2025. And they wanted the 26% to 28% reduction level.
+
+We committed to that at BHE. And I’m happy to report, Warren — and we’ve briefed our board — we achieved that in 2020. So, we met our pledge. And we met the commitment under the Paris Agreement.
+
+And then, if you fast forward to the discussions that are occurring right now, or have occurred, around rejoining the Paris Agreement, the current administration has proposed that, again, using 2005 as a starting point, that the emission goals for reduction should be 50% to 52% by 2030.
+
+Again, I’m happy to brief to our shareholders, and in briefings we’ve provided to our board, but Berkshire Hathaway Energy will achieve that by 2030. Our reductions will hit the Paris Agreement target.
+
+Again, the reason we can do it is we’ve built the foundation through transmission, the substantial investment that Warren’s highlighted, and then followed that up with very specific investments on the renewable side.
+
+I’ve one incremental slide that, I hope, sort of pulls it all together, and that’s BHE-2.
+
+Because, as people discuss carbon, they often go to coal units, how many you own, how many have you closed. And there’s no important — there’s no question that can be an important metric. But it is a transition. And we have very much focused across the three utilities we own and the ones we’ve highlighted on the slide, is to transition from our existing fleet to renewables, using transmission.
+
+We have not become overly dependent on transitioning to gas. That’s been a clear strategy. So, over a period of time, our coal units will retire.
+
+I’m happy to report — or pleased to report — to our shareholders that through 2020, we’ve closed 16 units to date.
+
+If you look at — from 2021 through 2030, there will be an incremental 16 units closed. And then if you go through to the end of 2049, our remaining 14 units will be closed. And at that point in time, all our coal units are closed.
+
+That slide is just an aggregation of all the activities each of our business units have been taking to help facilitate that transition, and really transitioning to decarbonizing those units. And I said, decarbonizing our businesses on behalf of, first and foremost, our customers, the many stakeholders they represent in the various states. And then equally important, decarbonizing those businesses on behalf of our Berkshire Hathaway shareholders.
+
+The only other thing I would add, as it is the entity that has the second-largest carbon footprint in Berkshire — and when you combine BNSF and BHE, you’re talking the material set of emissions within Berkshire — BNSF has also been very active in managing their carbon profile.
+
+They’ve committed to have science-based targets established for 2030. So, again, those targets will, again, be consistent with the Paris Agreement.
+
+We have seen what the other participants, or some of them in the class — in the industry — that have committed to. And our commitment will be very similar, i.e. it’ll be consistent with the Paris Agreement. But it’ll be a 30% reduction in BNSF’s footprint by 2030.
+
+So, again, if you look at our — and that’s been publicly disclosed. That’s on the BNSF website. Everything I’ve discussed regarding BHE is on their website, filed in 8-Ks, completely accessible by our many shareholders.
+
+So, when I look at it on — from the perspective of our Berkshire shareholders, I really believe this risk is being well-managed, and we are positioning ourselves for the long term. Thanks, Warren.
+
+**17. “We’ve spent far more than any utility” on renewable energy and transmission**
+
+WARREN BUFFETT: Yeah, incidentally, I mean, the president, the other night, talked about a hundred billion for infrastructure. We’d love to spend a hundred billion. But he was talking about, you know —
+
+Transmission is really the problem, I mean, a big problem. Because you got to get from where the sun is shining and where the wind is blowing, essentially, to concentrations of population.
+
+And it’ll be whether the — you know, you cross state lines and you go through people’s backyards (laughs) and everywhere.
+
+Whether the federal government has better luck in just saying this is the way it’s going to be done and ramming it down the throats of where they go and getting it done — I mean, they may have that power. And they’ll be able to do it faster than we are.
+
+On the other hand, we’d love to do it. We’ll spend the a hundred billion.
+
+But the speed at which we can do it is — we bought PacifiCorp in 2006, and we had a bunch of customers out in the far West, and they had coal plants serving them. And to change that, you’ve got to be able to go to where wind blows and deliver it. So, it’s —
+
+But it is interesting that we have published this information. We’ve spent far more than any utility, in terms of renewables and transmission in the United States. And we started with a nothing — (laughs) you know, a little operation.
+
+But the people who bought the stock with their own money, the individuals, they seem to understand it. And they read the reports.
+
+And we get calls, and they say, well, we want to come out and talk to you about it. Well, we’re not talking to them and ignoring the million people (laughs) that have been with us over time and bought it with their own money.
+
+We will not give special treatment to — either to analysts or to the — to institutions over the individuals that, basically, trust us with their savings for their lifetime.
+
+**18. Insurance subsidiaries are prepared for “unpleasant surprises”**
+
+BECKY QUICK: This question is for Warren and Ajit. It comes from Fernando Lewis, a long-time Berkshire shareholder from Panama, who says, “As a shareholder that intends to remain so for many decades, my biggest concern is around possible losses arising from higher-than-expected insurance losses.
+
+“We’ve seen this in other great companies where underwriting mistakes end up crippling businesses previously considered exemplar.
+
+“While I understand that Berkshire’s culture is unique and the insurance division is full of talented individuals, this is a risk that concerns me.
+
+“Many of us shareholders feel comfortable now, given the privilege of having Mr. Buffett, Mr. Munger, and Mr. Jain looking at these deals. However, there will be a day when this is no longer the case. Is it reasonable to think that over the long term, Berkshire should focus on plain, vanilla short-tail insurance businesses like GEICO and reduce the size of some long-tail risk?
+
+“I want to clarify that I have the most respect and gratitude for all of Berkshire employees that have built the best insurance group in the world. I’m confident we have this talent to remain leaders in this field for decades to come. This is focused on the inherent opaqueness and risk of some insurance lines.”
+
+WARREN BUFFETT: Ajit, do you want to lead off, or —?
+
+AJIT JAIN: I mean, clearly contract certainty is an issue for us in the insurance industry. It is an issue that cuts across not only the long-tail line that you mentioned, but even short-tail property focus lines.
+
+The most recent example is business interruption, which is an integral part of any property insurance policy that is bought and sold by corporations.
+
+It is a risk every time we issue a contract that, either because of sloppiness in terms of how that contract is written, or because of the regulatory environment we all have to live in, that the words in the contract may be tortured. And normally when they are tortured, they end up going against the insurance industry, not in their favor.
+
+So, it is a risk. It’s an unknown risk, in terms of how bad it can be. I hope we price for it when we price for the product. We throw something for the unknown unknowns, if you will.
+
+And we try and aggregate our exposures by major risk categories. Hopefully, that’ll give us some comfort, in terms of having some boundaries on what the exposure really can be.
+
+But there’s no question the regulators play a very important role, in terms of the economics of the business, especially in the U.S., where the 50 state regulators who we have to deal with, in terms of pricing, in terms of contracts, in terms of —
+
+WARREN BUFFETT: Most of those surprises in insurance, practically all of them, are unpleasant.
+
+I mean, (laughs), you get the premium up front. That’s pleasant. And then from there on, you get some very imaginative losses that come through. And you get some that you’ve taken on.
+
+We are willing to lose, in terms of, sort of, the outside limit, we think, well, we’re willing to lose $10 billion in a single event. And we want to get paid very appropriately for that. But we’ve got the resources to do it. And if —
+
+But we don’t want to lose 10 billion in something where we only thought we could (laughs) lose 50 million or something like that.
+
+And, you know, the current situation, for example, with The Boy Scouts of America, you know, they — I think there were 11-hundred claims, or something like that, that have been filed and now, there’s 17,000 just in —
+
+AJIT JAIN: No, no. They’re close to a hundred thousand now.
+
+WARREN BUFFETT: You know, and —
+
+AJIT JAIN: Up by 50 times.
+
+WARREN BUFFETT: And these go back to 1950 or 1960. And you’ve got people advertising for claims. And so, all of a sudden, you get a lot of claims.
+
+I’m sure a lot of the claims are valid. I’m sure a lot of them are invalid. And —
+
+AJIT JAIN: Well —
+
+WARREN BUFFETT: — and how in the world do you pick out the difference? (Laughs)
+
+AJIT JAIN: Yeah, and it goes back to the issue that you just raised.
+
+The reason why this number of claims have skyrocketed from less than 2,000 to close to a hundred thousand is because the statute of limitations had expired, but in several states, if not in most states, they have unilaterally extended the deadline by when you can make claims, and expanded it by a few years.
+
+As a result of which, a lot more claims have appeared, funded by plaintiff lawyers who are now very well-funded. And that results in claims just skyrocketing.
+
+WARREN BUFFETT: Yeah. You get a lot of unpleasant surprises in insurance. But we’ve got a very — I’m very biased on this. But I wouldn’t — (laughs) — I think we’ve got the best insurance operation in the world. And Ajit is the guy that created it. And the people at GEICO — we bought that — and they did wonderful things over time to contribute their part of it, too, and other people have.
+
+But Ajit is the symphony conductor of it. (Laughs)
+
+**19. “Warren and I don’t have to agree on every damn little thing we do”**
+
+BECKY QUICK: This question comes from Henry Zhou. And he says, “It looks like Charlie and Warren have some different opinions recently, like Costco and Wells Fargo. Where’s that taking Berkshire?”
+
+WARREN BUFFETT: Charlie? (Laughs)
+
+CHARLIE MUNGER: Well, we’re not all that different. And Costco is a company I very much admire, and I have enjoyed my long association with it, that company. And — but I love Berkshire, too, — so.
+
+And luckily, there’s no conflict. And Warren and I don’t have to agree on every damn little thing we do. We’ve gotten along pretty well.
+
+WARREN BUFFETT: We have — (laughs) — better than pretty — we have never had an argument —
+
+CHARLIE MUNGER: Yeah.
+
+WARREN BUFFETT: — in 62 years. And it’s not that we agree on everything. But we’ve literally — in 62 years, we’ve never gotten mad at each other. (Laughs)
+
+CHARLIE MUNGER: No, no, no —
+
+WARREN BUFFETT: It just doesn’t happen. (Laughs)
+
+**20. They’re not as close as Buffett and Munger, but Abel and Jain have a good working relationship**
+
+BECKY QUICK: This question is from Jason Plawner. And he says, “Mr. Jain and Mr. Abel, this question is for you.
+
+“One of the successful features of Berkshire is the strong bond between Mr. Buffett and Mr. Munger, who manage the company better because they had each other.
+
+“As you two are clear leaders of the next generation at Berkshire Hathaway, can you please tell us about how you interact with each other, or some of the other incredibly competent Berkshire managers you seek for advice?”
+
+WARREN BUFFETT: Who’s that directed at?
+
+BECKY QUICK: Greg and Ajit —
+
+CHARLIE MUNGER: Ajit.
+
+WARREN BUFFETT: OK.
+
+AJIT JAIN: Well, there’s no question that the relationship Warren has with Charlie is unique, and it’s not going to be duplicated, certainly not by me and Greg, no. I can’t think of very many other pairs that can duplicate it.
+
+Nevertheless, both Greg and I, at least certainly from my perspective, and I’m sure Greg will speak for himself, we’ve known each other for a very long time.
+
+I certainly have a lot of respect, both at a professional level and a personal level, in terms of what Greg’s abilities are. We do not interact with each other as often as Warren and Charlie do. But every quarter, we will talk to each other about our respective businesses and update each other on our respective businesses.
+
+And then, during the course of the quarter, while we may not have any formal sort of meetings, if you will, but every time a question comes up which is related to insurance, Greg will pick up the phone and call me.
+
+By the same token, if there’s any question that comes up relating to any of the non-insurance operations that Greg is in charge of, like we had recently where a client of mine was looking for — trying to find a buyer. And I picked up the phone and talked to Greg, and we talked about, you know, how best to proceed.
+
+So, that happens. And during the course of the quarter, every quarter we exchange notes. And we have a perfectly well-functioning relationship between the two of us. And I hope it remains that way. Greg?
+
+GREG ABEL: Yes. Ajit, well said. And as he touched on, Warren and Charlie have an exceptional relationship. But I’m very proud of the relationship Ajit and I’ve had.
+
+And as Ajit touched on, it’s developed over many years. We’ve had the opportunity — or I’ve had the opportunity — to see how Ajit’s run the insurance business.
+
+And as Warren highlight and Charlie highlights, there’s no one better at it. So, I’ve had the opportunity to observe that.
+
+And then, equally over the years, that relationship has just built and become greater and greater. And as Ajit touched on, couldn’t have more personal respect for Ajit, both personally and professionally.
+
+And even though the interaction may be different than, say, how Warren and Charlie do it, as Ajit touched on, there is a regular dialogue, both around opportunities within our two businesses and units, both if we see something unusual that the other individual should hear, we make sure we’re always following up with each other.
+
+But it goes beyond that. Ajit has a great understanding of the Berkshire culture. I strongly believe I do, too. And any time we see anything unusual in one of our businesses, it’s Ajit who I’m going to call and say, are you comfortable that we’re taking this approach? Is it going to be consistent with how you think about it, how you think about it in insurance?
+
+So, it goes — it goes beyond just discussing the businesses, but that maintaining the exceptional culture we have at Berkshire and building upon that.
+
+So, very fortunate to have Ajit as a colleague, and immensely enjoy working with him every day. Thank you.
+
+**21. Buffett defends BNSF as competitive with Union Pacific**
+
+BECKY QUICK: This question comes from Glenn Greenberg. He says — it’s on the profitability of GEICO and BNSF.
+
+He said, “Why do these companies operate at meaningfully lower profit margins than their main competitors, Progressive and Union Pacific? Can we expect current managements to at least achieve parity?”
+
+WARREN BUFFETT: Was it GEICO and — ?
+
+BECKY QUICK: BNSF.
+
+WARREN BUFFETT: Oh. Actually, if you look at the first quarter figures, you’ll see that the Berkshire Hathaway/Union Pacific comparison has gotten (laughs) quite better.
+
+Katie Farmer’s doing an incredible job at BNSF.
+
+And it’ll be an interesting question, whether five years from now or ten years from now, BNSF or Union Pacific has the higher earnings.
+
+We’ve had higher earnings in the past. Union Pacific passed us.
+
+The first quarter, you can look at, and, you know — they think they’ve got the — a slightly better franchise. We think we’ve got a slightly better franchise.
+
+We know we’re larger than Union Pacific. I mean, we will do more business than they do. And we should make a little more money than they do, but we haven’t in the last few years.
+
+But, it’s quite a railroad. I feel very good about that.
+
+**22. “We will have the slowest-aging management”**
+
+WARREN BUFFETT: I should — I should go back to that previous question.
+
+You know, people talk about the aging management at Berkshire. And I always assume they’re talking about Charlie (laughs) when they say that.
+
+But I would like to point out that in three more years, Charlie will be aging at 1% a year. (Laughter)
+
+And he is the — no one is aging (laughs) less than Charlie.
+
+If you could take (laughs) some of these new companies with 25-year-olds, they’re aging at 4% a year. (Laughs)
+
+So, we will have the slowest-aging management, percentage-wise, by far, than any corporate — any American company has.
+
+**23. Progressive has been better lately, but GEICO is catching up**
+
+BECKY QUICK: Did you want to talk about GEICO versus Progressive, too, because I got a lot of questions on that —
+
+WARREN BUFFETT: Well, Progressive in recent — Progressive has had the best operation in the last — in recent years, in terms of matching rate to risk. I mean, that’s what insurance is all about, among other things.
+
+But, I mean, you have to have the right rate.
+
+If you think that 90-year-olds and 20-year-olds have an equal chance of dying, (laughs) I mean, you’re going to be out of business very quickly in the life insurance business. And you will get all the 90-year-old risks, and the other guy will get the 20-year-old risks.
+
+And the same thing applies in auto insurance. I mean, there is a huge difference between 16-year-old males and how they drive, and 40-year-old married and, you know, employed people.
+
+So, the companies that do the best job of actually having the appropriate rate for every one of their policyholders is going to do well.
+
+And Progressive has done a very good job on that. And we’re doing a much better job on that already.
+
+But Todd Combs has gone there. And —
+
+It’s a very interesting business. Both Progressive and GEICO were started in the ’30s — I believe I’m right about Progressive on that — and we were started in ’36.
+
+You know, we have had the better product for a long, long time, I mean, in terms of cost. And here we are, 85 years later, in our case, and we have about 13% or so of the market, whatever it may be. And Progressive has just a slight bit less.
+
+So, the two of us have 25% of the market roughly, in this huge market, after 80-something years of having a better product.
+
+So, it’s a very slow-changing competitive situation. But Progressive has done a very, very good job recently. And we’ve done a very, very good job over the years.
+
+And we’re doing a good job now. But we have made some very significant improvements. And if you looked at the — you don’t want to look at the quarters too much — but our profitability in the first quarter was good.
+
+But we gave back more money, under our giveback arrangement when the virus broke out — we gave 2.8 billion on our giveback program — that was larger than any company as well. It was the largest, I think in the country.
+
+And GEICO and Progressive are both (laughs) going to do very well in the future.
+
+And actually, Union Pacific and BNSF are going to do well in the future. It’s just, in both cases, we want to do a little bit better than the other guy. (Laughs)
+
+AJIT JAIN: Can I — can I just —
+
+BECKY QUICK: Yeah.
+
+AJIT JAIN: — add a little bit?
+
+Yeah, there’s no question Progressive is a machine. They are very good at what they do, whether it’s underwriting, which Warren talked about, in terms of matching rate to risk, whether it’s admin claims.
+
+Having said that, I think GEICO is catching up with Progressive. More than a year ago — about a year ago — Progressive had margins that were almost twice as much as GEICO’s, and growth rates that were almost twice as much as GEICO’s.
+
+If you look at the results as of now, Progressive is still crushing it, in terms of growth, relative to GEICO. But GEICO has certainly caught up with Progressive, in terms of margins. And hopefully, that gap will be nonexistent in the future.
+
+The second point I want to make on the issue of matching rate to risk: GEICO had clearly missed the bus and were late in terms of appreciating the value of telematics.
+
+They have woken up to the fact that telematics plays a big role in matching rate to risk. They have a number of initiatives. And hopefully, they will see the light of day before not too long, and that’ll allow them to catch up with their competitors, in terms of the issue of matching rate to risk.
+
+WARREN BUFFETT: I will predict that five years from now — State Farm is still the largest auto insurer — but I will predict that five years from now, it’s very likely that the top two will be GEICO and Progressive. And in which order, we’ll see.
+
+But both companies are going to do very well, in my opinion. Well, they — and they — GEICO’s done well — extremely well.
+
+But Progressive was better at setting the right rate, and we’re catching up, I think, fairly fast.
+
+AJIT JAIN: Yeah. Excuse me.
+
+Progressive has certainly done better. But when it comes to branding, GEICO is, I think, miles — (coughs) excuse me — miles ahead of Progressive. And in terms of managing expenses, well, I think GEICO does a much better job than anyone else in the industry.
+
+**24. Buffett admits “probably a mistake” to sell some shares of “extraordinary” Apple**
+
+BECKY QUICK: This question comes from Vittorio Agueci, from Switzerland, who writes in, “Why, in the recent past, did Berkshire sell some of the common stocks owned on Apple?
+
+“If the company is considered Berkshire’s ‘Fourth Jewel,’ why didn’t Berkshire buy more of Apple’s stocks in 2020? This seems to be counterintuitive.”
+
+WARREN BUFFETT: Well, we have 5.3%, or something like that, now. It’s gone up in the first quarter because we bought in our shares, which helps our own shareholders expand their interest in Apple indirectly without laying out a penny.
+
+And then Apple’s repurchased its shares and just announced another repurchase program.
+
+So, let’s say — we look at Apple as a business that we own at 5.3%. Now we’ve got — it’s a marketable security, so it shows up as way greater than any other marketable security we have.
+
+But, of course, if you look at our railroad, as we mentioned — well, the Union Pacific is selling for about 150 billion on the market, and we own one that’s a little larger than the Union Pacific and making a little less money, but not much less.
+
+So, it’s a — it’s an extraordinarily — Apple — it’s got a fantastic manager. (CEO) Tim Cook was underappreciated for a while. He’s one of the best managers in the world, and I’ve seen a lot of managers.
+
+And he’s got a product that people absolutely love. And there’s an installed base of people and they get satisfaction rates of 99%.
+
+And I get the figures from the (Nebraska) Furniture Mart as to what’s being sold, and if people come in and they want an Android phone, they want an Android phone. If they want Apple — they want an Apple phone — you can’t sell them the other one. (Laughs)
+
+The brand — and the product is an incredible product. It’s a huge, huge bargain to people.
+
+I mean, the part it plays in their lives is huge. I use it as a phone, but I’m probably the only guy in the country. You know, maybe some descendant of Alexander Graham Bell’s doing the same thing.
+
+But it is indispensable to people. And, you know, it costs — you know, a car costs $35,000. And I’m sure, with some people, if you asked them whether they want to give up — had to give up — their Apple or give up their car, you know, really make the choice for the next five years, you know, who knows what they’d do?
+
+And, it is — and you know, we got a chance to buy it, and I —
+
+I sold some stock last year, although our shareholders still had their percentage interest go up because we repurchased shares. But that was probably a mistake.
+
+In fact, Charlie, in his usual low-key way, let me know that — you thought it was a mistake, too, didn’t you, Charlie? (Laughs)
+
+CHARLIE MUNGER: Yes.
+
+WARREN BUFFETT: Yeah. (Laughs)
+
+Yeah, I can only do so many things that I can get away with, with Charlie. (Laughs)
+
+And I kind of used them up between Costco and Apple. (Laughter)
+
+So — and incidentally, he probably — he’s very likely was right in both circumstances.
+
+It’s an extraordinary business.
+
+But I do want to emphasize that, in his own way — it’s a different way — but Tim Cook is — we see a lot of managers of a lot of businesses, and you’re looking at two great ones on both ends here.
+
+He’s handled that business so well. He couldn’t do what Steve Jobs, obviously, could do in terms of creation.
+
+But, I don’t — but Steve Jobs couldn’t really, I don’t think, do what Tim Cook has done, in many respects.
+
+CHARLIE MUNGER: Well, I also think it’s clear that that list you showed, of the leading American companies — it’s been very important for America that we’ve done so well in this new tech field.
+
+And I personally would not like to see our present giants brought down to some low level by some anti-competitive reasonings. I don’t think they’re doing a lot of harm, anti-competitively.
+
+I think they’re a credit to the Americans — credit to our civilization.
+
+WARREN BUFFETT: Yeah, and they’re huge.
+
+CHARLIE MUNGER: And they’re huge. And that’s good for us.
+
+**25. High-flying tech stocks are “very, very cheap” if interest rates stay so low**
+
+BECKY QUICK: Well, let me ask a follow-up question on that, then.
+
+This comes from Jack Tsang, who says, “What’s your mindset when you see so many of these high-fliers? Not the GME or meme stocks, but more like the Big Tech growth stocks, gaining 50%, 100%. 200%, et cetera, in a matter of a year or less?”
+
+“I know you eventually bought Apple in 2016 because of the quality of their businesses and their management. How do you assess if these high-fliers are worthy of your investment, given these crazy high valuations that muddy the waters?”
+
+WARREN BUFFETT: Well, we don’t think they’re crazy. (Laughs)
+
+The — but we don’t — at least I — Charlie, you — I feel that that I understand Apple and its future with consumers around the world better than I understand some of the others.
+
+But I don’t regard prices — and that gets back — well, it gets back to something fundamental in investments.
+
+I mean, interest rates, you know, basically are to the value of assets what gravity is to matter, you know, essentially.
+
+And on the way out here, I tore out a little clipping from The Wall Street Journal yesterday — probably the only one that read it — so small I’m having trouble finding it.
+
+But, anyway, on Thursday, the U.S. Treasury sold some eight-week — some four-week notes — Treasury bills.
+
+And the price was — if you looked at your Wall Street Journal, down in a little corner, next-to-the-last page in my paper, in the very bottom corner, the — here it is — the results of the Treasury auction — little, tiny thing. (Laughs)
+
+They sold four — they had applications on the four-week Treasury bill for a hundred-and-some billion. They accepted bids for 43 billion worth.
+
+And it says average — average price: one hundred point-zero-zero-zero-zero-zero-zero — six zeroes.
+
+And, essentially, people were giving $40-some billion to the Treasury — and they offered to give 130 billion or something, whatever the amount tendered — and the Treasury received the money at zero.
+
+And (Treasury Secretary) Janet Yellen has talked a couple of times about the reduced carrying cost of the debt. And I think in the last fiscal quarter, the U.S. Treasury, which — the U.S. Government — which owes a few billion — a few trillion dollars, I should say — a few trillion dollars more than a year ago, their interest expense was down 8%.
+
+So, you’ve had this incredible reduction in the so-called “super risk-free” group, the short-term Treasury bill. And that is the yardstick against which other values are measured.
+
+I mean, if I could reduce gravity’s pull by about 80%, I mean, I’d be in the Tokyo Olympics, jumping. (Laughs)
+
+And, essentially, if interest rates were 10%, valuations (unintelligible) had this incredible change in the valuation of everything that produces money, because the risk-free rate produces, really, short enough, right now, nothing.
+
+It’s very interesting. I brought this book along because for 25 or more years, Paul Samuelson’s book was the definitive book on economics. It was taught in every school.
+
+And Paul was the — he was the first — he was the first Nobel Prize winner — it’s sort of a cousin to the Nobel Prize, they started giving it in economics, I think, in the late ’60s. He was the first winner from the United States, Paul Samuelson.
+
+Amazingly enough, the second winner was Ken Arrow, and both of them are the uncles of Larry Summers. (Laughs)
+
+Larry Summers had the first two winners as uncles.
+
+But Paul — he was a wonderful guy, he was a wonderful writer, the definitive writer — and so I got out the ’73 economics books. And bear in mind, probably economics kind of started in — as kind of an interesting science, and respectable — with Adam Smith, we’ll say.
+
+You know, he wrote “The Wealth of Nations” in 1776, and he’d written some books earlier. But you sort of date it from kind of when our country started.
+
+And then you had all these famous economists subsequently. And Paul became the most famous of his time.
+
+So, I looked up in the back, under “interest rates,” I looked for “negative interest rates.” There’s nothing there. So, I finally found “zero interest rates,” and Paul Samuelson — brilliant man, after a couple of hundred years we’ve had of, kind of, studying economics, basically, he said that — he said you can conceivably, technically, he said, you can conceive perhaps of negative interest rates, but it can’t ever really happen.
+
+And that was, you know, in the 1970s. This wasn’t back in the Dark Ages. And this was — and no economist rode up and said this is a terrible line to have in a book, or anything.
+
+You know, and here we are in this world where we had zero interest rates last year on a — I mean, last week on — or this week — on a four-week note.
+
+And Berkshire Hathaway, which had a — has more than this — but let’s say we had $100 billion in Treasury Bills. We have more than that.
+
+Before the epidemic — pandemic — we were getting about a billion and a half from that a year. At present rates, if it’s two basis points, we’d get 20 million.
+
+Imagine your wages going from $15 an hour to twenty cents an hour or something. (Laughs)
+
+It’s been a sea change. And it was designed to be that. I mean, it was — that’s why the Fed moved the way they did. They wanted to give a massive push, just like (then-European Central Bank president) Mario Draghi did in Europe in, whenever it was, 2012, when he says, “whatever it takes,” and they went to negative rates.
+
+And we — the Fed has said it doesn’t want to go to negative rates, and I think the Treasury actually has got some small (unintelligible).
+
+But if present rates were destined to be appropriate, if the 10-year should really be at the price it is, those companies that the fellow mentioned in his question, they’re bargains.
+
+They have the ability to deliver cash at a rate that’s, if you discount it back — and you’re discounting at present interest rates — stocks are very, very cheap.
+
+Now, the question is what interest rates do over time. But there’s a view of what interest rates will be based in the yield curve out to 30 years, and, you know, so on.
+
+It’s a fascinating time. We’ve never really seen what shoveling money in, on the basis that we’re doing it on a fiscal basis, while following a monetary policy of something close to zero interest rates, and it is enormously (unintelligible).
+
+But in economics, there’s one thing always to remember. You can — you can never do one thing. You always have to say, “And then what?”
+
+And we’re sending out huge sums. I mean, the president said it on Wednesday: 85% of the people were going to get a $1,400 check, you know: 85%. And a couple years ago we were saying 40% of the people never could come up with $400 in cash.
+
+So, we’ve got 85% of the people getting those sums. And so far, we’ve had no unpleasant consequences from it. I mean, people feel better. The people who get the money feel better, and — the people who are lending money don’t feel very good.
+
+But it causes stocks to go up, it causes business to flourish, it causes an electorate to be happy, and we’ll see if it causes anything else.
+
+And if it doesn’t cause anything else, you can count on it continuing (laughs) in a very big way.
+
+But, you know, there are consequences to everything in economics.
+
+But that is why the Googles and the Apples — and we didn’t own Google, we don’t own Microsoft, we don’t — but they are incredible companies, in terms of what they earn on capital. They don’t require a lot of capital, and they gush out more money.
+
+And if you’re trying to find bonds that gush out (unintelligible) more money from the federal government, we got a hundred billion that’s gushing out. (Laughs)
+
+Like, you know, 30 or $40 million a year, or whatever it may be, depending on the short-term rates.
+
+So, that puts the pressure on, which is exactly, of course, what the monetary authorities want done. I mean, that’s — they’re pushing the economy in a —
+
+And they’re doing it in Europe, you know, even more extreme. And they’re pushing and we’re aiding it with fiscal policy, and people feel good, and —
+
+And people have become numb to numbers. You know, trillions don’t mean anything to anybody, you know. And $1,400 does mean something to them.
+
+So, we’ll see where it all leads, but it’s — Charlie and I consider it the most interesting movie, by far, we’ve ever seen, in terms of economics, don’t we, Charlie?
+
+CHARLIE MUNGER: Yes, and the professional economists, of course, have been very surprised by what’s happened.
+
+It reminds me of what (Conservative Party U.K. Prime Minister Winston) Churchill said about (his successor as PM from the Labour Party) Clement Atlee.
+
+He said he was a very modest man and had a great deal to be modest about. And that’s exactly what’s happened with the professional economists.
+
+They were so confident about everything. It turns out the world is more complicated than they thought.
+
+**26. Munger: Government spending with no limit will eventually “end in disaster”**
+
+BECKY QUICK: As a follow-up to that, Pat Cain writes in, “What’s your opinion about the economic theory MMT, especially the United States, because it’s the reserve currency for the world?”
+
+CHARLIE MUNGER: Well, I think they’re more — I think the Modern Monetary Theorists are more confident than they ought to be, too.
+
+I don’t think we, any of us, know what’s going to happen to this stuff.
+
+I do think there’s a good chance that this extreme conduct is more feasible than everybody thought. But I do know, if you keep just doing it without any limit, it will end in disaster.
+
+**27. Negative interest rates would have unknown consequences**
+
+BECKY QUICK: On a related question, (Chi Shen Lai from Taiwan) wrote in on this, too, and said, “If you can borrow money at a guaranteed low, or even zero, interest rate, is it still worthy of borrowing money for not that guaranteed cost from the insurance operation?”
+
+WARREN BUFFETT: It reduces the value of float by a substantial amount. And we have a flexibility with our float that virtually no one has. And I’ve written about this in the annual letter.
+
+But the value of float has gone down dramatically because everything is — everything is off of interest rates.
+
+And when you get to negative interest rates — the country can borrow at negative interest rates — you get into something that’s kind of akin to the St. Petersburg Paradox. And those of you who want to search, you can find some interesting things on it. But it becomes infinite then.
+
+It’s a crazy consequence of a bunch of abstract mathematics, where you get there.
+
+But you lose gravity entirely. And, you know, if you tell me that I’m going to have to lend money to the government at minus two percent a year, and I’m talking nominal figures, not — you know, you’re just telling me how I’ll go broke over time (laughs) if I do that.
+
+So, it pushes you to do other things. And, of course, we’ve seen it. Well, we saw the rest of the world do it in even more extreme fashion. But nobody — Paul Samuelson, brilliant man — nobody thought you could do this.
+
+And we don’t really know what the consequences are. But we know there are consequences, obviously.
+
+**28. “It’s a killer” to compete with SPACs buying with other people’s money**
+
+BECKY QUICK: This question comes from Sam Butler. And it says he’s been a shareholder for many years, and asks, “What impact does the rise of so many new SPACs have on Berkshire’s ability to find and close new acquisitions?”
+
+WARREN BUFFETT: Well, it’s a killer.
+
+The SPACs generally have to spend their money in two years, as I understand it, so they have to buy a business in two years.
+
+If you put a gun to my head and said, “You’ve got to buy a big business in two years,” you know, I’d buy one. But (laughs), it wouldn’t be much of one.
+
+You know, we look and look. And now there are, I don’t know how many, whether it’s hundreds —there’s always been the pressure from private equity funds. I mean, if you’re running money for somebody else, and you’re getting paid a fee, and you get the upside, and you don’t have a downside, you’re going to buy something.
+
+I could tell you about a — I had a very famous — I had a call from a very famous figure many years ago who was involved in it and wanted to learn about reinsurance. And I said, “Well, I don’t really think it’s a very good business.” And he said, “Yeah.” (Laughs)
+
+“But,” he says, “if I don’t spend this money in six months, I’ve got to give it back to the investors.”
+
+So, you know, it’s a different equation that you have if you’re working with other people’s money, where you get the upside and you have to give it back to them if you don’t do something. (Laughs)
+
+And, frankly, we’re not competitive with that, you know? And that won’t go on forever.
+
+But it’s where the money is now, and Wall Street goes where the money is. And it does anything, you know, basically that works. And SPACs have been working for a while, and you stick your — a famous name on it and you can sell almost anything.
+
+It’s — but it’s an exaggerated version of what we’ve seen in kind of, well, gambling (unintelligible) type market.
+
+In fact, I did have a quote from (economist John Maynard) Keynes that we might put up on the — let’s see if I’ve got — yeah, this is probably the most famous — one of the most famous quotes in history, because it really sums up the problem of the fact we’ve got the greatest markets the world could ever imagine.
+
+I mean, imagine being able to own parts of the biggest businesses in the world, and putting billions of dollars in them, then take it out of — you know, two days later.
+
+I mean, compared to farms or apartment houses or office buildings, where it takes months to close a deal, I mean, the markets offer a chance to participate and invest in earning assets on a basis that’s very, very low cost and instantaneous, huge, all kinds of good things.
+
+But it makes its real money if they can get the gamblers to come in, because they provide more action and they’re willing to pay sillier fees and all kinds of things. So, you have this incredible, huge asset to humanity, but it really makes its money when people are doing stupid things. I mean, that’s where the money really is.
+
+And Keynes wrote this 1936 — it says 1939 on the slide, but he wrote it in 1936 in “The General Theory” — that, you know: “Speculators may do no harm as bubbles on the steady stream of enterprise. But the position is serious when enterprise becomes the bubble on a whirlpool of speculation. When the capital development of a country becomes a by-product of the activities of a casino, the job is likely to be ill-done.”
+
+Well, the stock market — we’ve had a lot of people in the casino in the last year. You have millions and millions of people have set up accounts where they day-trade, where they — where they’re selling puts and calls, where they — I would say that you had the greatest increase in the number of gamblers, essentially, that — and there’s — you know, there’s nothing wrong with gambling. They got better odds than they’ve got if play the state lottery.
+
+But they have cash in their pocket. They’ve had action. And they actually, you know, have a lot of good results. And if they just bought stocks, they’d do fine, and held them.
+
+But the gambling impulse is very strong in people worldwide, and occasionally it gets an enormous shove. And conditions lead to this place where more people are entering the casino than are leaving every day, and it creates its own reality for a while. And nobody tells you when the clock’s going to strike twelve and it all turns to pumpkins and mice.
+
+The — when the competition is playing with other people’s money — or — whether — and if they’re playing foolishly with their own money — but the big stuff is done with other people’s money (laughs) — they’re going to beat us, I mean —
+
+We’re not — that’s a different game, and they’ve got more – they’ve got a lot of money. So, we’re not going to have much luck on acquisitions while this sort of a period continues.
+
+But it’s happened before. This is about as extreme as we’ve seen it, isn’t it, Charlie? Or —
+
+CHARLIE MUNGER: Yes. Of course, I call it fee-driven buying. In other words, it’s not buying because it’s a good investment. They’re buying it because the advisor gets a fee.
+
+And, of course, the more of that you get, the sillier your civilization is getting. And to some extent, it’s a moral failing, too.
+
+Because the easy money made by things like SPACs and total return derivatives, and so on and so on — you push that to excess, it causes horrible problems for the civilization. And it reflects no credit on the people who are doing it, and no credit on the regulators and voters that allow it.
+
+So, I think we have a lot to be ashamed of in the current conditions.
+
+WARREN BUFFETT: But it’s where the money is.
+
+CHARLIE MUNGER: Yeah, but we still have — (laughter) — it’s shameful what’s going on, you know? It’s not just stupid, it’s shameful.
+
+WARREN BUFFETT: It’s not — I don’t regard it as shameful on a lot of the people that gamble. I mean, gambling is a very human instinct, and they’ve got money in their pocket, and they know somebody else has made money who they don’t think’s any smarter than they are, and —
+
+CHARLIE MUNGER: No, no, I don’t mind the poor fish that gamble. I don’t like the professionals that take the suckers.
+
+**29. We have $70 to $80 billion “we’d love to put to work,” but can’t with prices so high**
+
+BECKY QUICK: All right. Moshe Levine writes in — he’s an American living in Israel. He says, “If you deem stock prices to be overvalued or in a bubble, do you think it’s best to keep your money in cash while waiting for prices to come down to a fair price, or would it be a better idea to invest this money in some way while waiting until stock prices are fair again, and then sell the investment to buy the stocks?”
+
+WARREN BUFFETT: Well, Charlie and I have had that discussion on a lot of things. We bought some stocks we really don’t know that much about, but I’m not really comfortable doing that.
+
+CHARLIE MUNGER: We’re used to shooting fish in a barrel, but that’s gotten harder. (Laughter)
+
+WARREN BUFFETT: We’ve got probably 10% to 15% of our total assets in cash beyond what I would like to have, just as a way of protecting the owners and the people who are our partners from ever having — having us ever get in a pickle, you know.
+
+We really run — Berkshire makes sure that — we don’t want to lose a lot of other people’s money who have — will stick with us for years. We can’t help what somebody does that buys it today and sells it tomorrow. But we’ve got a real gene that pushes us in that direction.
+
+But we’ve got more than we — we’ve got probably 70 or 80 billion, something like that, maybe, that we’d love to put to work. But that’s 10% of our assets, roughly. And we probably won’t get — well, we won’t get a chance to do it under these conditions. But conditions change very, very, very rapidly sometimes in markets.
+
+And we do have people that would like the join us, but the market option they have is just too great for them. And if they’re publicly traded, I mean, they basically can’t — they would have great difficulty in making a deal with us because somebody else would come along with — using other people’s money. It’s — you know, we may be unhappy about the 70 billion, but we’re very happy about the other 700 billion (laughs).
+
+And so, it’s not like — not like we should complain.
+
+**30. Why we sometimes buy stocks we’re not wild about**
+
+BECKY QUICK: Warren, when we spoke before the annual meeting, you said that it was OK if I asked a follow-up or two, and I’d like to —
+
+WARREN BUFFETT: Sure.
+
+BECKY QUICK: — take one of those right now.
+
+You said you bought some stocks that you don’t know a lot about. What are they?
+
+WARREN BUFFETT: Well — I will not get into naming (laughs) what we — stocks.
+
+And it may be that there’s some there that I think I know about that I don’t know about.
+
+But we have bought stocks where Charlie and I — I mean, we know the business, generally — but we don’t have any insights.
+
+And they are, as a group — if I had — if they told me I was going to be shot unless I got the best result, I would rather own those stocks than the Treasury bills we own.
+
+But, on the other hand, we work with quantities of money where if we put 50 billion into the things that I’m kind of so-so about, but that are better than Treasury bills, it doesn’t — I’m not wildly comfortable about that, even though it can be undone.
+
+Selling 50 billion to — when it’s really attractive to buy something else, there’s a lot of — there’s a lot of slippage that can happen in moving sums like that around.
+
+So, that’s something we talk about all the time. They’re good companies. They’re fine companies. But do we know something about those companies, or have a way of evaluating that gives us an edge? The answer — I think — what do you feel about it, Charlie? We’ve talked about it a lot.
+
+CHARLIE MUNGER: Well, of course, it’s a lot harder.
+
+**31. Munger: Bernie Sanders has accidentally won his fight against wealth inequality**
+
+CHARLIE MUNGER: And I think one consequence of the present situation is that (Senator) Bernie Sanders (I- Vermont) has basically won.
+
+And that’s because the — with the — everything boomed up so high and interest rates so low, what’s going to happen is the Millennial Generation is going to have a hell of a time getting rich, compared to our generation.
+
+And so, the difference between the rich and the poor in the generation that’s rising is going to be a lot less. So, Bernie has won.
+
+**1. Motivation determines the morality of share repurchases**
+
+BECKY QUICK: Right, this question comes from Denny Poland, a shareholder from Pittsburgh.
+
+“A prominent senator (Sen. Elizabeth Warren, D-Massachusetts) recently categorized share buybacks as a form of market manipulation. You’ve often said that repurchasing shares at prices below intrinsic value benefits continuing shareholders.
+
+“Could you and Charlie please elaborate on the higher order effect that these share repurchases have on society?”
+
+WARREN BUFFETT: Yeah, they’re a way of — they’re a way of, essentially, of distributing cash to the people that want the cash when other co-owners mostly want you to reinvest. And it’s a savings vehicle.
+
+If the four of us sitting at this table decided we’d buy a few Dairy Queen franchises, we form a little company, and we all put in a million dollars or something like that, and we buy the Dairy Queen franchises, and they’re doing well.
+
+And three of the four of us want to keep buying more Dairy Queen franchises. And we’re not done building and saving for the future. And we’re in the wealth creation business. And the fourth one says, “Listen, I’ve gotten rich enough. I’d rather take some money out.”
+
+And, well, there’s only two ways to do it. We can pay dividends to all four of us, three of us — of whom don’t want it. And we can repurchase the shares at a fair price — if it’s just the four of us — we pick out a fair price and the fourth one gets bought out of his interest.
+
+I find it almost impossible to believe some of the arguments that are made that it’s terrible to repurchase shares from a partner if they want to get out of something (laughs) and you’re able to do it at prices advantageous to the people who are staying. And it helps slightly the person that wants out.
+
+And a majority of the Berkshire shareholders — a great majority — we had a vote on dividends one time — we’ve got savers.
+
+Now, that’s partly because we’ve advertised ourselves as being that sort of a vehicle. We’ve created that something. We’ve stuck with it for 57 years.
+
+And people look — individuals — a huge number — look at Berkshire as something they’re going to own till they die.
+
+Now they may — their circumstances may change. Their needs may change. But the savers generally keep saving.
+
+We just recently had somebody that (unintelligible) 60 years ago, and billions of dollars. And they just — they weren’t saving, exactly, for their old age, just was sort of built into them that they liked to do it. Now, philanthropies will get a lot of money and so on.
+
+It’s the most — what could be more logical than, if a very small minority of your holders want to get out, and most of them want to stay in, and the person that wants to get out wants the money, you don’t give the money to everybody. You give it to the one who wants it. And you do it at a price that is beneficial to most parties.
+
+On a private deal, you’d work out the fair value. The market tells you the value, in the case of a publicly traded company.
+
+Charlie, got anything?
+
+CHARLIE MUNGER: Well, if you’re repurchasing stock, just a bull it higher, it’s deeply immoral.
+
+But if you’re repurchasing stock because it’s a fair thing to do in the interest of your existing shareholders, it’s a highly moral act. And the people who are criticizing it are bonkers.
+
+**2. Tax law change wouldn’t affect Berkshire’s no-dividend stance**
+
+BECKY QUICK: OK, this comes from Gary Gambino. He wants to know “if Berkshire would switch it’s capital return policy to dividends from buybacks if the capital gains rate goes up to 43.4%. Dividends would be far more taxed-advertised for shareholders under that scenario.”
+
+WARREN BUFFETT: Yeah. We literally did have a vote by our shareholders.
+
+Now, we’ve got a different group of shareholders than a REIT would have or, you know, an MLP might have. I mean there’s different — people select what they go into. And people that go into SPACs are hoping the stock goes up next week, you know, I mean, basically, and —
+
+We’ve got a bunch of people that were assembled over 55 years, but they started with a base of people that — it was a lifetime investment. And if they wanted to cash out, they thought they’d get a fair price at that time. But they really didn’t — they bought it with no intentions like that.
+
+So, we had a vote, and I think it was something like 97% or something of the shares said they don’t want a dividend.
+
+And now, that wouldn’t be true at other companies. And it would be crazy to be paying a regular dividend, like Coca-Cola has done for many years, and then, all of a sudden, change the policy on millions of people who had bought it with one expectation in mind, and try and change it into a different animal.
+
+But Coca-Cola isn’t going to change to Berkshire, and Berkshire isn’t going to change to Coca-Cola. We’ve got a different group of owners.
+
+And it will keep self-selecting, because people have a choice every day: which do you want — sort of thing do you want to be in? And Berkshire is a certain kind of animal in that respect.
+
+So, we will not — if they jig around the tax laws, I mean, that’s really got nothing to do with the decision.
+
+I mean we’ve got a very substantial majority of people that want us to reinvest the money. And what they’re more concerned about is whether we find something to do with the money, the hundred billion or something.
+
+And repurchasing shares is something that helps them in their — they own a larger percentage of Berkshire as they go along.
+
+And they’d love to see us buy another business. But they don’t mind us intensifying their interest in the present business.
+
 **3. Buffett voted for Biden but doesn’t want to talk taxes at the meeting**
 
 BECKY QUICK: You had a lot of questions that came in on taxes. So, I’ll run through a few of them. We’ll see, kind of, how many of you answered them — how many you answer before we get to them.
