@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md",
+                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md",
+                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md",
+                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md"
+                "file": "Charles_Munger/A_Conversation_with_Charlie_Munger.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md",
+    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
     "Elements/Nick_Sleep/Slide_2.png",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md",
-    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md",
     "README.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
     "Elements/Nick_Sleep/being_Costco_customer.png",
@@ -173,7 +174,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md",
-    "Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md",
     "Michael_Mauboussin/Measuring_the_Moat.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004年游牧人基金致合伙人年度信.md",
@@ -186,7 +186,6 @@
     "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
     "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png",
     "Elements/Warren_Buffett_Gives_It_Away/The_Fate_of_His_Fortune_Sealed.png",
-    "Elements/Warren_Buffett_Gives_It_Away/TIMES_2005_PERSONS_OF_THE_YEAR.png",
     "Elements/Warren_Buffett_Gives_It_Away"
   ]
 }

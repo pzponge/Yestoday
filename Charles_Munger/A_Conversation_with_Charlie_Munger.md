@@ -151,7 +151,7 @@ And yet a lot of law business is caused by the people who are right on the edge 
 
 **John:** \[00:11:02\] **What do you think is the societal fix for problems like the pharma company's role in the opioid epidemic?**
 
-**你认为社会应该如何解决制药公司在阿片类药物流行中扮演的角色等问题？
+**你认为社会应该如何解决制药公司在阿片类药物流行中扮演的角色等问题？**
 
 **Charlie:** \[00:11:10\] Well, that's a big issue. A lot of people rationalize selling drugs to other people to make money. If you go back to Franklin Delano Roosevelt, his money mostly came from his grandfather selling opium to the Chinese and he was selling it to Chinese bandits, too. And he was very respectable when he got back to the United States and lived in a big house, and I'm sure behaved well in dealing with those tradesmen and so forth.
 
