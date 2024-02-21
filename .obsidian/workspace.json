@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2023_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2000_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1995_Annual_Meeting.md",
@@ -173,7 +174,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2005_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2004_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2003_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2002_Annual_Meeting.md",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
     "Elements/Nick_Sleep/Slide_2.png",

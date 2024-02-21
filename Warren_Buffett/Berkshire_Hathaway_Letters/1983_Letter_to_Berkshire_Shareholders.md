@@ -453,7 +453,7 @@ We have become active recently - and hope to become much more active - in reinsu
 
 A major source of such business is structured settlements - a procedure for settling losses under which claimants receive periodic payments (almost always monthly, for life) rather than a single lump sum settlement.  This form of settlement has important tax advantages for the claimant and also prevents his squandering a large lump-sum payment.  Frequently, some inflation protection is built into the settlement.  Usually the claimant has been seriously injured, and thus the periodic payments must be unquestionably secure for decades to come.  We believe we offer unparalleled security.  No other insurer we know of - even those with much larger gross assets - has our financial strength.
 
-所以分次给付可确保其往后数十年的衣食无虞，而关于这点我们自认为可提供无与伦比的保障。据我们所知，其他保险公司即使资产规模再雄厚，都没有我们这样坚强的财务实力。
+此类业务的主要来源是结构化赔偿金（structured settlements）——一种赔偿损失的程序，其中索赔人获得定期支付（几乎总是每月一次，终身支付），而不是一次性付清。这种赔偿金形式对索赔人来说具有重要的税收优势，同时也可以防止他挥霍一大笔一次性的赔偿金。通常，赔偿金中会内置一些通货膨胀保护。通常情况下，索赔人受到了严重的伤害，因此，定期支付的款项必须在未来几十年内毫无疑问地得到保障。我们相信我们能提供无与伦比的保障。据我们所知，没有任何一家保险公司--即使是那些总资产规模大得多的保险公司--拥有我们这样的财务实力。[^1]
 
 We also think our financial strength should recommend us to companies wishing to transfer loss reserves.  In such transactions, other insurance companies pay us lump sums to assume all (or a specified portion of) future loss payments applicable to large blocks of expired business.  Here also, the company transferring such claims needs to be certain of the transferee’s financial strength for many years to come.  Again, most of our competitors soliciting such business appear to us to have a financial condition that is materially inferior to ours.
 
@@ -786,3 +786,10 @@ At yearend 1983, net Goodwill on our accounting books totaled $62 million, consi
 We believe net economic Goodwill far exceeds the $62 million accounting number.
 
 我们相信净经济商誉远超过这6200万美元的会计数字。
+
+
+[^1]: By 四元 @20240221
+	
+	这一段原来的翻译比较笼统，重新翻译。
+	
+	原翻译：所以分次给付可确保其往后数十年的衣食无虞，而关于这点我们自认为可提供无与伦比的保障。据我们所知，其他保险公司即使资产规模再雄厚，都没有我们这样坚强的财务实力。
