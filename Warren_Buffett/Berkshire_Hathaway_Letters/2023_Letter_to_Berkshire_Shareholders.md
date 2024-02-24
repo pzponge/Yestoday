@@ -59,7 +59,7 @@ So, what would interest Bertie this year?
 
 Let's begin with the numbers. The *official* annual report begins on K-1 and extends for 124 pages. It is filled with a vast amount of information — some important, some trivial.
 
-Among its disclosures many owners, along with financial reporters, will focus on page K-72. There, they will find the proverbial "bottom line" labeled "Net earnings (loss).” The numbers read $90 billion for 2021, ($23 billion) for 2022 and $96 billion for 2023.
+Among its disclosures many owners, along with financial reporters, will focus on page K-72. There, they will find the proverbial "bottom line" labeled "Net earnings (loss).” The numbers read \$90 billion for 2021, (\$23 billion) for 2022 and \$96 billion for 2023.
 
 What in the world is going on?
 
@@ -67,15 +67,15 @@ You seek guidance and are told that the procedures for calculating these “earn
 
 So sanctified, this worse-than-useless "net income" figure quickly gets transmitted throughout the world via the internet and media. All parties believe they have done their job — and, legally, they have.
 
-We, however, are left uncomfortable. At Berkshire, *our* view is that “earnings” should be a sensible concept that Bertie will find somewhat useful — *but only as a starting point* — in evaluating a business. Accordingly, Berkshire *also* reports to Bertie and you what we call “operating earnings.” Here is the story *they* tell: $27.6 billion for 2021; $30.9 billion for 2022 and $37.4 billion for 2023.
+We, however, are left uncomfortable. At Berkshire, *our* view is that “earnings” should be a sensible concept that Bertie will find somewhat useful — *but only as a starting point* — in evaluating a business. Accordingly, Berkshire *also* reports to Bertie and you what we call “operating earnings.” Here is the story *they* tell: \$27.6 billion for 2021; \$30.9 billion for 2022 and \$37.4 billion for 2023.
 
-The *primary* difference between the mandated figures and the ones Berkshire prefers is that we exclude unrealized capital gains or losses that at times can exceed $5 billion *a day*. Ironically, our preference was pretty much the rule until 2018, when the “improvement” was mandated. Galileo's experience, several centuries ago, should have taught us not to mess with mandates from on high. But, at Berkshire, we can be stubborn.
+The *primary* difference between the mandated figures and the ones Berkshire prefers is that we exclude unrealized capital gains or losses that at times can exceed \$5 billion *a day*. Ironically, our preference was pretty much the rule until 2018, when the “improvement” was mandated. Galileo's experience, several centuries ago, should have taught us not to mess with mandates from on high. But, at Berkshire, we can be stubborn.
 
 ---
 
 Make no mistake about the significance of capital gains: I expect them to be a very important component of Berkshire's value accretion during the decades ahead. Why else would we commit huge dollar amounts of your money (and Bertie's) to marketable equities just as I have been doing with my own funds throughout my investing lifetime?
 
-I can't remember a period since March 11, 1942 — the date of my first stock purchase — that I have *not* had a majority of my net worth in equities, *U.S.-based* equities. And so far, so good. The Dow Jones Industrial Average fell below 100 on that fateful day in 1942 when I “pulled the trigger.” I was down about $5 by the time school was out. Soon, things turned around and now that index hovers around 38,000. America has been a terrific country for investors. All they have needed to do is sit quietly, listening to no one.
+I can't remember a period since March 11, 1942 — the date of my first stock purchase — that I have *not* had a majority of my net worth in equities, *U.S.-based* equities. And so far, so good. The Dow Jones Industrial Average fell below 100 on that fateful day in 1942 when I “pulled the trigger.” I was down about \$5 by the time school was out. Soon, things turned around and now that index hovers around 38,000. America has been a terrific country for investors. All they have needed to do is sit quietly, listening to no one.
 
 It is more than silly, however, to make judgments about Berkshire's investment value based on "earnings" that incorporate the capricious *day-by-day* and, yes, even year-by-year movements of the stock market. As Ben Graham taught me, “In the short run the market acts as a voting machine; in the long run it becomes a weighing machine.”
 
@@ -93,7 +93,7 @@ This combination of the two necessities I've described for acquiring businesses 
 
 Those days are long behind us; *size* did us in, though increased competition for purchases was also a factor.
 
-Berkshire now has — *by far* — the largest GAAP net worth recorded by *any* American business. Record operating income and a strong stock market led to a yearend figure of $561 billion. The *total* GAAP net worth for the other 499 S&P companies — a who's who of American business — was $8.9 trillion in 2022. (The 2023 number for the S&P has not yet been tallied but is unlikely to materially exceed $9.5 trillion.)
+Berkshire now has — *by far* — the largest GAAP net worth recorded by *any* American business. Record operating income and a strong stock market led to a yearend figure of \$561 billion. The *total* GAAP net worth for the other 499 S&P companies — a who's who of American business — was \$8.9 trillion in 2022. (The 2023 number for the S&P has not yet been tallied but is unlikely to materially exceed \$9.5 trillion.)
 
 By this measure, Berkshire now occupies nearly 6% of the universe in which it operates. Doubling our huge base is simply not possible within, say, a five-year period, particularly because we are highly averse to issuing shares (an act that immediately juices net worth).
 
@@ -141,7 +141,7 @@ American Express began operations in 1850, and Coca-Cola was launched in an Atla
 
 But each was hugely successful in its base business, reshaped here and there as conditions called for. And, crucially, their products “traveled.” Both Coke and AMEX became recognizable names worldwide as did their core products, *and* the consumption of liquids and the need for unquestioned financial trust are timeless essentials of our world.
 
-During 2023, we did not buy or sell a share of either AMEX or Coke — extending our own Rip Van Winkle slumber that has now lasted well over two decades. Both companies again rewarded our inaction last year by increasing their earnings and dividends. Indeed, our share of AMEX *earnings* in 2023 considerably exceeded the $1.3 billion *cost* of our long-ago purchase.
+During 2023, we did not buy or sell a share of either AMEX or Coke — extending our own Rip Van Winkle slumber that has now lasted well over two decades. Both companies again rewarded our inaction last year by increasing their earnings and dividends. Indeed, our share of AMEX *earnings* in 2023 considerably exceeded the \$1.3 billion *cost* of our long-ago purchase.
 
 Both AMEX and Coke will almost certainly increase their dividends in 2024 — about 16% in the case of AMEX — and we *will* most certainly leave our holdings untouched throughout the year. Could *I* create a better worldwide business than these two enjoy? As Bertie will tell you: “No way.”
 
@@ -167,9 +167,9 @@ Under Vicki Hollub's leadership, Occidental is doing the right things for both i
 
 Additionally, Berkshire continues to hold its passive and long-term interest in five very large Japanese companies, each of which operates in a highly-diversified manner somewhat similar to the way Berkshire itself is run. We increased our holdings in all five last year after Greg Abel and I made a trip to Tokyo to talk with their managements.
 
-Berkshire now owns about 9% of each of the five. (A minor point: Japanese companies calculate outstanding shares in a manner different from the practice in the U.S.) Berkshire has also pledged to each company that it will not purchase shares that will take our holdings beyond 9.9%. Our cost for the five totals ¥1.6 trillion, and the yearend market value of the five was ¥2.9 trillion. However, the yen has weakened in recent years and our yearend unrealized gain in dollars was 61% or $8 billion.
+Berkshire now owns about 9% of each of the five. (A minor point: Japanese companies calculate outstanding shares in a manner different from the practice in the U.S.) Berkshire has also pledged to each company that it will not purchase shares that will take our holdings beyond 9.9%. Our cost for the five totals ¥1.6 trillion, and the yearend market value of the five was ¥2.9 trillion. However, the yen has weakened in recent years and our yearend unrealized gain in dollars was 61% or \$8 billion.
 
-Neither Greg nor I believe we can forecast market prices of major currencies. We also don't believe we can hire anyone with this ability. Therefore, Berkshire has financed most of its Japanese position with the proceeds from ¥1.3 trillion of bonds. This debt has been very well-received in Japan, and I believe Berkshire has more yen-denominated debt outstanding than any other American company. The weakened yen has produced a yearend gain for Berkshire of $1.9 billion, a sum that, pursuant to GAAP rules, has periodically been recognized in income over the 2020-23 period.
+Neither Greg nor I believe we can forecast market prices of major currencies. We also don't believe we can hire anyone with this ability. Therefore, Berkshire has financed most of its Japanese position with the proceeds from ¥1.3 trillion of bonds. This debt has been very well-received in Japan, and I believe Berkshire has more yen-denominated debt outstanding than any other American company. The weakened yen has produced a yearend gain for Berkshire of \$1.9 billion, a sum that, pursuant to GAAP rules, has periodically been recognized in income over the 2020-23 period.
 
 In certain important ways, all five companies — Itochu, Marubeni, Mitsubishi, Mitsui and Sumitomo — follow shareholder-friendly policies that are much superior to those customarily practiced in the U.S. Since we began our Japanese purchases, *each* of the five has reduced the number of its outstanding shares *at attractive prices.*
 
@@ -183,14 +183,14 @@ Our Japanese purchases began on July 4, 2019. Given Berkshire's present size, bu
 
 Every quarter we issue a press release that reports our summarized operating earnings (or loss) in a manner similar to what is shown below. Here is the full-year compilation:
 
-(in $ millions)|2023|2022
+(in \$ millions)|2023|2022
 ---|---:|---:
-Insurance-underwriting|$ 5,428|$ (30)
+Insurance-underwriting|\$ 5,428|\$ (30)
 Insurance-investment income|9,567|6,484
 Railroad|5,087|5,946
 Utilities and energy|2,331|3,904
 Other businesses and miscellaneous items|14,937|14,549
-Operating earnings|$ 37,350|$ 30,853
+Operating earnings|\$ 37,350|\$ 30,853
 
 At Berkshire's annual gathering on May 6, 2023, I presented the first quarter's results which had been released early that morning. I followed with a short summary of the outlook for the full year: (1) most of our *non-insurance* businesses faced lower earnings in 2023; (2) that decline would be cushioned by decent results at our two largest non-insurance businesses, BNSF and Berkshire Hathaway Energy (“BHE”) which, combined, had accounted for more than 30% of operating earnings in 2022; (3) our investment income was *certain* to materially grow because the huge U.S. Treasury bill position held by Berkshire had finally begun to pay us far more than the pittance we had been receiving and (4) insurance would likely do well, both because its underwriting earnings are not correlated to earnings elsewhere in the economy and, beyond that, property-casualty insurance prices had strengthened.
 
@@ -200,11 +200,11 @@ Insurance came through as expected. I erred, however, in my expectations for bot
 
 Rail is essential to America's economic future. It is clearly the most efficient way — measured by cost, fuel usage and carbon intensity — of moving heavy materials to distant destinations. Trucking wins for short hauls, but many goods that Americans need *must* travel to customers many hundreds or even several thousands of miles away. The country can't run without rail, and the industry's capital needs will always be huge. Indeed, compared to most American businesses, railroads *eat* capital.
 
-BNSF is the largest of six major rail systems that blanket North America. Our railroad carries its 23,759 miles of main track, 99 tunnels, 13,495 bridges, 7,521 locomotives and assorted other fixed assets at $70 billion on its balance sheet. But my guess is that it would cost at least $500 billion to replicate those assets and *decades* to complete the job.
+BNSF is the largest of six major rail systems that blanket North America. Our railroad carries its 23,759 miles of main track, 99 tunnels, 13,495 bridges, 7,521 locomotives and assorted other fixed assets at \$70 billion on its balance sheet. But my guess is that it would cost at least \$500 billion to replicate those assets and *decades* to complete the job.
 
 BNSF must annually spend more than its depreciation charge to simply *maintain* its present level of business. This reality is bad for owners, whatever the industry in which they have invested, but it is particularly disadvantageous in capital-intensive industries.
 
-At BNSF, the outlays in *excess* of GAAP depreciation charges since our purchase 14 years ago have totaled a staggering $22 billion or more than $1.5 billion annually. Ouch! That sort of gap means BNSF dividends paid to Berkshire, its owner, will regularly fall *considerably short* of BNSF's reported earnings unless we regularly increase the railroad's debt. And that we do not intend to do.
+At BNSF, the outlays in *excess* of GAAP depreciation charges since our purchase 14 years ago have totaled a staggering \$22 billion or more than \$1.5 billion annually. Ouch! That sort of gap means BNSF dividends paid to Berkshire, its owner, will regularly fall *considerably short* of BNSF's reported earnings unless we regularly increase the railroad's debt. And that we do not intend to do.
 
 Consequently, Berkshire is receiving an acceptable return on its purchase price, though less than it might appear, and also a pittance on the replacement value of the property. That's no surprise to me or Berkshire's board of directors. It explains why we could buy BNSF in 2010 at a small fraction of its replacement value.
 
@@ -242,7 +242,7 @@ When the dust settles, America's power needs and the consequent capital expendit
 
 ---
 
-Enough about problems: Our insurance business performed exceptionally well last year, setting records in sales, float and underwriting profits. Property-casualty insurance (“P/C”) provides the core of Berkshire's well-being and growth. We have been in the business for 57 years and despite our nearly *5,000-fold* increase in volume — from $17 million to $83 *billion* — we have much room to grow.
+Enough about problems: Our insurance business performed exceptionally well last year, setting records in sales, float and underwriting profits. Property-casualty insurance (“P/C”) provides the core of Berkshire's well-being and growth. We have been in the business for 57 years and despite our nearly *5,000-fold* increase in volume — from \$17 million to \$83 *billion* — we have much room to grow.
 
 Beyond that, we have learned — too often, painfully — a good deal about what types of insurance business and what sort of people to *avoid*. The most important lesson is that our underwriters can be thin, fat, male, female, young, old, foreign or domestic. But they *can't* be optimists at the office, however desirable that quality may generally be in life.
 
