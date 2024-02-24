@@ -151,6 +151,8 @@
 [2020 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md)|2021-02-27|双语|上角里
 [2021 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md)|2022-02-26|双语|上角里
 [2022 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md)|2023-02-25|双语|坚信价值
+[2023 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2023_Letter_to_Berkshire_Shareholders.md)|2024-02-24|英语|
+
 
 ## 1.3. 伯克希尔哈撒韦股东大会
 
