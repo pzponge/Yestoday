@@ -35,15 +35,15 @@ To the Shareholders of Berkshire Hathaway Inc.:
 
 Berkshire has more than three million shareholder accounts. I am charged with writing a letter every year that will be useful to this diverse and ever-changing group of owners, many of whom wish to learn more about their investment.
 
-Charlie Munger, for decades my partner in managing Berkshire, viewed this obligation identically and would expect me to communicate with you this year in the regular manner.He and I were of one mind regarding our responsibilities to Berkshire shareholders.
+Charlie Munger, for decades my partner in managing Berkshire, viewed this obligation identically and would expect me to communicate with you this year in the regular manner. He and I were of one mind regarding our responsibilities to Berkshire shareholders.
 
 ---
 
 Writers find it useful to picture the reader they seek, and often they are hoping to attract a mass audience. At Berkshire, we have a more limited target: investors who trust Berkshire with their savings without any expectation of resale (resembling in attitude people who save in order to buy a farm or rental property rather than people who prefer using their excess funds to purchase lottery tickets or “hot”stocks).
 
-Over the years, Berkshire has attracted an unusual number of such “lifetime”shareholders and their heirs. W cherish their presence and believe they are entitled to hear every year both the good and bad news, delivered directly from their CEO and *not* from an investor-relations officer or communications consultant forever serving up optimism and syrupy mush.
+Over the years, Berkshire has attracted an unusual number of such “lifetime” shareholders and their heirs. We cherish their presence and believe they are entitled to hear every year both the good and bad news, delivered directly from their CEO and *not* from an investor-relations officer or communications consultant forever serving up optimism and syrupy mush.
 
-In visualizing the owners that *Berkshire* seeks,I am lucky to have the perfect mental model, my sister,Bertie.Let me introduce her.
+In visualizing the owners that *Berkshire* seeks,I am lucky to have the perfect mental model, my sister, Bertie. Let me introduce her.
 
 For openers, Bertie is smart, wise and likes to challenge my thinking. We have never, however, had a shouting match or anything close to a ruptured relationship. We never will.
 
@@ -51,7 +51,7 @@ Furthermore, Bertie, and her three daughters as well, have a large portion of th
 
 Bertie, like most of you, understands many accounting terms, but she is not ready for a CPA exam. She follows business news — reading four newspapers daily — but doesn't consider herself an economic expert. She is sensible — *very* sensible — instinctively knowing that pundits should *always* be ignored. After all, if *she* could reliably predict tomorrow's winners, would she freely share her valuable insights and thereby increase competitive buying? That would be like finding gold and then handing a map to the neighbors showing its location.
 
-Bertie understands the power — for good or bad — of incentives, the weaknesses of humans, the “tells”that can be recognized when observing human behavior. She knows who is “selling” and who can be trusted. In short, she is nobody's fool.
+Bertie understands the power — for good or bad — of incentives, the weaknesses of humans, the “tells” that can be recognized when observing human behavior. She knows who is “selling” and who can be trusted. In short, she is nobody's fool.
 
 So, what would interest Bertie this year?
 
@@ -59,7 +59,7 @@ So, what would interest Bertie this year?
 
 Let's begin with the numbers. The *official* annual report begins on K-1 and extends for 124 pages. It is filled with a vast amount of information — some important, some trivial.
 
-Among its disclosures many owners, along with financial reporters, will focus on page K-72. There, they will find the proverbial "bottom line" labeled "Net earnings (loss).”The numbers read $90 billion for 2021, ($23 billion) for 2022 and $96 billion for 2023.
+Among its disclosures many owners, along with financial reporters, will focus on page K-72. There, they will find the proverbial "bottom line" labeled "Net earnings (loss).” The numbers read $90 billion for 2021, ($23 billion) for 2022 and $96 billion for 2023.
 
 What in the world is going on?
 
@@ -67,7 +67,7 @@ You seek guidance and are told that the procedures for calculating these “earn
 
 So sanctified, this worse-than-useless "net income" figure quickly gets transmitted throughout the world via the internet and media. All parties believe they have done their job — and, legally, they have.
 
-We, however, are left uncomfortable. At Berkshire, *our* view is that “earnings”should be a sensible concept that Bertie will find somewhat useful — *but only as a starting point* — in evaluating a business. Accordingly, Berkshire *also* reports to Bertie and you what we call “operating earnings.” Here is the story *they* tell: $27.6 billion for 2021; $30.9 billion for 2022 and $37.4 billion for 2023.
+We, however, are left uncomfortable. At Berkshire, *our* view is that “earnings” should be a sensible concept that Bertie will find somewhat useful — *but only as a starting point* — in evaluating a business. Accordingly, Berkshire *also* reports to Bertie and you what we call “operating earnings.” Here is the story *they* tell: $27.6 billion for 2021; $30.9 billion for 2022 and $37.4 billion for 2023.
 
 The *primary* difference between the mandated figures and the ones Berkshire prefers is that we exclude unrealized capital gains or losses that at times can exceed $5 billion *a day*. Ironically, our preference was pretty much the rule until 2018, when the “improvement” was mandated. Galileo's experience, several centuries ago, should have taught us not to mess with mandates from on high. But, at Berkshire, we can be stubborn.
 
