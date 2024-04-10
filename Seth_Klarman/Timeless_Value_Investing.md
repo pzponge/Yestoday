@@ -142,9 +142,29 @@ On the other hand, I had a sense that top business school would be a good place 
 
 # Path to Baupost 通往 Baupost 之路
 
+**Ted Seides:** How did that come about?
+
+**泰德·西德斯**：这是怎么一回事？
+
+**Seth Klarman:** I had a professor of real estate, and I took his course. At some point, he called me in to talk about a test I'd done in my exam. But what really had happened was he and some friends had a stake in Channel 5 in Boston. Channel 5 at the time was being sold to Metro Media for a pretty fancy price that may be the highest price for a TV station up to that point. And he had decided that he'd wanna join with a few other friends, some from the TV station, one not from that background, and create an expanded family office. This was the early 80s, so it was an era of bank failures and rapidly rising interest rates and inflation. And in some ways, a general distrust of the financial system and where should you put your money in, how could you make sure the taxes got paid and the coupons got clipped and all of that. 
+
+**塞思·卡拉曼**：我有一位教房地产的教授，我修了他的课。有一次，他把我叫去，说起我考试时做过的一个测试，但他真正想说的是，他和一些朋友持有波士顿第5频道（Channel 5）的股份。当时第5频道正被出售给大都会传媒公司（Metro Media），出价相当贵，也许是当时电视台领域的最高价了。于是他决定和其他几个朋友一起（有些来自电视台，有的没有电视台背景），成立一个扩大的家族办公室。要知道那是上世纪80年代初期，是一个银行倒闭、利率飙升、通胀高企的时代。某种程度上，人们对金融体系普遍不信任，不知道该把钱放哪，想的都是如何确保税款已缴纳，息票已经兑现等问题。
+
+So at the exact same time that I was graduating, this plan was in motion. Baupost would have been formed with me or without me, but my coming along maybe changed the trajectory and they realized the original plan was to hand out the capital to smart money managers. And in the earliest days of Baupost when I joined after I graduated in May of 82, I went to New York a bunch and met with money managers and thought about: "Well, would this one be good to hire? Would that would be good to hire? What's the playing field look like?" It revealed a lot, but it also ultimately led to the decision that we would actually be better off managing the money ourselves.
+
+在我毕业时，这个计划已经开始启动了，所以有我没我，Baupost公司都会成立，但我的到来或许改变了公司的发展轨迹。他们最初的计划是把资金交给聪明的基金经理来管。我在82年5月毕业后加入了Baupost，当时公司刚成立不久，我去纽约面见了很多基金经理，边见边想：“聘这个人怎么样？聘那个人会好吗？他们处在怎样的竞争环境？” 这揭示出了许多问题，也最终导致了我们最好还是自己管理资金的决定。
+
+**Ted Seides:** What did it reveal?
+
+**泰德·西德斯**：揭示了什么？
+
+**Seth Klarman:** Among other things, it revealed a great deal of group thinking. Everybody's favorite stocks were the same stocks. Everybody was buying Warner Brothers back then because they owned Atari. There was a lot of excitement around video games, as there has been excitement every few years about something different in the market. And then shockingly to me, how few of the managers of money actually put their own money in the same product that they were expecting their clients to be in and how important that alignment is. It's one of the main reasons Baupost didn't invest with any of those managers. We’d realized that people talked a good game, but they didn't put their money where their mouth is, and why eating home cooking is such a foundational principle of Baupost. We're still today, the employees and their families are by far the largest client on a collective basis.
+
+**塞思·卡拉曼**：别的不说，它揭示了大量的群体思维。每个人最喜欢的股票都是同一只，当年是华纳兄弟，因为他们拥有雅达利游戏公司。就像每隔几年市场上就会出现一些不同的热点一样，当时人们对电子游戏感到亢奋。然后，让我震惊的是，很少有资金管理者真正把自己的钱投到他们希望客户参与的同一产品中，而这种利益一致性是多么重要阿。这也是Baupost没有投资那些基金经理中的任何一个的主要原因。我们意识到，这些人嘴上说得头头是道，却不用自己的真金白银跟投，这也是为什么“自家做菜自家吃”是Baupost如此根本的一项原则，直到今天，公司员工和他们的家人合起来，仍然是Baupost最大的客户。
+
+# Value investing principles over time  价值投资原则历久弥新
 
 
-# Value investing principles over time  
 # Sourcing  
 # Diligence  
 # Portfolio construction  
