@@ -164,6 +164,89 @@ So at the exact same time that I was graduating, this plan was in motion. Baupos
 
 # Value investing principles over time  价值投资原则历久弥新
 
+**Ted Seides:** When you went to launch Baupost, you were instilled in the early years in what was called and probably still is value investing. We'd love to hear how you define value investing?
+
+**泰德·西德斯**：在创办Baupost的时候，你已被灌输了所谓价值投资的理念，也许现在仍然如此。我想听听你是如何定义价值投资的？
+
+**Seth Klarman:** The key definition for value investing comes from Graham and Dodd, and the idea of it is that because markets are inefficient, prices deviate from value. And that deviation sometimes they fall below underlying value, and that makes them a value investment, it makes them attractive. Other times, they get to full value and maybe even significantly exceed it, at which point you should have sold. And if you were inclined to be a short seller, perhaps shorted it.
+
+**塞思·卡拉曼**：价值投资的基本定义来自格雷厄姆和多德。它的想法是，由于市场是低效的，价格将偏离价值。有时，价格低于内在价值，此时投资将物超所值，使之成为价值投资；另一些时候，股价可能被炒得过头，甚至大大超出内在价值，此时你就应该卖出，如果你倾向于做空，也许可以做空。
+
+The principles made sense. I was probably too literal in my earliest understanding of Graham and Dodd, which I'm sure I read The Intelligent Investor first, being the more accessible of the two books. Security Analysis came later. But I think what I was applying was not Graham and Dodd value investing, but Mutual Shares value investing. So, I was already looking at special situations, looking at broadly across the landscape to equities, but also to arbitrages and to credit and in the case of these lower bonds — distress credit.
+
+这些原则是有道理的。在我职业生涯最初期，我对格雷厄姆和多德的理解或许太局限于字面意义，我先读了《聪明的投资者》，因为这是他两本书中更通俗易懂的，《证券分析》是后来读的。但我认为我实践的并非格雷厄姆和多德的价值投资法，而是Mutual Share的价值投资法。当时，我已经在寻找特殊情况（指公司收购合并、分拆、退市等特殊事件所带来的投资机会），我关注更广泛的资本市场，不仅仅是股票，同时也关注套利和信贷领域，具体到低估的债券方面，我主要看不良信贷（Distress Credit）。
+
+So, I think it gave me a good analytical grasp rather than being pigeonholed into one single asset class, to understand that investors can look broadly across the landscape. And if you can figure out a stock, for example, why can't you figure out the value of the entire private business? If you can understand a bond, why can't you understand a bank loan or convertible bond, or a municipal bond for that matter, perhaps one backed by a piece of real estate? There was just a lot of learning there that the broad scope was attractive and perhaps also valuable for an investor, because the ability to move capital into whatever was attractive. Maybe sometimes stocks were high but bonds were low, or sometimes stocks and bonds were both high but real estate was low. That was also a piece of the thinking.
+
+因此，我认为这让我掌握了很好的分析能力，而不是被局限在单一的资产类别中，懂得了投资者可以纵观全局。比方说，如果你能弄清楚一只股票，为什么不能弄清楚一家私人企业的整体价值？如果你能理解债券，为什么不能理解银行贷款、可转换债券或市政债券呢？或一只以房地产做担保的债券？这里面有大量的门道可以学习。对投资者来说，拓宽投资视野不仅诱人，也可能价值连城，因为这样你就能将资本配置到最具吸引力的地方。（例如），有时候股票价格高，而债券价格低；有时则股债价格都高，而房地产价格低。这也是一种思路。
+
+**Ted Seides:** One aspect of what you originally read of Graham and Dodd, did you stick too closely to?
+
+**泰德·西德斯**：最初读到格雷厄姆和多德的文章，是否有哪方面是你过分拘泥于其中的？
+
+**Seth Klarman:** I was too enamored of book value. When you think about book value, you need to go back to the founding principles era in which Gram and Dodd were writing. So, Security Analysis came out in 1934, first edition.
+
+**塞思·卡拉曼**：我太迷恋账面价值了。当你考虑账面价值时，你需要回到格雷厄姆和多德撰写第一版《证券分析》，并提出价值投资基本原则的那个时代，即1934年。
+
+There's description among other things of the super investors article that Warren Buffett wrote in the Columbia Business School magazine in the early 60s. And the super investors article looked at several investors, all of whom were familiar to Buffett and how they'd all had exceptional performance.
+
+沃伦·巴菲特60年代初，在哥伦比亚商学院杂志上发表了一篇名为《超级投资者》的文章。这篇文章介绍了巴菲特熟悉的几位投资者，以及他们是如何取得非凡业绩的。
+
+Now, I'm not sure this was a perfect scientific test because not all of them maybe had previously been identified. Nevertheless, they followed general value principles in their investing and they followed them very differently. One followed bigger cap companies and another followed smaller cap companies, and one was global, not just the United States. And so, you saw at least the idea that this approach might apply in a variety of places.
+
+我不确定这是否是一个完美的科学测试，因为并非所有人都能在事前就被识别出来。然而，他们都在投资中遵循了一般性价值原则，虽然遵循的方式各不相同，有人关注的是大市值公司，有人投资小市值公司，还有人进行全球投资，而不仅限于美国。因此，你至少看到了这种方法可能适用于各种地方。
+
+And then Buffett also in that article makes the observation that value investing is something not everybody is comfortable with, but that it's like an inoculation. When you get introduced to the approach, either it makes sense and you get it, or you don't. And I felt like that inoculation had taken with me. That it made complete sense that people have trouble being patient and holding out for their best opportunities to show up, and not just plunging in.
+
+巴菲特在那篇文章中还指出，价值投资并非人人都能接受，这就像接种疫苗一样。当你被介绍到这种投资方法时，要么觉得有道理，要么排斥。我觉得我已接种了这种疫苗。人们难以保持耐心，等待最佳投资机会的出现，总是在没有充分准备的情况下一头扎进去，这完全可以理解。
+
+Bill Ackman once said to me that value investing in a classic sense is like watching paint dry, but I bring a hair blower. I thought, well, that's a good definition of activism. And certainly I'm not one to just want to own stocks forever and sit on them forever. There are times when it actually can be challenging.
+
+比尔·阿克曼（Bill Ackman）曾对我说，传统意义上的价值投资就像看着油漆变干，而我带了个吹风机。我想，这是对股东激进主义（Activism，也可译为股东积极主义，指投资者利用投票、提案或者诉讼等方式主动参与上市公司决策，影响其创造价值过程，从而提升公司市值，获得投资收益）的一个很好定义。当然，我也不是那种永久持有某只股票，然后坐等股票上涨的人。有时，这样做可能充满挑战。
+
+In effect, the hard thing about investing in general is: the market tells you you're wrong all the time, that the very reason that you can find a mispricing, the very reason that you can find a market inefficiency, that causes the stock to go to a discount, might well still apply after you own it and it might go to a bigger discount. And that's not lost on Graham and Dodd, that's right there in security analysis. But the idea of that is, perhaps there are ways you can speed it up, maybe you can apply Bill Ackman's hair dryer into the process.
+
+实际上，投资的难点就在于：市场总是告诉你，「你错了」。那些让你能发现错误定价和市场低效的因素，以及导致股票折价的因素，很可能在你买入后仍然适用，甚至可能让它跌得更惨。格雷厄姆和多德没有忽略这一点，《证券分析》中也有所涉及。我想说的是，也许有一些办法可以加快（价值回归的）进程，也许你可以将比尔·阿克曼“吹风机”的概念应用到这一过程中。
+
+One of the things that Baupost has done over the years is we follow the basic principles, we're looking for bargains, we're patient, we're disciplined, we're willing to say no a lot. As Warren Buffett says, we're not afraid to just leave the bat on our shoulder and not swing. But at times, you do swing and then you've got to be comfortable with some of the important elements of value investing, you gotta be comfortable that a bargain can become an even bigger bargain.
+
+多年来，Baupost所做的一件事就是遵循基本原则：我们寻找便宜货，我们保持耐心，我们遵守纪律，我们愿意经常说“不”，正如沃伦·巴菲特所说的那样，我们不怕把球棒放在肩上而不挥动。但有时，你会挥杆，这时你必须对价值投资的一些重要元素感到心安，你必须坦然接受便宜的股票可能变得更便宜。
+
+And this is what resonated with me maybe the most. If you look to the market for feedback, the market might regularly say: "you're an idiot, you bought it, now it's down, you don't know what you're doing." But the reality is, you've got to see that a little bit differently. You've got to see that as the market is now offering you a better bargain. Either you have confidence in yourself, or you believe in the market as giving you valuable information.
+
+这也许是我最有共鸣的一点：如果你寻求市场的反馈，市场可能会经常告诉你：“你这个白痴，你买错了，它跌了，你根本不知道你在做什么。”但现实是，你必须换个角度看待这一切，你必须将其视为市场现在为你提供了更好的价格。要么你对自己（的判断）保持信心，要么你相信市场给了你有价值的信息。
+
+And then as Graham and Buffett say, if you look to the market for the answers, you're going to just be following popular opinion. But if you look to the market as a manic counterparty that sometimes sells you something at a big discount from what it's worth and other times pays you more than it's worth, now you're talking, now you're going to be able to take advantage of the erratic market to profit as an investor.
+
+正如格雷厄姆和巴菲特所说，如果你向市场寻求答案，你只会追随大众的观点。但是，如果你把市场看作一个狂躁的交易对手，有时以比价值低得多的价格卖给你一些东西，有时则让你付高于其价值的价格，那你就在点子上了，那你就能利用反复无常的市场来获利。
+
+**Ted Seides:** A lot of businesses you could buy, (I mean) in the form of stock, or assets you can buy, they're not static values. Things change over time. And I'd love to hear a bit about from those early lessons of Graham and Dodd, how you've thought about adapting the way you apply valuation to businesses and assets?
+
+**泰德·西德斯**：你可以以股票或资产的形式购买许多企业，而它们的价值不是一成不变的。随着时间的推移，情况会发生变化，我想听听你是如何从格雷厄姆和多德的早期经验，调整你对企业和资产的评估方式的？
+
+**Seth Klarman:** Graham and Dodd lived in a world where, I believe, there was considerably less technological innovation. There wasn't none. Over that period of time, we invented radio and refrigeration and air conditioning eventually, and automobiles decades before. But a lot of innovation…But there was no Venture Capital industry. These innovations often took a while to take hold, the rollout was slow. It wasn't like downloading software at a click with no cost of goods sold. 
+
+**塞思·卡拉曼**：我相信，格雷厄姆和多德生活在一个技术创新少得多的世界里。并不是说完全没有。那段时间，我们发明了收音机、冰箱和空调，还发明了汽车，很多创新…但那时没有风险投资行业，那些创新往往需要一段时间才能站稳脚跟，推广速度缓慢，不像下载软件那样可以一键搞定，还没有销售成本。
+
+When the economy suffered, when a stock became mispriced in the 1930s, it was almost certainly because we were in a depression, and that there was a cyclical downturn. Gram and Dodd knew that. They wrote about it, which I give them huge amount of credit for, and they wrote that it would not be reasonable to assume that depression will always be the circumstance, and yet they couldn't know when it would end or if it would get worse before it got better.
+
+20世纪30年代，当经济遭受重创、股票被错误定价时，几乎可以肯定是因为我们身处经济萧条之中，出现了周期性衰退。格雷厄姆和多德认识到了这点，他们在书中写道，假设萧条将一直持续是不合理的。然而，他们不知道经济萧条何时结束，或者情况是否会在好转前变得更糟。
+
+That also, by the way, resonates with me because I think the idea of financial writing, you can write a newsletter, I suppose, and try to be right for the next two weeks. Or you can try to write something down and say to yourself. What is the essence of this? That's going to matter not just months from now but years and decades and maybe even a century from now. Just as Graham and Dodd are applicable 89 years after it was written in 1934. What might we say about what we're writing today that will still be applicable in 89 years? So I at least think that length is really important.
+
+顺带一提，在写作财经内容方面，这也引起了我的强烈共鸣。你可以写一篇 newsletter（原是一种邮件营销方式，近几年海外许多个人性质的博主和独立创作者用 newsletter 创作内容并通过付费订阅获得稳定收入，类似于国内的公众号），尝试在未来两周内毫无破绽，或者你也可以试着写一些东西，然后扪心自问，让这些内容未来仍然重要的要素是什么，不仅是几个月，而是在几年、几十年，甚至一个世纪后是否依然适用，正如《证券分析》自1934年问世后的89年来仍然适用。我们今天要写出什么样的内容能在89年内都适用？我认为时间跨度非常重要。
+
+And that, to me, is what gives that book historical significance that nobody's saying follow their exact formula or go page by page and you'll know what to do. The companies are all gone. They've been merged or liquidated decades ago, out of existence. Many of the principles that they talk about are based on laws at the time around prudent man rule or other regulations that no longer apply.
+
+对我来说，这正是这本书的历史意义。没人会说，遵循他们的确切公式或一页页地照做，你就知道该怎么做投资。（他们谈论的）那些公司早已消失，不是合并就是被清算，他们谈论的许多原则都是基于当时的法律，如“谨慎人规则”或其他一些已不再适用的法规。
+
+But what's still applicable is that despite all the changes, the general principles which are essentially dependent on humans and their psychological tendencies to get overly exuberant and to get overly depressed, and to have constraints on the humans. "You must buy a highly rated bond, you can only own a stock that pays a dividend, you cannot own a stock below a certain market cap, or below a certain share price…" And those kinds of rules and constraints can lead to inefficiencies.
+
+尽管投资环境发生了许多变化，但一般性原则仍然适用，这些原则依赖于人们时而狂热、时而颓唐的心理倾向，以及人为施加的种种约束，（例如）你必须买高评级债券；你只能买要分红的股票；你不能买低于特定市值或特定股价的股票…这些规则和约束将引发市场的低效。
+
+And so, while the nature of the exact inefficiencies may have changed a lot in 89 years, the certainty that there will be those, I think, remains high. And I am actually pretty optimistic that they will remain even if computers are replacing people as money managers and we're doing all the trading. And that's because the nature of what causes the inefficiency, it's human. But I think the computers will mimic what the humans would do, because that's what they're trained to do. And so, I think that even AI wouldn't make the markets fully efficient.
+
+因此，尽管低效的具体表现在89年中发生了很大变化，但我认为，它继续存在的概率仍然很高。事实上，我非常乐观地认为，即使电脑取代人类成为资金管理人，低效市场仍会存在。因为导致（市场）低效的本质是人，电脑被训练去模仿人类的所作所为。因此，我认为就算AI也不会使市场完全有效。
 
 # Sourcing  
 # Diligence  
