@@ -92,21 +92,21 @@ I also remember the first stock, I believe Michael Price threw a prospectus on m
 
 我也记得分析第一只股票的时候。当时迈克尔·普莱斯把一份招股说明书扔到我桌子上，说 “来，把这个搞清楚。”这是迈克尔·普莱斯给我下的惯用指示。
 
-A company called Telecore, which was an electronics distributor, was losing their contract with the Japanese company whose products they were distributing, and they were gonna get bought out for the value of net working capital or something like that.
+A company called Telecor, which was an electronics distributor, was losing their contract with the Japanese company whose products they were distributing, and they were gonna get bought out for the value of net working capital or something like that.
 
-这家公司叫Telecore，是家电子产品分销商，当时正丢掉和一家日本公司的合同，而Telecore分销的正是这家日本公司的产品。Telecore打算以净营运资本的价值或类似的价格被收购。
+这家公司叫Telecor，是家电子产品分销商，当时正丢掉和一家日本公司的合同，而Telecor分销的正是这家日本公司的产品。Telecor打算以净营运资本的价值或类似的价格被收购。
 
-Telecore also owned a subsidiary called Electro Rent, which rented and leased the same kind of electronic equipment. So you were gonna get $8 or so in cash over a period of time, but not that long. And you were going to receive share of Electro Rent, a fraction of a share of Electro Rent. And Electro Rent that valuation that you could created for was trading at under 1 times earnings.
+Telecor also owned a subsidiary called Electro Rent, which rented and leased the same kind of electronic equipment. So you were gonna get $8 or so in cash over a period of time, but not that long. And you were going to receive share of Electro Rent, a fraction of a share of Electro Rent. And Electro Rent that valuation that you could created for was trading at under 1 times earnings.
 
-Telecore还拥有一家名为“Electro Rent”的子公司，专门出租同类电子设备。在Telecore被收购的过程中，其股东将在一定时间内（时间不会太久）获得8美元左右的现金，还会获得Electro Rent一定比例的股票。而以这种方式所获得的Electro Rent股票，其隐含估值连1倍市盈率都不到。
+Telecor还拥有一家名为“Electro Rent”的子公司，专门出租同类电子设备。在Telecor被收购的过程中，其股东将在一定时间内（时间不会太久）获得8美元左右的现金，还会获得Electro Rent一定比例的股票。而以这种方式所获得的Electro Rent股票，其隐含估值连1倍市盈率都不到。
 
-And that was math I could do in my head and math that made the nature of that inefficiency seemed so glaring and so obvious, and probably was a great example for me of complexity can be an investor's friend, that if a person wanted to buy Electro Rent previously, they couldn't. The only way to get it was this way. That most of the time you wouldn't wanna pay \$8 in change to create a share of something that is only worth cents, in that most of the money you were just gonna get back from the liquidation payment end of the licensing deal with Telecore.
+And that was math I could do in my head and math that made the nature of that inefficiency seemed so glaring and so obvious, and probably was a great example for me of complexity can be an investor's friend, that if a person wanted to buy Electro Rent previously, they couldn't. The only way to get it was this way. That most of the time you wouldn't wanna pay \$8 in change to create a share of something that is only worth cents, in that most of the money you were just gonna get back from the liquidation payment end of the licensing deal with Telecor.
 
-这是我在脑子里就能进行的数学运算，它让市场的低效显得如此耀眼和明显。对我来说，这是个很好的例子，说明复杂性可以成为投资者的朋友。如果一个人之前想买Electro Rent，他们是买不到的。唯一的办法就是以这种方式买。多数情况下，你不会想为了一个每股值几角钱的子公司而花8块钱买下整个公司，你之所以这样做是因为你能从Telecore合同结束后的清算付款中拿回大部分本金。
+这是我在脑子里就能进行的数学运算，它让市场的低效显得如此耀眼和明显。对我来说，这是个很好的例子，说明复杂性可以成为投资者的朋友。如果一个人之前想买Electro Rent，他们是买不到的。唯一的办法就是以这种方式买。多数情况下，你不会想为了一个每股值几角钱的子公司而花8块钱买下整个公司，你之所以这样做是因为你能从Telecor合同结束后的清算付款中拿回大部分本金。
 
 Nevertheless, it was a great lesson that there are arbitrage opportunities, that the complexity leads sometimes to opportunity that you need to really soak yourself in the details. That opportunity may not immediately be apparent. It certainly wouldn't be apparent from reading a financial report from last year cuz that's not an ongoing concern, but rather understanding how the pieces all come together using your own ideational thinking to understand what might get in the way. Is there an approval needed or are some payments owed to somebody that you've got to subtract before you think about your proceeds, or are there taxes due on the transaction? It was really a broadening example of the kind of things an arbitrage investor needs to think about, compare to an investor in a going concern.
 
-这是很好的一课，即市场存在套利机会，复杂性有时会带来投资机会。你需要真正沉下心去关注各种细节，隐藏的机会才会显现出来，（在Telecore的案例中），光读公司去年的财报当然看不出机会，因为这已经不是一个可以持续经营下去的公司了。相反，你需要主动构思，了解各种碎片化信息是如何组合在一起的，从而明白哪些因素可能成为交易的阻碍。是否需要某种审批？是否有某些欠款，需要在计算收益前扣除？又或者公司是否需要为这笔交易缴纳税款？这确实是个拓宽眼界的案例，与持续经营企业的投资者相比，套利投资者需要考虑的事情更加纷繁复杂。
+这是很好的一课，即市场存在套利机会，复杂性有时会带来投资机会。你需要真正沉下心去关注各种细节，隐藏的机会才会显现出来，（在Telecor的案例中），光读公司去年的财报当然看不出机会，因为这已经不是一个可以持续经营下去的公司了。相反，你需要主动构思，了解各种碎片化信息是如何组合在一起的，从而明白哪些因素可能成为交易的阻碍。是否需要某种审批？是否有某些欠款，需要在计算收益前扣除？又或者公司是否需要为这笔交易缴纳税款？这确实是个拓宽眼界的案例，与持续经营企业的投资者相比，套利投资者需要考虑的事情更加纷繁复杂。
 
 **Ted Seides:** So as you're learning early on in your career, it's also around the same time you had the Bill Sharps of the world writing about efficient markets hypothesis. And I'm really curious as you started hearing about that, thinking about the markets and index fund investing and then on the other side, you're seeing all these security level inefficiencies. How did you think about the investing world more broadly?
 
@@ -247,6 +247,82 @@ But what's still applicable is that despite all the changes, the general princip
 And so, while the nature of the exact inefficiencies may have changed a lot in 89 years, the certainty that there will be those, I think, remains high. And I am actually pretty optimistic that they will remain even if computers are replacing people as money managers and we're doing all the trading. And that's because the nature of what causes the inefficiency, it's human. But I think the computers will mimic what the humans would do, because that's what they're trained to do. And so, I think that even AI wouldn't make the markets fully efficient.
 
 因此，尽管低效的具体表现在89年中发生了很大变化，但我认为，它继续存在的概率仍然很高。事实上，我非常乐观地认为，即使电脑取代人类成为资金管理人，低效市场仍会存在。因为导致（市场）低效的本质是人，电脑被训练去模仿人类的所作所为。因此，我认为就算AI也不会使市场完全有效。
+
+**Ted Seides:** There is a degree to which AI, as you get closer to general intelligence, tries to replicate how humans would think. Where do you think, as computers on the short end, say, of trading, and then AI, maybe over time replicating thinking, will still go wrong relative to human behavior?
+
+**泰德·西德斯**：当AI越来越接近通用智能，一定程度上在试图复制人类的思维方式。电脑在短期内...（可能影响）比方说证券交易。随着时间的推移，AI也许会复制人类思维。你认为，相对于人类的行为，AI仍然会出错吗？
+
+**Seth Klarman:** A caveat that anything to do with technology, you've got the wrong guest. And that I need to know about it. I need to be up to speed. I need to have an opinion about where it might go. But I'm not an early adapter. I don't fool around with it the way some people do. So my opinion may not be as good as some people.
+
+**塞思·卡拉曼**：先提个醒，若想了解任何与技术相关的事情，你可能找错人了。我需要去了解它，我需要跟上时代的步伐，我需要对技术的发展方向有自己的看法，但我不是一个技术产品的早期采用者，我不像某些人那样成天玩弄它，所以我的意见可能不如某些人好。
+
+But when I think about it, first of all, my understanding of AI is that it is trained to look at enormous amounts of past data. I don't fully understand how that is done because, for example, up until 2022, we'd hit the longest bull market in history. And so depending on what period one looked at, one might think: "well, the absence of a bull market, maybe we were past that." Is that right? Or is it pent up that the absence of a down market, the straight up 12 years of bull market that ended in 21.
+
+话虽如此，当我思考这个问题时，首先，我对AI的理解是，它是通过查阅大量历史数据而被训练出来，我不完全理解这如何能做到。例如，直到2022年，我们经历了历史上最长的牛市。因此，根据所观察的时期，人们可能会想：“牛市中断过，也许我们已经开始了新一轮牛市。”是这样吗？还是说，由于很久没有熊市，这个持续了12年的牛市将会终结。
+
+It's like if you're waiting for a bus, and the buses, as you know from the schedule, come every 15 minutes. And it's been 45 minutes. So either four or five buses are gonna come right away, or the road is collapsed and no buses are coming, which is it?
+
+这就好比你在等公交车，按时刻表每隔15分钟就该有一班，但现在已经过了45分钟。所以，要么马上有四五辆公交车就要来了，要么道路坍塌了，公交车不会来了。到底是哪种情况呢？
+
+What will the computer tell you? Which is it? Those are hard questions. I don't think humans will always know the answers. I think AI will be amazing at saying, oh, well, when I, when the Suez Canal gets closed by an attack of some sort, here's what happens to oil prices or here's what happens to GDP around the world in the next quarter? Or when there's a war in Europe, here's what happens. And computers will figure that out and humans would have to ton of work to catch up. And maybe computers will see connections that aren't easily seen.
+
+电脑会告诉你是哪一种情况吗？这些是很难回答的问题，我不认为人类总能知道其中的答案。在我看来，AI将非常擅长预测当苏伊士运河因某种攻击而关闭时，油价或下一季度的全球GDP会怎样？或者当欧洲爆发战争时会怎么样？电脑能计算出这些结果，而人类则需做大量工作才能追赶上。也许电脑还能发现一些不易察觉的相关性。
+
+But how will a computer figure out the next Telecor and Electro Rent? And Electro Rent hasn't been public. There are no published financials yet, although they'll be in the proxy eventually. I don't know how they'd know Telecor shareholders would get or how to think about the contingencies around those kind of liquidation distributions, and that's not the most complicated thing that could come along. How will they think about what a bankrupt or near bankrupt bond might get into restructuring? Yeah, I just don't know. To somebody who really is sophisticated AI, maybe that sounds naive. But to me, I believe that it's likely that artificial intelligence dealing with a sample size of close to 1 on a particular oddball transaction may not know what to project.
+
+但是，电脑如何能找出下一个Telecor和Electro Rent呢？Electro Rent都没上市，没有公开的财务数据，尽管代理机构最终会公布。我不知道电脑将如何知道Telecor的股东会得到什么？或者电脑将如何思考那些围绕清算分配的突发情况？这还不是最复杂的事。电脑将如何思考哪只破产或濒临破产的债券可能进入重组？再次重申，我不知道。对于那些精通AI的人来说，这也许听上去很幼稚，但对我来说，我相信AI很可能不知道如何预测某笔样本量接近于1的特殊交易。
+
+So in effect, how does Baupost practice value investing? I think that we're set up not on a basis of let's look at the world like other people. We don't have industry analysts per se. We don't focus on a certain equity list of, let's know, these 200 stocks or let's look at certain kinds of industries cuz we like their growth prospects. We're set up in a much more opportunistic way. Where are inefficiencies right now and where are they likely to lie and how do we get them to come into our inbox so we can look at them. We're looking for supply, demand imbalances in the market.
+
+那么，Baupost是如何实践价值投资的呢？我认为，我们不是建立在让我们像其他人一样看待世界的基础上。我们没有特定行业的分析师。我们不会设置某个股票白名单，（然后说）就让我们了解这200只股票。我们也不会仅仅因为喜欢它们的增长前景，就关注某些行业。我们的设置更具有机会主义色彩（We're set up in a much more opportunistic way）。当前市场低效的地方可能在哪？如何让它们进入我们的视野，以便我们进行研究？我们寻找的是市场上供需失衡的机会。
+
+Now if you told me a stock in Turkey is going to be delisted from an exchange, I would tell you that while we don't look at Turkey, we might start to figure out that stock because when it's off the exchange and out of an index, there might be a lot of people that have to sell it. And there might be a lot of people that, cause I follow that index that don't hold it anymore. And so all of a sudden, you've had a chance, that stock price just falls into some kind of black hole.
+
+现在，如果你告诉我土耳其的一只股票将从交易所摘牌，我会告诉你，虽然我们不看土耳其，但我们可能会开始关注这只股票。因为当它从交易所摘牌并从指数中剔除时，可能会有很多人不得不卖掉它，可能会有很多跟踪该指数的人不再持有这只股票。所以突然之间，股价可能会跌穿谷底，你就有机会了。
+
+I think a computer could, of course, figure that out. It could say delisting leads to lower prices and then maybe make the connection that sometimes that's overshot in some new incarnation, the company gets taken over or can come back into an index.
+
+当然，我认为电脑在这方面还是有用武之地的。它也许能推算出‘退市将导致股价下跌’，然后通过某种关联分析，告诉你退市有时导致股价超跌，或者公司以某种新面貌被收购，可以重新纳入指数。
+
+But when you multiply that by all the kinds of things that lead to these mispriced things and imbalances, is it a downgrade? Is it bankruptcy filing itself? What about with a private asset? Graham and Dodd didn't write about private assets. They didn't write about real estate, they didn't write about privately owned companies. Yet the same general principles that cause stocks to overshoot can cause business prices to overshoot. Financing becomes less available, so buyers will need pony up more money as equity and therefore, the price drops. Somebody needs to get a loan that's turning sour off their books by the end of the quarter, a bank or an insurance company or a real estate fund formed 12 years ago that has one or two more assets. And once the last assets off the book, so they can close out the fund and maybe now go raise the next fund or the fund after that.
+
+但当你把它与各种导致错误定价和价格失衡的因素相乘，这是因为一次降级吗？是破产申请本身导致的吗？私人资产又如何呢？格雷厄姆和多德没有写私人资产。他们没有写过房地产。他们也没写过私人拥有的公司。然而，导致股票超调的一般性原则同样能导致企业价格超调：比如融资变得越来越难获得，所以买家需要拿出更多资金作为股本，从而导致价格下跌；再比如，银行、保险公司需要在季度末将一笔不良贷款从账上清理出去；或者，一家12年前成立的房地产基金，还剩下一两个资产，一旦将最后几项资产变现，他们就可以关闭该基金，去募集下一笔或下下笔基金。
+
+Tracking that way, sourcing opportunities that way is so different that, again, I don't know what a machine could be trained to do. It's not easy to train humans to do it. Maybe it'll be easier to train machines, but I'm not sure because it really is a lot of sample sizes of one. You see patterns, but patterns don't exactly repeat. That is what we're doing. That is what Baupost has done for 40 years.
+
+以这种方式追踪机会，以这种方式寻找机会，（与传统做法）截然不同。我还是那句话，我不知道机器能被训练成什么样子。训练人类做这件事并不容易，也许训练机器会更容易，我不确定，因为这涉及到大量样本量为1的样本。你能看到模式，但模式不会完全重复。这就是我们正在做的事情，这就是Baupost 40年来所做的。
+
+We're looking/hunting broad and wide. I like to say we go miles wide to look for opportunity. And then when we think we found it, then we drill miles deep. Maybe the contrast is that other people are going miles deep first, so they know everything about every industry, they know deeply pharma and auto and finance and whatever else, but they're not as focused on why might any of this be particularly mispriced.
+
+我们正广之又广的搜寻猎物，我喜欢说我们在数英里的范围内寻找机会，当我们认为找到时，我们再深入钻探。也许与此形成鲜明对比的是，其他人先钻得很深，他们对每个行业都了如指掌，对制药、汽车、金融和其他行业都很了解，但他们并不重视为什么是这些行业中的一个被错误定价了（They're not as focused on why might any of this be particularly mispriced）。
+
+And in fact, maybe they're actually oriented towards not going where the mispricings are. Is stock mispriced because management has not done a good job lately? That's hard for people to recommend to their clients or to their bosses, or maybe the company was involved in something that left them with a degree of stigma, a failed acquisition, or a management misstep. And yet, those things can cause prices to really get out of whack and lead to opportunity. So that's the challenge to find ways, to find the bargain. 
+
+事实上，其他机构也许倾向于不去错误定价的地方。股票定价错误是因为管理层最近工作不力吗？这很难让人们向客户或上司推荐，或者公司卷入了某些事情，给他们留下了一定程度的污名，比如收购失败，或者管理失误。然而，这些都可能导致价格失衡，从而带来机遇。因此，这就是寻找方法、找到便宜货的挑战。
+
+In a sense, you have to be right about less. When you don't have to be particularly right about what's the business going to grow into over the next 10 years, maybe right this second, it's 30 or 40 or 50 percent undervalued.
+
+在某种意义上，你必须对更少的事情做出正确的判断。当你不必对企业未来 10 年的发展前景特别有把握时，也许此时此刻，它的价值就被低估了 30%、40% 或 50%。
+
+Now, the world has changed more in recent years. So that because of technological disruption.
+
+近年来，由于技术的颠覆，世界在发生快速变化。
+
+In Graham's day, he could look at a balance sheet and an income statement and say, "look, I'm buying this stock at six times earnings and two-thirds of working capital, or two-thirds of book value", and probably be right about that and realize that the tables will turn "what's out of favor will come back into favor", which is what the quote from Horace, the poet that's at the beginning of Intelligent Investor.
+
+在格雷厄姆的时代，他可以看着资产负债表和损益表说，“我要以6倍PE、2/3的营运资本，或0.7倍的PB买入这只股票”，并知道自己很可能是对的，形势会逆转。“失宠的东西将会重获青睐”（What's out of favor will come back into favor），这正是《聪明的投资者》开头引用的诗人贺拉斯的名言。
+
+But what changes now is a business could be doing just fine, but if somebody's working on something in their garage that's going to disrupt that company.
+
+但当今不一样的是，一家企业目前或许做得不错，但如果有人在自己车库里捣鼓出什么颠覆性的东西。
+
+Five years from now, that company may barely exist or certainly become a lot less profitable. And so, an investor has to be thinking about not just cyclical change like Graham and Dodd were worried about in the depression but secular change as well.
+
+5年后这家公司可能就不存在了，或者盈利肯定会大打折扣。因此，投资者不仅要思考如同格雷厄姆和多德在经济萧条时期所担心的周期性变化，还得思考长期变化。
+
+And the combination of that I think has made investing harder and value investing harder that investors can't just crunch a few numbers and say this is mispriced. They need to dig a lot deeper than that. There's nothing wrong with hard work and I think the investors who look will continue to find mispricing and opportunity.
+
+我认为，这两者的结合使得投资变得更难了，也使价值投资变得更难了。投资者不能只计算几个数字就说这只股票被错误定价了，他们需要挖掘得更深。勤奋工作总是没错，我认为那些用心观察的投资者能继续发现错误定价的机会。
 
 # Sourcing  
 # Diligence  
