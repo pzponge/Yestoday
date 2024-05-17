@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Warren_Buffett/The_Security_I_Like_Best.md",
+    "README.md",
+    "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Seth_Klarman/Timeless_Value_Investing.md",
     "John_Huber/End_of_Mean_Reversion.md",
     "Monish_Pabrai/Compounding_with_the_Spawners.md",
@@ -159,7 +160,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1984_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2023_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
-    "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1983_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2023_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2000_Annual_Meeting.md",
