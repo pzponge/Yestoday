@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md"
+                "file": "Warren_Buffett/The_Security_I_Like_Best.md"
               }
             }
           }
@@ -150,6 +150,7 @@
   "lastOpenFiles": [
     "README.md",
     "Warren_Buffett/The_Security_I_Like_Best.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Seth_Klarman/Timeless_Value_Investing.md",
     "John_Huber/End_of_Mean_Reversion.md",
@@ -174,7 +175,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2017_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2016_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2015_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2014_Annual_Meeting.md",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
     "Elements/Nick_Sleep/Slide_2.png",

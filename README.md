@@ -37,7 +37,7 @@
 
 标题|作者|语言|翻译|整合
 ---|---|---|---|---
-[我最喜欢的证券](./Warren_Buffett/The_Security_I_Like_Best.md)|Warren Buffett|双语|CxEric|Ponge
+[我最喜欢的证券](./Warren_Buffett/The_Security_I_Like_Best.md)|Warren Buffett|双语|RanRan|Ponge
 [沃伦·巴菲特崇拜](./Warren_Buffett/The_Cult_of_Warren_Buffett.md)|Gary Mishuris|双语|Ponge|Ponge
 [新狗难教旧把戏：巴菲特 1988 年与亚当·斯密访谈](./Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md)|Kingswell|双语|DeepL|Terrellchen
 [塔克商学院 2004-2005 访问巴菲特实录](./Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)|佚名|双语|DeepL|Terrellchen、Ponge
