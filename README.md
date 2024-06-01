@@ -64,6 +64,7 @@
 1962 年致合伙人信|1963-01-18|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md)
 1963 年半年度致合伙人信|1963-07-10|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630710_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md)
 1963 年 11 月致合伙人信|1963-11-06|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/19631106_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1963_November_Letter_to_Limited_Partners_CM.md)
+1963 年 12 月致合伙人信|1963-12-26|双语|[OST (Ponge)](./Warren_Buffett/Buffett_Partnership_Letters/1963_December_Letter_to_Limited_Partners.md)
 1963 年致合伙人信|1964-01-18|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md)
 1964 年半年度致合伙人信|1964-07-08|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640708_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1964_Semi-annual_Letter_to_Limited_Partners_CM.md)
 1964 年致合伙人信|1965-01-18|双语|[RanRan](./Warren_Buffett/Buffett_Partnership_Letters/RanRan/19650118_Letter_RR.md) / [诚明散人](./Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md)

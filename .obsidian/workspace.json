@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/The_Security_I_Like_Best.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,8 +148,15 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_December_Letter_to_Limited_Partners.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_Semi-annual_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
     "Warren_Buffett/The_Security_I_Like_Best.md",
+    "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Seth_Klarman/Timeless_Value_Investing.md",
@@ -168,13 +175,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1996_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2022_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2021_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2020_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2019_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2018_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2017_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2016_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2015_Annual_Meeting.md",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
     "Elements/Nick_Sleep/Slide_2.png",
