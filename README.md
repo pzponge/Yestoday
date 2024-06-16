@@ -158,38 +158,39 @@
 
 ## 1.3. 伯克希尔哈撒韦股东大会
 
-标题|原文发表时间|语言|翻译版本
+标题|原文发表时间|语言|整理
 ---|---|---|---
+[1985年股东大会（片段）](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1985_Annual_Meeting_Kingswell.md)|2023-08-29|双语|Terrellchen
 [1994 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md)（英文完整，中文进行中）|1994-04-25|双语|一朵喵
- [1995 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1995_Annual_Meeting.md) | 1995 | 英语 | 暂无 |
- [1996 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1996_Annual_Meeting.md) | 1996 | 英语 | 暂无 |
- [1997 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1997_Annual_Meeting.md) | 1997 | 英语 | 暂无 |
- [1998 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1998_Annual_Meeting.md) | 1998 | 英语 | 暂无 |
- [1999 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1999_Annual_Meeting.md) | 1999 | 英语 | 暂无 |
- [2000 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2000_Annual_Meeting.md) | 2000 | 英语 | 暂无 |
- [2001 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2001_Annual_Meeting.md) | 2001 | 英语 | 暂无 |
- [2002 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2002_Annual_Meeting.md) | 2002 | 英语 | 暂无 |
- [2003 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2003_Annual_Meeting.md) | 2003 | 英语 | 暂无 |
- [2004 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2004_Annual_Meeting.md) | 2004 | 英语 | 暂无 |
- [2005 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2005_Annual_Meeting.md) | 2005 | 英语 | 暂无 |
- [2006 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2006_Annual_Meeting.md) | 2006 | 英语 | 暂无 |
- [2007 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2007_Annual_Meeting.md) | 2007 | 英语 | 暂无 |
- [2008 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2008_Annual_Meeting.md) | 2008 | 英语 | 暂无 |
- [2009 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2009_Annual_Meeting.md) | 2009 | 英语 | 暂无 |
- [2010 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2010_Annual_Meeting.md) | 2010 | 英语 | 暂无 |
- [2011 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2011_Annual_Meeting.md) | 2011 | 英语 | 暂无 |
- [2012 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2012_Annual_Meeting.md) | 2012 | 英语 | 暂无 |
- [2013 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2013_Annual_Meeting.md) | 2013 | 英语 | 暂无 |
- [2014 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2014_Annual_Meeting.md) | 2014 | 英语 | 暂无 |
- [2015 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2015_Annual_Meeting.md) | 2015 | 英语 | 暂无 |
- [2016 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2016_Annual_Meeting.md) | 2016 | 英语 | 暂无 |
- [2017 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2017_Annual_Meeting.md) | 2017 | 英语 | 暂无 |
- [2018 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2018_Annual_Meeting.md) | 2018 | 英语 | 暂无 |
- [2019 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2019_Annual_Meeting.md) | 2019 | 英语 | 暂无 |
- [2020 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2020_Annual_Meeting.md) | 2020 | 英语 | 暂无 |
- [2021 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2021_Annual_Meeting.md) | 2021 | 英语 | 暂无 |
- [2022 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2022_Annual_Meeting.md) | 2022 | 英语 | 暂无 |
- [2023 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2023_Annual_Meeting.md) | 2023 | 英语 | 暂无 |
+[1995 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1995_Annual_Meeting.md) | 1995 | 英语 | 暂无 |
+[1996 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1996_Annual_Meeting.md) | 1996 | 英语 | 暂无 |
+[1997 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1997_Annual_Meeting.md) | 1997 | 英语 | 暂无 |
+[1998 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1998_Annual_Meeting.md) | 1998 | 英语 | 暂无 |
+[1999 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1999_Annual_Meeting.md) | 1999 | 英语 | 暂无 |
+[2000 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2000_Annual_Meeting.md) | 2000 | 英语 | 暂无 |
+[2001 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2001_Annual_Meeting.md) | 2001 | 英语 | 暂无 |
+[2002 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2002_Annual_Meeting.md) | 2002 | 英语 | 暂无 |
+[2003 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2003_Annual_Meeting.md) | 2003 | 英语 | 暂无 |
+[2004 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2004_Annual_Meeting.md) | 2004 | 英语 | 暂无 |
+[2005 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2005_Annual_Meeting.md) | 2005 | 英语 | 暂无 |
+[2006 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2006_Annual_Meeting.md) | 2006 | 英语 | 暂无 |
+[2007 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2007_Annual_Meeting.md) | 2007 | 英语 | 暂无 |
+[2008 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2008_Annual_Meeting.md) | 2008 | 英语 | 暂无 |
+[2009 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2009_Annual_Meeting.md) | 2009 | 英语 | 暂无 |
+[2010 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2010_Annual_Meeting.md) | 2010 | 英语 | 暂无 |
+[2011 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2011_Annual_Meeting.md) | 2011 | 英语 | 暂无 |
+[2012 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2012_Annual_Meeting.md) | 2012 | 英语 | 暂无 |
+[2013 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2013_Annual_Meeting.md) | 2013 | 英语 | 暂无 |
+[2014 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2014_Annual_Meeting.md) | 2014 | 英语 | 暂无 |
+[2015 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2015_Annual_Meeting.md) | 2015 | 英语 | 暂无 |
+[2016 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2016_Annual_Meeting.md) | 2016 | 英语 | 暂无 |
+[2017 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2017_Annual_Meeting.md) | 2017 | 英语 | 暂无 |
+[2018 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2018_Annual_Meeting.md) | 2018 | 英语 | 暂无 |
+[2019 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2019_Annual_Meeting.md) | 2019 | 英语 | 暂无 |
+[2020 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2020_Annual_Meeting.md) | 2020 | 英语 | 暂无 |
+[2021 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2021_Annual_Meeting.md) | 2021 | 英语 | 暂无 |
+[2022 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2022_Annual_Meeting.md) | 2022 | 英语 | 暂无 |
+[2023 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2023_Annual_Meeting.md) | 2023 | 英语 | 暂无 |
 
 # 2\. Charles T. Munger
 
