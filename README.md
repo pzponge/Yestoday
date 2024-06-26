@@ -20,7 +20,7 @@
 - Chuck_Akre：Chuck Akre 相关文章翻译。
 - Li_Lu：投资人李录相关文章。
 - John_Huber：投资人 John Huber 相关文章翻译。
-- Monish_Pabrai：投资人 Monish Pabrai 相关文章翻译。
+- Mohnish_Pabrai：投资人 Mohnish Pabrai 相关文章翻译。
 - Nick_Sleep：投资人 Nick Sleep 相关文章翻译。
 - Frank_Martin：投资人 Frank Martin 相关文章翻译。
 - Bharat_Shah：印度投资人 Bharat Shah 相关文章翻译。
@@ -237,12 +237,12 @@
 
 
 
-# 6\. Monish Pabrai
+# 6\. Mohnish Pabrai
 
 标题|语言|翻译
 ---|---|---
-[通过 Spawners 实现累进增长](./Monish_Pabrai/Compounding_with_the_Spawners.md)|中文|Ponge
-
+[通过 Spawners 实现累进增长](./Mohnish_Pabrai/Compounding_with_the_Spawners.md)|中文|Ponge
+[2024 年 3 月接受 YPO United Mosaic 采访](./Mohnish_Pabrai/Mohnish_Pabrai_Interview_with_YPO_United_Mosaic.md)|双语|ShawnQ
 
 # 7\. John Huber
 

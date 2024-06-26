@@ -5,7 +5,7 @@
 
 ---
 
-本访谈是 Monish Pabrai 于 2020 年 12 月 3 日在北大光华管理学院价值投资课上的分享，题目是《通过「蕃衍器」实现累进增长（Compounding with the Spawners）》。
+本访谈是 Mohnish Pabrai 于 2020 年 12 月 3 日在北大光华管理学院价值投资课上的分享，题目是《通过「蕃衍器」实现累进增长（Compounding with the Spawners）》。
 
 # 《10~100 倍股——投资的圣杯》
 
