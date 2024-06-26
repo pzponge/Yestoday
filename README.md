@@ -161,6 +161,7 @@
 标题|原文发表时间|语言|翻译
 ---|---|---|---
 [1985 年股东大会（片段）](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1985_Annual_Meeting_Kingswell.md)|2023-08-29|双语|Terrellchen
+[1986 年股东大会（片段）](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1986_Annual_Meeting_Kingswell.md)|2024-02-06|双语|Terrellchen
 [1987 年股东大会（片段）](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1987_Annual_Meeting_Kingswell.md)|2024-05-21|双语|Terrellchen
 [1994 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md)（英文完整，中文进行中）|1994-04-25|双语|一朵喵
 [1995 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1995_Annual_Meeting.md) | 1995 | 英语 | 暂无 |
