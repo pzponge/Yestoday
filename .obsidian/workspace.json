@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Warren_Buffett_Gives_It_Away.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
     "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1986_Annual_Meeting_Kingswell.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1987_Annual_Meeting_Kingswell.md",
@@ -175,7 +176,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
     "Seth_Klarman",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
