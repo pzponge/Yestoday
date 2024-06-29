@@ -49,6 +49,8 @@
 
 **说明：合伙人信提供了多种翻译版本，欢迎读者自行选择译本。其中，OST 代表开源翻译小组（Open Source Translation Team）共同维护版本。**
 
+更多合伙人信原件复印件内容，可以参考：[Warren Buffett Letters to Partners 1959 – 1975](https://www.rbcpa.com/warren-e-buffett/buffett-letters-1959-present/)
+
 标题|原文发表时间|语言|翻译版本
 ---|---|---|---
 有限合伙契约|1956-05-01|双语|[OST (孙萧萧)](./Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md)
