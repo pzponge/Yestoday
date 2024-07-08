@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "贝叶斯",
+                "query": "psychica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md"
               }
             }
           }
@@ -148,11 +149,19 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/1962_December_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19680124_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621224_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md",
+    "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_December_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1963_December_Letter_to_Limited_Partners.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19631106_Letter_RR.md",
-    "README.md",
     "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1986_Annual_Meeting_Kingswell.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1987_Annual_Meeting_Kingswell.md",
@@ -168,14 +177,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2023_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2017_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2016_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md",
     "Seth_Klarman",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
