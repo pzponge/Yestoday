@@ -104,7 +104,7 @@ Elementary self-analysis tells me that I will not be capable of less than all-ou
 
 Thus, I am likely to limit myself to things which are reasonably easy, safe, profitable and pleasant. This will not make our operation more conservative than in the past since I believe, undoubtedly with some bias, that we have always operated with considerable conservatism. The long-term downside risk will not be less; the upside potential will merely be less.
 
-所以，我喜欢把自己局限在那些简单、安全、有利可图且令人愉悦的事情上。这不会使我们的运营比以前更保守，因为我认为，从某种程度上我们一直运行的较为保守。但是，长期下行的风险并没有降低；长期上升的潜力同样也不会减少太多。
+所以，我喜欢把自己局限在那些简单、安全、有利可图且令人愉悦的事情上。这不会使我们的运营比以前更保守，因为我认为，从某种程度上我们一直运行的较为保守。长期来看，我们面临的风险并不会减少，只是潜在的收益增长会有所降低。
 
 Specifically, our longer term goal will be to achieve the lesser of 9% per annum or a five percentage point advantage over the Dow. Thus, if the Dow averages -2% over the next five years, I would hope to average +3% but if the Dow averages +12%, I will hope to achieve an average of only +9%. These may be limited objectives, but I consider it no more likely that we will achieve even these more modest results under present conditions than I formerly did that we would achieve our previous goal of a ten percentage point average annual edge over the Dow. Furthermore, I hope limited objectives will make for more limited effort (I'm quite sure the converse is true).
 
