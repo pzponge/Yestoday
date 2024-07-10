@@ -236,7 +236,7 @@ We have a number of important negatives operating on our future and, while they 
 
 未来，我们会有一些重要的、有负面影响的运营项目，虽然不能说它们毫无用处，但是它们也肯定无法对超出平均收益有所帮助。
 
-# Memorabilia 纪念品
+# Memorabilia 大事记
 
 As one of my older friends says, “Nostalgia just isn't what it used to be.” Let's take a stab at it, anyway.
 
