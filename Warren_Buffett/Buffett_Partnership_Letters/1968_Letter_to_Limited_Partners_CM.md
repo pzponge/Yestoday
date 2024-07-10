@@ -220,7 +220,7 @@ This category, which was a disaster in 1967, did well during 1968. Our relativel
 
 It should again be stated that our results in the Workout area (as well as in other categories) are somewhat understated compared to the more common method of determining results computed on an initial base figure and utilizing borrowed money (which is often a sensible part of the Workout business).
 
-需要强调的是，我们在计算“Workouts”类型的投资（以及其他类型的投资）时，不像大部分投资方法那样以初始资金为基础计算，也没有扣除所借的贷款（它们一般占“Workouts”资金相当大的比例），所以某种程度上这类投资的收益率被低估了。
+需要强调的是，我们在计算“Workouts”类型的投资（以及其他类型的投资）时，不像大部分投资方法那样以初始资金为基础计算，也没有扣除所借的贷款（它们一般占“Workouts”资金相当大的比例），所以某种程度上这类投资的收益率被低估了。[^ponge]
 
 ---
 
@@ -294,3 +294,6 @@ WEB/glk
 
 [^1]: 特指某种共同基金，这类基金换手率非常高，经常迅速买进卖出大宗股票，赚取快速利润。
 [^2]: 蔡志勇，华裔。
+[^ponge]: 2024-07-10 更新：关于这一段的翻译，我们产生了一些分歧，主要是集中在 sensible 这个词表达的意思上。诚明散人倾向于认为这个词表达的意思是很明显的，也就是借款占了相当大比例。Ponge 认为这里的意思是常见且合理的，明智的。双方没有达成共识。因此在附注中提供 Ponge 的翻译版本，供读者自行选择。该段翻译如下：
+	
+	再次声明，与更常见的计算方法相比，我们在 Workout 类投资的结果有些被低估了（其他几类也存在这种情况）。常见的计算方法是以年初的数字为基数计算收益率，并包含了杠杆资金对收益率的影响（在 Workout 业务中，杠杆一般是常见且合理的）。
