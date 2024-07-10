@@ -156,7 +156,7 @@ Overall Gain||$40,032,691
 
 A few caveats, as mentioned in my letter two years ago, are again in order (non-doctoral candidates may proceed to next section):
 
-我在两年前的信中提到过需要注意的几点依然如旧（没有博士学位的人需要阅读这部分内容）：
+我在两年前的信中提到过需要注意的几点依然如旧（不想读博士学位的可以跳过这部分）：
 
 1. An explanation of the various categories listed above was made in the January 18, 1965 letter. If your memory needs refreshing and your favorite newsstand does not have the pocketbook edition. we'll be glad to give you a copy.
    
