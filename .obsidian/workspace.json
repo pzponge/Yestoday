@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md",
+                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md",
+                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md",
+                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md"
+                "file": "John_Huber/walter-schloss-nifty-fifty-current.md"
               }
             }
           }
@@ -148,8 +148,17 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
+    "README.md",
+    "John_Huber/walter-schloss-nifty-fifty-current.md",
+    "John_Huber/Importance_of_ROIC_Part_1.md",
+    "Elements/John_Huber/Walter-Schloss-results.jpg",
+    "Elements/John_Huber",
+    "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
+    "John_Huber/Importance_of_ROIC_Part_5.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
@@ -167,13 +176,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1967_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1964_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19691009_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19691205_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1967_October_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660120_Letter_RR.md",
     "Mohnish_Pabrai",
     "Monish_Pabrai",
     "Seth_Klarman",
@@ -189,7 +191,6 @@
     "Elements/Nick_Sleep",
     "Elements/未命名文件夹",
     "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png",
-    "Elements/Warren_Buffett_Gives_It_Away/The_Fate_of_His_Fortune_Sealed.png",
     "Elements/Warren_Buffett_Gives_It_Away"
   ]
 }
