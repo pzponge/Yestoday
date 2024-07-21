@@ -60,6 +60,7 @@ Take a look at the results he earned in the years after the 1972 Nifty Fifty per
 看看他在 1972 年 “漂亮50 ”之后的几年里所取得的业绩吧：
 
 ![Walter-Schloss-results](../Elements/John_Huber/Walter-Schloss-results.jpg)
+
 *Source: www.walterschloss.com*
 
 In the 10 years following 1972, Schloss’s fund returned 22% annually vs. around 7% for the S&P. After the market downturn of 1973-1974, he had a five year stretch where his fund returned over 30% annually.
