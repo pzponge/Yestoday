@@ -3,11 +3,9 @@
 - 原标题：Bitcoin, Currencies, and Fragility
 - 原文链接：[PDF](https://www.fooledbyrandomness.com/BTC-QF.pdf)
 - 发表时间：2021-06-30
-- 中文翻译：
-
+- 中文翻译参考：[许哲](https://zhuanlan.zhihu.com/p/543127242)、机器翻译
 
 ---
-
 
 # Bitcoin, Currencies, and Fragility 比特币、货币和脆弱性
 
@@ -17,7 +15,7 @@ Universa Investments 寰宇投资公司
 
 Tandon School of Engineering, New York University 纽约大学坦登工学院
 
-Forthcoming, *Quantitative Finance* 即将出版《计量金融》
+Forthcoming, *Quantitative Finance* 即将发表在《计量金融》
 
 [^A]: NNT1@nyu.edu
 
@@ -25,21 +23,31 @@ Forthcoming, *Quantitative Finance* 即将出版《计量金融》
 
 ## Introduction/Abstract 引言/摘要
 
-This discussion applies quantitative finance methods and economic arguments to cryptocurrencies in general and bitcoin in particular — as there are about 10,000 cryptocurrencies, we focus (unless otherwise specified) on the most discussed crypto of those that claim to hew to the original protocol \[1\] and the largest market capitalization.
+This discussion applies quantitative finance methods and economic arguments to cryptocurrencies in general and bitcoin in particular — as there are about 10,000 cryptocurrencies, we focus (unless otherwise specified) on the most discussed crypto of those that claim to hew to the original protocol \[1\] and the one with, by far, the largest market capitalization.
 
-这篇讨论运用量化金融方法和经济论证，探讨了加密货币整体及比特币特别的话题。鉴于大约有10,000种加密货币，我们将主要关注（除非另有说明）那些声称遵循原始协议\[1\]并拥有最大市场资本化的加密货币。
+本文将定量金融方法和经济学论证应用于加密货币行业，尤其是比特币。目前存在约 10,000 种加密货币，我们将主要关注（除非另有说明）比特币。因为比特币在那些声称遵循原始协议\[1\]的加密货币中被讨论的最多，同时也是迄今为止市值最大的加密货币。
 
 In its current version, in spite of the hype, bitcoin failed to satisfy the notion of "currency without government" (it proved to not even be a currency at all), can be neither a short nor long term store of value (its expected value is no higher than 0), cannot operate as a reliable inflation hedge, and, worst of all, does not constitute, not even remotely, a safe haven for one's investments, a shield against government tyranny, or a tail protection vehicle for catastrophic episodes.
 
+就当下而言，尽管不断有人大肆鼓吹，但比特币并没能实现「无需政府的货币」的构想（事实证明，比特币甚至算不上是一种货币）。它既不能作为短期或长期的价值储存手段（其预期价值不会高于 0），也不能作为可靠的通胀对冲工具。最糟糕的是，它无法成为投资的避风港（完全没办法），也无法充当抵御政府暴政的盾牌，更不能为灾难性的尾部事件充当对冲保护的工具。
+
 Furthermore, bitcoin promoters appear to conflate the success of a payment mechanism (as a decentralized mode of exchange), which so far has failed, with the speculative variations in the price of a zero-sum maximally fragile asset with massive negative externalities.
+
+此外，比特币的鼓吹者似乎想要把比特币「作为一种（去中心化交易）支付方案的成功与否」与「作为一个投机品的价格上涨与否」混为一谈。就前者来说，到目前为止已经宣告失败了；就后者来说，比特币作为用于零和投机游戏的脆弱资产，具有巨大的负外部性。
 
 Going through monetary history, we show how a true numeraire must be one of minimum variance with respect to an arbitrary basket of goods and services, how gold and silver lost their inflation hedge status during the Hunt brothers squeeze in the late 1970s and what would be required from a true inflation hedged store of value.
 
-![[999-笔记素材/202407281233/Fig 1.png]]
+通过回顾货币历史，我们展示了：1）为什么说一个真正的计价单位（numeraire）必须是相对于任意一篮子商品和服务而言差异最小的货币；2）黄金和白银如何在 1970 年代后期亨特兄弟挤兑事件后失去了其通胀对冲地位；以及 3）一个真正的通胀对冲、价值储存工具需要具备哪些条件。
+
+![](../../Elements/Bitcoin_Currencies_and_Fragility/Fig_1.png)
 *Fig. 1. BTC return, 3 months annualized volatility. It does not seem to decrease over time.*
 
-![[999-笔记素材/202407281233/Fig 2.png]]
+*图 1：比特币回报的 3 个月年化波动率。它似乎没有随着时间的推移而下降。*
+
+![](../../Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png)
 *Fig. 2. Too volatile to fail? We show the volatility of the capitalization of BTC. At higher levels of capitalization, return volatility compounds. In 2021 a swing of half a trillion dollars in the capitalization of bitcoin took place.*
+
+*图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。*
 
 ## The Blockchain
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Elements/Bitcoin_Currencies_and_Fragility/Fig_3.png",
+    "Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png",
+    "Elements/Bitcoin_Currencies_and_Fragility/Fig_1.png",
+    "Elements/Bitcoin_Currencies_and_Fragility/Fig 2.png",
+    "Elements/Bitcoin_Currencies_and_Fragility/Fig 1.png",
+    "Elements/Bitcoin_Currencies_and_Fragility/Fig 3.png",
+    "README.md",
     "Elements/Output/Sharholder_Letter_20240728.epub",
     "Elements/Output/Sharholder_Letter_20240728.pdf",
     "Elements/Output/Partership_Letter_RanRan_20240728.epub",
@@ -160,10 +167,8 @@
     "Elements/Bitcoin_Currencies_and_Fragility",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "Nassim_Nicholas_Taleb",
-    "README.md",
     "John_Huber/Importance_of_ROIC_Part_1.md",
     "Elements/John_Huber/Walter-Schloss-results.jpg",
-    "Elements/John_Huber",
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
     "John_Huber/Importance_of_ROIC_Part_5.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
@@ -188,11 +193,6 @@
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
     "Elements/Nick_Sleep/Slide_2.png",
-    "Elements/Nick_Sleep/being_Costco_customer.png",
-    "Elements/Nick_Sleep/Punch_Cartoons.png",
-    "Elements/Nick_Sleep/GEICO_Fair_Division.png",
-    "Elements/Nick_Sleep/Costco_Membership.png",
-    "Elements/Nick_Sleep/COST_Price_History.png",
-    "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png"
+    "Elements/Nick_Sleep/being_Costco_customer.png"
   ]
 }
