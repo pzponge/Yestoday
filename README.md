@@ -10,9 +10,9 @@
 
 **2024/7/28 更新：Tom Tang 唐宇晗帮助将截至 2024/7/28 的文档汇总制作成了 EPUB/PDF 文件，欢迎大家下载阅读！**
 
-- 《巴菲特致合伙人信全集（RanRan译本）》，[EPUB](https://pan.baidu.com/s/1rUWL-ClGJ0iY9XCKqLGanA)（提取码：4sj8），PDF
-- 《巴菲特致合伙人信全集（诚明散人译本）]》，[EPUB](https://pan.baidu.com/s/103Mip5ij0mnhVOCtCn-wDA)（提取码：dqbp），PDF
-- 《伯克希尔致股东信全集》：[EPUB](https://pan.baidu.com/s/1zcaRI32V0F7YIGTGg-iMPA)（提取码：ow75），PDF
+- 《巴菲特致合伙人信全集（RanRan译本）》：[EPUB](./Elements/Output/Partership_Letter_RanRan_20240728.epub)，[PDF](./Elements/Output/Partership_Letter_RanRan_20240728.pdf)
+- 《巴菲特致合伙人信全集（诚明散人译本）》：[EPUB](./Elements/Output/Partership_Letter_CM_20240728.epub)，[PDF](./Elements/Output/Partership_Letter_CM_20240728.pdf)
+- 《伯克希尔致股东信全集》：[EPUB](./Elements/Output/Sharholder_Letter_20240728.epub)，[PDF](./Elements/Output/Sharholder_Letter_20240728.pdf)
 
 # 0\. 文件夹说明
 

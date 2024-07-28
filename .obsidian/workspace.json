@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -146,8 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eadc8536afb4a56c",
+  "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Elements/Output/Sharholder_Letter_20240728.epub",
+    "Elements/Output/Sharholder_Letter_20240728.pdf",
+    "Elements/Output/Partership_Letter_RanRan_20240728.epub",
+    "Elements/Output/Partership_Letter_CM_20240728.epub",
+    "Elements/Output/Sharholder_Letter_20240727.pdf",
+    "Elements/Output/Partership_Letter_RanRan_20240728.pdf",
+    "Elements/Output/Partership_Letter_CM_20240728.pdf",
     "Elements/Output",
     "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "Elements/Bitcoin_Currencies_and_Fragility",
@@ -178,21 +185,14 @@
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2002_Annual_Meeting.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
-    "Mohnish_Pabrai",
-    "Monish_Pabrai",
-    "Seth_Klarman",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
     "Elements/Nick_Sleep/Slide_2.png",
     "Elements/Nick_Sleep/being_Costco_customer.png",
     "Elements/Nick_Sleep/Punch_Cartoons.png",
     "Elements/Nick_Sleep/GEICO_Fair_Division.png",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting",
     "Elements/Nick_Sleep/Costco_Membership.png",
     "Elements/Nick_Sleep/COST_Price_History.png",
-    "Elements/Nick_Sleep",
-    "Elements/未命名文件夹",
-    "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png",
-    "Elements/Warren_Buffett_Gives_It_Away"
+    "Elements/Warren_Buffett_Gives_It_Away/Bill_in_Mozambique.png"
   ]
 }
