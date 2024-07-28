@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "John_Huber/walter-schloss-nifty-fifty-current.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "650eb438c83b0b0d",
+  "active": "eadc8536afb4a56c",
   "lastOpenFiles": [
-    "README.md",
+    "Elements/Output",
+    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+    "Elements/Bitcoin_Currencies_and_Fragility",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
+    "Nassim_Nicholas_Taleb",
+    "README.md",
     "John_Huber/Importance_of_ROIC_Part_1.md",
     "Elements/John_Huber/Walter-Schloss-results.jpg",
     "Elements/John_Huber",
@@ -174,8 +178,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2002_Annual_Meeting.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_October_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1967_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
     "Mohnish_Pabrai",
     "Monish_Pabrai",
     "Seth_Klarman",

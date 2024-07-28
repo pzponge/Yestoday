@@ -8,6 +8,12 @@
 
 过程中遇到任何问题，可以通过微信公众号私信或[飞书](https://www.feishu.cn/invitation/page/add_contact/?token=cb6qe42c-72ab-46a9-bf5d-0f90d1118a8a&amp;unique_id=aaa9cwGzc4RapO2WfQUoww==)（也可在公众号底边栏找到二维码）联系我。
 
+**2024/7/28 更新：Tom Tang 唐宇晗帮助将截至 2024/7/28 的文档汇总制作成了 EPUB/PDF 文件，欢迎大家下载阅读！**
+
+- 《巴菲特致合伙人信全集（RanRan译本）》，[EPUB](https://pan.baidu.com/s/1rUWL-ClGJ0iY9XCKqLGanA)（提取码：4sj8），PDF
+- 《巴菲特致合伙人信全集（诚明散人译本）]》，[EPUB](https://pan.baidu.com/s/103Mip5ij0mnhVOCtCn-wDA)（提取码：dqbp），PDF
+- 《伯克希尔致股东信全集》：[EPUB](https://pan.baidu.com/s/1zcaRI32V0F7YIGTGg-iMPA)（提取码：ow75），PDF
+
 # 0\. 文件夹说明
 
 ## 0.1. 经典投资人
@@ -43,7 +49,6 @@
 [塔克商学院 2004-2005 访问巴菲特实录](./Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)|佚名|双语|DeepL|Terrellchen、Ponge
 [沃伦 · 巴菲特捐出自己的财富](./Warren_Buffett/Warren_Buffett_Gives_It_Away.md)|Carol J. Loomis|双语|Vito|Vito
 [2023 年 11 月 21 日巴菲特捐赠公告](./Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md)|Berkshire Hathaway|双语|Vito|Vito
-
 
 ## 1.1. 致巴菲特合伙基金持有人信
 
