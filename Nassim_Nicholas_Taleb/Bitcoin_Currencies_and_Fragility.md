@@ -39,7 +39,7 @@ Going through monetary history, we show how a true numeraire must be one of mini
 
 通过回顾货币历史，我们展示了：1）为什么说一个真正的计价单位（numeraire）必须是相对于任意一篮子商品和服务而言差异最小的货币；2）黄金和白银如何在 1970 年代后期亨特兄弟挤兑事件后失去了其通胀对冲地位；以及 3）一个真正的通胀对冲、价值储存工具需要具备哪些条件。
 
-![](./Elements/Bitcoin_Currencies_and_Fragility/Fig_1.png)
+![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_1.png)
 
 *Fig. 1. BTC return, 3 months annualized volatility. It does not seem to decrease over time.*
 
