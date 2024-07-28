@@ -45,7 +45,7 @@ Going through monetary history, we show how a true numeraire must be one of mini
 
 *图 1：比特币回报的 3 个月年化波动率。它似乎没有随着时间的推移而下降。*
 
-![](../../Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png)
+![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png)
 *Fig. 2. Too volatile to fail? We show the volatility of the capitalization of BTC. At higher levels of capitalization, return volatility compounds. In 2021 a swing of half a trillion dollars in the capitalization of bitcoin took place.*
 
 *图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。*
