@@ -51,13 +51,19 @@ Going through monetary history, we show how a true numeraire must be one of mini
 
 *图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。*
 
-## The Blockchain
+## The Blockchain 区块链
 
 First, let us consider what cryptocurrencies do by examining the notion of blockchain and its intellectual and mathematical appeal.
 
+首先，让我们通过探讨区块链的概念及其在智力和数学方面的魅力特质，来了解加密货币所做的事情。
+
 The concept behind such a chain is quite intuitive to early practitioners of quantitative finance. Consider that before efficient software for Monte Carlo simulations became widely available, some of us were using methods to generate pseudorandom variables via some forms of chained nonlinear transformations, in the spirit of Von Neumann's original idea \[2\]. Indexing sequences by $t= 1, 2,... n$, with a seed at $t$, a variable $x_t$ on the real line generates via nonlinear transformations $r: \mathbb{R} \to \mathbb{R}$, an output variable $r(x_t)$. This output variable can serve as a pseudorandom seed to generate another pseudorandom variable, $r(x_{t+1})$. For all $t$, knowledge of $r(X_t)$ allows knowledge of all subsequent variables $r(x_\tau)_{\tau>t}$ and replication of the entire sequence, thus probabilistically mimicking the arrow of time. It is also crucial that the same seed produces exactly the same pseudorandom variable, allowing verification of sequence, but disallowing easy reverse engineering.
 
+区块链背后的概念，对于早期的量化金融从业者来说是非常简单易懂的。想想看，在蒙特卡罗模拟的高效软件广泛普及之前，我们中的一些人就已经在通过某种形式的链式非线性变换来生成伪随机变量了，这与冯·诺依曼最初的想法如出一辙 \[2\]。将序列用 $t= 1, 2,... n$ 进行编号，以 $t$ 处的值为初值，实数轴上的变量 $x_t$ 通过非线性变换 $r: \mathbb{R} \to \mathbb{R}$ 生成输出变量 $r(x_t)$。这个输出变量可以作为伪随机初值，去生成另一个伪随机变量 $r(x_{t+1})$。对于所有 $t$，只要知道 $r(X_t)$，就可以知道所有后续变量 $r(x_\tau)_{\tau>t}$，并复制整个序列，从而从概率上模拟时间流逝。同样重要的是，相同的初值会产生完全相同的伪随机变量，使得可以很容易地验证序列，但很难逆向工程（从结果倒推初始的序列数值）。
+
 What the blockchain added, thanks to the hash function, is the condition that $r(.)$ must be functionally and probabilistically bijective: no two seeds should produce the same output (or should produce a vanishingly low probability of that happening), what, in computer science terminology, is called *collision*.
+
+由于哈希函数的存在，区块链增加了一个条件，即 $r(.)$ 必须在函数和概率上是双射（bijective）的：任意两个不同的初值产生的输出皆不相同（或者产生相同输出的概率应该低得可以忽略不计）。这在计算机科学术语中被称为*碰撞（collision）*。
 
 This hard-wired attribute and absence of supervision of the blockchain allow the storage of activities on a public ledger to facilitate peer-to-peer commerce, transactions, and settlements. The blockchain concept also allows for serial record keeping. This is supposed to help create what the original white paper \[1\] described as:
 
