@@ -81,7 +81,7 @@ From that paper, bitcoin makes use of three existing technologies: 1) the hash f
 2) 默克尔树（the Merkle tree）（把一个个由哈希函数标记的交易区块链接起来）；
 3) 工作量证明（proof of work）的概念（强制让记账者使用时间戳来获得记录交易的资格，以避免双重支付）。
 
-具有讽刺意味的是，所有这些技术都出自学术文献 \[3\][^1]。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，缺乏托管人、参与者之间缺乏信任的问题得以缓解，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
+具有讽刺意味的是，所有这些技术都出自学术文献 \[3\][^1]。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，能够缓解缺乏托管人、参与者之间缺乏信任带来的影响，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
 
 [^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies. 由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
 
