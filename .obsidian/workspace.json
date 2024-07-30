@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cd08bcd6d07769ab",
+        "id": "86dc34fc4e579c02",
         "type": "tabs",
         "children": [
           {
-            "id": "650eb438c83b0b0d",
+            "id": "f04c387314644417",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "650eb438c83b0b0d",
+  "active": "f04c387314644417",
   "lastOpenFiles": [
+    "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
+    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "Elements/Bitcoin_Currencies_and_Fragility/Fig_3.png",
     "Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png",
     "Elements/Bitcoin_Currencies_and_Fragility/Fig_1.png",
@@ -163,7 +165,6 @@
     "Elements/Output/Partership_Letter_RanRan_20240728.pdf",
     "Elements/Output/Partership_Letter_CM_20240728.pdf",
     "Elements/Output",
-    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "Elements/Bitcoin_Currencies_and_Fragility",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "Nassim_Nicholas_Taleb",
@@ -192,7 +193,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1969_May_Letter_to_Limited_Partners_CM.md",
     "Elements/Nick_Sleep/Slide_5.png",
     "Elements/Nick_Sleep/Slide_4.png",
-    "Elements/Nick_Sleep/Slide_2.png",
-    "Elements/Nick_Sleep/being_Costco_customer.png"
+    "Elements/Nick_Sleep/Slide_2.png"
   ]
 }

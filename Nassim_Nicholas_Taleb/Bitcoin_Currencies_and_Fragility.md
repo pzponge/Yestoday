@@ -3,7 +3,7 @@
 - 原标题：Bitcoin, Currencies, and Fragility
 - 原文链接：[PDF](https://www.fooledbyrandomness.com/BTC-QF.pdf)
 - 发表时间：2021-06-30
-- 中文翻译参考：[许哲](https://zhuanlan.zhihu.com/p/543127242)、机器翻译
+- 中文翻译：Ponge（参考机器翻译、[许哲译本](https://zhuanlan.zhihu.com/p/543127242)）
 
 ---
 
@@ -67,11 +67,23 @@ What the blockchain added, thanks to the hash function, is the condition that $r
 
 This hard-wired attribute and absence of supervision of the blockchain allow the storage of activities on a public ledger to facilitate peer-to-peer commerce, transactions, and settlements. The blockchain concept also allows for serial record keeping. This is supposed to help create what the original white paper \[1\] described as:
 
+这种一旦产生就无法更改（hard-wired），且区块链本身无需许可的特点，使得人们可以将活动存储在公共账本（public ledger）上，从而促进点对点（peer-to-peer）商业活动、交易和结算的发展。此外，区块链的机制还能够保存过往历史记录。这被认为有助于创建原始白皮书 \[1\] 中所描述的：
+
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.
+
+> 一种完全的点对点电子货币应当允许在线支付从一方直接发送到另一 方，而不需要通过一个金融机构。（来源：[比特币白皮书中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)）
 
 From that paper, bitcoin makes use of three existing technologies: 1) the hash function, 2) the Merkle tree (to chain blocks of transactions tagged by the hash function), and 3) the concept of proof of work (used to deter spam by forcing agents to use computer time in order to qualify for a transaction) — technologies that, ironically, all came out of the academic literature \[3\][^1]. The idea provides a game theoretic approach to mitigate the effects of the absence of custodian and lack of trust between participants in the maintenance of a permanent shared public ledger — attenuating or circumventing the coordination quandary known as the "Byzantine general problem". 
 
-[^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies.
+根据白皮书的说法，比特币使用了三项已经存在的技术：
+
+1) 哈希函数（the hash function）；
+2) 默克尔树（the Merkle tree）（把一个个由哈希函数标记的交易区块链接起来）；
+3) 工作量证明（proof of work）的概念（强制让记账者使用时间戳来获得记录交易的资格，以避免双重支付）。
+
+具有讽刺意味的是，所有这些技术都出自学术文献 \[3\][^1]。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，缺乏托管人、参与者之间缺乏信任的问题得以缓解，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
+
+[^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies. 由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
 
 The bitcoin transactional currency (BTC) system establishes an adversarial collaboration between the so-called "miners' who validate transactions by getting them on a public ledger; as a reward they get coins plus a fee from the underlying transactions, transfers of coins between parties. The proof of work method has an adjustable degree of difficulty based on the speed of blocks, which aims, in theory, to keep the incentive sufficiently high for miners to keep operating the system. Such adjustments lead to an exponential increase in computer power requirements, making at the time of writing onerous energy demands on the system — energy that could find alternatives in other computational and scientific uses.
 
