@@ -71,7 +71,7 @@ This hard-wired attribute and absence of supervision of the blockchain allow the
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.
 
-> 一种完全的点对点电子货币应当允许在线支付从一方直接发送到另一 方，而不需要通过一个金融机构。（来源：[比特币白皮书中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)）
+> 一种完全的点对点电子货币应当允许在线支付从一方直接发送到另一方，而不需要通过一个金融机构。（来源：[比特币白皮书中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)）
 
 From that paper, bitcoin makes use of three existing technologies: 1) the hash function, 2) the Merkle tree (to chain blocks of transactions tagged by the hash function), and 3) the concept of proof of work (used to deter spam by forcing agents to use computer time in order to qualify for a transaction) — technologies that, ironically, all came out of the academic literature \[3\][^1]. The idea provides a game theoretic approach to mitigate the effects of the absence of custodian and lack of trust between participants in the maintenance of a permanent shared public ledger — attenuating or circumventing the coordination quandary known as the "Byzantine general problem". 
 
