@@ -85,11 +85,17 @@ From that paper, bitcoin makes use of three existing technologies: 1) the hash f
 
 [^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies. 由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
 
-The bitcoin transactional currency (BTC) system establishes an adversarial collaboration between the so-called "miners' who validate transactions by getting them on a public ledger; as a reward they get coins plus a fee from the underlying transactions, transfers of coins between parties. The proof of work method has an adjustable degree of difficulty based on the speed of blocks, which aims, in theory, to keep the incentive sufficiently high for miners to keep operating the system. Such adjustments lead to an exponential increase in computer power requirements, making at the time of writing onerous energy demands on the system — energy that could find alternatives in other computational and scientific uses.
+The bitcoin transactional currency (BTC) system establishes an adversarial collaboration between the so-called "miners" who validate transactions by getting them on a public ledger; as a reward they get coins plus a fee from the underlying transactions, transfers of coins between parties. The proof of work method has an adjustable degree of difficulty based on the speed of blocks, which aims, in theory, to keep the incentive sufficiently high for miners to keep operating the system. Such adjustments lead to an exponential increase in computer power requirements, making at the time of writing onerous energy demands on the system — energy that could find alternatives in other computational and scientific uses.
+
+比特币的交易货币系统在所谓的「矿工（miners）」之间建立了一种对抗性合作关系。矿工指的是那些将交易记入公共账本中，以此来确认交易成立的参与者。作为回报，矿工会获得系统增发的比特币，并从基础交易（即各方之间的比特币转账）中赚取手续费。工作量证明（PoW）的算法会根据出块的速度来调整挖矿难度，这种设计初衷在于为矿工创造足够的激励，以保证公共账本系统的运营。这种调整机制会导致计算机算力需求指数性的增长，整个系统能源需求巨大（截至本文撰稿时）——这些算力和能源本可以用来做其他计算和科研用途。
 
 Miners derive their compensation from both seignorage (the market value of a bitcoin minus its mining costs) and transaction fees upon validation — with the plan to switch to transaction fees as the sole revenues upon the eventual depletion of the coins, which are limited to a fixed number.
 
+矿工们的报酬来自两部分：铸币税（比特币的市场价值减去其挖矿成本）和验证交易收取的手续费。按照计划，比特币最终会停止增发（比特币的总发行量是固定的），矿工的收入将只依赖于交易费用。
+
 A central attribute is that bitcoin depends on the existence of such miners for perpetuity.
+
+比特币的一个核心特性是，只有这种矿工一直存在，比特币才会永存。
 
 Note that the entire ideological basis behind bitcoin is complete distrust of other operators — there are no partial custodians; the system is fully distributed, though prone to concentration[^2]. Furthermore, by the very nature of the blockchain, transactions are irreversible, no matter the reason.
 
