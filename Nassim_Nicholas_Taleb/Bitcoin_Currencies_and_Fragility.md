@@ -99,17 +99,29 @@ A central attribute is that bitcoin depends on the existence of such miners for 
 
 Note that the entire ideological basis behind bitcoin is complete distrust of other operators — there are no partial custodians; the system is fully distributed, though prone to concentration[^2]. Furthermore, by the very nature of the blockchain, transactions are irreversible, no matter the reason.
 
-[^2]: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S.
+请注意，比特币的整个理念基础是矿工之间彼此完全不信任（即系统内不存在托管商）。尽管容易出现集中化现象[^2]，整个系统是完全分布式的。此外，由于区块链的本质，无论出于何种原因，交易都是不可撤销的。
+
+[^2]: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S. 根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同。译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
 
 Finally, note that bitcoins are zero-sum by virtue of the *numerus clausus*.
 
+最后，请注意，由于「总量恒定（numerus clausus）」，比特币是一个零和游戏。
+
 As we will see, mathematical and combinatorial qualities do not necessarily translate into financial benefits at either individual or systemic levels.
+
+正如我们将看到的，比特币在数学和合作方面的精巧设计并不一定会转化为个人或系统层面的经济利益。
 
 **Comment 1: Why BTC is worth exactly 0**
 
+**评论 1：为什么比特币一文不值？**
+
 *Gold and other precious metals are largely maintenance free, do not degrade over an historical horizon, and do not require maintenance to refresh their physical properties over time.*
 
+*黄金和其他贵金属几乎不需要人为关照，在漫长历史中不会衰败，也无需花钱来保持其物理特性。*
+
 *Cryptocurrencies require a sustained amount of interest in them.*
+
+*相比之下，加密货币需要人们持续的关注和投入。*
 
 ## Vulnerability Of Revenue-Free Bubbles
 
