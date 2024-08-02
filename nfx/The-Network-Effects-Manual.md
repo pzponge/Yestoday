@@ -430,7 +430,7 @@ Tech Performance Network Effects are different from technological advances, and 
 
 The other common point of confusion with Tech Performance nfx is to assume its presence when increased usage produces revenue that can then be re-applied to produce more tech advances, driving even more usage. If a performance improvement comes from an increased volume of revenue or data … it might be a good thing to have… but it’s not tech performance nfx.
 
-![](../Elements/The-Network-Effects-Manual/Tech-Performance%20(1).png)
+![](../Elements/The-Network-Effects-Manual/tech-performance-2.png)
 
 ## "Social" Network Effects
 
