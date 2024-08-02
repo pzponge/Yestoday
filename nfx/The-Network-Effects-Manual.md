@@ -143,9 +143,9 @@ The details of these laws can be debated academically, but for Founders, they pr
 
 Within the broader category of direct nfx, there are many different types. So far, we’ve identified five: physical, protocol, personal utility, personal, and market network.
 
-而在直接网络效应这个大类里面，又可以分成很多类型。目前为止，我们发现了5种：物理型、协议型、个人效用型、个人型以及市场网络型。[^4]
+而在直接网络效应这个大类里面，又可以分成很多类型。目前为止，我们发现了5种：物理直连网络效应、协议网络效应、在线通讯网络效应、社交网络效应以及个体市场网络效应。[^4]
 
-[^4]: Ponge 注：这里应该是忘记更新了。实际上目前应该是六种。
+[^4]: Ponge 注：这里应该是忘记更新了。实际上目前应该是六种，新增了一种中心辐射网络效应。
 
 ### Physical (Direct) 物理直连网络效应
 
@@ -241,7 +241,7 @@ Personal Utility Networks have two distinguishing qualities. The first is that u
 
 在线通讯网络[^5]具有两个明显的特征。第一个是用户的个人身份跟网络是捆绑的，用户名往往与真实姓名相关联，就像Facebook Messenger一样。其次是用户个人生活或职业生活基本上每天都离不开这种网络。
 
-[^5]: 直译应该是「个人效用网络」，但一般中文语境里说「个人效用」也很难明白这是什么。这段整体论述的都是通讯工具带来的网络效应，因此意译为「在线通讯网络」
+[^5]: Ponge 注：直译应该是「个人效用网络」，但一般中文语境里说「个人效用」也很难明白这是什么。这段整体论述的都是通讯工具带来的网络效应，因此意译为「在线通讯网络」
 
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c9505a74c13_Personal-Utility.png)
 *In the diagram above, the nodes are represented by the chat bubbles of people (nodes) connected by personal utility services (links). The nodes of a personal utility network are tied to the real-life identity of the people using it, and the network is especially dense because it has many local sub-groupings. This brings Reed’s Law into effect, so the value of Personal Utility Networks could increase at a rate of up to 2^N. 在上图中，节点代表的是在线通讯网络服务（链接）连接的大家之间的聊天气泡（节点）。在线通讯网络的节点跟使用者的真实身份是绑定在一起的，这种网络尤其密集，因为有很多的局部子群。这样就使得Reed定律发挥作用了，所以在线通讯网络的价值增长率也是2^N。*
@@ -345,41 +345,73 @@ Examples of Market Networks
 - Houzz
 - TravelJoy
 
-### Hub-and-Spoke
+### Hub-and-Spoke 中心辐射网络效应
 
 A Hub-and-Spoke network effect occurs when equal nodes submit content or goods to a central Hub. Then the Hub “pushes” a chosen few pieces out to all – or nearly all – of the nodes.
+
+当相同的节点向中心枢纽（Hub）提交内容或商品时，就会产生中心辐射网络效应。然后，中心「推送」所选的少量内容给所有（或几乎所有）节点。
 
 ![](../Elements/The-Network-Effects-Manual/Hub-and-spoke-nfx-diagram.png)
 
 That elevation of the pushed content drives tremendous attention and value to those few lucky nodes, asymmetrically benefiting them relative to others in the network. In other words, it directs a power law within the system.
 
+这种被推送的内容为那些少数幸运的节点带来了巨大的关注和价值，相对于网络中的其他节点，他们获得了不成比例的收益。换句话说，它在系统内部形成了幂律分布（一种少数节点占据大部分资源的分布模式）。
+
 To a node, that process of selection feels like a lottery, and the benefits of selection are sudden and extreme compared to other direct networks like FB, Twitter, Snap. Because of that potential positive impact, nodes are incentivized to work hard to produce something of extreme quality hoping to be noticed, thereby adding a lot of value to the network in a short amount of time.
+
+对于一个节点来说，这种选择过程就像抽奖一样，而被选中的好处相比其他直接网络（如 Facebook、Twitter、Snap）来说是突然且极端的。由于这种潜在的积极影响，节点被激励创作极高质量的内容，希望被注意到，从而在短时间内为网络增加大量价值。
 
 To the Hub, that selection is an algorithmic internal process.
 
+对于中心来说，这种选择是一个算法内部过程。
+
 As shown above, the network structure looks like a hub and spoke, thus the name. But unlike an old hub-and spoke-network like a TV or radio broadcasting network, which grows in value only by [Sarnoff’s Law](https://www.nfx.com/post/network-effects-bible#:~:text=same%20network%20simultaneously.-,Sarnoff%E2%80%99s%20Law,-David%20Sarnoff%20was), this network grows with the power of [Metcalf’s Law](https://www.nfx.com/post/network-effects-bible#:~:text=Metcalfe%27s%20Law%20states%20the%20value,of%20users%20on%20the%20network) because it 1) harnesses the many nodes to create the content/products rather than take that burden itself, and 2) allows the nodes to connect with each other like a typical social network, driving more interactions and value.
 
-## 2-Sided Network Effects
+如上所示，中心辐射网络结构看起来像一个星型的轮毂和辐条（hub and spoke），因此得名。但与旧的轮毂和辐条网络（如电视或广播网络）不同，旧网络的价值仅按萨诺夫定律（价值与用户数成正比）增长，这种中心辐射网络的价值增长则遵循梅特卡夫定律（价值与用户数的平方成正比），因为它 1) 利用众多节点创造内容/产品，而不是自己承担这个负担，2) 允许节点像典型的社交网络一样相互连接，促进更多的互动和价值创造。
+
+## 2-Sided Network Effects 双边网络效应
 
 The 2nd broad category of nfx, 2-sided nfx, are often called “indirect network effects” in academic literature. However, we think this is misleading since 2-sided networks can involve both direct *and* indirect network effects.
 
+网络效应的第二大类是双边网络效应，在学术文献中往往又被称为「间接网络效应」。然而，我们认为这属于一种误导，因为双边网络*既可包含*直接网络效应*也可包括*间接网络效应。
+
 Instead, the real distinguishing characteristic of a 2-sided network is that there are two different classes of users: supply-side and demand-side users. They each come to the network for different reasons, and they produce complementary value for the other side.
+
+相反，双面网络真正显著的特点是存在两类不同的用户：供应侧和需求侧用户。他们出于不同的原因加入网络，并且为对方提供了互补性的价值。
 
 It’s relatively simple to see how each new supply-side user in a 2-sided network directly increases the value of the network for demand-side users, and vice versa. For instance, each new seller (supply-side user) on a 2-sided marketplace like eBay directly adds value for buyers (demand-side users) by increasing the supply and variety of goods. Likewise, every additional buyer is a new potential customer for sellers.
 
+双边网络中某一侧用户数量的增加可以直接增加对面用户的价值，这一点比较容易理解。供应侧的用户多了，需求侧用户的体验会提升，反之亦然。举例来说，像 eBay 这样的双边市场，每一个新卖家（供应方用户）都会通过增加商品供应和种类直接为买家（需求方用户）增加价值。同样，每增加一个买家，对卖家来说也都多了一个潜在客户。
+
 It’s more complicated when we look at how same-side users interact. Most of the time, users on the same side *subtract* value directly from each other. For instance, core sellers on eBay create more competition for other sellers. More Uber passengers at rush hour mean surge pricing. Both are examples of negative direct same-side nfx.
+
+不过同一侧用户的互动就要复杂一些。大多数时候，同一侧的用户会相互直接*扣减*对方价值。比方说，eBay 上的核心卖家对其他卖家构成了更大的竞争威胁。高峰时间的 Uber 乘客增多意味着价格激增。这些都是同侧网络效应产生的直接负面影响。
 
 At the same time, *indirect* benefits usually end up outweighing those direct negatives. The fact that there are many sellers in the marketplace attracts the buyers to be there in the first place. And that is ultimately more valuable for the sellers, even if they have to sell at more efficient prices. The same is typically true on the buyer side.
 
+不过与此同时，*间接*好处通常会超过那些直接的负面影响。事实上，市场的卖家众多会在第一时间吸引买家。而这对卖家来说最终会带来更大的价值，即便他们必须用更便宜的价格去卖东西。类似地，对买家来说往往也是一样。
+
 This positive indirect effect of 2-sided networks has been discovered and rediscovered throughout history. In the late 1600s, for instance, all the violin makers moved to work and sell their violins on the same street in Venice. Although the proximity of the competing violin vendors drove down prices, it was worth it for the suppliers as a group because it was more important for them that people in the market for violins would take their business to that particular street, not some other street in some other city.
+
+双边网络的这种积极间接效应在历史上被多次发现和重新认识。例如，在 17 世纪晚期，所有的小提琴制造商都迁移到威尼斯的同一条街道上制作和销售他们的小提琴。尽管竞争对手凑到一起导致价格下降，但对于整个供应商群体来说这是值得的。因为对他们而言，更为重要的是确保想要购买小提琴的顾客会来到这条特定的街道，而不是去其他城市的其他街道。
 
 In the 1980s, malls in the US discovered the same thing. By aggregating competing sellers in one location, sellers were able to get much more business than others that were spread out, making it practical for competitors to co-locate.
 
+1980 年代，美国的商场也发现了这一点。通过将相互竞争的卖家集中到一个地方，这里的卖家就能比位置分散的其他卖家做成更多的生意，这使得竞争者合用同一地点成为现实。
+
 What we’re seeing now with the preponderance of online 2-Sided Networks is the same effect, but with software instead of a physical location.
+
+我们在线上双边网络也看到了同样的效应，只不过是通过软件而不是物理位置。
 
 Note also that there are cases of *positive direct* same-side nfx, where more same-side users add value to each other. These are very powerful and should be sought out as you design your products. This is the case with Microsoft OS, one of the most enduring 2-sided nfx products the world has seen. Microsoft OS users benefit other users because they can share files more easily with co-workers and friends. This is a positive direct same-side network effect (adding to the core 2-sided network effect) that is typical of operating systems.
 
+还需注意，存在正向直接同侧网络效应（positive direct same-side network effects）的情况，即更多同侧用户能为彼此增加价值。这些效应非常强大，在设计产品时应该积极追求。微软操作系统就是一个典型例子，它是世界上最持久的双边网络效应产品之一。微软操作系统用户之间能够相互受益，因为他们可以更轻松地与同事和朋友共享文件。这种正向直接同侧网络效应（增强了核心双边网络效应）是操作系统的典型特征。
+
 At present, we’ve identified three types of 2-sided network effects: marketplace, platform, and asymptotic.
+
+目前，我们发现了 3 种类型的双边网络效应：市场型、平台型、渐近型（asymptotic）。[^6]
+
+[^6]: Ponge 注：和直接网络效应那里是同样的问题，就是原文没有更新，应该是 4 种类型。
 
 ### Marketplace (2-Sided)
 
