@@ -235,43 +235,115 @@ Examples of Protocol nfx
 - Ethereum 以太坊
 - VHS
 
-### Personal Utility (Direct)
+### Personal Utility (Direct) 在线通讯网络效应
 
 Personal Utility Networks have two distinguishing qualities. The first is that users’ personal identities are tied to the network in question, often with usernames tied to their real name as with Facebook Messenger. The second is that they are essential to the personal or professional lives of users on a daily basis.
 
+在线通讯网络[^5]具有两个明显的特征。第一个是用户的个人身份跟网络是捆绑的，用户名往往与真实姓名相关联，就像Facebook Messenger一样。其次是用户个人生活或职业生活基本上每天都离不开这种网络。
+
+[^5]: 直译应该是「个人效用网络」，但一般中文语境里说「个人效用」也很难明白这是什么。这段整体论述的都是通讯工具带来的网络效应，因此意译为「在线通讯网络」
+
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c9505a74c13_Personal-Utility.png)
-*In the diagram above, the nodes are represented by the chat bubbles of people (nodes) connected by personal utility services (links). The nodes of a personal utility network are tied to the real-life identity of the people using it, and the network is especially dense because it has many local sub-groupings. This brings Reed’s Law into effect, so the value of Personal Utility Networks could increase at a rate of up to 2^N.*
+*In the diagram above, the nodes are represented by the chat bubbles of people (nodes) connected by personal utility services (links). The nodes of a personal utility network are tied to the real-life identity of the people using it, and the network is especially dense because it has many local sub-groupings. This brings Reed’s Law into effect, so the value of Personal Utility Networks could increase at a rate of up to 2^N. 在上图中，节点代表的是在线通讯网络服务（链接）连接的大家之间的聊天气泡（节点）。在线通讯网络的节点跟使用者的真实身份是绑定在一起的，这种网络尤其密集，因为有很多的局部子群。这样就使得Reed定律发挥作用了，所以在线通讯网络的价值增长率也是2^N。*
 
 People use Personal Utility Networks to communicate and interact with their own personal networks, so not being online or being part of the network has a steep downside. Opting out would become a significant impediment in daily life and could greatly harm people’s important personal or work relationships.
 
+大家使用在线通讯网络来与自己的个人关系网络进行沟通与交互，因此不在线或者不成为该网络的一部分就非常不利了。选择退出会对日常生活造成明显妨碍，甚至极大伤害到其重要的个人或工作关系。
+
 ![](../Elements/The-Network-Effects-Manual/Personal-Utility.png)
 
-### Personal (Direct)
+Properties of Personal Utility nfx
+
+在线通讯网络的特点
+
+- Built on the personal identity of the user, which is usually tied to their real name, a unique number or handle associated with their real-world identity 基于用户的个人身份，这通常与他们的真实姓名、身份证号与其现实世界身份相关的标识符关联在一起。
+- Is used for some critical function in a user's life such as errands, work relationship responsibilities, revenue collection, emergency, safety, immediacy 用于用户生活中的一些关键功能，包括日常事务、工作关系管理、收入管理、应急处理、安全保障以及即时通讯等。
+
+Examples of Personal Utility nfx
+
+在线通讯网络的实例
+
+- Instant messaging: WhatsApp, Slack, Facebook Messenger, WeChat 即时通信：Whatsapp、Slack、Facebook Messenger、微信
+- Other communication tools: iMessage, Skype, SMS 其他沟通工具：iMessage、Skype、短信
+
+### Personal (Direct) 社交网络效应
 
 Personal nfx are in play when a person’s identity or reputation is tied to a product. Often people on a Personal Network are influenced to join by people they might know in real life. If people you know from the real world are all using the same product to house their identity and reputation, there’s a large value add (to you) if you join the network yourself.
 
+当个人身份或者名声跟产品绑定在一起时，就会产生社交网络效应。社交网络上的人往往容易受到自己在现实生活中认识的人影响而加入。如果你在现实世界中认识的人都使用同一款产品管理自己的身份与名誉的话，如果你自己也加入这个网络，你也会增值不少。
+
 ![](../Elements/The-Network-Effects-Manual/Personal.png)
-*Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes.*
+*Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes. 社交网络牵涉到个人身份与名誉，它把每一位用户的角色与其他用户的角色连接起来。每增加一个节点都代表着潜在受众成员的增加，对于所有其他节点来说也代表着内容制造者的增加。*
 
 Personal Networks differ from Personal Utility Networks in two main ways. As explained in the previous section, Personal Utility Networks are typically used for things that need to get done. There is a substantial amount of *practical* utility to the user. Second, Personal Utility Networks are typically more for private communication, rather than public communication. Personal Networks are less vital. You can stop using them and your life won’t alter that much. Networks like Facebook or Twitter or Linkedin (when you’re not job hunting) aren’t usually essential for your day-to-day life.
 
+社交网络与在线通讯网络的不同主要有两个方面。就像上一节解释那样，在线通讯网络通常用于需要完成的事情。对用户而言，在线通讯网络具有相当大的*实用性*。其次，在线通讯网络往往更多是私下沟通，而不是公开沟通。社交网络的作用就没那么关键了。你不用它生活也不会改变多少。像 Facebook、Twitter 或者LinkedIn（不在找工作的时候）通常通常对你的日常生活并不重要。  
+
 However, Personal Networks are still very strong. You aren’t running to join another friend network or professional network now that you have FB and LinkedIn. It’s also true you could stop using both and be fine on a daily basis.
+
+然而，社交网络仍然非常强大。有了 FB 和 LinkedIn 以后，你就不必再加入其他好友社交网络或职业社交网络了。当然，你也可以停止使用这两个服务，也不会影响你的日常生活。
 
 There’s a difference between sending an IM to your significant other telling them to not miss picking up your Mom at the airport and posting a status update about your Mom visiting on social media. In both cases, your own identity is tied to the communication and your audience is your personal connections. But one is a private need-to-have and the other is a public nice-to-have.
 
+给你的另一半发即时消息提醒他们不要忘记去机场接你妈妈，这与在社交媒体上发布一条关于你妈妈来访的状态更新是有区别的。这两种情况下，你的个人身份都与通信相关联，而且你的受众都是你的个人社交圈。然而，前者是私密且必要的沟通，而后者则是公开的、可有可无的分享。
+
 The Personal Network Effect arises from the interpersonal, tribal impulse to build connections with others. It’s this impulse that compels people to join and stick with a network (e.g. Facebook, LinkedIn, or a religion) because their friends/co-workers/neighbors are also part of that network. A user’s “social graph” in a personal network are usually closely mapped to their in-the-flesh relationships.
+
+社交网络效应源于人际间的合群冲动，这种冲动促使人们与他人建立联系。正是这种冲动促使人们加入并留在一个网络（例如 Facebook、LinkedIn 或宗教），因为他们的朋友、同事或邻居也在这个网络中。用户在社交网络中的「社交图谱」通常与他们现实生活中的关系紧密相关。
 
 ![](../Elements/The-Network-Effects-Manual/personal-nfx.png)
 
-### Market Networks (Direct)
+Properties of Personal nfx
+
+社交网络的特点
+
+- Your personal identity and reputation is at stake 你的个人身份和名声利害攸关  
+- Often serves as an extension of existing relationships from your real life 往往充当现实生活关系的延伸
+- Very difficult to leave since it's tied to your most important IRL relationships - 由于它与你最重要的现实生活关系紧密相连，因此难以脱离
+- Enables you to create and maintain a public image 让你可以建立和维持公众形象
+
+Examples of Personal nfx
+
+社交网络的实例
+
+- Social: Facebook, Instagram, Google+, Pinterest, Tumblr （生活社交类应用）
+- Professional: LinkedIn, GitHub, Twitter \[depends on usage\] （职业社交类应用，取决于具体需求）
+
+### Market Networks (Direct) 个体市场网络效应
 
 A Market Network combines the identity and communication aspects of a Personal Network with the transactions focus and purpose that typify a marketplace. Usually, Market Networks start by enhancing a network of professionals that already exists offline. We consider Market Networks to be a form of direct network effects because the relationship between nodes is direct, as shown below:
+
+个体市场网络结合了社交网络的身份和通信特性，以及典型交易市场的特点（关注交易行为，以交易为目的）。通常，线下的职业人脉网络先前已存在，个体市场网络在此基础上开始形成。我们认为个体市场网络是一种直接网络效应的形式，因为节点之间的关系是直接的，如下所示：
 
 ![](../Elements/The-Network-Effects-Manual/Market-Network.png)
 
 Market Networks are very different from 2-Sided Marketplaces, although the two are often confused. Most people think companies like HoneyBook and Houzz are marketplaces, but they’re not. In reality, they’re Market Networks, which combine the main elements of both Personal Direct Networks *and* 2-Sided Marketplaces, as well as being *many*-sided as opposed to 2-sided — often with the addition of a dedicated SaaS workflow software. For a detailed description of Market Networks, see [our article on the subject](https://www.nfx.com/post/10-years-about-market-networks).
 
+个体市场网络与双边市场有很大的不同，尽管两者经常被混淆。大多数人认为像 HoneyBook 和 Houzz 这样的公司属于交易平台，但其实不是。实际上，它们是个体市场网络，结合了社交网络*与*双边市场的主要元素，而且是*多边*而不是双边。这种网络通常还配有专用的 SaaS 工作流软件。有关个体市场网络的详细介绍，请参阅[我们的相关文章](https://www.nfx.com/post/10-years-about-market-networks)。
+
 ![](../Elements/The-Network-Effects-Manual/New-Market-Networks.png)
+
+Properties of Market Networks
+
+个体市场网络的特点
+
+- N-sided marketplace 多边交易市场
+- Promote the service provider as a differentiated individual, not a commodity, helping to build long-term relationships 卖家为具有独特性的个体，而非无差别的卖家，有助于建立双方长期关系
+- Target complex services - 针对复杂服务
+- Use SaaS workflow software to focus action around longer-term projects, not just a quick transaction - 使用 SaaS 工作流软件来关注长期项目，而不仅仅是快速交易
+
+Examples of Market Networks
+
+个体市场网络的实例
+
+- HoneyBook
+- DotLoop
+- IvyMark
+- AngelList
+- Building Connected
+- Headnote
+- Houzz
+- TravelJoy
 
 ### Hub-and-Spoke
 
