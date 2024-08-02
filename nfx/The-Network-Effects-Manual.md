@@ -37,7 +37,7 @@ Network effects are one of the [four remaining defensibilities](https://www.nfx.
 
 In the map below, we’ve depicted the various nfx types (labeled) and categories (organized by color), with the strongest and simplest network effects at the center of the map. The other three defensibilities are also shown on the right.
 
-![[999-笔记素材/202408021509/NFX-Map-2022-scaled.jpg]]
+![](../Elements/The-Network-Effects-Manual/NFX-Map-2022-scaled.jpg)
 
 We developed this map as an exercise over the years to help bring greater clarity to the subject. But before we dive in, there are a few things we should point out:
 
