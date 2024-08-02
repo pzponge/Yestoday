@@ -118,72 +118,139 @@ Below are the full texts of the relevant pages of that 1908 annual report. You�
 
 72 years after Vail first described direct network effects, the father of the Ethernet standard, Robert Metcalfe, took the concept a step further by proposing that the value of a network is proportional to the number of connected users squared (N^2). This is now known as Metcalfe’s Law.
 
-在 Vail 首次描述直接网络效应72年之后，以太网标准之父Robert Metcalfe（梅特卡夫）进一步深化了这个概念，他提**出网络的价值与连接用户数的平方（N^2）成正比关系。也就是所谓的梅特卡夫定律**。  
+在 Vail 首次描述直接网络效应 72 年之后，以太网标准之父 Robert Metcalfe（梅特卡夫）进一步深化了这个概念，他提出网络的价值与连接用户数的平方（N^2）成正比关系。这就是现在众所周知的梅特卡夫定律。
 
 The diagram below illustrates the basic concept of a direct network as described by Metcalfe’s Law:
 
-![[999-笔记素材/202408021509/Direct-Network.png]]
-*Each node in a digital network is connected to every other node, as represented by the diagram above. Every additional node that joins a direct network adds a new connection for all the existing nodes, so the number of new connections (network density) increases as a square of the number of nodes (N2). Since the value of a network is proportional to its density, each additional node adds to the network value at a geometric rate.*
+下图说明了梅特卡夫定律描述的直接网络效应的基本概念：
+
+![](../Elements/The-Network-Effects-Manual/Direct-Network.png)
+*Each node in a digital network is connected to every other node, as represented by the diagram above. Every additional node that joins a direct network adds a new connection for all the existing nodes, so the number of new connections (network density) increases as a square of the number of nodes (N2). Since the value of a network is proportional to its density, each additional node adds to the network value at a geometric rate. 如上图所示，数字网络的每一个节点都与其他的每一个节点互连。每一个新加入网络的节点都会增加与所有已有节点的新连接，所以新增连接数（网络密度）相当于节点数的平方（N2）。由于网络的价值与其密度成正比关系，每一个新增节点都会让网络价值以几何速率增长。*
 
 In 2001, an MIT computer scientist named David Reed went even further, declaring that Metcalfe’s law actually *understated* the value of a network. He pointed out that within a larger network, smaller, tighter networks can form: for example, the football team within a high school network; siblings within a family network; tennis players within a co-worker network.
 
-![[999-笔记素材/202408021509/Reeds-Law.png]]
+2001 年，MIT 计算机科学家 David Reed 又进一步深化了这个概念，他宣称梅特卡夫其实低估了网络的价值。他指出，在较大的网络中可以形成小一点、更紧密一点的网络：比方说，高中网络中的橄榄球队；家庭网络内的兄弟姐妹们；同事网络中的一起打网球的人。
+
+![](../Elements/The-Network-Effects-Manual/Reeds-Law.png)
 
 Such connections, and the potential to join other subgroups, cement people’s commitment to the overall network in deeper ways that the overall size and connection density of the network would imply by themselves. Because of this, Reed believed that the true value of a network increases exponentially (2^N) in proportion to the number of users, much faster even than what Metcalfe’s Law described. We now call this [Reed’s Law](https://en.wikipedia.org/wiki/Reed's_law).
 
+这种连接，以及加入其他子群的可能性，以更深层次的方式巩固了人们对整个网络的依附，而网络的整体规模和连接密度本身并不意味着这种粘性。因此，Reed认为网络的真正价值随联网人数呈指数级（2^N）增加，这个速度要远远快于梅特卡夫定律的描述。我们现在称之为[里德定律](https://en.wikipedia.org/wiki/Reed's_law)。
+
 The details of these laws can be debated academically, but for Founders, they provide a tangible way to conceptualize an operational truism — nfx are powerful. They are a law of nature.
+
+这些定律的细节在学术上还可以进行争论，但对于创始人来说，这些指南提供了一种具体的方式来理解一个商业真理——网络效应是强大的。这是一种自然规律。
 
 Within the broader category of direct nfx, there are many different types. So far, we’ve identified five: physical, protocol, personal utility, personal, and market network.
 
-## Physical (Direct)
+而在直接网络效应这个大类里面，又可以分成很多类型。目前为止，我们发现了5种：物理型、协议型、个人效用型、个人型以及市场网络型。[^4]
+
+[^4]: Ponge 注：这里应该是忘记更新了。实际上目前应该是六种。
+
+### Physical (Direct) 物理直连网络效应
 
 Physical Direct nfx are direct network effects tied to physical nodes (e.g. telephones or cable boxes) and physical links (e.g. wires in the ground). This is the most defensible network effect type because it not only has a direct network effect, but it also lends itself to the addition of other defensibilities; namely, scale effects and embedding. Competing with a company that has Physical Network Effects requires a large upfront investment of capital and physical constraints.
 
-![[999-笔记素材/202408021509/Physical.png]]
+物理直连网络效应是与物理节点（比如电话或分线盒）和物理链路（如地下的线路）相关联的直接网络效应。这属于防御性最强的网络效应，因为它不仅具备直接网络效应，而且也有助于增加其他的防御性；比如规模效应和植入。与具有物理直连网络效应的公司竞争，需要大量的前期资本投入和物理限制。
 
-*The diagram above depicts the shape of a physical network, with the nodes representing utility terminals like landline phones, train stations, or water faucets, and the connections between nodes representing physical like landlines, train tracks, or water pipes.*
+![](../Elements/The-Network-Effects-Manual/Physical.png)
+
+*The diagram above depicts the shape of a physical network, with the nodes representing utility terminals like landline phones, train stations, or water faucets, and the connections between nodes representing physical like landlines, train tracks, or water pipes. 上图描绘了一个物理网络的形状，其中节点表示类似固话、火车站或者水龙头这样的实用终端，而节点间的连接则代表类似电话线、火车轨道或者水管这样的实体。*
 
 Roads, trains, electricity, sewage, natural gas, cable and broadband internet are examples of businesses with physical direct network effects. In fact, most Physical Networks are utilities: winner-take-all markets that develop into monopolies and end up being nationalized.
 
+道路、火车、电力、下水道、天然气、有线和宽带互联网都是具备直接网络效应的业务例子。实际上，大多数的物理网络都是公用事业：都属于赢家通吃的市场，会形成垄断，最后被国有化。
+
 The best evidence for the strong defensibility of Physical Networks is that so many of them have poor or substandard services, and yet continue to lead the market. Think of Comcast and Verizon. Why do they have the [lowest customer satisfaction](http://fortune.com/2017/05/25/cable-tv-comcast-verizon/) in the US? Because they can get away with it at no risk to their bottom line. No one can compete with them. Who could spend the money to lay all that cable? And with no competitors, frustrated customers have nowhere to turn.
 
-![[999-笔记素材/202408021509/Physical-1.png]]
+物理网络的防御性很强，这方面最好的证据是其中那么多服务都很糟糕或者不合格，但仍然能保持领先位置。不妨想想 Comcast 和 Verizon。为什么它们的客户满意度在美国最低？因为就算满意度最低他们的财务收入也不会有问题。没人能够跟他们竞争。谁愿意投钱去铺设那么大的网络呢？在没有竞争对手的情况下，沮丧的客户也没有别的地方可去。
 
-## Protocol (Direct)
+![](../Elements/The-Network-Effects-Manual/Physical-1.png)
+
+Properties of Physical nfx 
+
+物理直连网络效应的特点
+
+- Physical nodes and physical links 物理节点和物理链路
+- Highly defensible; strongest nfx type 高度防御性，最强网络效应类型
+- Easy to add embedding and scale defensibilities 容易增加规模效应和植入的防御能力
+- Tendency towards monopoly / winner-take-all 容易走向垄断/赢家通吃
+- Often nationalized, controlled by gov't, or granted protection by government 往往被国有化，被政府控制，或者政府授权保护
+
+Examples of Physical nfx 
+
+物理直连网络效应的实例
+
+- Telecommunications: Telephones, Cable, DSL, Satellite, Broadband internet 电信：电话、有线、DSL、卫星、宽带互联网
+- Transportation: Roads, trains, subways 交通：道路、火车、地铁
+- Infrastructure: Water, natural gas, electricity, sewage 基础设施：自来水、天然气、电力、污水处理
+
+### Protocol (Direct) 协议网络效应
 
 A Protocol Network Effect arises when a communications or computational standard is declared and all nodes and node creators can plug into the network using that protocol. Bitcoin and Ethereum are recent examples of protocol networks. The protocol setter can be either an individual company, a group of companies, or a panel.
 
-![[999-笔记素材/202408021509/Protocol.png]]
-*Protocol networks coalesce around communication and computational standards, which form the basis for the links between nodes (e.g. Bitcoin miners and Bitcoin wallets).*
+当一种通信或者计算标准公布后，所有节点创建者均可利用该协议接入该网络，这时候就产生了协议网络效应。比特币和以太坊就是协议网络的近期例子。协议制定者可以是一家公司，一批公司，或者一个小组。
+
+![](../Elements/The-Network-Effects-Manual/Protocol.png]]
+*Protocol networks coalesce around communication and computational standards, which form the basis for the links between nodes (e.g. Bitcoin miners and Bitcoin wallets). 协议网络以通信和计算标准为核心，构成节点（如比特币矿工和比特币钱包）之间联系的基础。*
 
 Ethernet is another, more traditional, example of a Protocol Network Effect. When Robert Metcalfe founded 3Com, he persuaded DEC, Intel, and Xerox to adopt Ethernet as a standard protocol for local computer networks, with a standard speed of 10 megabits per second, 48-bit addresses, and a global 16-bit Ethertype-type field. Competing proprietary protocols existed, but as Ethernet pulled away and began to capture more and more market share, Ethernet-compatible products flooded the market. This increased the value of Ethernet at a compounding rate and decreased the value of competitors, regardless of their relative performance. Soon, ethernet ports became standard features of all modern computers.
 
+以太网是另一个更传统的协议网络效应的例子。Robert Metcalfe 成立 3Com 的时候，他说服了 DEC、英特尔以及施乐采用以太网作为局域网的标准协议，该协议规定了每秒 10 兆比特的标准速率、48 位的地址以及一个全局性的 16 位以太网类型字段。当时市面上也有竞争的专有协议，但随着以太网的发展并开始占据越来越多的市场份额，与以太网兼容的产品充斥市场。这使得以太网的价值以复合速度增长，同时降低了竞争对手的价值，无论其性能如何。很快，以太网端口成为所有现代计算机的标准配置。
+
 Once a protocol has been adopted it is extremely difficult to replace. Note how the fax protocol is still in use, or the TCP/IP protocol (even though other, better protocols now exist for those purposes).
+
+一种协议一旦被采用就很难被取代了。不妨留意一下，为什么直到今天我们还在使用传真协议或者 TCP/IP 协议（尽管有针对相关目的的更好协议存在）。
 
 It’s also true that the protocol creator doesn’t typically capture most of the value from the development of the network, as they normally do with other direct nfx.
 
+另外需要注意的是，与其他直接网络效应不同，协议创建者通常无法获取网络发展所带来的大部分价值。
+
 This distribution of value in a Protocol Network can be shifted if the protocol creator can maintain ownership of a significant percentage of the tokens within a token-enabled network, or maintain central control over addressing, identity, wallets, naming, or prioritization and still get the network to adopt the protocol.
+
+如果协议创造者能够在代币化网络内保留相当一部分比例的代币所有权，或者保留对地址、身份、钱包、命名或优先级控制权进行集中控制，同时仍然能让网络采用该协议的话，那么协议网络中的这种价值分配就可以改变。
 
 The success of such an adoption strategy is often less about technology and more about marketing, social engineering, and choice of market niche. That’s why VHS beat Betamax, even though Betamax was arguably a better standard. It’s also part of why Bitcoin has taken off as a digital store of value, when it is costly to operate and less transactional than many other digital currencies.
 
-![[999-笔记素材/202408021509/Protocol-1.png]]
+这样一种采用策略的成功往往跟技术关系不太大，更多与营销、社会工程以及市场定位有关。所以 VHS 才会击败 Betamax，尽管 Betamax 无疑是更好的标准。这也是为什么比特币作为一种数字价值储藏已经开始流行的部分原因，尽管比特币的运营成本很高，交易量也比许多其他数字货币少。
 
-## Personal Utility (Direct)
+![](../Elements/The-Network-Effects-Manual/Protocol-1.png]]
+
+Properties of Protocol nfx
+
+协议网络效应的特点
+
+- Declared standard through which information is conveyed or data processed 信息传送或数据处理的标准 
+- Very defensible, second strongest nfx type because most of protocol value comes from the network effect 防御性很强，排名第二位的网络效应类型，因为大多数协议价值来自于网络效应
+- Adoption is nearly ubiquitous after critical mass is reached 突破临界点后会被广泛采用
+- Tendency to become embedded in all products that use the protocol 往往被嵌入到使用该协议的所有产品里面
+
+Examples of Protocol nfx
+
+协议网络效应的实例
+
+- Bitcoin 比特币
+- Ethernet 以太网
+- Fax 传真
+- Ethereum 以太坊
+- VHS
+
+### Personal Utility (Direct)
 
 Personal Utility Networks have two distinguishing qualities. The first is that users’ personal identities are tied to the network in question, often with usernames tied to their real name as with Facebook Messenger. The second is that they are essential to the personal or professional lives of users on a daily basis.
 
-![[999-笔记素材/202408021509/5cca2e12f1988c9505a74c13_Personal-Utility.png]]
+![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c9505a74c13_Personal-Utility.png)
 *In the diagram above, the nodes are represented by the chat bubbles of people (nodes) connected by personal utility services (links). The nodes of a personal utility network are tied to the real-life identity of the people using it, and the network is especially dense because it has many local sub-groupings. This brings Reed’s Law into effect, so the value of Personal Utility Networks could increase at a rate of up to 2^N.*
 
 People use Personal Utility Networks to communicate and interact with their own personal networks, so not being online or being part of the network has a steep downside. Opting out would become a significant impediment in daily life and could greatly harm people’s important personal or work relationships.
 
-![[999-笔记素材/202408021509/Personal-Utility.png]]
+![](../Elements/The-Network-Effects-Manual/Personal-Utility.png)
 
-## Personal (Direct)
+### Personal (Direct)
 
 Personal nfx are in play when a person’s identity or reputation is tied to a product. Often people on a Personal Network are influenced to join by people they might know in real life. If people you know from the real world are all using the same product to house their identity and reputation, there’s a large value add (to you) if you join the network yourself.
 
-![[999-笔记素材/202408021509/Personal.png]]
+![](../Elements/The-Network-Effects-Manual/Personal.png)
 *Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes.*
 
 Personal Networks differ from Personal Utility Networks in two main ways. As explained in the previous section, Personal Utility Networks are typically used for things that need to get done. There is a substantial amount of *practical* utility to the user. Second, Personal Utility Networks are typically more for private communication, rather than public communication. Personal Networks are less vital. You can stop using them and your life won’t alter that much. Networks like Facebook or Twitter or Linkedin (when you’re not job hunting) aren’t usually essential for your day-to-day life.
@@ -194,23 +261,23 @@ There’s a difference between sending an IM to your significant other telling t
 
 The Personal Network Effect arises from the interpersonal, tribal impulse to build connections with others. It’s this impulse that compels people to join and stick with a network (e.g. Facebook, LinkedIn, or a religion) because their friends/co-workers/neighbors are also part of that network. A user’s “social graph” in a personal network are usually closely mapped to their in-the-flesh relationships.
 
-![[999-笔记素材/202408021509/personal-nfx.png]]
+![](../Elements/The-Network-Effects-Manual/personal-nfx.png)
 
-## Market Networks (Direct)
+### Market Networks (Direct)
 
 A Market Network combines the identity and communication aspects of a Personal Network with the transactions focus and purpose that typify a marketplace. Usually, Market Networks start by enhancing a network of professionals that already exists offline. We consider Market Networks to be a form of direct network effects because the relationship between nodes is direct, as shown below:
 
-![[999-笔记素材/202408021509/Market-Network.png]]
+![](../Elements/The-Network-Effects-Manual/Market-Network.png)
 
 Market Networks are very different from 2-Sided Marketplaces, although the two are often confused. Most people think companies like HoneyBook and Houzz are marketplaces, but they’re not. In reality, they’re Market Networks, which combine the main elements of both Personal Direct Networks *and* 2-Sided Marketplaces, as well as being *many*-sided as opposed to 2-sided — often with the addition of a dedicated SaaS workflow software. For a detailed description of Market Networks, see [our article on the subject](https://www.nfx.com/post/10-years-about-market-networks).
 
-![[999-笔记素材/202408021509/New-Market-Networks.png]]
+![](../Elements/The-Network-Effects-Manual/New-Market-Networks.png)
 
-## Hub-and-Spoke
+### Hub-and-Spoke
 
 A Hub-and-Spoke network effect occurs when equal nodes submit content or goods to a central Hub. Then the Hub “pushes” a chosen few pieces out to all – or nearly all – of the nodes.
 
-![[999-笔记素材/202408021509/Hub-and-spoke-nfx-diagram.png]]
+![](../Elements/The-Network-Effects-Manual/Hub-and-spoke-nfx-diagram.png)
 
 That elevation of the pushed content drives tremendous attention and value to those few lucky nodes, asymmetrically benefiting them relative to others in the network. In other words, it directs a power law within the system.
 
@@ -220,7 +287,7 @@ To the Hub, that selection is an algorithmic internal process.
 
 As shown above, the network structure looks like a hub and spoke, thus the name. But unlike an old hub-and spoke-network like a TV or radio broadcasting network, which grows in value only by [Sarnoff’s Law](https://www.nfx.com/post/network-effects-bible#:~:text=same%20network%20simultaneously.-,Sarnoff%E2%80%99s%20Law,-David%20Sarnoff%20was), this network grows with the power of [Metcalf’s Law](https://www.nfx.com/post/network-effects-bible#:~:text=Metcalfe%27s%20Law%20states%20the%20value,of%20users%20on%20the%20network) because it 1) harnesses the many nodes to create the content/products rather than take that burden itself, and 2) allows the nodes to connect with each other like a typical social network, driving more interactions and value.
 
-# 2-Sided Network Effects
+## 2-Sided Network Effects
 
 The 2nd broad category of nfx, 2-sided nfx, are often called “indirect network effects” in academic literature. However, we think this is misleading since 2-sided networks can involve both direct *and* indirect network effects.
 
@@ -242,11 +309,11 @@ Note also that there are cases of *positive direct* same-side nfx, where more sa
 
 At present, we’ve identified three types of 2-sided network effects: marketplace, platform, and asymptotic.
 
-## Marketplace (2-Sided)
+### Marketplace (2-Sided)
 
 The two sides of a marketplace are buyers and sellers. Successful 2-Sided Marketplaces like Craigslist are very difficult to disrupt. To break them apart you must have a better value proposition for both parties **simultaneously**, or else nobody moves. Customers are there for the vendors, and vendors are there for the customers. One won’t leave without the other.
 
-![[999-笔记素材/202408021509/5cca2e12f1988c1cdaa74c67_Marketplace.png]]
+![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c1cdaa74c67_Marketplace.png)
 *2-Sided Marketplaces have two sets of nodes, as shown above. One set supply-side users, the other demand-side users. They provide direct value each other through the marketplace, which is an intermediary represented by the central node in the diagram.*
 
 With a 2-Sided Marketplace, the network is what provides the majority of the value, not the app or website itself — which explains why marketplaces products like eBay and Craigslist can afford to look essentially unchanged after 16 years.
@@ -255,13 +322,13 @@ But there’s one big weakness in marketplace defensibility, which arises from t
 
 Further, marketplaces come in more shapes than we might think. Media companies, for example, are essentially 2-Sided Marketplaces. Audiences (supply) come to the marketplace and sell their attention for content experiences. Advertisers (demand) on the other side buy the attention of the audiences. The greater the audience of a media company, the more likely advertisers will be to spend any money on that media company at all, and then the more money they will be willing to pay the company when they do. “Sellers” i.e. readers/viewers have a direct positive network effect for “buyers”, i.e. advertisers. And vice versa, because (in theory) more advertising revenue gives a media company the resources to produce better content.
 
-![[999-笔记素材/202408021509/Properties-examples-of-2-sided-Marketplaces.png]]
+![](../Elements/The-Network-Effects-Manual/Properties-examples-of-2-sided-Marketplaces.png)
 
-## Platform (2-Sided)
+### Platform (2-Sided)
 
 What we call 2-Sided Platform nfx are similar to 2-Sided Marketplace nfx, in that they have two sides with very different interests that directly benefit each other. The difference is that the supply side actually engineers products that are only available on the platform. The supply side has to do work to integrate to the platform. The products created and sold by the suppliers are a function of the platform, not independent of it.
 
-![[999-笔记素材/202408021509/5cca2e12f1988ca856a74c11_Platform.png]]
+![](../Elements/The-Network-Effects-Manual/5cca2e12f1988ca856a74c11_Platform.png)
 *2-sided platforms have supply-side nodes (developers) and demand-side nodes (users), which create value for each other through the intermediary of the platform itself (central node). The platform itself also provides significant value for both sides.* 
 
 Microsoft OS, iOS, and Android are prime examples of products that have achieved this type of nfx. Xbox, PlayStation, and Wii are also examples, although they’re slightly different.
@@ -272,15 +339,15 @@ How a platform is sold can also matter a great deal to how well adopted it becom
 
 One vulnerable point for platforms is that, just like with marketplaces, both sides of platforms can also multi-tenant. App developers can create versions of their app for both iOS and Android. Game developers can syndicate their games to PlayStation as well as Xbox. Likewise with the other side — gamers can own a PS4 and an Xbox One simultaneously, and people can own both a Dell and a Macbook. However, the pricing makes this more prohibitive than with online marketplaces, where multi-tenanting is usually free. So from that standpoint, platforms often have a leg up.
 
-![[999-笔记素材/202408021509/Platform.png]]
+![](../Elements/The-Network-Effects-Manual/Platform.png)
 
-## Asymptotic Marketplace (2-Sided)
+### Asymptotic Marketplace (2-Sided)
 
 Of course, no two 2-Sided Marketplaces are exactly the same. One way they can significantly differ is in the “value curve.” This refers to how **fast** the value to the demand side increases as supply increases, and how **strong** the nfx get when critical mass is reached.
 
 The “Value Curve” diagram below illustrates the supply and demand curves for three subcategories of marketplace nfx..
 
-![[999-笔记素材/202408021509/NFX-Types.jpg]]
+![](../Elements/The-Network-Effects-Manual/NFX-Types.jpg)
 
 The straight line (orange) in the middle is what you would expect with Craigslist or eBay, where generally, the growth of the supply side produces value to the demand-side at a relatively proportional rate. Marketplaces like this get very strong over time.
 
@@ -296,13 +363,13 @@ Asymptotic Marketplaces are more vulnerable to competition than other marketplac
 
 Adding to this vulnerability, Asymptotic Marketplaces can be very susceptible to multi-tenanting. Many people use both Lyft and Uber to get around, depending on which one has lower pricing and faster waits at any given time. On the supply side, many drivers use both Uber and Lyft, depending on pricing and wait times.
 
-![[999-笔记素材/202408021509/Asymptotic.png]]
+![](../Elements/The-Network-Effects-Manual/Asymptotic.png)
 
-## Expertise
+### Expertise
 
 Products that can develop “expertise” network effects are typically tools used by professionals to do their job — the instruments with which they ply their craft. As professionals become more skilled in their jobs, they also level up their expertise in tools required to do their jobs. If the tools are sophisticated enough, the tools require particular expertise of their own.
 
-![[999-笔记素材/202408021509/Expertise-nfx-diagram.jpg]]
+![](../Elements/The-Network-Effects-Manual/Expertise-nfx-diagram.jpg)
 
 Employers often require proficiency in such tools when hiring, and so professionals have a strong incentive to develop expertise in tools with wide adoption that they can list on their resume and use as selling points on the labor market.
 
@@ -323,13 +390,13 @@ Here are some examples of industries and products where you see strong expertise
 -   Video editing (Adobe, Final Cut, Avid)
 -   Mechanical Engineering (SolidWorks, CAD, Avid)
 
-[[500-投资与投资人/540-海外其他投资人/540.01-James Currier/The 14th Network Effect：Expertise|Read the full essay here]]
+[Read the full essay here](https://www.nfx.com/post/14th-network-effect-expertise/)
 
-# Data Network Effects
+## Data Network Effects
 
 When a product’s value increases with more data, and when additional usage of that product yields data, then you have a Data Network Effect. This is the 3rd broad category of nfx.
 
-![[999-笔记素材/202408021509/Data.png]]
+![](../Elements/The-Network-Effects-Manual/Data.png)
 *With a data network, each node (user) feeds useful data to the central database. As the aggregated data accretes, the value of the data for each user also grows.*
 
 Data nfx tend to be weaker than many people — particularly venture capitalists — often want to believe: having more data doesn’t necessarily translate to value, and gathering more useful data isn’t always easy even if data is central to the product.
@@ -348,13 +415,13 @@ A good example of a service with a strong Data Network Effect is Waze. Not only 
 
 Data nfx are possibly the most complicated nfx category.  There are as many different data nfx as there are ways to use data. We’ll be mapping out data nfx in greater detail in the future.
 
-![[999-笔记素材/202408021509/data-nfx-properties-examples.png]]
+![](../Elements/The-Network-Effects-Manual/data-nfx-properties-examples.png)
 
-# Tech Performance Network Effects
+## Tech Performance Network Effects
 
 When the technical performance of a product directly improves with increased numbers of users, it has Tech Performance nfx. This is the 4th broad category of nfx. For networks with Tech Performance nfx, the more devices or users on a network, the better the underlying technology works. This makes the product/service become faster, cheaper or easier.
 
-![[999-笔记素材/202408021509/Tech-Performance.png]]
+![](../Elements/The-Network-Effects-Manual/Tech-Performance.png)
 *Networks with tech performance nfx become better (faster, cheaper, or easier to use) the bigger they get. As more nodes (devices) join the network, the performance of the whole improves.*
 
 Consider peer-to-peer file sharing services like BitTorrent, or VPN providers like Hola, or object finding mesh networks like Tile. These services get faster for all users the more nodes are on the network. Every person downloading a file from BitTorrent is also seeding files to the network. The more people who have a Tile app installed, the greater the chances that you can locate something you lost since every phone on the network is constantly scanning for tiles. Skype also claims that the more people using Skype, the better the video streaming quality (it’s not clear if this true, but it’s the right idea for them to have).
@@ -363,9 +430,9 @@ Tech Performance Network Effects are different from technological advances, and 
 
 The other common point of confusion with Tech Performance nfx is to assume its presence when increased usage produces revenue that can then be re-applied to produce more tech advances, driving even more usage. If a performance improvement comes from an increased volume of revenue or data … it might be a good thing to have… but it’s not tech performance nfx.
 
-![[999-笔记素材/202408021509/Tech-Performance (1).png]]
+![](../Elements/The-Network-Effects-Manual/Tech-Performance (1).png)
 
-# ”Social” Network Effects
+## "Social" Network Effects
 
 The 5th and last broad category of network effects are what we’ve called “social” network effects. They work through psychology and the interactions between people.
 
@@ -383,11 +450,11 @@ Now you may be asking yourself “Aren’t these social nfx kind of like brand d
 
 To date, we’ve identified three main types of social network effects: language, belief, and bandwagon effects. That number could easily expand, since human psychology is complex and there are many kinds of social interactions that work very differently, and we continue to look for new types.
 
-## Language (Social)
+### Language (Social)
 
 In any human network, language is the main intermediary. It’s the protocol that all the nodes in a network use to interface with each other. For instance, the English language is a serviceable language, but it’s a lot more valuable considering that there are 1.5 billion people who speak it. That’s more than 15 times as many people who speak German. So even though speaking English doesn’t make you 15 times better at communicating than speaking German, the value to speakers is much higher as a result of the network.
 
-![[999-笔记素材/202408021509/Language-1.png]]
+![](../Elements/The-Network-Effects-Manual/Language-1.png)
 
 That’s why, throughout history, language has displayed a “winner-take-most” tendency. People in the same political, social and economic units tend to coalesce around one language.
 
@@ -409,13 +476,13 @@ Another example: back in the day, to “xerox” something mean to photocopy it.
 
 Getting people to verbally use your company name is a big advantage, but it’s very tricky to do. Your company name has to be memorable and catchy enough to do this, and that’s why [getting the name right is so crucial](https://www.nfx.com/post/your-company-name-matters).
 
-![[999-笔记素材/202408021509/Language.png]]
+![](../Elements/The-Network-Effects-Manual/Language.png)
 
-## Belief (Social)
+### Belief (Social)
 
 The 13th network effect on our current Map is belief. The belief network effect is something you can best see with gold, Bitcoin and religion. It’s a direct nfx.
 
-![[999-笔记素材/202408021509/Belief-1.png]]
+![](../Elements/The-Network-Effects-Manual/Belief-1.png)
 
 *Homo Sapiens* is a pack animal. We want to be in the “in group” and be accepted by others. Sharing common beliefs is a critical part of that. If people believe in something, others are more likely to stick with it and believe in it, too. As a result, there are big social consequences for not believing the things your friends believe, and perhaps worse consequences for ceasing to believe in what they believe. This is one factor that makes people stick with group thoughts, making them very resilient to contradictory information.
 
@@ -429,13 +496,13 @@ Belief nfx are like sand. In small quantities, sand dissipates in a breeze. But 
 
 The same is true of Bitcoin. The more people believe it’s valuable, the more valuable it gets for everyone. And we’re seeing that same “sand layering” with Bitcoin now. The more times its price crashes and then bounces back, the more people will believe it has value. And then when you layer some Ethereum “sand” on top of it, and the “sand” of the thousands of other cryptocurrencies in existence — all denominated in Bitcoin on the exchanges — the Bitcoin sand gets progressively more stable as a result of growing Belief nfx. What was once fluid and intangible transforms to something closer to rock.
 
-![[999-笔记素材/202408021509/Belief.png]]
+![](../Elements/The-Network-Effects-Manual/Belief.png)
 
-## Bandwagon (Social)
+### Bandwagon (Social)
 
 Bandwagoning happens when social pressure to join a network causes people to feel they don’t want to be left out.
 
-![[999-笔记素材/202408021509/Bandwagon-1.png]]
+![](../Elements/The-Network-Effects-Manual/Bandwagon-1.png)
 
 One good example is Slack. In tech circles, it’s commonly felt that you don’t have a modern company unless your teams are using Slack. In our opinion, Slack’s notoriety and valuation have exceeded the utility of the product because it’s become somewhat of a movement in the tech industry, and developed a strong Bandwagon nfx.
 
@@ -451,15 +518,15 @@ This can be frustrating for competitors who feel they have better products, but 
 
 Students of nfx will correctly note that Bandwagon Effects can go too far. If *too* many people join a movement, sometimes the early adopters will abandon it because the group has become too mainstream. That’s why you typically see the Bandwagon nfx at the beginning of products. Smart Founders will navigate that transition from bandwagon to other nfx to maintain long-lasting defensibility.
 
-![[999-笔记素材/202408021509/Bandwagon.png]]
+![](../Elements/The-Network-Effects-Manual/Bandwagon.png)
 
-## Tribal (Social)
+### Tribal (Social)
 
 Tribal network effects most often develop in alumni networks of schools, military units, fraternities and sororities, accelerators, languages, regions, and religions.
 
 We suspect this was the very first network effect historically, as Homo sapiens evolved as a pack animal, trying to survive. The ones that built the best tribes survived to procreate, so we are all descendants of the best tribe builders. Those who weren’t good at building or joining tribes died off. Thus, our brains are wired to join tribes.
 
-![[999-笔记素材/202408021509/Tribal-nfx-diagram.png]]
+![](../Elements/The-Network-Effects-Manual/Tribal-nfx-diagram.png)
 
 A few key things contribute to the formation of strong Tribal network effects:
 
@@ -481,9 +548,9 @@ As with other network effects, network size and network density also matter in t
 
 That, in turn, leads to a higher proportion of shared connection between tribe members than in other types of networks, which incentivizes further relationship-formation and sets off a virtuous cycle. In a tribal network, people (often unconsciously) recognize that potential connections are more likely to materialize into actual connections, causing a self-fulfilling propensity to try harder to build in-tribe network connections. This creates a denser lattice of links between the nodes, driving network effects, and network value.
 
-[[500-投资与投资人/540-海外其他投资人/540.01-James Currier/The Tribal Network Effect (nfx No. 15)|Read the full essay here]]
+[Read the full essay here](https://www.nfx.com/post/15th-network-effect-tribal/)
 
-# The power of network effects
+## The power of network effects
 
 We explained earlier the Network Effects Map is meant to be a discussion starter on the true nature of network effects, not a last and final word on the subject. Network effects are a complex phenomenon that look simple on the surface.
 
