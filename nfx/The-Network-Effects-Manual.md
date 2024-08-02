@@ -214,7 +214,7 @@ The success of such an adoption strategy is often less about technology and more
 
 这样一种采用策略的成功往往跟技术关系不太大，更多与营销、社会工程以及市场定位有关。所以 VHS 才会击败 Betamax，尽管 Betamax 无疑是更好的标准。这也是为什么比特币作为一种数字价值储藏已经开始流行的部分原因，尽管比特币的运营成本很高，交易量也比许多其他数字货币少。
 
-![](../Elements/The-Network-Effects-Manual/Protocol-1.png]]
+![](../Elements/The-Network-Effects-Manual/Protocol-1.png)
 
 Properties of Protocol nfx
 
