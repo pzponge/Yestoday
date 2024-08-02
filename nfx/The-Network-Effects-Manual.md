@@ -191,7 +191,7 @@ A Protocol Network Effect arises when a communications or computational standard
 
 当一种通信或者计算标准公布后，所有节点创建者均可利用该协议接入该网络，这时候就产生了协议网络效应。比特币和以太坊就是协议网络的近期例子。协议制定者可以是一家公司，一批公司，或者一个小组。
 
-![](../Elements/The-Network-Effects-Manual/Protocol.png]]
+![](../Elements/The-Network-Effects-Manual/Protocol.png)
 *Protocol networks coalesce around communication and computational standards, which form the basis for the links between nodes (e.g. Bitcoin miners and Bitcoin wallets). 协议网络以通信和计算标准为核心，构成节点（如比特币矿工和比特币钱包）之间联系的基础。*
 
 Ethernet is another, more traditional, example of a Protocol Network Effect. When Robert Metcalfe founded 3Com, he persuaded DEC, Intel, and Xerox to adopt Ethernet as a standard protocol for local computer networks, with a standard speed of 10 megabits per second, 48-bit addresses, and a global 16-bit Ethertype-type field. Competing proprietary protocols existed, but as Ethernet pulled away and began to capture more and more market share, Ethernet-compatible products flooded the market. This increased the value of Ethernet at a compounding rate and decreased the value of competitors, regardless of their relative performance. Soon, ethernet ports became standard features of all modern computers.
