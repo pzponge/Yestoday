@@ -7,7 +7,7 @@
 
 ---
 
-![](../Elements/The-Network-Effects-Manual-network-effects-map-v1.jpg)
+![](../../Elements/The-Network-Effects-Manual-network-effects-map-v1.jpg)
 
 Twitter. Amazon. Apple. Meta. Uber. Salesforce. Tesla. These are some of the most impactful and significant companies in the world.
 
