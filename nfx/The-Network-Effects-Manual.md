@@ -6,67 +6,119 @@
 - 翻译参考：[36 氪](https://36kr.com/p/1722331922433)
 
 ---
+# The Network Effects Manual 网络效应指南
 
 ![](../Elements/The-Network-Effects-Manual/network-effects-map-v1.jpg)
 
 Twitter. Amazon. Apple. Meta. Uber. Salesforce. Tesla. These are some of the most impactful and significant companies in the world.
 
+推特（Twitter）、亚马逊、苹果、Meta、Uber、赛富时（Salesforce）、特斯拉，这些都是世界上最有影响力和最重要的公司。[^1]
+
+[^1]: Ponge 注：在更新的版本中，删掉了 PayPal、微软，加上了亚马逊、苹果、特斯拉。
+
 Each one is very different in a lot of ways, but there’s a single property that defines them all and lies behind their success: Network effects.
+
+这几家公司在很多方面都非常不一样，但是有一项属性定义了他们，并且是他们取得成功背后的基础。这个属性就是网络效应。
 
 Network effects [are the #1 way to create defensibility in the digital world](https://www.nfx.com/post/defensibility-most-value-for-founders). Companies with the strongest types of network effects built into their core business model tend to win, and win big.
 
+网络效应是[在数字世界建立可防御性的头号手段](https://www.nfx.com/post/defensibility-most-value-for-founders)。在核心商业模式植入了最强类型网络效应的公司往往能够取胜，而且是大胜。
+
 Our three-year study shows that [network effects are responsible for 70% of the value created by tech companies](https://www.nfx.com/post/70-percent-value-network-effects) since the Internet became a thing in 1994. Even though they are only a minority of companies, companies with network effects end up creating the lion’s share of the value.
+
+我们3年的研究表明，自1994年互联网开始显山露水以来，[网络效应对技术公司价值创造的贡献率达到了70%](https://www.nfx.com/post/70-percent-value-network-effects)。尽管具备网络效应的公司只是少数，但是却创造力大部分的价值。
 
 We believe in network effects so strongly that they inspired the name for our firm: NFX.  For Founders looking to build truly impactful companies, few areas of expertise are more valuable.
 
+我们对网络效应深信不疑，因此我们公司的名称就来源于网络效应：NFX。对于寻求建立真正具备影响力公司的创始人来说，几乎没有比这更有价值的领域知识了。[^2]
+
+[^2]: Ponge 注：新增了第一句，说明了 NFX 公司名称的含义。
+
 Still, misconceptions abound. Many people talk about network effects, but few understand the hidden complexities: what they really are, how they work, the many different types, and how to build and maintain them. Moreover, very few companies want to share their valuable playbooks around network effects, so most founders don’t even recognize different types of network effects when they see them, much less understand their complex inner workings.
+
+时至今日，误解仍然比比皆是[^3]。很多人都在谈论网络效应，但很少有人了解其中隐藏的复杂性：比如网络效应究竟是什么，网络效应的机制时什么样的，有多少种类型，以及如何建立和维护网络效应等。此外，很少有公司愿意跟别人分享自己在网络效应方面宝贵的操作手册，所以大多数创始人在看到网络效应时也无法认识不同的网络效应类型，更谈不上理解其复杂的内部机制了。
+
+[^3]: Ponge 注：删除了「网络效应方面的文章很少」相关表述。随着这几年网络效应被人讨论的越来越多，这种说法显然不合时宜了。
 
 Here we present our network effects map and accompanying manual. It’s an ever-evolving effort, and we’re continually making changes and updates. So far we’ve identified 16 types of network effects, each with their own playbook. This manual is intended to be a starting point for discussion around network effects (we’ll shorten it to nfx, for speed). In addition to reading this manual, we encourage you to check out these companion resources:
 
--   [The Network Effects Masterclass](https://www.nfx.com/masterclass), a 3-hour course bringing together all of our learnings on network effects from over 20 years of research and investing.
--   [The NFX Bible](https://www.nfx.com/post/network-effects-bible), which describes the most important network effects concepts and terms
--   [The NFX Archives](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles even written about network effects and network science.
+在此，我们向大家展示我们的「网络效应地图」和配套手册。这是一项不断更新的成果，我们也在持续地进行修改和更新。到目前为止，我们已经确定了 16 种网络效应类型，每种类型都有自己的操作指南。本指南旨在作为围绕网络效应展开讨论的起点。除阅读本手册外，我们还建议您查看以下配套资源：
 
-# Network Effects Basics
+-   [The Network Effects Masterclass](https://www.nfx.com/masterclass), a 3-hour course bringing together all of our learnings on network effects from over 20 years of research and investing. 
+- [网络效应大师课](https://www.nfx.com/masterclass)：这是一个 3 小时的课程，汇集了我们 20 多年来在网络效应方面的研究和投资心得。
+-   [The NFX Bible](https://www.nfx.com/post/network-effects-bible), which describes the most important network effects concepts and terms
+- [网络效应圣经](https://www.nfx.com/post/network-effects-bible)：其中介绍了最重要的网络效应概念和术语。
+-   [The NFX Archives](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles even written about network effects and network science.
+- [NFX 档案馆](https://www.nfx.com/post/network-effects-archives)：汇集了有关网络效应和网络科学的最有见地的文章。
+
+## Network Effects Basics 网络效应基础
 
 As you probably know, the simplified definition of network effects is that they occur when a company’s product or service becomes more valuable as usage increases.
 
+你大概已经了解，网络效应的简化定义是：当公司的产品或者服务会随着使用增加而变得更有价值时，就发生了网络效应。
+
 By this definition, network effects seem deceptively straightforward. But when you take a closer look, you start to notice that different types of networks are very different in how they behave. As a result, not all nfx are created equal — some are stronger and tend to produce more value than others.
+
+按照这一定义，网络效应似乎简单明了。不过这是有欺骗性的，如果你仔细看看的话，你就会注意到不同类型的网络效应在行为方式上存在很大的不同。因此，并不是所有的网络效应都是一样的——其中一些会更强，而且往往会创造出更高的价值。
 
 Network effects are one of the [four remaining defensibilities](https://www.nfx.com/post/defensibility-most-value-for-founders) in the digital age, including brand, embedding, and scale. Of the four, network effects are by far the strongest. To date, **we’ve identified 16 distinct types of nfx that fall under five broader categories.**
 
+在数字时代，网络效应是仅剩的[四大防御能力](https://www.nfx.com/post/defensibility-most-value-for-founders)之一，其他三个分别是品牌、植入以及规模。在这四种能力当中，网络效应是目前为止防御性最强的一种。迄今为止，我们共发现了**16 种网络效应类型，可分为 5 个大类**。
+
 In the map below, we’ve depicted the various nfx types (labeled) and categories (organized by color), with the strongest and simplest network effects at the center of the map. The other three defensibilities are also shown on the right.
+
+在下面这幅地图中，我们描绘了各种网络效应类型（已标记）和分类（按颜色组织），其中最强也是最简单的网络效应在图片中央。另外三种防御性也列到了图右。
 
 ![](../Elements/The-Network-Effects-Manual/NFX-Map-2022-scaled.jpg)
 
 We developed this map as an exercise over the years to help bring greater clarity to the subject. But before we dive in, there are a few things we should point out:
 
-1.  The map we’ve laid out here isn’t meant to be taken as an incontrovertible truth — it’s a beginning point for discussion and understanding. It’s one of our evolving methods to help Founders recognize and make use of powerful forces to build great companies. Because for Founders looking to build a strong competitive moat, the ability to identify and understand nfx is invaluable.
-2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks.
-3.  You’ll often see the same companies have several nfx at play simultaneously, meaning that the different nfx types are not mutually exclusive. They are like colors, and your company is like a work of art. It helps to be familiar with the full palette as you paint.
+多年来，我们不断更新这幅地图，以帮助我们更清晰地了解这一主题。但在我们深入探讨之前，有几件事我们需要指出：
+
+1.  The map we’ve laid out here isn’t meant to be taken as an incontrovertible truth — it’s a beginning point for discussion and understanding. It’s one of our evolving methods to help Founders recognize and make use of powerful forces to build great companies. Because for Founders looking to build a strong competitive moat, the ability to identify and understand nfx is invaluable. 我们在此绘制的地图并不意味着是无可争议的真理——这只是讨论和理解的起点。这是我们不断完善的方法论，希望借此来帮助创始人认识和利用强大的力量，来建立伟大的公司。因为对于寻求建立牢固的竞争护城河的创始人来说，识别和理解网络效应的能力是无价的。
+2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. 网络效应**不等同于**病毒效应。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作指南也完全不同。
+3.  You’ll often see the same companies have several nfx at play simultaneously, meaning that the different nfx types are not mutually exclusive. They are like colors, and your company is like a work of art. It helps to be familiar with the full palette as you paint. 你经常会看到同一家公司同时出现了多种网络效应，这意味着不同的网络效应类型并不是互斥的。他们就像颜色一样，而你的公司就像是一件艺术品。所以你在画画的时候熟悉这个调色盘是很有帮助的。
 
 With that said, let’s turn to the Map itself. Below each of the various nfx on the Network Effects Map are described, with relevant examples.
 
-# Direct Network Effects
+所以接下来我们就讲讲这幅地图本身。以下就是网络效应地图的各种网络效应，以及相关的例子介绍。
+
+## Direct Network Effects 直接网络效应
 
 The 1st broad category of nfx, shown in blue on the Network Effects Map, are direct network effects. The strongest, simplest network effects are direct: increased usage of a product leads to a direct increase in the value of that product to its users.
 
+在网络效应地图中蓝色系的第一大类是直接网络效应。这是最强也是最简单的一种网络效应：增加某产品使用可直接提升产品对用户的价值。
+
 The direct network effect was the first ever to be noticed, back in 1908. The Chairman of AT&T at the time, Theodore Vail, noticed how hard it was for other phone companies to compete with AT&T once they had more customers in a given locale. He pointed this out in his [annual report to shareholders](http://www.beatriceco.com/bti/porticus/bell/pdf/1908ATTar_Complete.pdf), writing that:
 
-“Two exchange systems in the same community, cannot be… a permanency. No one has use for two telephone connections if he can reach all with whom he desires connection through one.”
+直接网络效应第一次受人关注要追溯到1908年。当时 AT&T 的主席 Theodore Vail 注意到，一旦自己在特定地区有了更多客户之后，其他的电话公司想要跟自己竞争就变得困难许多了。他在向股东提交的[年度报告](http://www.beatriceco.com/bti/porticus/bell/pdf/1908ATTar_Complete.pdf)中指出了这一点：
+
+> “Two exchange systems in the same community, cannot be… a permanency. No one has use for two telephone connections if he can reach all with whom he desires connection through one.”
+> 
+> 在同一个社区出现两套电话交换系统是不会之久的。一旦通过一套系统就可以联系到所有想联系的人，没人会想要两条电话线路。
 
 Vail noticed that the value of AT&T was mostly based on their network, not their phone technology. At the time, it was a revolutionary insight. It showed that even if a new telephone was clearly superior to their old phone on a technical level, no one would want the new telephone if they couldn’t use it to call their friends and family.
 
+Vail 注意到 AT&T 的价值主要基于他们的网络，而不是他们的电话技术。那时候，这是一个革命性的洞察。它说明，哪怕新的电话技术上比旧电话要更加出色，也没人想要新电话，因为用户联系不到自己的家人朋友。
+
 In other words, a better product wouldn’t come close to making up the lost value of the network. A new entrant would have to achieve a comparable network effect to realistically produce a comparable amount of value for its users. In Vail’s words:
 
-“A telephone — without a connection at the other end of the line — is not even a toy or a scientific instrument. It is one of the most useless things in the world. Its value depends on the connection with the other telephone— and increases with the number of connections.”
+换句话说，更好的产品并不足以弥补网络损失掉的价值。新的进入者必须实现科比的网络效应才能有效地为用户产生科比的价值。用 Vail 的话来说：
+
+> “A telephone — without a connection at the other end of the line — is not even a toy or a scientific instrument. It is one of the most useless things in the world. Its value depends on the connection with the other telephone— and increases with the number of connections.”
+> 
+> 如果在另一头没有连接的话，电话甚至连玩具或者科学仪器都算不上。没有连接的电话就是这个世界上最没用的东西之一。电话的价值取决于跟其他电话的连接——以及连接数的增加。
 
 Below are the full texts of the relevant pages of that 1908 annual report. You’ll notice that Vail never uses the phrase “network effects”, although that’s the concept he’s describing. The term itself would only emerge later.
 
-![[999-笔记素材/202408021509/Final.jpg]]
-*Excerpts from the AT&T 1908 Annual Report*
+下面就是 1908 年那份年度报告的相关页面。你会注意到， Vail 从未使用过「网络效应」一词，尽管这正是他所描述的概念。网络效应这个词是后面才出现的。
+
+![](../Elements/The-Network-Effects-Manual/Final.jpg)
+*Excerpts from the AT&T 1908 Annual Report</br>AT&T 1908年度报告摘编*
 
 72 years after Vail first described direct network effects, the father of the Ethernet standard, Robert Metcalfe, took the concept a step further by proposing that the value of a network is proportional to the number of connected users squared (N^2). This is now known as Metcalfe’s Law.
+
+在 Vail 首次描述直接网络效应72年之后，以太网标准之父Robert Metcalfe（梅特卡夫）进一步深化了这个概念，他提**出网络的价值与连接用户数的平方（N^2）成正比关系。也就是所谓的梅特卡夫定律**。  
 
 The diagram below illustrates the basic concept of a direct network as described by Metcalfe’s Law:
 
