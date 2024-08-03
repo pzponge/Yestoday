@@ -48,7 +48,7 @@ Here we present our network effects map and accompanying manual. It’s an ever-
 -   [The NFX Bible](https://www.nfx.com/post/network-effects-bible), which describes the most important network effects concepts and terms. </br>[网络效应圣经](https://www.nfx.com/post/network-effects-bible)：其中介绍了最重要的网络效应概念和术语。
 -   [The NFX Archives](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles even written about network effects and network science. </br>[NFX 档案馆](https://www.nfx.com/post/network-effects-archives)：汇集了有关网络效应和网络科学的最有见地的文章。
 
-## Network Effects Basics 网络效应基础
+## Network Effects Basics </br>网络效应基础
 
 As you probably know, the simplified definition of network effects is that they occur when a company’s product or service becomes more valuable as usage increases.
 
@@ -80,7 +80,7 @@ With that said, let’s turn to the Map itself. Below each of the various nfx on
 
 所以接下来我们就讲讲这幅地图本身。以下就是网络效应地图的各种网络效应，以及相关的例子介绍。
 
-## Direct Network Effects 直接网络效应
+## Direct Network Effects </br>直接网络效应
 
 The 1st broad category of nfx, shown in blue on the Network Effects Map, are direct network effects. The strongest, simplest network effects are direct: increased usage of a product leads to a direct increase in the value of that product to its users.
 
@@ -140,7 +140,7 @@ Within the broader category of direct nfx, there are many different types. So fa
 
 [^4]: Ponge 注：这里应该是忘记更新了。实际上目前应该是六种，新增了一种中心辐射网络效应。
 
-### Physical (Direct) 物理直连网络效应
+### Physical (Direct) </br>物理直连网络效应
 
 Physical Direct nfx are direct network effects tied to physical nodes (e.g. telephones or cable boxes) and physical links (e.g. wires in the ground). This is the most defensible network effect type because it not only has a direct network effect, but it also lends itself to the addition of other defensibilities; namely, scale effects and embedding. Competing with a company that has Physical Network Effects requires a large upfront investment of capital and physical constraints.
 
@@ -178,7 +178,7 @@ Examples of Physical nfx
 - Transportation: Roads, trains, subways </br>交通：道路、火车、地铁
 - Infrastructure: Water, natural gas, electricity, sewage </br>基础设施：自来水、天然气、电力、污水处理
 
-### Protocol (Direct) 协议网络效应
+### Protocol (Direct) </br>协议网络效应
 
 A Protocol Network Effect arises when a communications or computational standard is declared and all nodes and node creators can plug into the network using that protocol. Bitcoin and Ethereum are recent examples of protocol networks. The protocol setter can be either an individual company, a group of companies, or a panel.
 
@@ -228,7 +228,7 @@ Examples of Protocol nfx
 - Ethereum </br>以太坊
 - VHS </br>VHS 标准的录像机和录影带
 
-### Personal Utility (Direct) 在线通讯网络效应
+### Personal Utility (Direct) </br>在线通讯网络效应
 
 Personal Utility Networks have two distinguishing qualities. The first is that users’ personal identities are tied to the network in question, often with usernames tied to their real name as with Facebook Messenger. The second is that they are essential to the personal or professional lives of users on a daily basis.
 
@@ -259,7 +259,7 @@ Examples of Personal Utility nfx
 - Instant messaging: WhatsApp, Slack, Facebook Messenger, WeChat </br>即时通信：Whatsapp、Slack、Facebook Messenger、微信
 - Other communication tools: iMessage, Skype, SMS </br>其他沟通工具：iMessage、Skype、短信
 
-### Personal (Direct) 社交网络效应
+### Personal (Direct) </br>社交网络效应
 
 Personal nfx are in play when a person’s identity or reputation is tied to a product. Often people on a Personal Network are influenced to join by people they might know in real life. If people you know from the real world are all using the same product to house their identity and reputation, there’s a large value add (to you) if you join the network yourself.
 
@@ -302,7 +302,7 @@ Examples of Personal nfx
 - Social: Facebook, Instagram, Google+, Pinterest, Tumblr </br>生活社交类应用：Facebook, Instagram, Google+, Pinterest, Tumblr
 - Professional: LinkedIn, GitHub, Twitter \[depends on usage\] </br>职业社交类应用：LinkedIn, GitHub, Twitter（取决于具体需求）
 
-### Market Networks (Direct) 个体市场网络效应
+### Market Networks (Direct) </br>个体市场网络效应
 
 A Market Network combines the identity and communication aspects of a Personal Network with the transactions focus and purpose that typify a marketplace. Usually, Market Networks start by enhancing a network of professionals that already exists offline. We consider Market Networks to be a form of direct network effects because the relationship between nodes is direct, as shown below:
 
@@ -338,11 +338,11 @@ Examples of Market Networks
 - Houzz
 - TravelJoy
 
-### Hub-and-Spoke 中心辐射网络效应
+### Hub-and-Spoke </br>中心辐射网络效应
 
 A Hub-and-Spoke network effect occurs when equal nodes submit content or goods to a central Hub. Then the Hub “pushes” a chosen few pieces out to all – or nearly all – of the nodes.
 
-当相同的节点向中心枢纽（Hub）提交内容或商品时，就会产生中心辐射网络效应。然后，中心「推送」所选的少量内容给所有（或几乎所有）节点。
+当相同的节点向中心枢纽（Hub）提交内容或商品时，就会产生中心辐射网络效应（Hub-and-Spoke network effect）。然后，中心「推送」所选的少量内容给所有（或几乎所有）节点。
 
 ![](../Elements/The-Network-Effects-Manual/Hub-and-spoke-nfx-diagram.png)
 
@@ -360,17 +360,17 @@ To the Hub, that selection is an algorithmic internal process.
 
 As shown above, the network structure looks like a hub and spoke, thus the name. But unlike an old hub-and spoke-network like a TV or radio broadcasting network, which grows in value only by [Sarnoff’s Law](https://www.nfx.com/post/network-effects-bible#:~:text=same%20network%20simultaneously.-,Sarnoff%E2%80%99s%20Law,-David%20Sarnoff%20was), this network grows with the power of [Metcalf’s Law](https://www.nfx.com/post/network-effects-bible#:~:text=Metcalfe%27s%20Law%20states%20the%20value,of%20users%20on%20the%20network) because it 1) harnesses the many nodes to create the content/products rather than take that burden itself, and 2) allows the nodes to connect with each other like a typical social network, driving more interactions and value.
 
-如上所示，中心辐射网络结构看起来像一个星型的轮毂和辐条（hub and spoke），因此得名。但与旧的轮毂和辐条网络（如电视或广播网络）不同，旧网络的价值仅按萨诺夫定律（价值与用户数成正比）增长，这种中心辐射网络的价值增长则遵循梅特卡夫定律（价值与用户数的平方成正比），因为它 1) 利用众多节点创造内容/产品，而不是自己承担这个负担，2) 允许节点像典型的社交网络一样相互连接，促进更多的互动和价值创造。
+如上所示，中心辐射网络结构看起来像一个星型的轮毂和辐条（hub and spoke），因此得名。但与旧的轮毂和辐条网络（如电视或广播网络）不同，旧网络的价值仅按萨诺夫定律（Sarnoff’s Law）（价值与用户数成正比）增长，这种中心辐射网络的价值增长则遵循梅特卡夫定律（Metcalf’s Law）（价值与用户数的平方成正比），因为它 1) 利用众多节点创造内容/产品，而不是自己承担这个负担，2) 允许节点像典型的社交网络一样相互连接，促进更多的互动和价值创造。
 
-## 2-Sided Network Effects 双边网络效应
+## 2-Sided Network Effects </br>双边网络效应
 
 The 2nd broad category of nfx, 2-sided nfx, are often called “indirect network effects” in academic literature. However, we think this is misleading since 2-sided networks can involve both direct *and* indirect network effects.
 
-网络效应的第二大类是双边网络效应，在学术文献中往往又被称为「间接网络效应」。然而，我们认为这属于一种误导，因为双边网络*既可包含*直接网络效应*也可包括*间接网络效应。
+网络效应的第二大类是双边网络效应（2-sided nfx），在学术文献中往往又被称为「间接网络效应（indirect network effects）」。然而，我们认为这属于一种误导，因为双边网络*既可包含*直接网络效应*也可包括*间接网络效应。
 
 Instead, the real distinguishing characteristic of a 2-sided network is that there are two different classes of users: supply-side and demand-side users. They each come to the network for different reasons, and they produce complementary value for the other side.
 
-相反，双面网络真正显著的特点是存在两类不同的用户：供应侧和需求侧用户。他们出于不同的原因加入网络，并且为对方提供了互补性的价值。
+相反，双面网络真正显著的特点是存在两类不同的用户：供应侧（supply-side）和需求侧（demand-side）用户。他们出于不同的原因加入网络，并且为对方提供了互补性的价值。
 
 It’s relatively simple to see how each new supply-side user in a 2-sided network directly increases the value of the network for demand-side users, and vice versa. For instance, each new seller (supply-side user) on a 2-sided marketplace like eBay directly adds value for buyers (demand-side users) by increasing the supply and variety of goods. Likewise, every additional buyer is a new potential customer for sellers.
 
@@ -378,15 +378,15 @@ It’s relatively simple to see how each new supply-side user in a 2-sided netwo
 
 It’s more complicated when we look at how same-side users interact. Most of the time, users on the same side *subtract* value directly from each other. For instance, core sellers on eBay create more competition for other sellers. More Uber passengers at rush hour mean surge pricing. Both are examples of negative direct same-side nfx.
 
-不过同一侧用户的互动就要复杂一些。大多数时候，同一侧的用户会相互直接*扣减*对方价值。比方说，eBay 上的核心卖家对其他卖家构成了更大的竞争威胁。高峰时间的 Uber 乘客增多意味着价格激增。这些都是同侧网络效应产生的直接负面影响。
+不过同一侧用户的互动就要复杂一些。大多数时候，同一侧的用户会相互直接*扣减*对方价值。比方说，eBay 上的核心卖家对其他卖家构成了更大的竞争威胁。高峰时间的 Uber 乘客增多意味着价格激增。这些都是同侧网络效应产生的直接负面影响（negative direct same-side nfx）。
 
 At the same time, *indirect* benefits usually end up outweighing those direct negatives. The fact that there are many sellers in the marketplace attracts the buyers to be there in the first place. And that is ultimately more valuable for the sellers, even if they have to sell at more efficient prices. The same is typically true on the buyer side.
 
-不过与此同时，*间接*好处通常会超过那些直接的负面影响。事实上，市场的卖家众多会在第一时间吸引买家。而这对卖家来说最终会带来更大的价值，即便他们必须用更便宜的价格去卖东西。类似地，对买家来说往往也是一样。
+不过与此同时，*间接*正面影响通常会超过那些直接负面影响。事实上，市场的卖家众多会在第一时间吸引买家。而这对卖家来说最终会带来更大的价值，即便他们必须用更便宜的价格去卖东西。类似地，对买家来说往往也是一样。
 
 This positive indirect effect of 2-sided networks has been discovered and rediscovered throughout history. In the late 1600s, for instance, all the violin makers moved to work and sell their violins on the same street in Venice. Although the proximity of the competing violin vendors drove down prices, it was worth it for the suppliers as a group because it was more important for them that people in the market for violins would take their business to that particular street, not some other street in some other city.
 
-双边网络的这种积极间接效应在历史上被多次发现和重新认识。例如，在 17 世纪晚期，所有的小提琴制造商都迁移到威尼斯的同一条街道上制作和销售他们的小提琴。尽管竞争对手凑到一起导致价格下降，但对于整个供应商群体来说这是值得的。因为对他们而言，更为重要的是确保想要购买小提琴的顾客会来到这条特定的街道，而不是去其他城市的其他街道。
+双边网络的这种间接正面影响（positive indirect effect）在历史上被多次发现和重新认识。例如，在 17 世纪晚期，所有的小提琴制造商都迁移到威尼斯的同一条街道上制作和销售他们的小提琴。尽管竞争对手凑到一起导致价格下降，但对于整个供应商群体来说这是值得的。因为对他们而言，更为重要的是确保想要购买小提琴的顾客会来到这条特定的街道，而不是去其他城市的其他街道。
 
 In the 1980s, malls in the US discovered the same thing. By aggregating competing sellers in one location, sellers were able to get much more business than others that were spread out, making it practical for competitors to co-locate.
 
