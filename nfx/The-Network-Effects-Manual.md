@@ -402,7 +402,7 @@ Note also that there are cases of *positive direct* same-side nfx, where more sa
 
 At present, we’ve identified three types of 2-sided network effects: marketplace, platform, and asymptotic.
 
-目前，我们发现了 3 种类型的双边网络效应：市场型、平台型、渐近型（asymptotic）。[^6]
+目前，我们发现了 3 种类型的双边网络效应：双边交易平台网络效应（marketplace）、（系统/应用）双边平台网络效应（platform）、边际价值递减型双边交易平台网络效应（asymptotic）。[^6]
 
 [^6]: Ponge 注：和直接网络效应那里是同样的问题，就是原文没有更新，应该是 4 种类型。
 
@@ -448,54 +448,111 @@ Examples of 2-Sided Marketplaces
 - Matchmaking: Craigslist, Tinder, Trulia, OpenTable</br>撮合匹配：Craigslist、Tinder、Trulia、OpenTable
 - Payment: Visa, American Express, Discover</br>支付：Visa、美国运通、Discover
 
-### Platform (2-Sided) </br>平台系统/平台软件网络效应
+### Platform (2-Sided) </br>（系统/应用）双边平台网络效应
 
 What we call 2-Sided Platform nfx are similar to 2-Sided Marketplace nfx, in that they have two sides with very different interests that directly benefit each other. The difference is that the supply side actually engineers products that are only available on the platform. The supply side has to do work to integrate to the platform. The products created and sold by the suppliers are a function of the platform, not independent of it.
 
-我们所说的平台系统/平台软件网络效应（2-Sided Platform nfx）其实类似于双边交易平台网络效应，因为都有两边，每边都有着非常不同且直接会让对方受益的兴趣。不同的是平台型的供应侧设计的是只在平台上才有的产品。供应侧必须去做集成进平台的工作。供应商制造和销售的产品是平台的功能，不独立于平台。
-
-如上图所示，和交易平台类似，系统或软件平台（Platform）也包含两组节点，一组为供应节点，一组为需求节点。比较典型的系统或软件平台网络包括：微软的 Windows、iOS、Android。还有不太典型的：Xbox、PlayStation 和 Wii。
+我们所说的（系统/应用）双边平台网络效应（2-Sided Platform nfx）其实类似于双边交易平台网络效应，它们都有两个利益截然不同的群体，这两个群体能够直接互惠。不同之处在于，这里的供给方实际上设计的产品只在该平台上可用。供给方必须付出努力与平台进行整合。供应商创造和销售的产品是平台的产物，而非独立于平台之外的东西。
 
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988ca856a74c11_Platform.png)
-*2-sided platforms have supply-side nodes (developers) and demand-side nodes (users), which create value for each other through the intermediary of the platform itself (central node). The platform itself also provides significant value for both sides.* 
+*2-sided platforms have supply-side nodes (developers) and demand-side nodes (users), which create value for each other through the intermediary of the platform itself (central node). The platform itself also provides significant value for both sides.</br>双边平台有供应侧节点（开发者）和需求侧节点（用户），彼此都通过平台本身（中心节点）为对方创造了价值。平台自己也为双方提供了显著的价值。* 
 
 Microsoft OS, iOS, and Android are prime examples of products that have achieved this type of nfx. Xbox, PlayStation, and Wii are also examples, although they’re slightly different.
 
+微软操作系统、iOS 和 Android 都是实现了这种网络效应的突出例子。Xbox、PlayStation 以及 Wii 也属于这种类型，只不过略有不同。  
+
 Another difference platforms have from marketplace nfx is that, compared to online marketplaces, the features and benefits of the platform itself can play a greater role in the utility of a platform relative to the network. People buy iPhones and thus iOS for the brand, design, technical features, and performance of the phone as much as they do for the app ecosystem. People might buy Xbox and PlayStation consoles for the graphics and performance of the system as much as they do for the library of available games. This in contrast with marketplaces, where the product itself comes in at a very distant second compared to the value of the network.
+
+（系统/应用）平台网络效应跟交易平台网络效应还有一个不同，那就是相对于在线交易平台，平台本身的特性和优势在其效用方面可能发挥更大作用，而不仅仅依赖于网络效应。人们购买 iPhone 和 iOS 系统，不仅是为了其应用生态系统，也看重其品牌、设计、技术特性和性能。同样，人们购买 Xbox 和 PlayStation 游戏机，可能既是为了系统的图形处理能力和性能，也是为了其丰富的游戏库。这与交易平台形成了鲜明对比。在交易平台中，交易平台本身的价值远远不如网络所带来的价值。
 
 How a platform is sold can also matter a great deal to how well adopted it becomes by both sides. For instance, Microsoft has an army of salespeople who sell their platform to large corporate clients, and they often give the platform away for free to universities so graduates learn to standardize on that platform.
 
+平台的推广方式对其在双方使用者中的采用程度有很大影响。例如，微软拥有一支庞大的销售团队，他们将平台销售给大型企业客户，并且他们经常免费将平台提供给大学，以便毕业生学习并培养在该平台上的使用习惯。
+
 One vulnerable point for platforms is that, just like with marketplaces, both sides of platforms can also multi-tenant. App developers can create versions of their app for both iOS and Android. Game developers can syndicate their games to PlayStation as well as Xbox. Likewise with the other side — gamers can own a PS4 and an Xbox One simultaneously, and people can own both a Dell and a Macbook. However, the pricing makes this more prohibitive than with online marketplaces, where multi-tenanting is usually free. So from that standpoint, platforms often have a leg up.
+
+不过（系统/应用）平台有一个薄弱环节，就像交易平台一样，平台的双方也可以采用多租户模式（即同时使用多个平台）。应用开发者可以为 iOS 和 Android 同时开发他们应用的版本。游戏开发者可以将他们的游戏同时发布到 PlayStation 和 Xbox 上。同样，用户方面也是如此——游戏玩家可以同时拥有 PS4 和 Xbox One，人们可以同时使用 Dell 和 Macbook 电脑。然而，与在线交易平台的多租户通常是免费的不同，（系统/应用）平台的多租户使用往往因价格因素而受到限制。因此从这个角度来看，（系统/应用）平台通常在用户黏性方面具有优势。
 
 ![](../Elements/The-Network-Effects-Manual/Platform.png)
 
-### Asymptotic Marketplace (2-Sided)
+Properties of 2-Sided Platform nfx
+
+（系统/应用）双边平台的特点
+
+- Two sides: users and developers</br>双边：用户和开发者
+- Positive indirect nfx, as with marketplaces</br>网络效应存在间接正面影响，和交易平台一样
+- Product and sales method matters more than with online marketplaces</br>跟在线交易平台相比，产品和销售方法更重要
+- Multi-tenanting is also a challenge with platforms</br>多租户也是（系统/应用）平台的挑战
+
+Examples of 2-Sided Platforms
+
+（系统/应用）双边平台的实例
+
+- Desktop operating systems: Microsoft OS, Mac OS, Linux</br>桌面操作系统：微软操作系统、Mac OS、Linux
+- Mobile operating systems: Android, iOS</br>移动操作系统：Android、iOS
+- Gaming consoles: Sony, Nintendo, Xbox</br>游戏主机：索尼、任天堂、Xbox
+- Enterprise: Salesforce Lightning</br>企业服务：Salesforce Lightning
+- Other attempts: Facebook Platform, Twilio</br>其他：Facebook 应用平台、Twilio
+
+### Asymptotic Marketplace (2-Sided) 边际价值递减型双边交易平台网络效应
 
 Of course, no two 2-Sided Marketplaces are exactly the same. One way they can significantly differ is in the “value curve.” This refers to how **fast** the value to the demand side increases as supply increases, and how **strong** the nfx get when critical mass is reached.
 
+当然，没有两个双边市场是完全相同的。它们可能存在显著差异的一个方面是「价值曲线（value curve）」。这个概念指的是两个关键因素：一是随着供给的增加，需求方获得的价值增长有多**快**；二是当达到临界规模（critical mass）时，网络效应变得有多**强**。
+
 The “Value Curve” diagram below illustrates the supply and demand curves for three subcategories of marketplace nfx..
+
+下面这张「价值曲线」图说明了交易平台网络效应三个子类别的供需曲线情况。
 
 ![](../Elements/The-Network-Effects-Manual/NFX-Types.jpg)
 
 The straight line (orange) in the middle is what you would expect with Craigslist or eBay, where generally, the growth of the supply side produces value to the demand-side at a relatively proportional rate. Marketplaces like this get very strong over time.
 
-The “Value Curve” diagram illustrates it below.
+中间的直线（橙色）就是 Craigslist 或者 eBay 这种交易平台的情况，一般来说，供应方的增长会以相对成比例的速度为需求方创造价值。随着时间的推移，这样的市场会变得非常强大。
 
 The lower curve (yellow) is what you saw with OpenTable, where the value is delayed. OpenTable had to grow the supply-side of restaurants to a very high level before there was any value to the demand-side. Once that critical mass was achieved, however, the network effect became very powerful.
 
+较低的曲线（黄色）就是 OpenTable 的情况，也就是价值是延迟的。OpenTable 必须在需求方产生任何价值之前，将餐厅的供应方发展到一个非常高的水平。然而，一旦达到临界规模，网络效应就会变得非常强大。
+
 The third subcategory of marketplace nfx, illustrated by the red curve on the graph above, is what we call Asymptotic Marketplace nfx. It has the inverse properties of OpenTable’s delayed value curve. The initial supply quickly adds value to the demand side, but soon the value of increased supply starts to diminish.
+
+上图中红色曲线所示的是交易平台网络效应的第三个子类别，我们称之为边际价值递减型交易平台网络效应（Asymptotic Marketplace nfx）。它的特性与 OpenTable 的延迟价值曲线恰好相反。在这种类型中，初始供给能快速为需求方创造价值，但随后随着供给的增加，价值增长开始明显放缓。
 
 The most famous examples of an Asymptotic Marketplace are ridesharing companies like Uber and Lyft, as we wrote about in [this Uber case study](https://www.nfx.com/post/the-network-effects-map-nfx-case-study-uber). Up to a point, more drivers benefit riders because of reduced wait times. But beyond a certain point, the value to the rider steeply diminishes. Waiting 4 minutes for a ride as opposed to 8 minutes is a huge difference. But 2 minutes instead of 4 minutes? The value of increased supply diminishes drastically around the 4-minute mark.
 
+边际价值递减型交易平台最著名的例子就是 Uber 和 Lyft 这样的共享出行公司，我们在 [Uber 案例研究](https://www.nfx.com/post/the-network-effects-map-nfx-case-study-uber)中对此进行了介绍。在一定程度上，更多的司机会让乘客受益，因为等待时间缩短了。但超过一定程度后，司机数量的增多对乘客来说就没有什么增值效果了。等 4 分钟打到车跟等 8 分钟才打到车是有很大差别的。但是等 2 分钟跟等 4 分钟呢？在 4 分钟左右，增加供应的价值就会急剧下降。
+
 Asymptotic Marketplaces are more vulnerable to competition than other marketplaces for this reason. If Uber has 1000 drivers in a certain area, a competitor might be able to provide comparable service with half as many.
+
+因此，边际价值递减型交易平台对于其他类型的交易平台更容易受到竞争的威胁。如果 Uber 在特定地区有 1000 位司机，那么竞争对手可能只需要一半的司机就能提供类似的服务。
 
 Adding to this vulnerability, Asymptotic Marketplaces can be very susceptible to multi-tenanting. Many people use both Lyft and Uber to get around, depending on which one has lower pricing and faster waits at any given time. On the supply side, many drivers use both Uber and Lyft, depending on pricing and wait times.
 
+除了这个弱点外，边际价值递减型交易平台也很容易受到多租户的影响。很多人都同时用 Lyft 和 Uber 打车，至于用哪一个要看特定时间谁的价格更低、等待时间更短。在供给侧，很多司机也是同时使用 Uber 和 Lyft，其考虑因素同样是定价和等待时间。
+
 ![](../Elements/The-Network-Effects-Manual/Asymptotic.png)
+
+Properties of Asymptotic Marketplace nfx
+
+边际价值递减型交易平台的特点
+
+- Easy to achieve critical mass on the supply side</br>供应侧容易到达临界规模
+- Steeply diminishing returns of increased supply early on</br>供应侧很快就会出现收益递减
+- Vulnerable to new entrants</br>容易受新进入者影响
+- Susceptible to multi-tenanting</br>易受多租户影响
+
+Examples of Asymptotic Marketplaces
+
+边际价值递减型交易平台的实例
+
+- Lyft
+- Uber
 
 ### Expertise
 
 Products that can develop “expertise” network effects are typically tools used by professionals to do their job — the instruments with which they ply their craft. As professionals become more skilled in their jobs, they also level up their expertise in tools required to do their jobs. If the tools are sophisticated enough, the tools require particular expertise of their own.
+
+能够产生「专业技能（Expertise）」网络效应的产品，通常是专业人士用来完成工作的工具——即他们用来施展专业技能的工具。随着专业人员的工作技能不断提高，他们在工作中所需工具的专业度也在不断提升。如果这些工具足够复杂，那么掌握这些工具本身就需要特定的专业知识。
 
 ![](../Elements/The-Network-Effects-Manual/Expertise-nfx-diagram.jpg)
 
