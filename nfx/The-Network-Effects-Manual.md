@@ -398,7 +398,7 @@ What we’re seeing now with the preponderance of online 2-Sided Networks is the
 
 Note also that there are cases of *positive direct* same-side nfx, where more same-side users add value to each other. These are very powerful and should be sought out as you design your products. This is the case with Microsoft OS, one of the most enduring 2-sided nfx products the world has seen. Microsoft OS users benefit other users because they can share files more easily with co-workers and friends. This is a positive direct same-side network effect (adding to the core 2-sided network effect) that is typical of operating systems.
 
-还需注意，存在正向直接同侧网络效应（positive direct same-side network effects）的情况，即更多同侧用户能为彼此增加价值。这些效应非常强大，在设计产品时应该积极追求。微软操作系统就是一个典型例子，它是世界上最持久的双边网络效应产品之一。微软操作系统用户之间能够相互受益，因为他们可以更轻松地与同事和朋友共享文件。这种正向直接同侧网络效应（增强了核心双边网络效应）是操作系统的典型特征。
+还需注意，存在同侧网络效应产生的*直接正面影响*（positive direct same-side network effects）的情况，即更多同侧用户能为彼此增加价值。这些效应非常强大，在设计产品时应该积极追求。微软操作系统就是一个典型例子，它是世界上最持久的双边网络效应产品之一。微软操作系统用户之间能够相互受益，因为他们可以更轻松地与同事和朋友共享文件。这种正向直接同侧网络效应（增强了核心双边网络效应）是操作系统的典型特征。
 
 At present, we’ve identified three types of 2-sided network effects: marketplace, platform, and asymptotic.
 
@@ -406,14 +406,14 @@ At present, we’ve identified three types of 2-sided network effects: marketpla
 
 [^6]: Ponge 注：和直接网络效应那里是同样的问题，就是原文没有更新，应该是 4 种类型。
 
-### Marketplace (2-Sided) 双边交易平台网络效应
+### Marketplace (2-Sided) </br>双边交易平台网络效应
 
 The two sides of a marketplace are buyers and sellers. Successful 2-Sided Marketplaces like Craigslist are very difficult to disrupt. To break them apart you must have a better value proposition for both parties **simultaneously**, or else nobody moves. Customers are there for the vendors, and vendors are there for the customers. One won’t leave without the other.
 
-市场的双边是买家和卖家。像 Craigslist 这样成功的双边市场是很难被颠覆的。要想拆散他们你得同时对双方有更好的价值主张，否则的话没人会走的。对于供应商来说客户就在那里，而对于客户来说供应商就在那里。如果对方不走的话没人会走的。
+市场的双边是买家和卖家。像 Craigslist 这样成功的双边市场是很难被颠覆的。要想拆散他们你得**同时**对双方有更好的价值主张，否则的话没人会走的。对于供应商来说客户就在那里，而对于客户来说供应商就在那里。如果对方不走的话没人会走的。
 
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c1cdaa74c67_Marketplace.png)
-*2-Sided Marketplaces have two sets of nodes, as shown above. One set supply-side users, the other demand-side users. They provide direct value each other through the marketplace, which is an intermediary represented by the central node in the diagram. 如上图所示，双边市场有两组节点。一组是供应侧用户，另一组是需求侧用户。他们通过市场（中间人，在图中以中心节点的形式体现）相互提供直接价值。*
+*2-Sided Marketplaces have two sets of nodes, as shown above. One set supply-side users, the other demand-side users. They provide direct value each other through the marketplace, which is an intermediary represented by the central node in the diagram. </br>如上图所示，双边市场有两组节点。一组是供应侧用户，另一组是需求侧用户。他们通过市场（中间人，在图中以中心节点的形式体现）相互提供直接价值。*
 
 With a 2-Sided Marketplace, the network is what provides the majority of the value, not the app or website itself — which explains why marketplaces products like eBay and Craigslist can afford to look essentially unchanged after 16 years.
 
@@ -433,22 +433,22 @@ Properties of 2-Sided Marketplace nfx
 
 交易平台的特点
 
-- Two sides: buyers and sellers  双边：买家与卖家
-- The more opposite-side users, the better (direct nfx) 对方用户越多越好（直接网络效应）
-- Same-side nfx actually tend to have negative direct nfx 同一侧的网络效应趋于负面直接网络效应
-- The positive from indirect same-side nfx outweighs the negative direct nfx 不过对同侧的间接的正面网络效应往往压倒了直接的负面网络效应
-- Highly defensible, but vulnerable to multi-tenanting 防御性很高、但易受多租户影响
+- Two sides: buyers and sellers  </br>双边：买家与卖家
+- The more opposite-side users, the better (direct nfx) </br>对方用户越多越好（直接网络效应）
+- Same-side nfx actually tend to have negative direct nfx </br>同一侧的网络效应趋于负面直接网络效应
+- The positive from indirect same-side nfx outweighs the negative direct nfx </br>不过对同侧的间接的正面网络效应往往压倒了直接的负面网络效应
+- Highly defensible, but vulnerable to multi-tenanting </br>防御性很高、但易受多租户影响
 
 Examples of 2-Sided Marketplaces
 
 交易平台的实例
 
-- eCommerce: eBay, Alibaba, Amazon Marketplace, Etsy（电子商务）
-- Media: Wikipedia, Medium, Facebook, Google（媒体）
-- Matchmaking: Craigslist, Tinder, Trulia, OpenTable（撮合成交）
-- Payment: Visa, American Express, Discover（支付）
+- eCommerce: eBay, Alibaba, Amazon Marketplace, Etsy</br>电子商务：eBay、阿里巴巴、亚马逊、Etsy
+- Media: Wikipedia, Medium, Facebook, Google</br>媒体：维基百科、Medium、Facebook、Google
+- Matchmaking: Craigslist, Tinder, Trulia, OpenTable</br>撮合匹配：Craigslist、Tinder、Trulia、OpenTable
+- Payment: Visa, American Express, Discover</br>支付：Visa、美国运通、Discover
 
-### Platform (2-Sided) 平台系统/平台软件网络效应
+### Platform (2-Sided) </br>平台系统/平台软件网络效应
 
 What we call 2-Sided Platform nfx are similar to 2-Sided Marketplace nfx, in that they have two sides with very different interests that directly benefit each other. The difference is that the supply side actually engineers products that are only available on the platform. The supply side has to do work to integrate to the platform. The products created and sold by the suppliers are a function of the platform, not independent of it.
 
