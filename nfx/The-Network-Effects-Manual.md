@@ -18,7 +18,7 @@ Twitter. Amazon. Apple. Meta. Uber. Salesforce. Tesla. These are some of the mos
 
 Each one is very different in a lot of ways, but there’s a single property that defines them all and lies behind their success: Network effects.
 
-这几家公司在很多方面都非常不一样，但是有一项属性定义了他们，并且是他们取得成功背后的基础。这个属性就是网络效应。
+这几家公司在很多方面都非常不一样，但是有一项属性定义了他们，并且是他们取得成功背后的基础。这个属性就是网络效应（Network Effects）。
 
 Network effects [are the #1 way to create defensibility in the digital world](https://www.nfx.com/post/defensibility-most-value-for-founders). Companies with the strongest types of network effects built into their core business model tend to win, and win big.
 
@@ -44,12 +44,9 @@ Here we present our network effects map and accompanying manual. It’s an ever-
 
 在此，我们向大家展示我们的「网络效应地图」和配套手册。这是一项不断更新的成果，我们也在持续地进行修改和更新。到目前为止，我们已经确定了 16 种网络效应类型，每种类型都有自己的操作指南。本指南旨在作为围绕网络效应展开讨论的起点。除阅读本手册外，我们还建议您查看以下配套资源：
 
--   [The Network Effects Masterclass](https://www.nfx.com/masterclass), a 3-hour course bringing together all of our learnings on network effects from over 20 years of research and investing. 
-- [网络效应大师课](https://www.nfx.com/masterclass)：这是一个 3 小时的课程，汇集了我们 20 多年来在网络效应方面的研究和投资心得。
--   [The NFX Bible](https://www.nfx.com/post/network-effects-bible), which describes the most important network effects concepts and terms
-- [网络效应圣经](https://www.nfx.com/post/network-effects-bible)：其中介绍了最重要的网络效应概念和术语。
--   [The NFX Archives](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles even written about network effects and network science.
-- [NFX 档案馆](https://www.nfx.com/post/network-effects-archives)：汇集了有关网络效应和网络科学的最有见地的文章。
+-   [The Network Effects Masterclass](https://www.nfx.com/masterclass), a 3-hour course bringing together all of our learnings on network effects from over 20 years of research and investing. </br>[网络效应大师课](https://www.nfx.com/masterclass)：这是一个 3 小时的课程，汇集了我们 20 多年来在网络效应方面的研究和投资心得。
+-   [The NFX Bible](https://www.nfx.com/post/network-effects-bible), which describes the most important network effects concepts and terms. </br>[网络效应圣经](https://www.nfx.com/post/network-effects-bible)：其中介绍了最重要的网络效应概念和术语。
+-   [The NFX Archives](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles even written about network effects and network science. </br>[NFX 档案馆](https://www.nfx.com/post/network-effects-archives)：汇集了有关网络效应和网络科学的最有见地的文章。
 
 ## Network Effects Basics 网络效应基础
 
@@ -63,7 +60,7 @@ By this definition, network effects seem deceptively straightforward. But when y
 
 Network effects are one of the [four remaining defensibilities](https://www.nfx.com/post/defensibility-most-value-for-founders) in the digital age, including brand, embedding, and scale. Of the four, network effects are by far the strongest. To date, **we’ve identified 16 distinct types of nfx that fall under five broader categories.**
 
-在数字时代，网络效应是仅剩的[四大防御能力](https://www.nfx.com/post/defensibility-most-value-for-founders)之一，其他三个分别是品牌、植入以及规模。在这四种能力当中，网络效应是目前为止防御性最强的一种。迄今为止，我们共发现了**16 种网络效应类型，可分为 5 个大类**。
+在数字时代，网络效应是仅剩的[四大防御能力](https://www.nfx.com/post/defensibility-most-value-for-founders)之一，其他三个分别是品牌（Brand）、植入（Embedding）以及规模（Scale）。在这四种能力当中，网络效应是目前为止防御性最强的一种。迄今为止，我们共发现了**16 种网络效应类型，可分为 5 个大类**。
 
 In the map below, we’ve depicted the various nfx types (labeled) and categories (organized by color), with the strongest and simplest network effects at the center of the map. The other three defensibilities are also shown on the right.
 
@@ -76,7 +73,7 @@ We developed this map as an exercise over the years to help bring greater clarit
 多年来，我们不断更新这幅地图，以帮助我们更清晰地了解这一主题。但在我们深入探讨之前，有几件事我们需要指出：
 
 1.  The map we’ve laid out here isn’t meant to be taken as an incontrovertible truth — it’s a beginning point for discussion and understanding. It’s one of our evolving methods to help Founders recognize and make use of powerful forces to build great companies. Because for Founders looking to build a strong competitive moat, the ability to identify and understand nfx is invaluable. 我们在此绘制的地图并不意味着是无可争议的真理——这只是讨论和理解的起点。这是我们不断完善的方法论，希望借此来帮助创始人认识和利用强大的力量，来建立伟大的公司。因为对于寻求建立牢固的竞争护城河的创始人来说，识别和理解网络效应的能力是无价的。
-2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. 网络效应**不等同于**病毒效应。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作指南也完全不同。
+2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. 网络效应**不等同于**病毒效应（Viral Effects）。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作指南也完全不同。
 3.  You’ll often see the same companies have several nfx at play simultaneously, meaning that the different nfx types are not mutually exclusive. They are like colors, and your company is like a work of art. It helps to be familiar with the full palette as you paint. 你经常会看到同一家公司同时出现了多种网络效应，这意味着不同的网络效应类型并不是互斥的。他们就像颜色一样，而你的公司就像是一件艺术品。所以你在画画的时候熟悉这个调色盘是很有帮助的。
 
 With that said, let’s turn to the Map itself. Below each of the various nfx on the Network Effects Map are described, with relevant examples.
@@ -87,15 +84,13 @@ With that said, let’s turn to the Map itself. Below each of the various nfx on
 
 The 1st broad category of nfx, shown in blue on the Network Effects Map, are direct network effects. The strongest, simplest network effects are direct: increased usage of a product leads to a direct increase in the value of that product to its users.
 
-在网络效应地图中蓝色系的第一大类是直接网络效应。这是最强也是最简单的一种网络效应：增加某产品使用可直接提升产品对用户的价值。
+在网络效应地图中蓝色系的第一大类是直接网络效应（direct network effects）。这是最强也是最简单的一种网络效应：增加某产品使用可直接提升产品对用户的价值。
 
 The direct network effect was the first ever to be noticed, back in 1908. The Chairman of AT&T at the time, Theodore Vail, noticed how hard it was for other phone companies to compete with AT&T once they had more customers in a given locale. He pointed this out in his [annual report to shareholders](http://www.beatriceco.com/bti/porticus/bell/pdf/1908ATTar_Complete.pdf), writing that:
 
-直接网络效应第一次受人关注要追溯到1908年。当时 AT&T 的主席 Theodore Vail 注意到，一旦自己在特定地区有了更多客户之后，其他的电话公司想要跟自己竞争就变得困难许多了。他在向股东提交的[年度报告](http://www.beatriceco.com/bti/porticus/bell/pdf/1908ATTar_Complete.pdf)中指出了这一点：
+直接网络效应第一次受人关注要追溯到 1908 年。当时 AT&T 的主席 Theodore Vail 注意到，一旦自己在特定地区有了更多客户之后，其他的电话公司想要跟自己竞争就变得困难许多了。他在向股东提交的[年度报告](http://www.beatriceco.com/bti/porticus/bell/pdf/1908ATTar_Complete.pdf)中指出了这一点：
 
-> “Two exchange systems in the same community, cannot be… a permanency. No one has use for two telephone connections if he can reach all with whom he desires connection through one.”
-> 
-> 在同一个社区出现两套电话交换系统是不会之久的。一旦通过一套系统就可以联系到所有想联系的人，没人会想要两条电话线路。
+> “Two exchange systems in the same community, cannot be… a permanency. No one has use for two telephone connections if he can reach all with whom he desires connection through one.” </br>在同一个社区出现两套电话交换系统是不会之久的。一旦通过一套系统就可以联系到所有想联系的人，没人会想要两条电话线路。
 
 Vail noticed that the value of AT&T was mostly based on their network, not their phone technology. At the time, it was a revolutionary insight. It showed that even if a new telephone was clearly superior to their old phone on a technical level, no one would want the new telephone if they couldn’t use it to call their friends and family.
 
@@ -413,24 +408,55 @@ At present, we’ve identified three types of 2-sided network effects: marketpla
 
 [^6]: Ponge 注：和直接网络效应那里是同样的问题，就是原文没有更新，应该是 4 种类型。
 
-### Marketplace (2-Sided)
+### Marketplace (2-Sided) 双边交易平台网络效应
 
 The two sides of a marketplace are buyers and sellers. Successful 2-Sided Marketplaces like Craigslist are very difficult to disrupt. To break them apart you must have a better value proposition for both parties **simultaneously**, or else nobody moves. Customers are there for the vendors, and vendors are there for the customers. One won’t leave without the other.
 
+市场的双边是买家和卖家。像 Craigslist 这样成功的双边市场是很难被颠覆的。要想拆散他们你得同时对双方有更好的价值主张，否则的话没人会走的。对于供应商来说客户就在那里，而对于客户来说供应商就在那里。如果对方不走的话没人会走的。
+
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c1cdaa74c67_Marketplace.png)
-*2-Sided Marketplaces have two sets of nodes, as shown above. One set supply-side users, the other demand-side users. They provide direct value each other through the marketplace, which is an intermediary represented by the central node in the diagram.*
+*2-Sided Marketplaces have two sets of nodes, as shown above. One set supply-side users, the other demand-side users. They provide direct value each other through the marketplace, which is an intermediary represented by the central node in the diagram. 如上图所示，双边市场有两组节点。一组是供应侧用户，另一组是需求侧用户。他们通过市场（中间人，在图中以中心节点的形式体现）相互提供直接价值。*
 
 With a 2-Sided Marketplace, the network is what provides the majority of the value, not the app or website itself — which explains why marketplaces products like eBay and Craigslist can afford to look essentially unchanged after 16 years.
 
+在双边市场里面，提供绝大部分价值的是网络，不是 app 或者网站本身——这就解释了为什么像 eBay 和 Craigslist 这样的市场产品可以长达 16 年看起来都不怎么变过的原因。 
+
 But there’s one big weakness in marketplace defensibility, which arises from the phenomenon of “multi-tenanting”. People can sell their products on eBay and Etsy at the same time. Landlords can list their apartments on Craigslist and Trulia, and renters can check both marketplaces to browse for inventory. It’s hard to lock out competition from new entrants when the members of your network can use competing networks as well as yours without a penalty. The goal of the marketplace is thus to design the product/service to add so much value or “lock-in”, particularly on the supply side, that members won’t be tempted to multi-tenant.
+
+不过交易平台（marketplace）在防御性上却有着一大弱点，这是由于所谓的“多租户”现象引起的。大家可以同时在 eBay 和 Etsy 上卖自己的产品。房东可以同时在 Craigslist 和 Trulia 上面出租自己的公寓，租客可以同时到这些市场上面浏览详细目录。当你的网络成员同时可以使用竞争网络而不受惩罚时，你很难把新进入者关在门外。因此市场的目标就是设计产品/服务增加大量价值或者「客户锁定」，尤其是对供应侧的价值增加和锁定，这样成员才不会想采取多租户的做法。
 
 Further, marketplaces come in more shapes than we might think. Media companies, for example, are essentially 2-Sided Marketplaces. Audiences (supply) come to the marketplace and sell their attention for content experiences. Advertisers (demand) on the other side buy the attention of the audiences. The greater the audience of a media company, the more likely advertisers will be to spend any money on that media company at all, and then the more money they will be willing to pay the company when they do. “Sellers” i.e. readers/viewers have a direct positive network effect for “buyers”, i.e. advertisers. And vice versa, because (in theory) more advertising revenue gives a media company the resources to produce better content.
 
+此外，交易平台的形态也比我们想象的要丰富。比方说，媒体公司本质上属于双边市场。受众（供应）来到这个市场售卖他们的注意力换取内容体验。广告商商（需求）来到市场的另一侧为的是购买受众的注意力。媒体公司的受众越多，广告商就越有可能在那家媒体公司身上花钱，并且愿意花的钱也越多。「卖家」（如读者/浏览者）对「买家」（如广告商）有着直接的正面的网络效应。反之亦然，因为（理论上）广告收入越多，媒体公司就有资源制作更好的内容。
+
 ![](../Elements/The-Network-Effects-Manual/Properties-examples-of-2-sided-Marketplaces.png)
 
-### Platform (2-Sided)
+Properties of 2-Sided Marketplace nfx
+
+交易平台的特点
+
+- Two sides: buyers and sellers  双边：买家与卖家
+- The more opposite-side users, the better (direct nfx) 对方用户越多越好（直接网络效应）
+- Same-side nfx actually tend to have negative direct nfx 同一侧的网络效应趋于负面直接网络效应
+- The positive from indirect same-side nfx outweighs the negative direct nfx 不过对同侧的间接的正面网络效应往往压倒了直接的负面网络效应
+- Highly defensible, but vulnerable to multi-tenanting 防御性很高、但易受多租户影响
+
+Examples of 2-Sided Marketplaces
+
+交易平台的实例
+
+- eCommerce: eBay, Alibaba, Amazon Marketplace, Etsy（电子商务）
+- Media: Wikipedia, Medium, Facebook, Google（媒体）
+- Matchmaking: Craigslist, Tinder, Trulia, OpenTable（撮合成交）
+- Payment: Visa, American Express, Discover（支付）
+
+### Platform (2-Sided) 平台系统/平台软件网络效应
 
 What we call 2-Sided Platform nfx are similar to 2-Sided Marketplace nfx, in that they have two sides with very different interests that directly benefit each other. The difference is that the supply side actually engineers products that are only available on the platform. The supply side has to do work to integrate to the platform. The products created and sold by the suppliers are a function of the platform, not independent of it.
+
+我们所说的平台系统/平台软件网络效应（2-Sided Platform nfx）其实类似于双边交易平台网络效应，因为都有两边，每边都有着非常不同且直接会让对方受益的兴趣。不同的是平台型的供应侧设计的是只在平台上才有的产品。供应侧必须去做集成进平台的工作。供应商制造和销售的产品是平台的功能，不独立于平台。
+
+如上图所示，和交易平台类似，系统或软件平台（Platform）也包含两组节点，一组为供应节点，一组为需求节点。比较典型的系统或软件平台网络包括：微软的 Windows、iOS、Android。还有不太典型的：Xbox、PlayStation 和 Wii。
 
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988ca856a74c11_Platform.png)
 *2-sided platforms have supply-side nodes (developers) and demand-side nodes (users), which create value for each other through the intermediary of the platform itself (central node). The platform itself also provides significant value for both sides.* 
