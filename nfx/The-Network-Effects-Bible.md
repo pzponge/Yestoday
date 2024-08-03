@@ -4,7 +4,7 @@
 - 作者：The NFX Team
 - 发表时间：2019-07-31
 - 翻译参考：36 氪（[上](https://36kr.com/p/1722559905793)，[下](https://36kr.com/p/1722559938561))
-- 整合：Ponge
+- 整合：Ponge（简单修订，尚未校译）
 
 ---
 
@@ -31,21 +31,29 @@ This reference for Founders will be continually updated and includes a comprehen
 4.  Building and Maintaining Network Effects </br>网络效应的构建和维护
 5.  Related Concepts </br>相关概念
 
-View this presentation [on Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213)([PDF](../Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf))
+View this presentation [on Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213) ([PDF](../Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf))
 
 本文相关的演示文稿可在 [Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213) 查看（[离线版](../Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf)）
 
-# Part I - Why Network Effects Are Important
+# Part I - Why Network Effects Are Important </br>第一部分：网络效应为什么重要？
 
 Network effects are mechanisms in a product and business where every new user makes the product/service/experience more valuable to every other user.
 
+网络效应是产品和业务中的一种机制。有了网络效应，每多出一个用户，都会使产品/服务/体验对其他的用户更有价值。
+
 Network effects are important because they are the best form of defensibility, and thus value creation, in the digital world (the [three other major defensibilities](https://www.nfx.com/post/defensibility-most-value-for-founders) are brand, embedding, and scale).
+
+网络效应之所以重要，是因为它们是数字世界中最好的防御形式，因此也是创造价值的最佳形式（另外的三大防御形式是品牌、嵌入和规模）。
 
 As mentioned above, network effects account for the majority of value created in the technology industry in the past few decades, since many winner-take-all-companies in tech were powered by network effects.
 
-Not all network effects are the same, however, and understanding the nuances is essential for building network effects of your own into your products. Different types of nfx are stronger or weaker than others, and they each work differently. To date we’ve identified [[500-投资与投资人/540-海外其他投资人/540.01-James Currier/The Network Effects Manual：16 Network Effects (And Counting)|16 different kinds of network effects]]. They’re listed as follows in order of strength:
+过去几十年来，网络效应创造了科技行业中的绝大部分价值，因为科技领域中，许多赢家通吃的公司都是由网络效应推动的。网络效应，已经触及或即将触及每一个行业。
 
-1.  [Physical](https://www.nfx.com/post/network-effects-manual#physical-direct) (e.g. landline telephones)
+Not all network effects are the same, however, and understanding the nuances is essential for building network effects of your own into your products. Different types of nfx are stronger or weaker than others, and they each work differently. To date we’ve identified [16 different kinds of network effects](./The-Network-Effects-Manual.md). They’re listed as follows in order of strength:
+
+然而，并非所有的网络效果都是相同的，理解网络效应中的细微差别，对你在自己的产品中构建网络效应是至关重要的。不同类型的网络效应的强度也不同，它们各自的工作方式也不同。到目前为止，我们已经确定了13种不同的网络效应。它们按强度排列如下：
+
+1.  [Physical](./The-Network-Effects-Bible.md#Nodes and Links) (e.g. landline telephones)
 2.  [Protocol](https://www.nfx.com/post/network-effects-manual#protocol-direct) (e.g. Ethernet)
 3.  [Personal Utility](https://www.nfx.com/post/network-effects-manual#personal-utility-direct) (e.g. iMessage, WhatsApp)
 4.  [Personal](https://www.nfx.com/post/network-effects-manual#personal-direct) (e.g. Facebook)
