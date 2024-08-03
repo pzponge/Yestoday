@@ -6,7 +6,7 @@
 - 翻译参考：[36 氪](https://36kr.com/p/1722331922433)
 
 ---
-# The Network Effects Manual </br>网络效应指南
+# The Network Effects Manual </br>网络效应手册
 
 ![](../Elements/The-Network-Effects-Manual/network-effects-map-v1.jpg)
 
@@ -42,7 +42,7 @@ Still, misconceptions abound. Many people talk about network effects, but few un
 
 Here we present our network effects map and accompanying manual. It’s an ever-evolving effort, and we’re continually making changes and updates. So far we’ve identified 16 types of network effects, each with their own playbook. This manual is intended to be a starting point for discussion around network effects (we’ll shorten it to nfx, for speed). In addition to reading this manual, we encourage you to check out these companion resources:
 
-在此，我们向大家展示我们的「网络效应地图」和配套手册。这是一项不断更新的成果，我们也在持续地进行修改和更新。到目前为止，我们已经确定了 16 种网络效应类型，每种类型都有自己的操作指南。本指南旨在作为围绕网络效应展开讨论的起点。除阅读本手册外，我们还建议您查看以下配套资源：
+在此，我们向大家展示我们的「网络效应地图」和配套手册。这是一项不断更新的成果，我们也在持续地进行修改和更新。到目前为止，我们已经确定了 16 种网络效应类型，每种类型都有自己的操作手册。本手册旨在作为围绕网络效应展开讨论的起点。除阅读本手册外，我们还建议您查看以下配套资源：
 
 -   [The Network Effects Masterclass](https://www.nfx.com/masterclass), a 3-hour course bringing together all of our learnings on network effects from over 20 years of research and investing. </br>[网络效应大师课](https://www.nfx.com/masterclass)：这是一个 3 小时的课程，汇集了我们 20 多年来在网络效应方面的研究和投资心得。
 -   [The NFX Bible](https://www.nfx.com/post/network-effects-bible), which describes the most important network effects concepts and terms. </br>[网络效应圣经](https://www.nfx.com/post/network-effects-bible)：其中介绍了最重要的网络效应概念和术语。
@@ -73,7 +73,7 @@ We developed this map as an exercise over the years to help bring greater clarit
 多年来，我们不断更新这幅地图，以帮助我们更清晰地了解这一主题。但在我们深入探讨之前，有几件事我们需要指出：
 
 1.  The map we’ve laid out here isn’t meant to be taken as an incontrovertible truth — it’s a beginning point for discussion and understanding. It’s one of our evolving methods to help Founders recognize and make use of powerful forces to build great companies. Because for Founders looking to build a strong competitive moat, the ability to identify and understand nfx is invaluable. 我们在此绘制的地图并不意味着是无可争议的真理——这只是讨论和理解的起点。这是我们不断完善的方法论，希望借此来帮助创始人认识和利用强大的力量，来建立伟大的公司。因为对于寻求建立牢固的竞争护城河的创始人来说，识别和理解网络效应的能力是无价的。
-2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. 网络效应**不等同于**病毒效应（Viral Effects）。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作指南也完全不同。
+2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. 网络效应**不等同于**病毒效应（Viral Effects）。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作手册也完全不同。
 3.  You’ll often see the same companies have several nfx at play simultaneously, meaning that the different nfx types are not mutually exclusive. They are like colors, and your company is like a work of art. It helps to be familiar with the full palette as you paint. 你经常会看到同一家公司同时出现了多种网络效应，这意味着不同的网络效应类型并不是互斥的。他们就像颜色一样，而你的公司就像是一件艺术品。所以你在画画的时候熟悉这个调色盘是很有帮助的。
 
 With that said, let’s turn to the Map itself. Below each of the various nfx on the Network Effects Map are described, with relevant examples.
@@ -132,7 +132,7 @@ Such connections, and the potential to join other subgroups, cement people’s c
 
 The details of these laws can be debated academically, but for Founders, they provide a tangible way to conceptualize an operational truism — nfx are powerful. They are a law of nature.
 
-这些定律的细节在学术上还可以进行争论，但对于创始人来说，这些指南提供了一种具体的方式来理解一个商业真理——网络效应是强大的。这是一种自然规律。
+这些定律的细节在学术上还可以进行争论，但对于创始人来说，这些手册提供了一种具体的方式来理解一个商业真理——网络效应是强大的。这是一种自然规律。
 
 Within the broader category of direct nfx, there are many different types. So far, we’ve identified five: physical, protocol, personal utility, personal, and market network.
 
@@ -956,4 +956,4 @@ We explained earlier the Network Effects Map is meant to be a discussion starter
 
 With this manual, we’re trying to communicate the importance, variety, and complexity of network effects. Top Founders will benefit from a deeper understanding of network effects which will translate to better practical business decisions. In the end, defensibility is what will define the success of your business. More than anything else, network effects are the key to that success.  
 
-通过本指南，我们试图传达网络效应的重要性、多样性和复杂性。顶尖的创始人将会因为对网络效应有着深刻理解而获益，从而做出更好的实际商业决策。归根结底，抵御竞争的能力将决定企业的成败。而这方面网络效应比任何其他东西都要关键。
+通过本手册，我们试图传达网络效应的重要性、多样性和复杂性。顶尖的创始人将会因为对网络效应有着深刻理解而获益，从而做出更好的实际商业决策。归根结底，抵御竞争的能力将决定企业的成败。而这方面网络效应比任何其他东西都要关键。

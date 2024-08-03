@@ -2,32 +2,38 @@
 
 - 原文链接：[The Network Effects Bible (Updated 2024)](https://www.nfx.com/post/network-effects-bible)
 - 作者：The NFX Team
-- 更新时间：2019-07-31
-- 翻译：36 氪（[上](https://36kr.com/p/1722559905793)，[下](https://36kr.com/p/1722559938561))
+- 发表时间：2019-07-31
+- 翻译参考：36 氪（[上](https://36kr.com/p/1722559905793)，[下](https://36kr.com/p/1722559938561))
 - 整合：Ponge
 
 ---
 
-# The Network Effects Bible (Updated 2024)
+# The Network Effects Bible (Updated 2024) </br>网络效应圣经（2024 年更新）
 
 ![](../Elements/The-Network-Effects-Bible/nfx-bible.jpg)
 
 Network effects have been [responsible for 70% of all the value created in technology since 1994](https://www.nfx.com/post/70-percent-value-network-effects). Founders who deeply understand how they work will be better positioned to build category-defining companies.
 
+自1994年以来，网络效应[创造了科技行业70%的价值](https://www.nfx.com/post/70-percent-value-network-effects)。深刻理解网络效应工作方式的创始人，将更有能力创建定义某一类别的公司。
+
 This reference for Founders will be continually updated and includes a comprehensive collection of terms and insights related to network effects all in one place. It’s one of three definitive resources we’ve written about network effects, also including:
 
--   **[The Network Effects Manual](./The-Network-Effects-Manual.md)**, which describes the 16 different types of network effects
--   [**The NFX Archives**](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles ever written about network effects and network science
+这本为创始人提供的参考资料将不断更新，其中包括与网络效应有关的各种术语和见解。这是我们撰写的有关网络效应的三大权威资料之一，其他资料还包括：
 
-# Roadmap
+-   **[The Network Effects Manual](./The-Network-Effects-Manual.md)**, which describes the 16 different types of network effects </br>[网络效应手册](./The-Network-Effects-Manual.md)：文中描述了 16 中不同类型的网络效应；
+-   [**The NFX Archives**](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles ever written about network effects and network science </br>[NFX 档案馆](https://www.nfx.com/post/network-effects-archives)：汇集了有关网络效应和网络科学的最有见地的文章。
 
-1.  Why Network Effects Are Important
-2.  How Networks Work
-3.  Properties of Networks
-4.  Building and Maintaining Network Effects
-5.  Related Concepts
+# Roadmap </br>本文结构
 
-View this presentation [on Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213)（[[500-投资与投资人/540-海外其他投资人/540.01-James Currier/20201231-【NFX】The Network Effects Bible (PPT).pdf|20201231-【NFX】The Network Effects Bible (PPT)]]）.
+1.  Why Network Effects Are Important </br>网络效应为什么重要？
+2.  How Networks Work </br>网络如何运作？
+3.  Properties of Networks </br>网络的特点
+4.  Building and Maintaining Network Effects </br>网络效应的构建和维护
+5.  Related Concepts </br>相关概念
+
+View this presentation [on Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213)([PDF](../Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf))
+
+本文相关的演示文稿可在 [Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213) 查看（[离线版](../Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf)）
 
 # Part I - Why Network Effects Are Important
 
