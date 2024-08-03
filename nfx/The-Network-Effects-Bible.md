@@ -23,7 +23,7 @@ This reference for Founders will be continually updated and includes a comprehen
 -   **[The Network Effects Manual](./The-Network-Effects-Manual.md)**, which describes the 16 different types of network effects </br>[网络效应手册](./The-Network-Effects-Manual.md)：文中描述了 16 中不同类型的网络效应；
 -   [**The NFX Archives**](https://www.nfx.com/post/network-effects-archives), a compendium of the most insightful articles ever written about network effects and network science </br>[NFX 档案馆](https://www.nfx.com/post/network-effects-archives)：汇集了有关网络效应和网络科学的最有见地的文章。
 
-# Roadmap </br>本文结构
+## Roadmap </br>本文结构
 
 1.  Why Network Effects Are Important </br>网络效应为什么重要？
 2.  How Networks Work </br>网络如何运作？
@@ -35,7 +35,7 @@ View this presentation [on Slideshare](https://www.slideshare.net/NFXvc/the-netw
 
 本文相关的演示文稿可在 [Slideshare](https://www.slideshare.net/NFXvc/the-network-effects-bible-95560213) 查看（[离线版](../Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf)）
 
-# Part I - Why Network Effects Are Important </br>第一部分：网络效应为什么重要？
+## Part I - Why Network Effects Are Important </br>第一部分：网络效应为什么重要？
 
 Network effects are mechanisms in a product and business where every new user makes the product/service/experience more valuable to every other user.
 
@@ -43,7 +43,7 @@ Network effects are mechanisms in a product and business where every new user ma
 
 Network effects are important because they are the best form of defensibility, and thus value creation, in the digital world (the [three other major defensibilities](https://www.nfx.com/post/defensibility-most-value-for-founders) are brand, embedding, and scale).
 
-网络效应之所以重要，是因为它们是数字世界中最好的防御形式，因此也是创造价值的最佳形式（另外的三大防御形式是品牌、嵌入和规模）。
+网络效应之所以重要，是因为它们是数字世界中最好的防御形式，因此也是创造价值的最佳形式（另外的[三大防御形式](https://www.nfx.com/post/defensibility-most-value-for-founders)是品牌、嵌入和规模）。
 
 As mentioned above, network effects account for the majority of value created in the technology industry in the past few decades, since many winner-take-all-companies in tech were powered by network effects.
 
@@ -51,97 +51,144 @@ As mentioned above, network effects account for the majority of value created in
 
 Not all network effects are the same, however, and understanding the nuances is essential for building network effects of your own into your products. Different types of nfx are stronger or weaker than others, and they each work differently. To date we’ve identified [16 different kinds of network effects](./The-Network-Effects-Manual.md). They’re listed as follows in order of strength:
 
-然而，并非所有的网络效果都是相同的，理解网络效应中的细微差别，对你在自己的产品中构建网络效应是至关重要的。不同类型的网络效应的强度也不同，它们各自的工作方式也不同。到目前为止，我们已经确定了13种不同的网络效应。它们按强度排列如下：
+然而，并非所有的网络效果都是相同的，理解网络效应中的细微差别，对你在自己的产品中构建网络效应是至关重要的。不同类型的网络效应的强度也不同，它们各自的工作方式也不同。到目前为止，我们已经确定了 [16 种不同的网络效应](./The-Network-Effects-Manual.md)。它们按强度排列如下：
 
-1.  [Physical](./The-Network-Effects-Bible.md#Nodes and Links) (e.g. landline telephones)
-2.  [Protocol](https://www.nfx.com/post/network-effects-manual#protocol-direct) (e.g. Ethernet)
-3.  [Personal Utility](https://www.nfx.com/post/network-effects-manual#personal-utility-direct) (e.g. iMessage, WhatsApp)
-4.  [Personal](https://www.nfx.com/post/network-effects-manual#personal-direct) (e.g. Facebook)
-5.  [Market Network](https://www.nfx.com/post/network-effects-manual#market-networks-direct) (e.g. HoneyBook, AngelList)
-6.  [Marketplace](https://www.nfx.com/post/network-effects-manual#marketplace-2-sided) (e.g. eBay, Craigslist)
-7.  [Platform](https://www.nfx.com/post/network-effects-manual#platform-2-sided) (e.g. Windows, iOS, Android)
-8.  [Asymptotic Marketplace](https://www.nfx.com/post/network-effects-manual#asymptotic-marketplace-2-sided) (e.g. Uber, Lyft)
-9.  [Data](https://www.nfx.com/post/network-effects-manual#data-network-effects) (e.g. Waze, Yelp!)
-10.  [Tech Performance](https://www.nfx.com/post/network-effects-manual#tech-performance-network-effects) (e.g. Bittorrent,Skype)
-11.  [Language](https://www.nfx.com/post/network-effects-manual#language-social) (e.g. Google, Xerox)
-12.  [Belief](https://www.nfx.com/post/network-effects-manual#belief-social) (currencies, religions)
-13.  [Bandwagon](https://www.nfx.com/post/network-effects-manual#bandwagon-social) (e.g. Slack, Apple)
-14.  [Expertise](https://www.nfx.com/post/network-effects-manual#Expertise) (Figma, Microsoft Excel)
-15.  [Tribal](https://www.nfx.com/post/network-effects-manual#Tribal%C2%A0(Social)) (Apple, Harvard, NY Yankees…)
-16.  [Hub-and-Spoke](https://www.nfx.com/post/network-effects-manual#Hub-and-Spoke)  (TikTok, Medium, Craigslist)
+1.  [Physical](https://www.nfx.com/post/network-effects-manual#physical-direct) (e.g. landline telephones)</br>物理直连网络效应（例如：固定电话）
+2.  [Protocol](https://www.nfx.com/post/network-effects-manual#protocol-direct) (e.g. Ethernet)</br>协议网络效应（例如：以太网）
+3.  [Personal Utility](https://www.nfx.com/post/network-effects-manual#personal-utility-direct) (e.g. iMessage, WhatsApp)</br>在线通讯网络效应（例如：iMessage、WhatsApp）
+4.  [Personal](https://www.nfx.com/post/network-effects-manual#personal-direct) (e.g. Facebook)</br>社交产品网络效应（例如：Facebook）
+5.  [Market Network](https://www.nfx.com/post/network-effects-manual#market-networks-direct) (e.g. HoneyBook, AngelList)</br>个体市场网络效应（例如：HoneyBook、AngelList）
+6.  [Marketplace](https://www.nfx.com/post/network-effects-manual#marketplace-2-sided) (e.g. eBay, Craigslist)</br>双边交易平台网络效应（例如：eBay、 Craigslist）
+7.  [Platform](https://www.nfx.com/post/network-effects-manual#platform-2-sided) (e.g. Windows, iOS, Android)</br>（系统/应用）双边平台网络效应（例如：Windows、 iOS、 Android）
+8.  [Asymptotic Marketplace](https://www.nfx.com/post/network-effects-manual#asymptotic-marketplace-2-sided) (e.g. Uber, Lyft)</br>边际价值递减型双边交易平台网络效应（例如：Uber、Lyft）
+9.  [Data](https://www.nfx.com/post/network-effects-manual#data-network-effects) (e.g. Waze, Yelp!)</br>数据网络效应（例如：Waze、Yelp!）
+10.  [Tech Performance](https://www.nfx.com/post/network-effects-manual#tech-performance-network-effects) (e.g. Bittorrent,Skype)</br>技术性能网络效应（例如：Bittorrent、Skype）
+11.  [Language](https://www.nfx.com/post/network-effects-manual#language-social) (e.g. Google, Xerox)</br>语言网络效应（例如：谷歌、施乐）
+12.  [Belief](https://www.nfx.com/post/network-effects-manual#belief-social) (currencies, religions)</br>信念网络效应（例如：货币、宗教）
+13.  [Bandwagon](https://www.nfx.com/post/network-effects-manual#bandwagon-social) (e.g. Slack, Apple)</br>「跟风」网络效应（例如：Slack，Apple）
+14.  [Expertise](https://www.nfx.com/post/network-effects-manual#Expertise) (Figma, Microsoft Excel)</br>专业技能网络效应（例如：Figma，微软 Excel）
+15.  [Tribal](https://www.nfx.com/post/network-effects-manual#Tribal%C2%A0(Social)) (Apple, Harvard, NY Yankees…)</br>组织网络效应（例如：果粉，哈佛校友，纽约洋基队球迷）
+16.  [Hub-and-Spoke](https://www.nfx.com/post/network-effects-manual#Hub-and-Spoke)  (TikTok, Medium, Craigslist)</br>中心辐射网络效应（例如：TikTok、Medium、Craigslist）
 
-![[999-笔记素材/202408021447/NFX-Map-2022-scaled.jpg]]
+![](../Elements/The-Network-Effects-Bible/NFX-Map-2022-scaled.jpg)
 
 These network effects already touch, or will soon touch, every industry. Examples of how to apply the Network Effects Map can be found in this [Uber case study](https://www.nfx.com/post/the-network-effects-map-nfx-case-study-uber) and in this [Facebook case study](https://www.nfx.com/post/network-effects-facebook).
 
-# Part II – How Networks Work
+这些网络效应已经或即将触及每个行业。有关如何应用网络效应地图（Network Effects Map）的示例，可以参阅 [Uber 案例研究](https://www.nfx.com/post/the-network-effects-map-nfx-case-study-uber) 和 [Facebook 案例研究](https://www.nfx.com/post/network-effects-facebook)。
+
+## Part II – How Networks Work</br>第二部分：网络如何运作？
 
 Broadly speaking, networks are interconnected systems of people or things. Networks can be found in almost every complex system — anything from power grids and roads to social media and human brains. Networks of all types, however, share several common characteristics. Understanding the underlying components of networks is useful for Founders looking to build network effect businesses of their own.
 
-## Nodes and Links
+广义上说，网络是人或事物相互联系的系统。你几乎可以在任何复杂的系统中找到网络：从电网、道路到社交媒体和人脑。不过，所有类型的网络都有几个共同的特点。了解网络的基本组成部分，对于希望建立自己的网络效应业务的创始人是有帮助的。
+
+### Nodes and Links </br>节点和连接线
 
 At a very basic level, networks are made up of nodes and links.
 
-![[999-笔记素材/202408021447/Nodes.png]]
-![[999-笔记素材/202408021447/People.png]]
-![[999-笔记素材/202408021447/Phone.png]]
+从最基本的层面来说，网络是由节点和连接线组成的。
+
+![](../Elements/The-Network-Effects-Bible/Nodes.png)
+![](../Elements/The-Network-Effects-Bible/People.png)
+![](../Elements/The-Network-Effects-Bible/Phone.png)
 
 **Nodes** are the network participants: consumers, devices, customers, buyers, sellers, brokers, etc. Different types of nodes can have very different roles within the same network.
 
+**节点**（Nodes）是网络的参与者：消费者、设备、客户、买家、卖家、经纪人等。不同类型的节点，在同一网络中可以有非常不同的角色。
+
 Nodes within the same network can differ in terms of their levels of impact, influence, power, and value. **Central nodes** are the nodes in a network with a high number of links and are often more valuable. **Marginal nodes** have relatively few links and typically have less value — although there can be exceptions if marginal nodes are connected to a few powerful nodes themselves. Accurately calculating the value of a node varies greatly from network to network.
+
+同一网络中的节点在影响因素、影响力、权力和价值方面可能有所不同。**中心节点**（Central nodes）是在网络中具有大量连接线的节点，通常更有价值。**边缘节点**（Marginal nodes）的连接线相对较少，通常价值较小——如果边缘节点可以直接连接到几个强大的节点，则可能会有例外。节点的价值因网络而异。
 
 Finally, **network size** can be measured by the total number of nodes in a network. The size of a network alone doesn’t determine value, because the amount of activity in a network can vary.
 
+最后，**网络规模**（network size）可以通过网络中节点的总数来衡量。网络的规模并不能决定网络的价值，因为网络中的活动量可能会有所不同。
+
 **Links** are the connections between nodes or groups of nodes in a network. Not all links between the nodes in a network are equal. Links can vary (see below) in terms of directionality.
+
+连接线（Links）是网络中节点或节点组之间的连接。并非网络中节点之间所有的连接线都是相等的。连接线的方向性可能会有所不同（见下文）。
 
 Links vary in terms of strength, which is a function of the durability, closeness, and activity between two nodes. For instance, your Facebook Messenger link to your best friend is a lot stronger than your link to someone who you haven’t talked to since high school, but they both count as links in the Facebook Messenger network.
 
-## Network Density
+
+不同的连接线强度也会有所不同，这是一个关于两个节点之间的耐久性、紧密性和活动性的函数。例如，你和你最好朋友的 Facebook Messenger 连接线比你和高中以来就没有交谈过的人的连接线要强得多，但它们都可以被视为 Facebook Messenger 网络中的连接线。
+
+### Network Density </br>网络密度
 
 The density of a network is determined by its ratio of links to nodes. The higher the ratio, the denser the network.
 
-![[999-笔记素材/202408021447/Network-Density.png]]
+网络的密度由其连接线与节点数量的比率决定。比率越高，网络越密集。
+
+![](../Elements/The-Network-Effects-Bible/Network-Density.png)
 
 Typically, the higher the density of a network, the more powerful its network effects are. The interconnectivity of links serve to reinforce and strengthen the connections between other nodes. If you’re friends with someone, for instance, who is friends with all your other friends, the strength of your bond is likely to be stronger than it would be in isolation.
 
+通常，网络密度越高，其网络效应就越强。连接线的互连性有助于加强其他节点之间的连接。例如，如果你和某人是朋友，而他又是你其他朋友的朋友，那么你们之间的联系强度就可能比仅仅你俩是朋友的情况大。
+
 Density is typically distributed unevenly within a network. Certain areas within a network can have much higher density than other areas of a network (which is what leads to *clustering*, a phenomenon described in greater detail below).
+
+在网络中，密度通常不是均匀分布的。网络中某些区域的密度可能比网络中其他的区域高的多（这是导致*集群*的原因，将在下面更详细地描述这一现象）。
 
 In building products, it’s advisable to pay attention to how nodes form connections with each other so you can design your product to promote higher network density. Look for the **“white-hot center”** of your network — the densest, highest activity part —and focus the product features and language on activating other users to behave more like that group. Their activity will attract other nodes who will be inspired by the activity of the “white-hot” group, and it will radiate outward from there much faster than you might think.
 
-## Directionality
+在构建产品时，建议注意节点之间是如何形成联系的，以便设计产品的时候来提高网络密度。寻找你网络的“白热化中心”——最密集、最活跃的部分——并把产品特性和语言集中在激活其他用户的行为上，让他们表现得更像那个群体。他们的活动将吸引其他节点，这些节点将受到“白热化”群体活动的激发，从那里向外辐射的速度比你想象的要快得多。
+
+### Directionality </br>方向性
 
 In graph theory, which is an aspect of network science, a link between nodes can be either **directed** or **undirected**.
 
-![[999-笔记素材/202408021447/Directionality.png]]
+图论是网络科学的一个方面，在图论中，节点之间的连接线可以是**有向**的，也可以是**无向**的。
+
+![](../Elements/The-Network-Effects-Bible/Directionality.png)
 
 Whether a graph is directed or undirected depends on the nature of the connections between the nodes of a network. If the connections are directed, it means that one node points to the other in an unreciprocated fashion.
 
+图是有向的还是无向的取决于网络节点之间连接的性质。如果连接是定向的，则意味着一个节点以非往复的方式指向另一个节点。
+
 On a [Personal Network](https://www.nfx.com/post/network-effects-manual#personal-direct) like Twitter, for example, well-known people like celebrities and politicians have huge followings which they don’t reciprocate. The flow of information is mostly one way — from the bigger, more central nodes to the smaller, more marginal nodes.
+
+例如，在 Twitter 这样的社交产品网络上，名人和政治家这样的知名人士有大量粉丝，他们基本上不会关注粉丝。信息的流动主要是单向的——从更大、更中心的节点到更小、更边缘的节点。
 
 Contrast that with a [Personal Utility Network](https://www.nfx.com/post/network-effects-manual#personal-utility-direct) like Facebook Messenger or WhatsApp, where connections are necessarily reciprocal. If you have a conversation with someone on Facebook Messenger, the flow of information and interaction is bidirectional. So Facebook Messenger and WhatsApp are examples of networks with *undirected* connections.
 
+相比之下，像 Facebook Messenger 或 WhatsApp 这样的在线通讯网络，连接必然是相互的。如果你在 Facebook Messenger 上和某人交谈，信息流动和互动是双向的。所以 Facebook Messenger 和 WhatsApp 是*无向连接*网络的例子。
+
 The **direction** of a link between nodes in a network is determined by which way, if any, the interaction between nodes in a network flows. That interaction can include the transfer of money, information, communication, and anything else that can pass between nodes as they interact.
+
+网络中节点之间的连接线**方向**，由网络中节点之间的交互流动的方式（如果有的话）决定。这种交互可以包括金钱、信息、通信以及在节点交互时可以在节点之间传递的任何其他东西。
 
 A network that consists of directed links *only* is called a **digraph**, but true digraphs are rare. Usually, networks encompass a mixture of directed and undirected connections. Understanding the directionality of links in your network and mapping them visually leads to far better product design and prioritization of features.
 
-## One-to-One vs One-to-Many
+*仅由*有向连接线组成的网络称为**有向图**（digraph），但真正的有向图很少。通常，网络都是有向连接和无向连接的混合体。理解网络中链接的方向性，并直观地映射它们，可以更好地设计产品和优化功能。
+
+### One-to-One vs One-to-Many </br>一对一与一对多
 
 Relationships between nodes in a network can be one-to-one, or they can be one-to-many.
 
-![[999-笔记素材/202408021447/One-to-One.png]]
-![[999-笔记素材/202408021447/One-to-Many.png]]
+网络中节点之间的关系可以是一对一的，也可以是一对多的。
+
+![](../Elements/The-Network-Effects-Bible/One-to-One.png)
+![](../Elements/The-Network-Effects-Bible/One-to-Many.png)
 
 The key attribute of one-to-many connections is that they are *directed* links, where the flow of the interaction is unidirectional. One-to-one relationships, on the other hand, are usually functionally reciprocal. Therefore, they’re *undirected*. The interaction flows both ways.
 
+一对多连接的关键属性是它们是*定向*连接线，其中交互流动是单向的。另一方面，一对一的关系通常在功能上是相互的。所以它们是*没有方向*的。互动是双向的。
+
 In the example of Twitter discussed earlier, or other asymmetric-follow personal networks like Instagram or YouTube, there are central nodes with many followers (inbound directed connections), and there are marginal nodes without many followers. The marginal nodes in these examples are primarily observers, whereas the central nodes are content producers.
+
+在前面讨论过的 Twitter 或其他非对称的社交产品网络（如 Instagram 或 YouTube）的例子中，有许多中心节点（定向连接），也有许多边缘节点。这些例子中的边缘节点主要是“观察”者，而中心节点是内容生产者。
 
 Central nodes with one-to-many relationships can broadcast to marginal nodes, whereas the interaction that flows back is usually small to non-existent (think of the relationship of a celebrity and their followers on Instagram or a TV network and their viewers).
 
+具有一对多关系的中心节点，可以将信息传递到边缘节点，而回流的交互通常很小，甚至不存在（想想明星和他们粉丝之间的关系）。
+
 Central nodes also can exist in one-to-one connection networks like Facebook (although they eventually ended up adding a one-to-many “follow” feature themselves), where some users have many friends and others very few. But the potential for disparity isn’t as vast as it is with networks that allow for one-to-many networks.
 
-## Clustering
+中心节点也可以存在于像 Facebook 这样的一对一的连接网络中（尽管它们最终加入了一对多的“关注”功能），其中一些用户有很多朋友，而另一些用户很少。但差距并不像允许一对多的网络那么大。
 
-![[999-笔记素材/202408021447/Clustering.png]]
+### Clustering </br>集群
+
+![](../Elements/The-Network-Effects-Bible/Clustering.png)
 
 Within real-world networks, nodes are unlikely to be dispersed evenly. They tend to cluster or form local groupings that are more tightly knit than the network at large. When two clusters are connected by a solitary link, but are otherwise unconnected and isolated from each other, that link is called a **bridge.**
 
