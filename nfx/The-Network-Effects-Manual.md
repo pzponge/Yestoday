@@ -340,7 +340,7 @@ Examples of Market Networks
 
 ### Hub-and-Spoke </br>中心辐射网络效应
 
-A Hub-and-Spoke network effect occurs when equal nodes submit content or goods to a central Hub. Then the Hub “pushes” a chosen few pieces out to all – or nearly all – of the nodes.
+A Hub-and-Spoke network effect occurs when equal nodes submit content or goods to a central Hub. Then the Hub "pushes" a chosen few pieces out to all – or nearly all – of the nodes.
 
 当相同的节点向中心枢纽（Hub）提交内容或商品时，就会产生中心辐射网络效应（Hub-and-Spoke network effect）。然后，中心「推送」所选的少量内容给所有（或几乎所有）节点。
 
@@ -752,7 +752,7 @@ With the first, if a Founder can help create a name for a business category and 
 
 对于第一种，如果创始人可以帮助某个业务类别创建一个名字，然后被视为此类的 \#1 的话，就有了坚实的语言网络效应。1975年，米勒啤酒（Miller Beer）通过建立「淡啤（lite beer）」这种啤酒类别而获得了语言网络效应。1995 年同样的事情又发生在网络「门户网站（portals）」这个类别上，Yahoo! 因为创造了这样一个类别，并声称在该类中处于领先地位而受益。最近我们在「加密货币」这个类别的建立上也看到了一样的语言网络效应。被视为 \#1 的比特币受益最多：比特币占到了全部市值的将近 40%，尽管市面上有 100 多种相互竞争的加密数字货币。
 
-In all these cases, the #1 lost its crown eventually, which is why Language nfx are considered less strong than others. Nevertheless, for many years, their competitors would certainly complain about the unfair advantage of the company with Language Network Effects they wished they had themselves.
+In all these cases, the \#1 lost its crown eventually, which is why Language nfx are considered less strong than others. Nevertheless, for many years, their competitors would certainly complain about the unfair advantage of the company with Language Network Effects they wished they had themselves.
 
 在所有这些案例中，最初的 \#1 最终都失去了自己的桂冠，这就是语言网络效应被认为比其他网络效应弱的原因。但不管怎样，在很多年的时间里，其竞争对手都会抱怨有着语言网络效应的公司所取得的不公平优势，他们希望自己也能拥有这种优势。
 
