@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nfx/The-Network-Effects-Bible.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nfx/The-Network-Effects-Bible.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nfx/The-Network-Effects-Bible.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nfx/The-Network-Effects-Bible.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f04c387314644417",
+  "active": "eadc8536afb4a56c",
   "lastOpenFiles": [
-    "Elements/The-Network-Effects-Bible/Cross-side.png",
     "nfx/The-Network-Effects-Bible.md",
+    "Elements/The-Network-Effects-Bible/Cross-side.png",
     "nfx/The-Network-Effects-Manual.md",
     "Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf",
     "Elements/The-Network-Effects-Bible-PPT.pdf",
@@ -163,7 +163,6 @@
     "Elements/The-Network-Effects-Bible/Switching-Costs.png",
     "Elements/The-Network-Effects-Bible/Scale-Effect.png",
     "Elements/The-Network-Effects-Bible/SameSide.png",
-    "Elements/The-Network-Effects-Bible/Retention.png",
     "Elements/The-Network-Effects-Bible",
     "Elements/20201231-【NFX】The Network Effects Bible (PPT)",
     "Elements/202408021447",

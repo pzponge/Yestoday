@@ -293,3 +293,4 @@
 ---|---|---|---|---
 [股东盈余和自由现金流](./Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)|Joe Ponzio|双语|DeepL，风远|Ponge
 [网络效应手册](./nfx/The-Network-Effects-Manual.md)|The NFX Team|双语|Ponge
+[网络效应圣经](./nfx/The-Network-Effects-Bible.md)|The NFX Team|双语|36 氪|Ponge
