@@ -100,9 +100,7 @@ In other words, a better product wouldn’t come close to making up the lost val
 
 换句话说，更好的产品并不足以弥补网络损失掉的价值。新的进入者必须实现科比的网络效应才能有效地为用户产生科比的价值。用 Vail 的话来说：
 
-> “A telephone — without a connection at the other end of the line — is not even a toy or a scientific instrument. It is one of the most useless things in the world. Its value depends on the connection with the other telephone— and increases with the number of connections.”
-> 
-> 如果在另一头没有连接的话，电话甚至连玩具或者科学仪器都算不上。没有连接的电话就是这个世界上最没用的东西之一。电话的价值取决于跟其他电话的连接——以及连接数的增加。
+> “A telephone — without a connection at the other end of the line — is not even a toy or a scientific instrument. It is one of the most useless things in the world. Its value depends on the connection with the other telephone— and increases with the number of connections.” </br>如果在另一头没有连接的话，电话甚至连玩具或者科学仪器都算不上。没有连接的电话就是这个世界上最没用的东西之一。电话的价值取决于跟其他电话的连接——以及连接数的增加。
 
 Below are the full texts of the relevant pages of that 1908 annual report. You’ll notice that Vail never uses the phrase “network effects”, although that’s the concept he’s describing. The term itself would only emerge later.
 
@@ -120,7 +118,7 @@ The diagram below illustrates the basic concept of a direct network as described
 下图说明了梅特卡夫定律描述的直接网络效应的基本概念：
 
 ![](../Elements/The-Network-Effects-Manual/Direct-Network.png)
-*Each node in a digital network is connected to every other node, as represented by the diagram above. Every additional node that joins a direct network adds a new connection for all the existing nodes, so the number of new connections (network density) increases as a square of the number of nodes (N2). Since the value of a network is proportional to its density, each additional node adds to the network value at a geometric rate. 如上图所示，数字网络的每一个节点都与其他的每一个节点互连。每一个新加入网络的节点都会增加与所有已有节点的新连接，所以新增连接数（网络密度）相当于节点数的平方（N2）。由于网络的价值与其密度成正比关系，每一个新增节点都会让网络价值以几何速率增长。*
+*Each node in a digital network is connected to every other node, as represented by the diagram above. Every additional node that joins a direct network adds a new connection for all the existing nodes, so the number of new connections (network density) increases as a square of the number of nodes (N2). Since the value of a network is proportional to its density, each additional node adds to the network value at a geometric rate. </br>如上图所示，数字网络的每一个节点都与其他的每一个节点互连。每一个新加入网络的节点都会增加与所有已有节点的新连接，所以新增连接数（网络密度）相当于节点数的平方（N2）。由于网络的价值与其密度成正比关系，每一个新增节点都会让网络价值以几何速率增长。*
 
 In 2001, an MIT computer scientist named David Reed went even further, declaring that Metcalfe’s law actually *understated* the value of a network. He pointed out that within a larger network, smaller, tighter networks can form: for example, the football team within a high school network; siblings within a family network; tennis players within a co-worker network.
 
@@ -146,11 +144,11 @@ Within the broader category of direct nfx, there are many different types. So fa
 
 Physical Direct nfx are direct network effects tied to physical nodes (e.g. telephones or cable boxes) and physical links (e.g. wires in the ground). This is the most defensible network effect type because it not only has a direct network effect, but it also lends itself to the addition of other defensibilities; namely, scale effects and embedding. Competing with a company that has Physical Network Effects requires a large upfront investment of capital and physical constraints.
 
-物理直连网络效应是与物理节点（比如电话或分线盒）和物理链路（如地下的线路）相关联的直接网络效应。这属于防御性最强的网络效应，因为它不仅具备直接网络效应，而且也有助于增加其他的防御性；比如规模效应和植入。与具有物理直连网络效应的公司竞争，需要大量的前期资本投入和物理限制。
+物理直连网络效应（Physical Direct nfx）是与物理节点（比如电话或分线盒）和物理链路（如地下的线路）相关联的直接网络效应。这属于防御性最强的网络效应，因为它不仅具备直接网络效应，而且也有助于增加其他的防御性；比如规模效应和植入。与具有物理直连网络效应的公司竞争，需要大量的前期资本投入和物理限制。
 
 ![](../Elements/The-Network-Effects-Manual/Physical.png)
 
-*The diagram above depicts the shape of a physical network, with the nodes representing utility terminals like landline phones, train stations, or water faucets, and the connections between nodes representing physical like landlines, train tracks, or water pipes. 上图描绘了一个物理网络的形状，其中节点表示类似固话、火车站或者水龙头这样的实用终端，而节点间的连接则代表类似电话线、火车轨道或者水管这样的实体。*
+*The diagram above depicts the shape of a physical network, with the nodes representing utility terminals like landline phones, train stations, or water faucets, and the connections between nodes representing physical like landlines, train tracks, or water pipes. </br>上图描绘了一个物理网络的形状，其中节点表示类似固话、火车站或者水龙头这样的实用终端，而节点间的连接则代表类似电话线、火车轨道或者水管这样的实体。*
 
 Roads, trains, electricity, sewage, natural gas, cable and broadband internet are examples of businesses with physical direct network effects. In fact, most Physical Networks are utilities: winner-take-all markets that develop into monopolies and end up being nationalized.
 
@@ -166,28 +164,28 @@ Properties of Physical nfx
 
 物理直连网络效应的特点
 
-- Physical nodes and physical links 物理节点和物理链路
-- Highly defensible; strongest nfx type 高度防御性，最强网络效应类型
-- Easy to add embedding and scale defensibilities 容易增加规模效应和植入的防御能力
-- Tendency towards monopoly / winner-take-all 容易走向垄断/赢家通吃
-- Often nationalized, controlled by gov't, or granted protection by government 往往被国有化，被政府控制，或者政府授权保护
+- Physical nodes and physical links </br>物理节点和物理链路
+- Highly defensible; strongest nfx type </br>高度防御性，最强网络效应类型
+- Easy to add embedding and scale defensibilities </br>容易增加规模效应和植入的防御能力
+- Tendency towards monopoly / winner-take-all </br>容易走向垄断/赢家通吃
+- Often nationalized, controlled by gov't, or granted protection by government </br>往往被国有化，被政府控制，或者政府授权保护
 
 Examples of Physical nfx 
 
 物理直连网络效应的实例
 
-- Telecommunications: Telephones, Cable, DSL, Satellite, Broadband internet 电信：电话、有线、DSL、卫星、宽带互联网
-- Transportation: Roads, trains, subways 交通：道路、火车、地铁
-- Infrastructure: Water, natural gas, electricity, sewage 基础设施：自来水、天然气、电力、污水处理
+- Telecommunications: Telephones, Cable, DSL, Satellite, Broadband internet </br>电信：电话、有线、DSL、卫星、宽带互联网
+- Transportation: Roads, trains, subways </br>交通：道路、火车、地铁
+- Infrastructure: Water, natural gas, electricity, sewage </br>基础设施：自来水、天然气、电力、污水处理
 
 ### Protocol (Direct) 协议网络效应
 
 A Protocol Network Effect arises when a communications or computational standard is declared and all nodes and node creators can plug into the network using that protocol. Bitcoin and Ethereum are recent examples of protocol networks. The protocol setter can be either an individual company, a group of companies, or a panel.
 
-当一种通信或者计算标准公布后，所有节点创建者均可利用该协议接入该网络，这时候就产生了协议网络效应。比特币和以太坊就是协议网络的近期例子。协议制定者可以是一家公司，一批公司，或者一个小组。
+当一种通信或者计算标准公布后，所有节点创建者均可利用该协议接入该网络，这时候就产生了协议网络效应（Protocol Network Effect）。比特币和以太坊就是协议网络的近期例子。协议制定者可以是一家公司，一批公司，或者一个小组。
 
 ![](../Elements/The-Network-Effects-Manual/Protocol.png)
-*Protocol networks coalesce around communication and computational standards, which form the basis for the links between nodes (e.g. Bitcoin miners and Bitcoin wallets). 协议网络以通信和计算标准为核心，构成节点（如比特币矿工和比特币钱包）之间联系的基础。*
+*Protocol networks coalesce around communication and computational standards, which form the basis for the links between nodes (e.g. Bitcoin miners and Bitcoin wallets). </br>协议网络以通信和计算标准为核心，构成节点（如比特币矿工和比特币钱包）之间联系的基础。*
 
 Ethernet is another, more traditional, example of a Protocol Network Effect. When Robert Metcalfe founded 3Com, he persuaded DEC, Intel, and Xerox to adopt Ethernet as a standard protocol for local computer networks, with a standard speed of 10 megabits per second, 48-bit addresses, and a global 16-bit Ethertype-type field. Competing proprietary protocols existed, but as Ethernet pulled away and began to capture more and more market share, Ethernet-compatible products flooded the market. This increased the value of Ethernet at a compounding rate and decreased the value of competitors, regardless of their relative performance. Soon, ethernet ports became standard features of all modern computers.
 
@@ -215,19 +213,19 @@ Properties of Protocol nfx
 
 协议网络效应的特点
 
-- Declared standard through which information is conveyed or data processed 信息传送或数据处理的标准 
-- Very defensible, second strongest nfx type because most of protocol value comes from the network effect 防御性很强，排名第二位的网络效应类型，因为大多数协议价值来自于网络效应
-- Adoption is nearly ubiquitous after critical mass is reached 突破临界点后会被广泛采用
-- Tendency to become embedded in all products that use the protocol 往往被嵌入到使用该协议的所有产品里面
+- Declared standard through which information is conveyed or data processed </br>信息传送或数据处理的标准 
+- Very defensible, second strongest nfx type because most of protocol value comes from the network effect </br>防御性很强，排名第二位的网络效应类型，因为大多数协议价值来自于网络效应
+- Adoption is nearly ubiquitous after critical mass is reached </br>突破临界点后会被广泛采用
+- Tendency to become embedded in all products that use the protocol </br>往往被嵌入到使用该协议的所有产品里面
 
 Examples of Protocol nfx
 
 协议网络效应的实例
 
-- Bitcoin 比特币
-- Ethernet 以太网
-- Fax 传真
-- Ethereum 以太坊
+- Bitcoin </br>比特币
+- Ethernet </br>以太网
+- Fax </br>传真
+- Ethereum </br>以太坊
 - VHS
 
 ### Personal Utility (Direct) 在线通讯网络效应
