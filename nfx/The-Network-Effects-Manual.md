@@ -136,7 +136,7 @@ The details of these laws can be debated academically, but for Founders, they pr
 
 Within the broader category of direct nfx, there are many different types. So far, we’ve identified five: physical, protocol, personal utility, personal, and market network.
 
-而在直接网络效应这个大类里面，又可以分成很多类型。目前为止，我们发现了5种：物理直连网络效应、协议网络效应、在线通讯网络效应、社交网络效应以及个体市场网络效应。[^4]
+而在直接网络效应这个大类里面，又可以分成很多类型。目前为止，我们发现了5种：物理直连网络效应、协议网络效应、在线通讯网络效应、社交产品网络效应以及个体市场网络效应。[^4]
 
 [^4]: Ponge 注：这里应该是忘记更新了。实际上目前应该是六种，新增了一种中心辐射网络效应。
 
@@ -259,22 +259,22 @@ Examples of Personal Utility nfx
 - Instant messaging: WhatsApp, Slack, Facebook Messenger, WeChat </br>即时通信：Whatsapp、Slack、Facebook Messenger、微信
 - Other communication tools: iMessage, Skype, SMS </br>其他沟通工具：iMessage、Skype、短信
 
-### Personal (Direct) </br>社交网络效应
+### Personal (Direct) </br>社交产品网络效应
 
 Personal nfx are in play when a person’s identity or reputation is tied to a product. Often people on a Personal Network are influenced to join by people they might know in real life. If people you know from the real world are all using the same product to house their identity and reputation, there’s a large value add (to you) if you join the network yourself.
 
-当个人身份或者名声跟产品绑定在一起时，就会产生社交网络效应（Personal nfx）。社交网络上的人往往容易受到自己在现实生活中认识的人影响而加入。如果你在现实世界中认识的人都使用同一款产品管理自己的身份与名誉的话，如果你自己也加入这个网络，你也会增值不少。
+当个人身份或者名声跟产品绑定在一起时，就会产生社交产品网络效应（Personal nfx）。社交产品网络上的人往往容易受到自己在现实生活中认识的人影响而加入。如果你在现实世界中认识的人都使用同一款产品管理自己的身份与名誉的话，如果你自己也加入这个网络，你也会增值不少。
 
 ![](../Elements/The-Network-Effects-Manual/Personal.png)
-*Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes. </br>社交网络牵涉到个人身份与名誉，它把每一位用户的角色与其他用户的角色连接起来。每增加一个节点都代表着潜在受众成员的增加，对于所有其他节点来说也代表着内容制造者的增加。*
+*Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes. </br>社交产品网络牵涉到个人身份与名誉，它把每一位用户的角色与其他用户的角色连接起来。每增加一个节点都代表着潜在受众成员的增加，对于所有其他节点来说也代表着内容制造者的增加。*
 
 Personal Networks differ from Personal Utility Networks in two main ways. As explained in the previous section, Personal Utility Networks are typically used for things that need to get done. There is a substantial amount of *practical* utility to the user. Second, Personal Utility Networks are typically more for private communication, rather than public communication. Personal Networks are less vital. You can stop using them and your life won’t alter that much. Networks like Facebook or Twitter or Linkedin (when you’re not job hunting) aren’t usually essential for your day-to-day life.
 
-社交网络与在线通讯网络的不同主要有两个方面。就像上一节解释那样，在线通讯网络通常用于需要完成的事情。对用户而言，在线通讯网络具有相当大的*实用性*。其次，在线通讯网络往往更多是私下沟通，而不是公开沟通。社交网络的作用就没那么关键了。你不用它生活也不会改变多少。像 Facebook、Twitter 或者LinkedIn（不在找工作的时候）通常通常对你的日常生活并不重要。  
+社交产品网络与在线通讯网络的不同主要有两个方面。就像上一节解释那样，在线通讯网络通常用于需要完成的事情。对用户而言，在线通讯网络具有相当大的*实用性*。其次，在线通讯网络往往更多是私下沟通，而不是公开沟通。社交产品网络的作用就没那么关键了。你不用它生活也不会改变多少。像 Facebook、Twitter 或者LinkedIn（不在找工作的时候）通常通常对你的日常生活并不重要。  
 
 However, Personal Networks are still very strong. You aren’t running to join another friend network or professional network now that you have FB and LinkedIn. It’s also true you could stop using both and be fine on a daily basis.
 
-然而，社交网络仍然非常强大。有了 FB 和 LinkedIn 以后，你就不必再加入其他好友社交网络或职业社交网络了。当然，你也可以停止使用这两个服务，也不会影响你的日常生活。
+然而，社交产品网络仍然非常强大。有了 FB 和 LinkedIn 以后，你就不必再加入其他好友社交产品网络或职业社交产品网络了。当然，你也可以停止使用这两个服务，也不会影响你的日常生活。
 
 There’s a difference between sending an IM to your significant other telling them to not miss picking up your Mom at the airport and posting a status update about your Mom visiting on social media. In both cases, your own identity is tied to the communication and your audience is your personal connections. But one is a private need-to-have and the other is a public nice-to-have.
 
@@ -282,13 +282,13 @@ There’s a difference between sending an IM to your significant other telling t
 
 The Personal Network Effect arises from the interpersonal, tribal impulse to build connections with others. It’s this impulse that compels people to join and stick with a network (e.g. Facebook, LinkedIn, or a religion) because their friends/co-workers/neighbors are also part of that network. A user’s “social graph” in a personal network are usually closely mapped to their in-the-flesh relationships.
 
-社交网络效应源于人际间的合群冲动，这种冲动促使人们与他人建立联系。正是这种冲动促使人们加入并留在一个网络（例如 Facebook、LinkedIn 或宗教），因为他们的朋友、同事或邻居也在这个网络中。用户在社交网络中的「社交图谱」通常与他们现实生活中的关系紧密相关。
+社交产品网络效应源于人际间的合群冲动，这种冲动促使人们与他人建立联系。正是这种冲动促使人们加入并留在一个网络（例如 Facebook、LinkedIn 或宗教），因为他们的朋友、同事或邻居也在这个网络中。用户在社交产品网络中的「社交图谱」通常与他们现实生活中的关系紧密相关。
 
 ![](../Elements/The-Network-Effects-Manual/personal-nfx.png)
 
 Properties of Personal nfx
 
-社交网络的特点
+社交产品网络的特点
 
 - Your personal identity and reputation is at stake </br>你的个人身份和名声利害攸关  
 - Often serves as an extension of existing relationships from your real life </br>往往充当现实生活关系的延伸
@@ -297,7 +297,7 @@ Properties of Personal nfx
 
 Examples of Personal nfx
 
-社交网络的实例
+社交产品网络的实例
 
 - Social: Facebook, Instagram, Google+, Pinterest, Tumblr </br>生活社交类应用：Facebook, Instagram, Google+, Pinterest, Tumblr
 - Professional: LinkedIn, GitHub, Twitter \[depends on usage\] </br>职业社交类应用：LinkedIn, GitHub, Twitter（取决于具体需求）
@@ -306,13 +306,13 @@ Examples of Personal nfx
 
 A Market Network combines the identity and communication aspects of a Personal Network with the transactions focus and purpose that typify a marketplace. Usually, Market Networks start by enhancing a network of professionals that already exists offline. We consider Market Networks to be a form of direct network effects because the relationship between nodes is direct, as shown below:
 
-个体市场网络（Market Networks）结合了社交网络的身份和通信特性，以及典型交易市场的特点（关注交易行为，以交易为目的）。通常，线下的职业人脉网络先前已存在，个体市场网络在此基础上开始形成。我们认为个体市场网络是一种直接网络效应的形式，因为节点之间的关系是直接的，如下所示：
+个体市场网络（Market Networks）结合了社交产品网络的身份和通信特性，以及典型交易市场的特点（关注交易行为，以交易为目的）。通常，线下的职业人脉网络先前已存在，个体市场网络在此基础上开始形成。我们认为个体市场网络是一种直接网络效应的形式，因为节点之间的关系是直接的，如下所示：
 
 ![](../Elements/The-Network-Effects-Manual/Market-Network.png)
 
 Market Networks are very different from 2-Sided Marketplaces, although the two are often confused. Most people think companies like HoneyBook and Houzz are marketplaces, but they’re not. In reality, they’re Market Networks, which combine the main elements of both Personal Direct Networks *and* 2-Sided Marketplaces, as well as being *many*-sided as opposed to 2-sided — often with the addition of a dedicated SaaS workflow software. For a detailed description of Market Networks, see [our article on the subject](https://www.nfx.com/post/10-years-about-market-networks).
 
-个体市场网络与双边市场有很大的不同，尽管两者经常被混淆。大多数人认为像 HoneyBook 和 Houzz 这样的公司属于交易平台，但其实不是。实际上，它们是个体市场网络，结合了社交网络*与*双边市场的主要元素，而且是*多边*而不是双边。这种网络通常还配有专用的 SaaS 工作流软件。有关个体市场网络的详细介绍，请参阅[我们的相关文章](https://www.nfx.com/post/10-years-about-market-networks)。
+个体市场网络与双边市场有很大的不同，尽管两者经常被混淆。大多数人认为像 HoneyBook 和 Houzz 这样的公司属于交易平台，但其实不是。实际上，它们是个体市场网络，结合了社交产品网络*与*双边市场的主要元素，而且是*多边*而不是双边。这种网络通常还配有专用的 SaaS 工作流软件。有关个体市场网络的详细介绍，请参阅[我们的相关文章](https://www.nfx.com/post/10-years-about-market-networks)。
 
 ![](../Elements/The-Network-Effects-Manual/New-Market-Networks.png)
 
@@ -404,7 +404,7 @@ At present, we’ve identified three types of 2-sided network effects: marketpla
 
 目前，我们发现了 3 种类型的双边网络效应：双边交易平台网络效应（marketplace）、（系统/应用）双边平台网络效应（platform）、边际价值递减型双边交易平台网络效应（asymptotic）。[^6]
 
-[^6]: Ponge 注：和直接网络效应那里是同样的问题，就是原文没有更新，应该是 4 种类型。
+[^6]: Ponge 注：和直接网络效应那里是同样的问题，就是原文没有更新，应该是 4 种类型，还有一种是专业技能（Expertise）。
 
 ### Marketplace (2-Sided) </br>双边交易平台网络效应
 
@@ -548,7 +548,7 @@ Examples of Asymptotic Marketplaces
 - Lyft
 - Uber
 
-### Expertise
+### Expertise </br>专业技能
 
 Products that can develop “expertise” network effects are typically tools used by professionals to do their job — the instruments with which they ply their craft. As professionals become more skilled in their jobs, they also level up their expertise in tools required to do their jobs. If the tools are sophisticated enough, the tools require particular expertise of their own.
 
@@ -558,187 +558,402 @@ Products that can develop “expertise” network effects are typically tools us
 
 Employers often require proficiency in such tools when hiring, and so professionals have a strong incentive to develop expertise in tools with wide adoption that they can list on their resume and use as selling points on the labor market.
 
+雇主在招聘时通常要求应聘者熟练掌握这些工具。因此，专业人士有强烈动机去掌握被广泛采用的工具，以便在简历上列出并在就业市场上作为自己的优势。
+
 Companies likewise become more likely to employ the tools with the widest adoption by professionals because a) they want their employees to be able to interface to other companies in the industry, and b) they want to be able to attract the top talent who likely will want to use the most popular tool, and c) they know they can more easily replace the professional with someone else trained on the most popular tool.
+
+同样，公司也更倾向于使用被专业人士广泛采用的工具，原因有三：
+
+a) 他们希望员工能与行业内其他公司顺畅协作；  
+
+b) 他们希望能够吸引顶尖人才，而这些人才很可能希望使用最流行的工具；
+
+c) 他们知道可以更容易地用其他熟悉最流行工具的人替换现有专业人士。
 
 And this is where the network effects kick in — for every new person in the labor market that develops expertise in a given product, the more valuable that product becomes to all players using or integrating that tool; i.e. all the other skilled users of the product (see the Appendix at the end of the article for a more detailed explanation of the mechanics of this network effect).
 
+这正是网络效应发挥作用的地方。就业市场上每多一个掌握某产品专业技能的人，该产品对所有使用或整合该工具的参与者就变得更有价值。换言之，这种价值增加适用于该产品的所有熟练用户（关于这种网络效应机制的更详细解释，请参见本节末尾的附录）。
+
 Here are some examples of industries and products where you see strong expertise nfx:
 
--   Accounting Software (Quickbooks)
--   CRMs (Salesforce, Hubspot)
--   Analytics (Google Analytics, MixPanel)
--   Computer Languages (Python, React)
--   Spreadsheets (Microsoft Excel)
--   Architecture (Revit, Autocad)
--   CMS platforms (WordPress)
--   Design software (Adobe, Figma, Invision)
--   Video editing (Adobe, Final Cut, Avid)
--   Mechanical Engineering (SolidWorks, CAD, Avid)
+以下是一些具有强大专业技能网络效应的行业和产品例子：
+
+-   Accounting Software (Quickbooks)</br>会计软件（Quickbooks）
+-   CRMs (Salesforce, Hubspot)</br>客户关系管理软件（Salesforce、Hubspot）
+-   Analytics (Google Analytics, MixPanel)</br>分析软件（Google Analytics、MixPanel）
+-   Computer Languages (Python, React)</br>计算机语言（Python、React）
+-   Spreadsheets (Microsoft Excel)</br>电子表格（Microsoft Excel）
+-   Architecture (Revit, Autocad)</br>建筑（Revit、Autocad）
+-   CMS platforms (WordPress)</br>内容管理系统平台（WordPress）
+-   Design software (Adobe, Figma, Invision)</br>设计软件（Adobe、Figma、Invision）
+-   Video editing (Adobe, Final Cut, Avid)</br>视频编辑（Adobe、Final Cut、Avid）
+-   Mechanical Engineering (SolidWorks, CAD, Avid)</br>机械工程（SolidWorks、CAD、Avid）
 
 [Read the full essay here](https://www.nfx.com/post/14th-network-effect-expertise/)
 
-## Data Network Effects
+关于这个网络效应的详细解释，[点击这里阅读相关文章](https://www.nfx.com/post/14th-network-effect-expertise/)。
+
+## Data Network Effects </br>数据网络效应
 
 When a product’s value increases with more data, and when additional usage of that product yields data, then you have a Data Network Effect. This is the 3rd broad category of nfx.
 
+当产品的价值随数据增多而提升，并且当产品的使用增多会产生数据时，就有了数据网络效应。这是第三大类的网络效应。
+
 ![](../Elements/The-Network-Effects-Manual/Data.png)
-*With a data network, each node (user) feeds useful data to the central database. As the aggregated data accretes, the value of the data for each user also grows.*
+*With a data network, each node (user) feeds useful data to the central database. As the aggregated data accretes, the value of the data for each user also grows. </br>数据网络内每个节点（用户）都为中心数据库提供有用的数据。随着聚合数据的不断增长，数据对每一位用户的价值也随之提高。*
 
 Data nfx tend to be weaker than many people — particularly venture capitalists — often want to believe: having more data doesn’t necessarily translate to value, and gathering more useful data isn’t always easy even if data is central to the product.
 
+数据网络效应往往比很多人（尤其是风投家）认为的要弱：拥有更多数据未必就能转化为价值，而收集到更多的有用数据也不是一直都是易事，哪怕数据是产品的核心。  
+
 Data can increase product value in different ways. If data is really central to the way the product benefits users, then the data nfx of that product has the potential to be very powerful. If data is only marginal to the product, the data nfx won’t matter much. When Netflix recommends a show to you, the algorithm is basing that recommendation on user viewing data. But Netflix’s discovery function is marginal; its real value comes from the inventory of tv shows, movies and documentaries. So Netflix only has a marginal Data Network Effect.
+
+数据可以用不同的方式增加产品价值。如果数据的确是产品给用户带来好处的关键，则该产品的数据网络效应有可能就非常强大。如果数据只是产品的边缘属性，则数据网络效应就不太重要了。当 Netflix 向你推荐节目时，算法推荐的基础是用户的历史观看数据。不过 Netflix 的发现功能只是边缘性的功能；去真正价值来自于它的电视、电源及纪录片节目库存。所以 Netflix 仅存在很少的数据网络效应。
 
 Likewise, the relationship between product usage and the amount of useful new data gathered can be asymmetrical. Yelp has a Data Network Effect because a greater number of reviews for a greater number of restaurants makes the product more valuable. But its network effect is weakened by the fact that only a small percentage of users produce the data; most people read from the Yelp database but don’t write to it.
 
+同样，产品使用与收集到的有用新数据量之间的关系也可能是不均衡的。Yelp 具有数据网络效应，因为更多餐馆的更多评论使产品更有价值。但其网络效应因只有少数用户产生数据而减弱；大多数人只是阅读 Yelp 数据库中的内容，而不是向其中添加内容。
+
 At the same time, Yelp is also a good example of a common weakness in Data nfx. Its Data nfx are asymptotic. The 5th review adds a lot more value than the 30th. Past a certain low level, more reviews on a restaurant don’t increase the value to you, the user. (Breadth of reviews, on the other hand, is very helpful and leads to solid nfx, which is why Yelp is still so prevalent.)
+
+同时，Yelp 也是数据网络效应中常见弱点的一个很好的例子。它的数据网络效应是边际价值递减的（asymptotic）。第五条评论比第三十条评论增加的价值要大得多。在达到某个较低的水平后，更多的评论对用户的价值不会增加多少。（另一方面，评论的广度非常有帮助，并且会带来稳固的网络效应，这也是为什么 Yelp 仍然如此流行的原因。）
 
 If a product has no relationship between increased usage and more useful data production, then there is no network effect; it’s merely a scale effect. Credit reporting agencies like Experian have a scale effect because even though more data makes their credit scores more valuable (i.e. accurate), usage of the product by consumers doesn’t naturally increase the amount of data they have.
 
+如果一个产品的使用增加与更多有用数据的产生之间没有关联，那么就不存在网络效应；那只不过是规模效应罢了。像 Experian 这样的信用报告机构具有规模效应，因为尽管更多的数据使他们的信用评分更准确，但消费者使用产品并不会自然增加他们拥有的数据量。这种效应主要来自于公司规模的扩大，而非用户之间的互动。
+
 Data nfx are easy to confuse with the data advantages that come from scale. Large companies have more data by definition. The question is, does that data create meaningful value for customers/users? And if so, does increased usage lead to more useful data?
+
+数据网络效应很容易与规模带来的数据优势混淆。大公司无疑拥有更多的数据。关键问题是，这些数据是否为客户或用户创造有意义的价值？如果是，增加使用是否会带来更多有用的数据？
 
 A good example of a service with a strong Data Network Effect is Waze. Not only does nearly everyone consuming data on Waze also contribute useful data, but because the data is consumed in real time, the dataset needs to be continuously updated. So the larger the network, the more accurate that data will be at any instant for any given road. More data continues to produce value almost indefinitely, so there’s less of an asymptotic data nfx with Waze than almost any other service we can think of.
 
+具备强劲数据网络效应的服务有一个好例子，那就是 Waze。每个人不仅在 Waze 上消费数据，而且也贡献有用的数据。而且由于数据是实时消费的，数据集需要不断更新。因此，网络越大，任何给定道路在任何时刻的数据就越准确。更多的数据几乎无限期地继续产生价值，所以 Waze 的数据网络效应比我们能想到的几乎任何其他服务都更持久，不会很快达到边际价值递减的状态。
+
 Data nfx are possibly the most complicated nfx category.  There are as many different data nfx as there are ways to use data. We’ll be mapping out data nfx in greater detail in the future.
+
+数据网络效应可能是最复杂的网络效应类别。有多少种使用数据的方式，就有多少种不同的数据网络效应。我们将在未来更详细地探讨和分类数据网络效应。
 
 ![](../Elements/The-Network-Effects-Manual/data-nfx-properties-examples.png)
 
-## Tech Performance Network Effects
+Properties of Data nfx
+
+数据网络效应的特点
+
+- Data is central to the product value </br>数据是产品价值的核心
+- More usage needs to produce more useful data gathered </br>产品使用量的增加应当能够产生更多有价值的数据
+- Typically asymptotes after a certain threshold of data points </br>通常在数据量达到一定规模后出现边际价值递减
+- Distinct from scale effects of data (which are also good, but different) </br>不同于数据的规模效应（规模效应很好，但与此不同）
+
+Examples of Data nfx
+
+数据网络效应的实例
+
+- Google
+- IMDB
+- Waze
+- Yelp!
+- Amazon
+
+## Tech Performance Network Effects </br>技术性能网络效应
 
 When the technical performance of a product directly improves with increased numbers of users, it has Tech Performance nfx. This is the 4th broad category of nfx. For networks with Tech Performance nfx, the more devices or users on a network, the better the underlying technology works. This makes the product/service become faster, cheaper or easier.
 
+当产品的技术性能会随着用户数量增加而直接得到改善时，我们说就有了技术性能网络效应（Tech Performance nfx）。这属于第四大类的网络效应。对于具备技术性能网络效应的网络来说，网络上的设备或者用户越多，底层技术就会工作得越好。这会使得该产品/服务变得更快、更便宜或者更容易使用。
+
 ![](../Elements/The-Network-Effects-Manual/Tech-Performance.png)
-*Networks with tech performance nfx become better (faster, cheaper, or easier to use) the bigger they get. As more nodes (devices) join the network, the performance of the whole improves.*
+*Networks with tech performance nfx become better (faster, cheaper, or easier to use) the bigger they get. As more nodes (devices) join the network, the performance of the whole improves. </br>具备技术性能网络效应的网络越大就会变得越好（更快、更便宜或者更易用）。加入网络的节点（设备）越多，整体性能改善就越好。*
 
 Consider peer-to-peer file sharing services like BitTorrent, or VPN providers like Hola, or object finding mesh networks like Tile. These services get faster for all users the more nodes are on the network. Every person downloading a file from BitTorrent is also seeding files to the network. The more people who have a Tile app installed, the greater the chances that you can locate something you lost since every phone on the network is constantly scanning for tiles. Skype also claims that the more people using Skype, the better the video streaming quality (it’s not clear if this true, but it’s the right idea for them to have).
 
+让我们考虑一些具体的例子：BitTorrent 这样的 P2P 文件共享服务，Hola 这样的 VPN 提供商，或 Tile 这样的物品寻找网状网络。这些服务随着网络节点的增加而变得更高效。在 BitTorrent 网络中，每个下载文件的用户同时也在向网络上传文件。Tile 应用的用户越多，你找到丢失物品的机会就越大，因为网络中的每部手机都在不断扫描寻找 tile 设备。Skype 也声称，使用其服务的人越多，视频流质量就越好（尽管这一说法的真实性尚不确定，但这确实是他们应该追求的方向）。
+
 Tech Performance Network Effects are different from technological advances, and we would argue they are superior. Technological advantages have a short half-life and aren’t very defensible anymore. If you’re the first to come out with a technology, the rate of innovation ensures that it won’t be long until the competition either copies your technology or develops it themselves. But with Tech Performance nfx, your product gets a runaway advantage for being the first out of the gate. You don’t have to fight to keep your head start. Your lead tends to lengthen, not decrease, over time.
+
+技术性能网络效应与普通的技术进步有所不同，我们认为前者更具优势。传统的技术优势往往半衰期短，现在已经不太具有防御性。如果你是某项技术的首创者，由于创新速度快，竞争对手很快就会复制或自行开发类似技术。但是通过技术性能网络效应，你的产品因为率先问世而获得了显著的优势。你不必为保持领先地位而不断奋斗。相反，你的领先优势往往会随时间推移而扩大，而非缩小。
 
 The other common point of confusion with Tech Performance nfx is to assume its presence when increased usage produces revenue that can then be re-applied to produce more tech advances, driving even more usage. If a performance improvement comes from an increased volume of revenue or data … it might be a good thing to have… but it’s not tech performance nfx.
 
+关于技术性能网络效应，还有一个常见的误解需要澄清。有人可能会认为，增加使用量产生的收入可以再投入到技术进步中，从而推动更多使用，这就是技术性能网络效应。然而，如果性能改进仅仅来自于收入或数据量的增加，虽然这可能是有益的，但它并不构成真正的技术性能网络效应。
+
 ![](../Elements/The-Network-Effects-Manual/tech-performance-2.png)
 
-## "Social" Network Effects
+Properties of Tech Performance nfx
 
-The 5th and last broad category of network effects are what we’ve called “social” network effects. They work through psychology and the interactions between people.
+技术性能网络效应的特点
+
+- More nodes on the network improve the performance of all the others </br>网络的节点越多可以改善其他节点的表现
+- Faster, cheaper is a result of increased usage (not a byproduct of increased revenue or data) </br>更快、更便宜是使用增加的结果（而不是收入增加或数据增加的副产品）
+- Big advantages for the first mover </br>先发优势巨大
+- Harder to replicate & more defensible than IP </br>更难复制、比知识产权防御性更强
+
+Examples of Tech Performance nfx
+
+技术性能网络效应的实例
+
+- P2P: BitTorrent, Hola, global VPN, </br>点对点传输：BitTorrent、Hola、全球代理网络
+- IoT: Skype (possibly) </br>物联网：Skpye（也许）
+
+## "Social" Network Effects </br>「社交互动」网络效应
+
+The 5th and last broad category of network effects are what we’ve called "social" network effects. They work through psychology and the interactions between people.
+
+第五大类，也是最后一大类网络效应，我们称之为「社交互动」网络效应（"social" network effects）。它们通过心理学和人与人之间的互动发挥作用。
 
 Here’s how we think they work.
 
+我们认为它的机制是这样的。
+
 Networks are nodes and links. With a landline telephone system, it’s easy to see the physical phones and wires connecting them.
+
+网络由节点和链接组成。在有线电话系统中，很容易看到物理电话和连接它们的线路。
 
 However, there is an unseen network among people, where our physical bodies are the nodes, and our words and behaviors with each other are the connections. These are the original networks, if you will.
 
+然而，人与人之间存在一个看不见的网络，我们的身体是节点，我们彼此之间的言行是连接。这些可以说是最原始的网络。
+
 Like digital network effects, these social nfx can help create more value in your product for users the more people use it. People add value to each other by influencing them to think or feel differently. By providing triggers and confidence to use your product.  By reinforcing their choice to continue using your product.
+
+像数字网络效应一样，使用的人越多，这些社交互动网络效应可以帮助你的产品为用户创造更多的价值。人们通过影响他人的思想或感受（触发用户使用产品的动机、增强用户对产品的信任、提升用户持续使用的粘性）来为彼此增加价值。
 
 Social nfx are usually the hardest to deploy for long-term defensibility. However, if you *can* successfully get various forms of psychology on your side against a competitor, they can represent a significant advantage.
 
+社交互动网络效应通常是最难部署以实现长期防御性的。然而，如果你*能*成功地让各种形式的心理学站在你这边对抗竞争对手，就会具备显著的优势。
+
 Now you may be asking yourself “Aren’t these social nfx kind of like brand defensibility?” And you would be partially right. There certainly are similarities. They have to do with language and psychology. But we think there are important differences as well, which is why we’ve broken them out into a separate category.
+
+现在你可能会问自己「这些社交互动网络效应是不是有点像另外一种防御能力——品牌（brand）？」某种程度上来说你是对的。确实有相似之处。它们都与语言和心理学有关。但我们认为也有重要的区别，这就是为什么我们把它们分成一个单独的类别。
 
 To date, we’ve identified three main types of social network effects: language, belief, and bandwagon effects. That number could easily expand, since human psychology is complex and there are many kinds of social interactions that work very differently, and we continue to look for new types.
 
-### Language (Social)
+到目前为止，我们已经识别出三种主要的社交互动网络效应类型：语言网络效应、信念网络效应和从众网络效应。关于社交互动网络效应，肯定远远不止这三种了，因为人类心理是复杂的，很多种社会互动的机制都是不一样的，今后我们会继续寻找新的类型。
+
+### Language (Social) </br>语言网络效应
 
 In any human network, language is the main intermediary. It’s the protocol that all the nodes in a network use to interface with each other. For instance, the English language is a serviceable language, but it’s a lot more valuable considering that there are 1.5 billion people who speak it. That’s more than 15 times as many people who speak German. So even though speaking English doesn’t make you 15 times better at communicating than speaking German, the value to speakers is much higher as a result of the network.
+
+在任何人际网络中，语言都是主要中介。语言是网络所有节点用来相互连接的协议。比方说，英语是一门可用于交流的语言，但考虑到讲英语的人高达 15 亿人，英语的价值就高得多了。这相当于说德语人数的 15 倍多。因此，尽管讲英语在沟通上不会比讲德语好 15 倍，但它作为网络的结果带给说话者的价值却要高得多。
 
 ![](../Elements/The-Network-Effects-Manual/Language-1.png)
 
 That’s why, throughout history, language has displayed a “winner-take-most” tendency. People in the same political, social and economic units tend to coalesce around one language.
 
+这就是为什么在整个历史长河中语言都展示出一种「赢家通吃」的趋势。处在同一个政治、社会及经济单元的人往往会倾向于使用同一种语言。
+
 This concept extends to the jargon and vernacular of specific groups, from nations to corporations, teens to hipsters, economists to Google employees. As jargon gets adopted by more and more people, it becomes more valuable to all the other users.
+
+这一概念还可以延伸到使用特定「行业黑话」和方言的群体，从国家到企业，从青少年到潮人，从经济学家到 Google 员工，莫不如此。随着「行业黑话」被越来越多的人接受，它对其他所有使用者来说也变得更有价值。
 
 Startups can use the network effects of language to take advantage of that winner-take-most effect in at least two ways: first, in creating business category language; and second, in naming a company or product.
 
+初创企业至少可以通过两种方式利用语言的网络效应，发挥赢家通吃的优势：第一，创造特定业务类别的语言；第二，为公司或产品命名。
+
 With the first, if a Founder can help create a name for a business category and then be known as \#1 in that category, it gives them solid language nfx. Miller Beer did this in 1975 when they created the “lite beer” category. The same thing happened 1995 with the creation of the web “portals” category, which Yahoo! benefited from since it was leading the category at that time. We’ve seen this same language network effect recently with the creation of the “cryptocurrency” category. Bitcoin, being seen as #1, benefited the most: it still accounts for nearly 40% of all the market capitalization despite their being 100s of competing cryptocurrencies.
+
+对于第一种，如果创始人可以帮助某个业务类别创建一个名字，然后被视为此类的 \#1 的话，就有了坚实的语言网络效应。1975年，米勒啤酒（Miller Beer）通过建立「淡啤（lite beer）」这种啤酒类别而获得了语言网络效应。1995 年同样的事情又发生在网络「门户网站（portals）」这个类别上，Yahoo! 因为创造了这样一个类别，并声称在该类中处于领先地位而受益。最近我们在「加密货币」这个类别的建立上也看到了一样的语言网络效应。被视为 \#1 的比特币受益最多：比特币占到了全部市值的将近 40%，尽管市面上有 100 多种相互竞争的加密数字货币。
 
 In all these cases, the #1 lost its crown eventually, which is why Language nfx are considered less strong than others. Nevertheless, for many years, their competitors would certainly complain about the unfair advantage of the company with Language Network Effects they wished they had themselves.
 
+在所有这些案例中，最初的 \#1 最终都失去了自己的桂冠，这就是语言网络效应被认为比其他网络效应弱的原因。但不管怎样，在很多年的时间里，其竞争对手都会抱怨有着语言网络效应的公司所取得的不公平优势，他们希望自己也能拥有这种优势。
+
 The second way companies typically take advantage of Language nfx is with company and product naming.
+
+公司利用语言网络效应的第二种典型方式是公司和产品命名。
 
 For instance, when “Googling” something became synonymous with searching for something on the Internet, it was a huge advantage for Google. *The language itself became an impediment to using a competitor.* When someone asks you to Google something, it’s both socially awkward and mentally jarring to pull out your phone and start using Bing.
 
+比方说，当「Googling」某样东西变成了在互联网上搜索东西的同义词时，这就变成了 Google 的巨大优势。*语言本身就成为了使用竞争对手产品的障碍*。当有人让你 Google 某样东西时，你却掏出手机开始用 Bing，这不仅会给你带来社交上的尴尬，自己内心也会觉得哪儿不对劲。
+
 It’s similar when someone says “grab an uber.” They’re giving you a social cue to use Uber, not Lyft. (BTW, entering the vernacular as a noun is probably not as powerful as entering as a verb. It would likely be better for Uber if more people said, “I’m going to uber over there,” which some already do, but If I were Uber, I would encourage that usage as best I could).
+
+当某人说「叫一辆 Uber」时情况也类似。他们这么说其实是给你一条社交暗示，让你使用 Uber 而不是 Lyft。（顺便说一句，作为名词成为日常用语的威力比不上作为动词。如果更多的人说「我准备 uber 到那里」对 Uber 来说可能更好，有些人已经在这么讲了，不过要是我是 Uber 的话，一定会尽量鼓励大家都这么用）。
 
 Another example: back in the day, to “xerox” something mean to photocopy it.
 
+另一个例子：当年，「xerox」某个东西的意思就是复印某个东西。[^7]
+
+[^7]: Ponge 注：xerox 是复印机公司施乐的英文。
+
 Getting people to verbally use your company name is a big advantage, but it’s very tricky to do. Your company name has to be memorable and catchy enough to do this, and that’s why [getting the name right is so crucial](https://www.nfx.com/post/your-company-name-matters).
+
+让大家把你公司的名字当做动词使用是一大优势，但想做到这一点是比较棘手的。你的公司名字必须好记而且要朗朗上口，所以[取好名字非常关键](https://www.nfx.com/post/your-company-name-matters)。
 
 ![](../Elements/The-Network-Effects-Manual/Language.png)
 
-### Belief (Social)
+Properties of Language nfx
+
+语言网络效应的特点
+
+- Direct network effect: the more people who use a term, the more valuable it becomes </br>直接网络效应：某术语使用的人越多，价值就越大
+- Good defensibility, because at most there's one brand name that people will verbalize. </br>很好的防御性，因为大家顶多只会把一个品牌名字动词化
+- If you think about language as having network effects, it has important implications for international markets. </br>如果你认为语言有网络效应，则语言对国际市场会有重要意义
+- Anglophone countries will always be easier to penetrate for an English-language company with an English-friendly brand name. </br>采用英语、有着英文友好型名字的公司永远更容易渗透到英语为母语的国家
+
+Examples of Language nfx
+
+语言网络效应的实例
+
+- Company names: Uber, Google, Xerox, </br>公司名：Uber、Google、施乐
+- Category names: Lite Beer, Yahoo! portal, Bitcoin cryptocurrency </br>类别名：淡啤、Yahoo! 门户、比特币加密货币
+- Broad language networks: Language families, individual languages, dialects </br>广泛语言网络：语系、单个语言、方言
+- Local language networks: teen slang, company jargon, other niche group terminology </br>本地语言网络：青少年俚语、公司行话、其他利基群体黑话
+
+### Belief (Social) </br>信念网络效应
 
 The 13th network effect on our current Map is belief. The belief network effect is something you can best see with gold, Bitcoin and religion. It’s a direct nfx.
+
+第 13 种[^8]网络效应是信念（Belief）。信念网络效应这种东西在黄金、比特币和宗教身上体现得最明显。这是直接的网络效应。
+
+[^8]: Ponge 注：没有改过来，应该是第 14 种。
 
 ![](../Elements/The-Network-Effects-Manual/Belief-1.png)
 
 *Homo Sapiens* is a pack animal. We want to be in the “in group” and be accepted by others. Sharing common beliefs is a critical part of that. If people believe in something, others are more likely to stick with it and believe in it, too. As a result, there are big social consequences for not believing the things your friends believe, and perhaps worse consequences for ceasing to believe in what they believe. This is one factor that makes people stick with group thoughts, making them very resilient to contradictory information.
 
+*智人*（Homo Sapiens）是一种群居动物。我们希望成为「圈内人」并被他人接受。共享共同的信念是其中的关键部分。如果人们相信某些东西，其他人也更可能坚定对它的信念。因此，不相信你朋友相信的东西，会带来很大的社交影响，而信过但不再信他们相信的东西，可能会带来更严重的后果。信念是让人们在思想上更容易「随大流」的一个因素，这使得人们对于矛盾的信息非常有抵抗力。
+
 Most importantly, *beliefs become more valuable to believers the more people believe.*
+
+更重要的是，*对信徒来说，越多人相信，信念就越有价值*。
 
 Look at gold. Why is it valuable? You can’t eat it or sleep on it. It’s pretty, but lots of things are pretty. It has some industrial uses, but not that many. It’s valuable because — after we were done believing salt was valuable — people decided to believe gold was valuable instead. And for 5,000+ years, it has always stayed valuable. The past gives us confidence that everyone will continue to hold this belief in the future. That belief strengthens over time.
 
+看看黄金。为什么黄金值钱？黄金又不能当饭吃、当床睡。黄金是很好看，可好看的东西多了。黄金有点工业用途，但不是很多。黄金之所以值钱，是因为——在我们把盐看成是贵重品之后——现在大家决定值钱的是黄金了。而且在 5000 多年的时间里，黄金一直都是值钱的。黄金过去的历史给了我们信心，我们相信将来每个人仍然会坚定这一信念。这种信念会随着时间的推移而增强。
+
 *Ipso facto*, gold is valuable because we believe it’s valuable.
+
+*毋庸置疑*，黄金之所以值钱，是因为我们相信它值钱。
 
 Belief nfx are like sand. In small quantities, sand dissipates in a breeze. But if you layer enough sand down on top of itself, it becomes hard as stone.
 
+信念网络效应就像沙子这东西一样。少量的沙子会在微风中消散。但如果你把足够多的沙子堆砌到一起，它就会硬得像块石头一样。
+
 The same is true of Bitcoin. The more people believe it’s valuable, the more valuable it gets for everyone. And we’re seeing that same “sand layering” with Bitcoin now. The more times its price crashes and then bounces back, the more people will believe it has value. And then when you layer some Ethereum “sand” on top of it, and the “sand” of the thousands of other cryptocurrencies in existence — all denominated in Bitcoin on the exchanges — the Bitcoin sand gets progressively more stable as a result of growing Belief nfx. What was once fluid and intangible transforms to something closer to rock.
+
+比特币也是这种情况。相信它有价值的人越多，它对每个人的价值就越高。现在在比特币身上我们正目睹着同样的「聚沙成塔」效应。比特币价格崩溃然后反弹的次数越多，相信它有价值的人就会越多。当你在此基础再堆点以太坊的「沙子」以及成千上万种现存的其他加密货币的「沙子」上去时（所有这些币种在交易所中都存在兑比特币的交易对），作为不断发展的信念网络效应的结果，比特币沙堆就会慢慢就变得稳定起来。曾经流动和虚无缥缈的东西就变成了接近于岩石一样的东西。
 
 ![](../Elements/The-Network-Effects-Manual/Belief.png)
 
-### Bandwagon (Social)
+Properties of Belief nfx
+
+信念网络效应的特点
+
+- The social consequences of a belief with belief nfx exceed the other consequences of that belief </br>当一种信念具有网络效应时，它所带来的社会影响往往超过了该信念本身的其他影响。换句话说，人们持有这种信念所产生的社会连带效应，比信念本身的实际内容或后果更为重要。
+- Self-reinforcing: the more people believe in the value of something, the more valuable that thing is in reality (for the believers) </br>自我强化：相信某个东西价值的人越多，现实中那个东西的价值越高（对于信徒来说）
+
+Examples of Belief nfx
+
+信念网络效应的实例
+
+- currencies </br>货币
+- religions </br>宗教
+- ideologies </br>意识形态
+
+### Bandwagon (Social) 「跟风」网络效应
 
 Bandwagoning happens when social pressure to join a network causes people to feel they don’t want to be left out.
+
+当加入网络的社会压力导致人们不想被排除在外时，就会出现「跟风（Bandwagon）」的现象。
 
 ![](../Elements/The-Network-Effects-Manual/Bandwagon-1.png)
 
 One good example is Slack. In tech circles, it’s commonly felt that you don’t have a modern company unless your teams are using Slack. In our opinion, Slack’s notoriety and valuation have exceeded the utility of the product because it’s become somewhat of a movement in the tech industry, and developed a strong Bandwagon nfx.
 
+Slack 就是一个很好的例子。在技术圈，一个普遍的感觉是如果你的团队不用 Slack 的话就算不上是一家现代公司。在我们看来，Slack 的知名度和估值已经超过了该产品的实际功能，因为它在某种程度上已经成为科技行业的一场运动，并且形成了强烈的「跟风」网络效应。
+
 Bandwagon nfx typically arise when a network first begins aggregating, when people are jumping on early. When people started to use Google back in 1998, there was a general feeling that “the cool kids” were using Google (they had been using Alta Vista before that). If you didn’t use Google, you were left out. Other nfx have since taken over for Google to provide them their core defensibility, so they’re no longer reliant on that initial Bandwagon nfx, but it certainly was there at the beginning.
+
+「跟风」网络效应通常在网络开始形成初期出现，那时候有些人会在早期加入进来。1998年，当人们开始使用谷歌时，普遍认为「酷盖（the cool kids）」们会用谷歌（他们之前一直在使用Alta Vista）。如果你不使用谷歌，你就会感到与主流脱节。随着时间推移，其他类型的网络效应逐渐取代了最初的「跟风」效应，为谷歌提供了核心竞争优势。因此，谷歌不再依赖最初的「跟风」网络效应，但这种效应确实在公司发展初期发挥了重要作用。
 
 One company that *has* made Bandwagon nfx a core expertise is Apple. Every year, with a carefully scripted performance, they re-manufacture buzz and FOMO with their new product demos and launches. This has been extremely effective. These days, if you show up at a meeting in Silicon Valley with an IBM clone instead of an Apple computer, it’s a sign you’re not part of the tribe. You’re seen as an outsider if you don’t use a Mac.
 
+有一家公司把「跟风」网络效应*玩成了*自己的核心能力，这家公司就是苹果。每一年苹果都会精心打造一场演出，用新产品演示和发布来重新制造口碑和 FOMO（害怕错过）情绪。这种策略极为有效。如今，如果你带着一台非苹果的个人电脑（比如 IBM）出现在硅谷的会议上，这就会被视为你不属于这个圈子的信号。在这里，不使用 Mac 的人往往会被当作局外人。
+
 This can be frustrating for competitors who feel they have better products, but can’t beat Apple for reasons that remain hidden to them. Apple’s success goes beyond “branding.” It relies on successfully triggering the psychological need to be part of the cool crowd, to join the movement.
+
+这对于竞争对手来说可能是令人沮丧的，他们觉得自己的产品更好，但却无法击败苹果，原因对他们来说仍然是个谜。苹果的成功不仅仅在于「品牌」，它成功地激发了人们想要成为酷炫群体一员、加入这场运动的心理需求。
 
 [This video](https://www.youtube.com/watch?v=FL7yD-0pqZg) from 2010 is a hilarious depiction of the frustration and confusion competitors have about the mechanisms behind Apple’s dominance, and here’s a [2017 Samsung ad campaign](https://www.youtube.com/watch?v=yxuHJv1_big) which is a cry into the same void: trying to tell consumers it’s time to “grow up” from their childish, emotional attachment to the iPhone given the Samsung makes a “better” product. But what they’re missing is that the value to the user is not just the sum of the product features, not just a function if it’s aggregated utility. It includes the value of the network derived from other product users, and the social value of the bandwagon it lets them join.
 
+2010 年的[这个视频](https://www.youtube.com/watch?v=FL7yD-0pqZg)生动地描绘了竞争对手对苹果主导地位背后机制的沮丧和困惑。[三星在 2017 年的一则广告](https://www.youtube.com/watch?v=yxuHJv1_big)同样打在了棉花上：三星想要告诉消费者，时候从他们对 iPhone 的盲目崇拜中「走出来」了，因为三星制造了一个「更好」的产品。然而，他们忽视了一个关键点：对用户来说，产品的价值不仅仅是功能的总和，也不仅仅是其综合体验的简单加总。这种价值还包括两个重要方面：一是源自其他产品用户的网络价值，二是加入这个流行趋势所带来的社会价值。
+
 [Here’s a video](https://www.youtube.com/watch?v=fW8amMCVAJQ) which does a good job explaining Bandwagon nfx. Derek Sivers captures the essence of bandwagon psychology when he says “[they will be part of the in-crowd if they hurry](https://youtu.be/fW8amMCVAJQ?t=1m36s).” He then goes on to deftly explain that “the rest \[join since they\] prefer to stay part of the crowd, because eventually they would be ridiculed for not joining.” The whole video bears watching.
+
+这里[有一段视频](https://www.youtube.com/watch?v=fW8amMCVAJQ)很好地解释了「跟风」网络效应。Derek Sivers 抓住了「跟风」心理的精髓，他说：「[如果他们赶紧加入，他们就会成为那群人中的一员。](https://youtu.be/fW8amMCVAJQ?t=1m36s)」然后他巧妙地解释道：「剩下的人也只好加入了，因为如果不加入的话就会成为被嘲笑的对象。」整个视频都值得一看。
 
 Students of nfx will correctly note that Bandwagon Effects can go too far. If *too* many people join a movement, sometimes the early adopters will abandon it because the group has become too mainstream. That’s why you typically see the Bandwagon nfx at the beginning of products. Smart Founders will navigate that transition from bandwagon to other nfx to maintain long-lasting defensibility.
 
+网络效应的研究者会正确地意识到，「跟风」网络效应可能会*盛极而衰*。如果有太多人加入一个流行趋势，有时一些早期积极分子就会抛弃它，因为这个群体已经太主流了。这就是为什么我们通常会在产品初期观察到「跟风」网络效应。聪明的创始人会巧妙地引导产品从初期的「跟风」效应过渡到其他类型的网络效应，以维持长期的竞争优势。
+
 ![](../Elements/The-Network-Effects-Manual/Bandwagon.png)
 
-### Tribal (Social)
+Properties of Bandwagon nfx
+
+「跟风」网络效应的特点
+
+- A direct network effect: the more people join a movement, the more pressure to not miss out and to be seen as associated with that movement </br>直接网络效应：参加运动的人越多，不要错过、成为其中一份子的压力就越大
+
+Examples of Bandwagon nfx
+
+「跟风」网络效应的实例
+
+- Apple
+- Google
+- Stripe
+- Slack
+- LinkedIn
+- Github
+
+### Tribal (Social) 组织网络效应
 
 Tribal network effects most often develop in alumni networks of schools, military units, fraternities and sororities, accelerators, languages, regions, and religions.
 
+组织网络效应（Tribal network effects）最常见于学校校友网络、军事单位、兄弟会和姐妹会、创业孵化器、语言群体、地域社群和宗教团体中。
+
 We suspect this was the very first network effect historically, as Homo sapiens evolved as a pack animal, trying to survive. The ones that built the best tribes survived to procreate, so we are all descendants of the best tribe builders. Those who weren’t good at building or joining tribes died off. Thus, our brains are wired to join tribes.
+
+从历史角度来看，我们推测这可能是最早出现的网络效应。作为群居动物，智人在进化过程中不断尝试生存。那些能够建立最强大部落的个体得以存活并繁衍后代，因此我们都是最优秀的部落建设者的后裔。不善于建立或加入群体的个体则被自然淘汰。这就解释了为什么我们的大脑天生就倾向于加入一个组织。
 
 ![](../Elements/The-Network-Effects-Manual/Tribal-nfx-diagram.png)
 
 A few key things contribute to the formation of strong Tribal network effects:
 
-1.  The tribe is presented as an ingredient of a person’s identity, part of how that person is perceived by others. One might think: “It’s who I am.” This forms a self-concept.
-2.  Network members within the tribe are taught to be intentional about building the value of the tribe by:  
-    a. adding value to other tribe members,  
-    b. defending the tribe’s reputation,  
-    c. receiving value from the tribe members, and  
-    d. growing the tribe.  
-    This intentional value creation and defense of a network is distinct from other types of network effects, where nodes largely contribute value and drive network effects unintentionally.
-3.  In contrast to the in-group of the tribe, there is an out-group that the tribe is actively NOT. A different group, a rival, an enemy, a force to be fought.
-4.  A perception of higher-status attributes of members of the tribe, creating prestige and pride. Evidence or reasoning that members of the tribe are more committed, more “right”, more justified, smarter, stronger, etc.
-5.  Members of the tribe endure shared hardship or adversity, such as training for the marines, studying for tests in college, founding a company, or going through a boot camp of some kind.
-6.  Tribe network members overcome a barrier to get into the tribe. There must be a believable reason for your inclusion, and some demonstration of your worth or “fitness” for inclusion. There is often a period of worrying you won’t “get in.” This creates exclusivity and belonging in the minds of the tribe members, reinforcing the other five attributes.
+有几个关键因素有助于形成强大的组织网络效应：
+
+1.  The tribe is presented as an ingredient of a person’s identity, part of how that person is perceived by others. One might think: “It’s who I am.” This forms a self-concept.</br>组织被视为个人身份的重要组成部分，影响他人对这个人的看法。人们可能会认为：「我就是各种组织角色的集合体」。这形成了自我概念。
+2.  Network members within the tribe are taught to be intentional about building the value of the tribe by:  </br>组织内的成员被引导要有意识地通过以下方式提升组织的价值：
+    a. adding value to other tribe members,  </br>为其他成员创造价值
+    b. defending the tribe’s reputation,  </br>维护组织的声誉，
+    c. receiving value from the tribe members, and  </br>从其他成员那里获得价值
+    d. growing the tribe.  </br>扩大组织规模
+	This intentional value creation and defense of a network is distinct from other types of network effects, where nodes largely contribute value and drive network effects unintentionally. </br>这种有意识的价值创造和网络维护与其他类型的网络效应有所不同，在其他类型的网络效应中，节点主要是无意识地贡献价值和推动网络效应。
+3.  In contrast to the in-group of the tribe, there is an out-group that the tribe is actively NOT. A different group, a rival, an enemy, a force to be fought. </br>与组织内部成员形成鲜明对比的是外部群体，组织会积极与之区分。这可能是一个不同的群体、竞争对手、敌人，或需要对抗的力量。
+4.  A perception of higher-status attributes of members of the tribe, creating prestige and pride. Evidence or reasoning that members of the tribe are more committed, more “right”, more justified, smarter, stronger, etc. </br>组织成员被认为具有较高的地位特质，这创造了声望和自豪感。有证据或理由表明组织成员更加投入、更「政治正确」、更有道理、更聪明、更强大等。
+5.  Members of the tribe endure shared hardship or adversity, such as training for the marines, studying for tests in college, founding a company, or going through a boot camp of some kind. </br>组织成员共同经历艰难或逆境，如海军陆战队的训练、大学考试的备考、创办公司或参与某种强化训练营。
+6.  Tribe network members overcome a barrier to get into the tribe. There must be a believable reason for your inclusion, and some demonstration of your worth or “fitness” for inclusion. There is often a period of worrying you won’t “get in.” This creates exclusivity and belonging in the minds of the tribe members, reinforcing the other five attributes.</br>组织成员需要克服障碍才能加入。必须有合理的理由解释为何被接纳，以及展示自己的价值或「适合」加入。通常会经历一段担心无法「被接纳」的时期。这在成员心中创造了独特性和归属感，从而强化了其他五个特征。
 
 Not all tribes share all six of these characteristics, but the more they do, the more powerful the tribal self-identification becomes in the minds of the tribe members, and thus the stronger the Tribal network effect.
 
+并非所有组织都具备这六个特征，但拥有的特征越多，组织成员心中的自我认同就越强烈，因此组织网络效应也就越强。
+
 As with other network effects, network size and network density also matter in the formation and strength of Tribal network effects. The larger the tribe, up to a point, the more valuable it becomes because you are more likely to encounter and form relationships with other nodes. College alumni networks, for example, often have clusters in many different cities and companies where alumni seek each other out. Tribal networks also have a higher density of relationships between nodes because self-identification between tribe members causes them to look for shared affinities, and motivates them to altruistic behavior towards other nodes in the network.
+
+与其他网络效应类似，网络规模和网络密度对组织网络效应的形成和强度也很重要。在一定程度上，组织规模越大，其价值就越高，因为成员更有可能遇到并与其他成员建立关系。例如，大学校友网络通常在多个城市和公司中形成小团体，校友们会主动寻找彼此。组织网络中成员之间的关系密度也更高，这是因为成员间的自我认同驱使他们寻找共同点，并激励他们对网络中的其他成员表现出利他行为。
 
 That, in turn, leads to a higher proportion of shared connection between tribe members than in other types of networks, which incentivizes further relationship-formation and sets off a virtuous cycle. In a tribal network, people (often unconsciously) recognize that potential connections are more likely to materialize into actual connections, causing a self-fulfilling propensity to try harder to build in-tribe network connections. This creates a denser lattice of links between the nodes, driving network effects, and network value.
 
+这反过来又会导致组织成员之间的共同联系比例高于其他类型的网络，进而促进了更多关系的形成，形成良性循环。在组织网络中，人们（通常是无意识地）认识到，潜在的联系更有可能转化为实际的联系，从而产生一种自我实现的倾向，这使他们更倾向于努力建立组织内的网络联系。这创造了成员之间更紧密的关系网络，从而推动了网络效应和网络价值的增长。
+
 [Read the full essay here](https://www.nfx.com/post/15th-network-effect-tribal/)
 
-## The power of network effects
+关于组织网络效应的更多内容，可以阅读[这篇文章](https://www.nfx.com/post/15th-network-effect-tribal/)。
+
+## The power of network effects </br>网络效应的力量
 
 We explained earlier the Network Effects Map is meant to be a discussion starter on the true nature of network effects, not a last and final word on the subject. Network effects are a complex phenomenon that look simple on the surface.
 
+我们在前面已经解释过，网络效应地图旨在引发人们对网络效应真实本质的讨论，而不是对这一主题的最后定论。网络效应是一种表面上看似简单的复杂现象。
+
 With this manual, we’re trying to communicate the importance, variety, and complexity of network effects. Top Founders will benefit from a deeper understanding of network effects which will translate to better practical business decisions. In the end, defensibility is what will define the success of your business. More than anything else, network effects are the key to that success.  
 
-
+通过本指南，我们试图传达网络效应的重要性、多样性和复杂性。顶尖的创始人将会因为对网络效应有着深刻理解而获益，从而做出更好的实际商业决策。归根结底，抵御竞争的能力将决定企业的成败。而这方面网络效应比任何其他东西都要关键。
