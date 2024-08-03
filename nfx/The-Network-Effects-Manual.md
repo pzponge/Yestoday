@@ -6,7 +6,7 @@
 - 翻译参考：[36 氪](https://36kr.com/p/1722331922433)
 
 ---
-# The Network Effects Manual 网络效应指南
+# The Network Effects Manual </br>网络效应指南
 
 ![](../Elements/The-Network-Effects-Manual/network-effects-map-v1.jpg)
 
@@ -205,7 +205,7 @@ This distribution of value in a Protocol Network can be shifted if the protocol 
 
 The success of such an adoption strategy is often less about technology and more about marketing, social engineering, and choice of market niche. That’s why VHS beat Betamax, even though Betamax was arguably a better standard. It’s also part of why Bitcoin has taken off as a digital store of value, when it is costly to operate and less transactional than many other digital currencies.
 
-这样一种采用策略的成功往往跟技术关系不太大，更多与营销、社会工程以及市场定位有关。所以 VHS 才会击败 Betamax，尽管 Betamax 无疑是更好的标准。这也是为什么比特币作为一种数字价值储藏已经开始流行的部分原因，尽管比特币的运营成本很高，交易量也比许多其他数字货币少。
+这样一种采用策略的成功往往跟技术关系不太大，更多与营销、社会工程以及市场定位有关。所以 VHS（译者注：日本公司开发的录像机录制和播放标准）才会击败 Betamax，尽管 Betamax 无疑是更好的标准。这也是为什么比特币作为一种数字价值储藏已经开始流行的部分原因，尽管比特币的运营成本很高，交易量也比许多其他数字货币少。
 
 ![](../Elements/The-Network-Effects-Manual/Protocol-1.png)
 
@@ -226,18 +226,18 @@ Examples of Protocol nfx
 - Ethernet </br>以太网
 - Fax </br>传真
 - Ethereum </br>以太坊
-- VHS
+- VHS </br>VHS 标准的录像机和录影带
 
 ### Personal Utility (Direct) 在线通讯网络效应
 
 Personal Utility Networks have two distinguishing qualities. The first is that users’ personal identities are tied to the network in question, often with usernames tied to their real name as with Facebook Messenger. The second is that they are essential to the personal or professional lives of users on a daily basis.
 
-在线通讯网络[^5]具有两个明显的特征。第一个是用户的个人身份跟网络是捆绑的，用户名往往与真实姓名相关联，就像Facebook Messenger一样。其次是用户个人生活或职业生活基本上每天都离不开这种网络。
+在线通讯网络（Personal Utility Networks）[^5]具有两个明显的特征。第一个是用户的个人身份跟网络是捆绑的，用户名往往与真实姓名相关联，就像Facebook Messenger一样。其次是用户个人生活或职业生活基本上每天都离不开这种网络。
 
 [^5]: Ponge 注：直译应该是「个人效用网络」，但一般中文语境里说「个人效用」也很难明白这是什么。这段整体论述的都是通讯工具带来的网络效应，因此意译为「在线通讯网络」
 
 ![](../Elements/The-Network-Effects-Manual/5cca2e12f1988c9505a74c13_Personal-Utility.png)
-*In the diagram above, the nodes are represented by the chat bubbles of people (nodes) connected by personal utility services (links). The nodes of a personal utility network are tied to the real-life identity of the people using it, and the network is especially dense because it has many local sub-groupings. This brings Reed’s Law into effect, so the value of Personal Utility Networks could increase at a rate of up to 2^N. 在上图中，节点代表的是在线通讯网络服务（链接）连接的大家之间的聊天气泡（节点）。在线通讯网络的节点跟使用者的真实身份是绑定在一起的，这种网络尤其密集，因为有很多的局部子群。这样就使得Reed定律发挥作用了，所以在线通讯网络的价值增长率也是2^N。*
+*In the diagram above, the nodes are represented by the chat bubbles of people (nodes) connected by personal utility services (links). The nodes of a personal utility network are tied to the real-life identity of the people using it, and the network is especially dense because it has many local sub-groupings. This brings Reed’s Law into effect, so the value of Personal Utility Networks could increase at a rate of up to 2^N. </br>在上图中，节点代表的是在线通讯网络服务（链接）连接的大家之间的聊天气泡（节点）。在线通讯网络的节点跟使用者的真实身份是绑定在一起的，这种网络尤其密集，因为有很多的局部子群。这样就使得Reed定律发挥作用了，所以在线通讯网络的价值增长率也是2^N。*
 
 People use Personal Utility Networks to communicate and interact with their own personal networks, so not being online or being part of the network has a steep downside. Opting out would become a significant impediment in daily life and could greatly harm people’s important personal or work relationships.
 
@@ -249,24 +249,24 @@ Properties of Personal Utility nfx
 
 在线通讯网络的特点
 
-- Built on the personal identity of the user, which is usually tied to their real name, a unique number or handle associated with their real-world identity 基于用户的个人身份，这通常与他们的真实姓名、身份证号与其现实世界身份相关的标识符关联在一起。
-- Is used for some critical function in a user's life such as errands, work relationship responsibilities, revenue collection, emergency, safety, immediacy 用于用户生活中的一些关键功能，包括日常事务、工作关系管理、收入管理、应急处理、安全保障以及即时通讯等。
+- Built on the personal identity of the user, which is usually tied to their real name, a unique number or handle associated with their real-world identity </br>基于用户的个人身份，这通常与他们的真实姓名、身份证号与其现实世界身份相关的标识符关联在一起。
+- Is used for some critical function in a user's life such as errands, work relationship responsibilities, revenue collection, emergency, safety, immediacy </br>用于用户生活中的一些关键功能，包括日常事务、工作关系管理、收入管理、应急处理、安全保障以及即时通讯等。
 
 Examples of Personal Utility nfx
 
 在线通讯网络的实例
 
-- Instant messaging: WhatsApp, Slack, Facebook Messenger, WeChat 即时通信：Whatsapp、Slack、Facebook Messenger、微信
-- Other communication tools: iMessage, Skype, SMS 其他沟通工具：iMessage、Skype、短信
+- Instant messaging: WhatsApp, Slack, Facebook Messenger, WeChat </br>即时通信：Whatsapp、Slack、Facebook Messenger、微信
+- Other communication tools: iMessage, Skype, SMS </br>其他沟通工具：iMessage、Skype、短信
 
 ### Personal (Direct) 社交网络效应
 
 Personal nfx are in play when a person’s identity or reputation is tied to a product. Often people on a Personal Network are influenced to join by people they might know in real life. If people you know from the real world are all using the same product to house their identity and reputation, there’s a large value add (to you) if you join the network yourself.
 
-当个人身份或者名声跟产品绑定在一起时，就会产生社交网络效应。社交网络上的人往往容易受到自己在现实生活中认识的人影响而加入。如果你在现实世界中认识的人都使用同一款产品管理自己的身份与名誉的话，如果你自己也加入这个网络，你也会增值不少。
+当个人身份或者名声跟产品绑定在一起时，就会产生社交网络效应（Personal nfx）。社交网络上的人往往容易受到自己在现实生活中认识的人影响而加入。如果你在现实世界中认识的人都使用同一款产品管理自己的身份与名誉的话，如果你自己也加入这个网络，你也会增值不少。
 
 ![](../Elements/The-Network-Effects-Manual/Personal.png)
-*Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes. 社交网络牵涉到个人身份与名誉，它把每一位用户的角色与其他用户的角色连接起来。每增加一个节点都代表着潜在受众成员的增加，对于所有其他节点来说也代表着内容制造者的增加。*
+*Personal Networks involve personal identity and reputation, connecting the persona of each user with other user personas. Each additional node represents both an additional potential audience member as well as an additional content producer for all the other nodes. </br>社交网络牵涉到个人身份与名誉，它把每一位用户的角色与其他用户的角色连接起来。每增加一个节点都代表着潜在受众成员的增加，对于所有其他节点来说也代表着内容制造者的增加。*
 
 Personal Networks differ from Personal Utility Networks in two main ways. As explained in the previous section, Personal Utility Networks are typically used for things that need to get done. There is a substantial amount of *practical* utility to the user. Second, Personal Utility Networks are typically more for private communication, rather than public communication. Personal Networks are less vital. You can stop using them and your life won’t alter that much. Networks like Facebook or Twitter or Linkedin (when you’re not job hunting) aren’t usually essential for your day-to-day life.
 
@@ -290,23 +290,23 @@ Properties of Personal nfx
 
 社交网络的特点
 
-- Your personal identity and reputation is at stake 你的个人身份和名声利害攸关  
-- Often serves as an extension of existing relationships from your real life 往往充当现实生活关系的延伸
-- Very difficult to leave since it's tied to your most important IRL relationships - 由于它与你最重要的现实生活关系紧密相连，因此难以脱离
-- Enables you to create and maintain a public image 让你可以建立和维持公众形象
+- Your personal identity and reputation is at stake </br>你的个人身份和名声利害攸关  
+- Often serves as an extension of existing relationships from your real life </br>往往充当现实生活关系的延伸
+- Very difficult to leave since it's tied to your most important IRL relationships </br>由于它与你最重要的现实生活关系紧密相连，因此难以脱离
+- Enables you to create and maintain a public image </br>让你可以建立和维持公众形象
 
 Examples of Personal nfx
 
 社交网络的实例
 
-- Social: Facebook, Instagram, Google+, Pinterest, Tumblr （生活社交类应用）
-- Professional: LinkedIn, GitHub, Twitter \[depends on usage\] （职业社交类应用，取决于具体需求）
+- Social: Facebook, Instagram, Google+, Pinterest, Tumblr </br>生活社交类应用：Facebook, Instagram, Google+, Pinterest, Tumblr
+- Professional: LinkedIn, GitHub, Twitter \[depends on usage\] </br>职业社交类应用：LinkedIn, GitHub, Twitter（取决于具体需求）
 
 ### Market Networks (Direct) 个体市场网络效应
 
 A Market Network combines the identity and communication aspects of a Personal Network with the transactions focus and purpose that typify a marketplace. Usually, Market Networks start by enhancing a network of professionals that already exists offline. We consider Market Networks to be a form of direct network effects because the relationship between nodes is direct, as shown below:
 
-个体市场网络结合了社交网络的身份和通信特性，以及典型交易市场的特点（关注交易行为，以交易为目的）。通常，线下的职业人脉网络先前已存在，个体市场网络在此基础上开始形成。我们认为个体市场网络是一种直接网络效应的形式，因为节点之间的关系是直接的，如下所示：
+个体市场网络（Market Networks）结合了社交网络的身份和通信特性，以及典型交易市场的特点（关注交易行为，以交易为目的）。通常，线下的职业人脉网络先前已存在，个体市场网络在此基础上开始形成。我们认为个体市场网络是一种直接网络效应的形式，因为节点之间的关系是直接的，如下所示：
 
 ![](../Elements/The-Network-Effects-Manual/Market-Network.png)
 
@@ -320,10 +320,10 @@ Properties of Market Networks
 
 个体市场网络的特点
 
-- N-sided marketplace 多边交易市场
-- Promote the service provider as a differentiated individual, not a commodity, helping to build long-term relationships 卖家为具有独特性的个体，而非无差别的卖家，有助于建立双方长期关系
-- Target complex services - 针对复杂服务
-- Use SaaS workflow software to focus action around longer-term projects, not just a quick transaction - 使用 SaaS 工作流软件来关注长期项目，而不仅仅是快速交易
+- N-sided marketplace </br>多边交易市场
+- Promote the service provider as a differentiated individual, not a commodity, helping to build long-term relationships </br>卖家为具有独特性的个体，而非无差别的卖家，有助于建立双方长期关系
+- Target complex services </br>针对复杂服务
+- Use SaaS workflow software to focus action around longer-term projects, not just a quick transaction </br>使用 SaaS 工作流软件来关注长期项目，而不仅仅是快速交易
 
 Examples of Market Networks
 
