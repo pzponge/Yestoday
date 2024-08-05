@@ -72,9 +72,9 @@ We developed this map as an exercise over the years to help bring greater clarit
 
 多年来，我们不断更新这幅地图，以帮助我们更清晰地了解这一主题。但在我们深入探讨之前，有几件事我们需要指出：
 
-1.  The map we’ve laid out here isn’t meant to be taken as an incontrovertible truth — it’s a beginning point for discussion and understanding. It’s one of our evolving methods to help Founders recognize and make use of powerful forces to build great companies. Because for Founders looking to build a strong competitive moat, the ability to identify and understand nfx is invaluable. 我们在此绘制的地图并不意味着是无可争议的真理——这只是讨论和理解的起点。这是我们不断完善的方法论，希望借此来帮助创始人认识和利用强大的力量，来建立伟大的公司。因为对于寻求建立牢固的竞争护城河的创始人来说，识别和理解网络效应的能力是无价的。
-2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. 网络效应**不等同于**病毒效应（Viral Effects）。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作手册也完全不同。
-3.  You’ll often see the same companies have several nfx at play simultaneously, meaning that the different nfx types are not mutually exclusive. They are like colors, and your company is like a work of art. It helps to be familiar with the full palette as you paint. 你经常会看到同一家公司同时出现了多种网络效应，这意味着不同的网络效应类型并不是互斥的。他们就像颜色一样，而你的公司就像是一件艺术品。所以你在画画的时候熟悉这个调色盘是很有帮助的。
+1.  The map we’ve laid out here isn’t meant to be taken as an incontrovertible truth — it’s a beginning point for discussion and understanding. It’s one of our evolving methods to help Founders recognize and make use of powerful forces to build great companies. Because for Founders looking to build a strong competitive moat, the ability to identify and understand nfx is invaluable. </br>我们在此绘制的地图并不意味着是无可争议的真理——这只是讨论和理解的起点。这是我们不断完善的方法论，希望借此来帮助创始人认识和利用强大的力量，来建立伟大的公司。因为对于寻求建立牢固的竞争护城河的创始人来说，识别和理解网络效应的能力是无价的。
+2.  Network effects are **not** viral effects. Network effects are about creating defensibility, and viral effects are about getting new users for free. They have totally different objectives and playbooks. </br>网络效应**不等同于**病毒效应（Viral Effects）。网络效应是建立防御性，病毒效应是为了免费获得新用户。这两个的目标完全不一样，操作手册也完全不同。
+3.  You’ll often see the same companies have several nfx at play simultaneously, meaning that the different nfx types are not mutually exclusive. They are like colors, and your company is like a work of art. It helps to be familiar with the full palette as you paint. </br>你经常会看到同一家公司同时出现了多种网络效应，这意味着不同的网络效应类型并不是互斥的。他们就像颜色一样，而你的公司就像是一件艺术品。所以你在画画的时候熟悉这个调色盘是很有帮助的。
 
 With that said, let’s turn to the Map itself. Below each of the various nfx on the Network Effects Map are described, with relevant examples.
 
@@ -122,7 +122,7 @@ The diagram below illustrates the basic concept of a direct network as described
 
 In 2001, an MIT computer scientist named David Reed went even further, declaring that Metcalfe’s law actually *understated* the value of a network. He pointed out that within a larger network, smaller, tighter networks can form: for example, the football team within a high school network; siblings within a family network; tennis players within a co-worker network.
 
-2001 年，MIT 计算机科学家 David Reed 又进一步深化了这个概念，他宣称梅特卡夫其实低估了网络的价值。他指出，在较大的网络中可以形成小一点、更紧密一点的网络：比方说，高中网络中的橄榄球队；家庭网络内的兄弟姐妹们；同事网络中的一起打网球的人。
+2001 年，MIT 计算机科学家 David Reed 又进一步深化了这个概念，他宣称梅特卡夫其实*低估了*网络的价值。他指出，在较大的网络中可以形成小一点、更紧密一点的网络：比方说，高中网络中的橄榄球队；家庭网络内的兄弟姐妹们；同事网络中的一起打网球的人。
 
 ![](../Elements/The-Network-Effects-Manual/Reeds-Law.png)
 
@@ -156,7 +156,7 @@ Roads, trains, electricity, sewage, natural gas, cable and broadband internet ar
 
 The best evidence for the strong defensibility of Physical Networks is that so many of them have poor or substandard services, and yet continue to lead the market. Think of Comcast and Verizon. Why do they have the [lowest customer satisfaction](http://fortune.com/2017/05/25/cable-tv-comcast-verizon/) in the US? Because they can get away with it at no risk to their bottom line. No one can compete with them. Who could spend the money to lay all that cable? And with no competitors, frustrated customers have nowhere to turn.
 
-物理网络的防御性很强，这方面最好的证据是其中那么多服务都很糟糕或者不合格，但仍然能保持领先位置。不妨想想 Comcast 和 Verizon。为什么它们的客户满意度在美国最低？因为就算满意度最低他们的财务收入也不会有问题。没人能够跟他们竞争。谁愿意投钱去铺设那么大的网络呢？在没有竞争对手的情况下，沮丧的客户也没有别的地方可去。
+物理网络的防御性很强，这方面最好的证据是其中那么多服务都很糟糕或者不合格，但仍然能保持领先位置。不妨想想 Comcast 和 Verizon。为什么它们的[客户满意度在美国最低](http://fortune.com/2017/05/25/cable-tv-comcast-verizon/)？因为就算满意度最低他们的财务收入也不会有问题。没人能够跟他们竞争。谁愿意投钱去铺设那么大的网络呢？在没有竞争对手的情况下，沮丧的客户也没有别的地方可去。
 
 ![](../Elements/The-Network-Effects-Manual/Physical-1.png)
 
