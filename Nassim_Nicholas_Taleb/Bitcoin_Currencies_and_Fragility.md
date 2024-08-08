@@ -125,7 +125,7 @@ As we will see, mathematical and combinatorial qualities do not necessarily tran
 
 A central result (even principle) in the rational expectations and securities pricing literature is that, thanks to the law of iterated expectations, if we expect now *that we will expect* the price to vary at some point in the future, then by backward induction such a variation must be incorporated in the price *now*. When there are no dividends, as with growth companies, there is still an expectation of future earnings, and a future expected reward to stockholders — directly via dividends, or indirectly via reverse dilutions and buybacks. It remains that a stock is a claim on accumulated assets and their residual value.
 
-在理性预期和证券定价文献中，一个核心结论（甚至可以说是核心原则）是：根据迭代期望定律（law of iterated expectations），如果我们现在预期「*站在未来某个时刻，那时候我们预期*价格将会在更远的未来发生变化」，那么通过反向推理，这种变化一定包含在*当下*的价格之中。与成长型公司一样，在不分红的情况下，股东仍然可以预期未来的公司利润，以及预期未来的股东回报——可能是通过股息直接实现，也可能是通过反向稀释和股票回购间接实现。无论如何，股票仍然是对累积资产及其剩余价值的索取权。
+在理性预期和证券定价文献中，一个核心结论（甚至可以说是核心原则）是：根据迭代期望定律（law of iterated expectations），如果我们现在预期「**站在未来某个时刻，那时候我们预期**价格将会在更远的未来发生变化」，那么通过反向推理，这种变化一定包含在**当下**的价格之中。与成长型公司一样，在不分红的情况下，股东仍然可以预期未来的公司利润，以及预期未来的股东回报——可能是通过股息直接实现，也可能是通过反向稀释和股票回购间接实现。无论如何，股票仍然是对累积资产及其剩余价值的索取权。
 
 Earnings-free assets with no residual value are problematic.
 
@@ -133,11 +133,11 @@ Earnings-free assets with no residual value are problematic.
 
 The implication is that, owing to the absence of any explicit yield benefitting the holder of bitcoin, *if* we expect that at any point in the future the value will be zero when miners are extinct, the technology becomes obsolete, or future generations get into other such "assets" and bitcoin loses its appeal for them, *then* the value must be zero *now* *\[note 3\]*.
 
-这意味着，由于比特币持有者没有任何明确的收益，*如果*我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，*那么*比特币*现在的*价值就应该是零【注释 3】。
+这意味着，由于比特币持有者没有任何明确的收益，**如果**我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，**那么**比特币**现在的**价值就应该是零【注释 3】。
 
 \[note 3\]: Using a traditional rational bubble model (see this[^r4] and the review by this[^r5]), we get the following conditions. Let $r_d$ be a discount rate and $\pi$ be a probability of absorption over a period. To escape the barrier, bitcoin must grow at $e^{r+\pi}$ forever, but no more, without remission, and with total certainty. Should it grow then stabilize, it still would be prone to extinction. We note that traditionally, models rule out any continuous growth at an exponential rate faster than $r+\pi$ because the security or asset would then represent the entire economy. Bitcoin distinguishes itself from other assets because of its fragility as a mere book entry on a virtual ledger that requires constant refreshing *ad infinitum*.
 
-【注释 3】使用传统的理性泡沫模型（参考这篇[^r4]，以及这篇[^r5]的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate），$\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要*永无止尽*（ad infinitum）持续更新的虚拟账本上的账目记录。
+【注释 3】使用传统的理性泡沫模型（参考这篇[^r4]，以及这篇[^r5]的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate），$\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要**永无止尽**（ad infinitum）持续更新的虚拟账本上的账目记录。
 
 The typical comparison of bitcoin to gold is lacking in elementary financial rigor[^4]. We will see below how precious metals lost their quality as a medium of exchange; gold and other dividend-free precious items (such as other metals or stones) have held some financial status for more than 6,000 years, and their physical status for several orders of magnitude longer (i.e., they did not degrade or mutate into some other alloy or mineral). So one can expect one's gold or silver possessions to be around physically for at least the next millennium, as well as having some residual economic value by iteration, for the same reason. Metals have ample industrial uses with demand elasticity (and substitution for other raw materials). Currently, about half of gold production goes to jewelry (for which there are often no storage costs), one tenth to industry, and a quarter to central bank reserves.
 
