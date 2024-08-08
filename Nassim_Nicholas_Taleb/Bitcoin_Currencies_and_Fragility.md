@@ -7,7 +7,7 @@
 
 ---
 
-# Bitcoin, Currencies, and Fragility 比特币、货币和脆弱性
+# Bitcoin, Currencies, and Fragility </br>比特币、货币和脆弱性
 
 Nassim Nicholas Taleb 纳西姆·尼古拉斯·塔勒布[^A][^B]
 
@@ -19,9 +19,9 @@ Forthcoming, *Quantitative Finance* 即将发表在《计量金融》
 
 [^A]: NNT1@nyu.edu
 
-[^B]: The author thanks Gur Huberman, Mark Spitznagel, Brandon Yarkin, Arthur Breitman, Trishank Karthik Kuppusamy, Jim Gatheral, Joe Norman, Zhuo Xi, David Boxenhorn, Antonis Polemitis, Joe Shipman, and others for useful discussions. 作者感谢 Gur Huberman、Mark Spitznagel、Brandon Yarkin、Arthur Breitman、Trishank Karthik Kuppusamy、Jim Gatheral、Joe Norman、Zhuo Xi、David Boxenhorn、Antonis Polemitis、Joe Shipman 等人的有益讨论。
+[^B]: The author thanks Gur Huberman, Mark Spitznagel, Brandon Yarkin, Arthur Breitman, Trishank Karthik Kuppusamy, Jim Gatheral, Joe Norman, Zhuo Xi, David Boxenhorn, Antonis Polemitis, Joe Shipman, and others for useful discussions. </br>作者感谢 Gur Huberman、Mark Spitznagel、Brandon Yarkin、Arthur Breitman、Trishank Karthik Kuppusamy、Jim Gatheral、Joe Norman、Zhuo Xi、David Boxenhorn、Antonis Polemitis、Joe Shipman 等人的有益讨论。
 
-## Introduction/Abstract 引言/摘要
+## Introduction/Abstract </br>引言/摘要
 
 This discussion applies quantitative finance methods and economic arguments to cryptocurrencies in general and bitcoin in particular — as there are about 10,000 cryptocurrencies, we focus (unless otherwise specified) on the most discussed crypto of those that claim to hew to the original protocol \[1\] and the one with, by far, the largest market capitalization.
 
@@ -41,17 +41,13 @@ Going through monetary history, we show how a true numeraire must be one of mini
 
 ![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_1.png)
 
-*Fig. 1. BTC return, 3 months annualized volatility. It does not seem to decrease over time.*
-
-*图 1：比特币回报的 3 个月年化波动率。它似乎没有随着时间的推移而下降。*
+*Fig. 1. BTC return, 3 months annualized volatility. It does not seem to decrease over time.</br>图 1：比特币回报的 3 个月年化波动率。它似乎没有随着时间的推移而下降。*
 
 ![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png)
 
-*Fig. 2. Too volatile to fail? We show the volatility of the capitalization of BTC. At higher levels of capitalization, return volatility compounds. In 2021 a swing of half a trillion dollars in the capitalization of bitcoin took place.*
+*Fig. 2. Too volatile to fail? We show the volatility of the capitalization of BTC. At higher levels of capitalization, return volatility compounds. In 2021 a swing of half a trillion dollars in the capitalization of bitcoin took place. </br>图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。*
 
-*图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。*
-
-## The Blockchain 区块链
+## The Blockchain </br>区块链
 
 First, let us consider what cryptocurrencies do by examining the notion of blockchain and its intellectual and mathematical appeal.
 
@@ -69,9 +65,7 @@ This hard-wired attribute and absence of supervision of the blockchain allow the
 
 这种一旦产生就无法更改（hard-wired），且区块链本身无需许可的特点，使得人们可以将活动存储在公共账本（public ledger）上，从而促进点对点（peer-to-peer）商业活动、交易和结算的发展。此外，区块链的机制还能够保存过往历史记录。这被认为有助于创建原始白皮书 \[1\] 中所描述的：
 
-> A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.
-
-> 一种完全的点对点电子货币应当允许在线支付从一方直接发送到另一方，而不需要通过一个金融机构。（来源：[比特币白皮书中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)）
+> A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. </br>一种完全的点对点电子货币应当允许在线支付从一方直接发送到另一方，而不需要通过一个金融机构。（来源：[比特币白皮书中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)）
 
 From that paper, bitcoin makes use of three existing technologies: 1) the hash function, 2) the Merkle tree (to chain blocks of transactions tagged by the hash function), and 3) the concept of proof of work (used to deter spam by forcing agents to use computer time in order to qualify for a transaction) — technologies that, ironically, all came out of the academic literature \[3\][^1]. The idea provides a game theoretic approach to mitigate the effects of the absence of custodian and lack of trust between participants in the maintenance of a permanent shared public ledger — attenuating or circumventing the coordination quandary known as the "Byzantine general problem". 
 
@@ -83,7 +77,7 @@ From that paper, bitcoin makes use of three existing technologies: 1) the hash f
 
 具有讽刺意味的是，所有这些技术都出自学术文献 \[3\][^1]。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，能够缓解缺乏托管人、参与者之间缺乏信任带来的影响，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
 
-[^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies. 由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
+[^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies. </br>由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
 
 The bitcoin transactional currency (BTC) system establishes an adversarial collaboration between the so-called "miners" who validate transactions by getting them on a public ledger; as a reward they get coins plus a fee from the underlying transactions, transfers of coins between parties. The proof of work method has an adjustable degree of difficulty based on the speed of blocks, which aims, in theory, to keep the incentive sufficiently high for miners to keep operating the system. Such adjustments lead to an exponential increase in computer power requirements, making at the time of writing onerous energy demands on the system — energy that could find alternatives in other computational and scientific uses.
 
@@ -101,11 +95,11 @@ Note that the entire ideological basis behind bitcoin is complete distrust of ot
 
 请注意，比特币的整个理念基础是矿工之间彼此完全不信任（即系统内不存在托管商）。尽管容易出现集中化现象[^2]，整个系统是完全分布式的。此外，由于区块链的本质，无论出于何种原因，交易都是不可撤销的。
 
-[^2]: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S. 根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同。译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
+[^2]: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S. </br>根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同。译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
 
 Finally, note that bitcoins are zero-sum by virtue of the *numerus clausus*.
 
-最后，请注意，由于「总量恒定（numerus clausus）」，比特币是一个零和游戏。
+最后，请注意，由于「*总量恒定（numerus clausus）*」，比特币是一个零和游戏。
 
 As we will see, mathematical and combinatorial qualities do not necessarily translate into financial benefits at either individual or systemic levels.
 
@@ -123,15 +117,21 @@ As we will see, mathematical and combinatorial qualities do not necessarily tran
 
 *相比之下，加密货币需要人们持续的关注和投入。*
 
-## Vulnerability Of Revenue-Free Bubbles
+## Vulnerability Of Revenue-Free Bubbles </br>无收益资产泡沫的脆弱性
 
 A central result (even principle) in the rational expectations and securities pricing literature is that, thanks to the law of iterated expectations, if we expect now *that we will expect* the price to vary at some point in the future, then by backward induction such a variation must be incorporated in the price *now*. When there are no dividends, as with growth companies, there is still an expectation of future earnings, and a future expected reward to stockholders — directly via dividends, or indirectly via reverse dilutions and buybacks. It remains that a stock is a claim on accumulated assets and their residual value.
 
+在理性预期和证券定价文献中，一个核心结论（甚至可以说是核心原则）是：根据迭代期望定律（law of iterated expectations），如果我们现在预期「*站在未来某个时刻，那时候我们预期*价格将会在更远的未来发生变化」，那么通过反向推理，这种变化一定包含在*当下*的价格之中。与成长型公司一样，在不分红的情况下，股东仍然可以预期未来的公司利润，以及预期未来的股东回报——可能是通过股息直接实现，也可能是通过反向稀释和股票回购间接实现。无论如何，股票仍然是对累积资产及其剩余价值的索取权。
+
 Earnings-free assets with no residual value are problematic.
+
+没有剩余价值的无收益资产是有问题的。
 
 The implication is that, owing to the absence of any explicit yield benefitting the holder of bitcoin, *if* we expect that at any point in the future the value will be zero when miners are extinct, the technology becomes obsolete, or future generations get into other such "assets" and bitcoin loses its appeal for them, *then* the value must be zero *now*[^3].
 
-[^3]: Using a traditional rational bubble model (see \[4\] and the review by \[5\]), we get the following conditions. Let $r_d$ be a discount rate and $\pi$ be a probability of absorption over a period. To escape the barrier, bitcoin must grow at $e^{r+\pi}$ forever, but no more, without remission, and with total certainty. Should it grow then stabilize, it still would be prone to extinction. We note that traditionally, models rule out any continuous growth at an exponential rate faster than $r+\pi$ because the security or asset would then represent the entire economy. Bitcoin distinguishes itself from other assets because of its fragility as a mere book entry on a virtual ledger that requires constant refreshing *ad infinitum*.
+这意味着，由于比特币持有者没有任何明确的收益，*如果*我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，*那么*比特币*现在的*价值就应该是零[^3]。
+
+[^3]: Using a traditional rational bubble model (see \[4\] and the review by \[5\]), we get the following conditions. Let $r_d$ be a discount rate and $\pi$ be a probability of absorption over a period. To escape the barrier, bitcoin must grow at $e^{r+\pi}$ forever, but no more, without remission, and with total certainty. Should it grow then stabilize, it still would be prone to extinction. We note that traditionally, models rule out any continuous growth at an exponential rate faster than $r+\pi$ because the security or asset would then represent the entire economy. Bitcoin distinguishes itself from other assets because of its fragility as a mere book entry on a virtual ledger that requires constant refreshing *ad infinitum*. </br>使用传统的理性泡沫模型（参考 \[4\]，以及 \[5\] 的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate），$\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要*永无止尽*（ad infinitum）持续更新的虚拟账本上的账目记录。
 
 The typical comparison of bitcoin to gold is lacking in elementary financial rigor[^4]. We will see below how precious metals lost their quality as a medium of exchange; gold and other dividend-free precious items (such as other metals or stones) have held some financial status for more than 6,000 years, and their physical status for several orders of magnitude longer (i.e., they did not degrade or mutate into some other alloy or mineral). So one can expect one's gold or silver possessions to be around physically for at least the next millennium, as well as having some residual economic value by iteration, for the same reason. Metals have ample industrial uses with demand elasticity (and substitution for other raw materials). Currently, about half of gold production goes to jewelry (for which there are often no storage costs), one tenth to industry, and a quarter to central bank reserves.
 

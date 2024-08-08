@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nfx/The-Network-Effects-Manual.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nfx/The-Network-Effects-Manual.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nfx/The-Network-Effects-Manual.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nfx/The-Network-Effects-Manual.md"
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "f04c387314644417",
   "lastOpenFiles": [
-    "README.md",
     "nfx/The-Network-Effects-Bible.md",
-    "Elements/The-Network-Effects-Bible/Cross-side.png",
+    "Charles_Munger/Acquired_Interviews.md",
     "nfx/The-Network-Effects-Manual.md",
+    "README.md",
+    "Elements/The-Network-Effects-Bible/Cross-side.png",
     "Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf",
     "Elements/The-Network-Effects-Bible-PPT.pdf",
     "Elements/20201231-【NFX】The Network Effects Bible (PPT).pdf",
