@@ -23,9 +23,9 @@ Forthcoming, *Quantitative Finance* 即将发表在《计量金融》
 
 ## Introduction/Abstract </br>引言/摘要
 
-This discussion applies quantitative finance methods and economic arguments to cryptocurrencies in general and bitcoin in particular — as there are about 10,000 cryptocurrencies, we focus (unless otherwise specified) on the most discussed crypto of those that claim to hew to the original protocol \[1\] and the one with, by far, the largest market capitalization.
+This discussion applies quantitative finance methods and economic arguments to cryptocurrencies in general and bitcoin in particular — as there are about 10,000 cryptocurrencies, we focus (unless otherwise specified) on the most discussed crypto of those that claim to hew to the original protocol[^r1] and the one with, by far, the largest market capitalization.
 
-本文将量化金融方法和经济学论证应用于加密货币行业，尤其是比特币。目前存在约 10,000 种加密货币，我们将主要关注（除非另有说明）比特币。因为比特币在那些声称遵循原始协议 \[1\] 的加密货币中被讨论的最多，同时也是迄今为止市值最大的加密货币。
+本文将量化金融方法和经济学论证应用于加密货币行业，尤其是比特币。目前存在约 10,000 种加密货币，我们将主要关注（除非另有说明）比特币。因为比特币在那些声称遵循原始协议[^r1]的加密货币中被讨论的最多，同时也是迄今为止市值最大的加密货币。
 
 In its current version, in spite of the hype, bitcoin failed to satisfy the notion of "currency without government" (it proved to not even be a currency at all), can be neither a short nor long term store of value (its expected value is no higher than 0), cannot operate as a reliable inflation hedge, and, worst of all, does not constitute, not even remotely, a safe haven for one's investments, a shield against government tyranny, or a tail protection vehicle for catastrophic episodes.
 
@@ -53,21 +53,21 @@ First, let us consider what cryptocurrencies do by examining the notion of block
 
 首先，让我们通过探讨区块链的概念及其在智力和数学方面的魅力特质，来了解加密货币所做的事情。
 
-The concept behind such a chain is quite intuitive to early practitioners of quantitative finance. Consider that before efficient software for Monte Carlo simulations became widely available, some of us were using methods to generate pseudorandom variables via some forms of chained nonlinear transformations, in the spirit of Von Neumann's original idea \[2\]. Indexing sequences by $t= 1, 2,... n$, with a seed at $t$, a variable $x_t$ on the real line generates via nonlinear transformations $r: \mathbb{R} \to \mathbb{R}$, an output variable $r(x_t)$. This output variable can serve as a pseudorandom seed to generate another pseudorandom variable, $r(x_{t+1})$. For all $t$, knowledge of $r(X_t)$ allows knowledge of all subsequent variables $r(x_\tau)_{\tau>t}$ and replication of the entire sequence, thus probabilistically mimicking the arrow of time. It is also crucial that the same seed produces exactly the same pseudorandom variable, allowing verification of sequence, but disallowing easy reverse engineering.
+The concept behind such a chain is quite intuitive to early practitioners of quantitative finance. Consider that before efficient software for Monte Carlo simulations became widely available, some of us were using methods to generate pseudorandom variables via some forms of chained nonlinear transformations, in the spirit of Von Neumann's original idea[^r2]. Indexing sequences by $t= 1, 2,... n$, with a seed at $t$, a variable $x_t$ on the real line generates via nonlinear transformations $r: \mathbb{R} \to \mathbb{R}$, an output variable $r(x_t)$. This output variable can serve as a pseudorandom seed to generate another pseudorandom variable, $r(x_{t+1})$. For all $t$, knowledge of $r(X_t)$ allows knowledge of all subsequent variables $r(x_\tau)_{\tau>t}$ and replication of the entire sequence, thus probabilistically mimicking the arrow of time. It is also crucial that the same seed produces exactly the same pseudorandom variable, allowing verification of sequence, but disallowing easy reverse engineering.
 
-区块链背后的概念，对于早期的量化金融从业者来说是非常简单易懂的。想想看，在蒙特卡罗模拟的高效软件广泛普及之前，我们中的一些人就已经在通过某种形式的链式非线性变换来生成伪随机变量了，这与冯·诺依曼最初的想法如出一辙 \[2\]。将序列用 $t= 1, 2,... n$ 进行编号，以 $t$ 处的值为初值，实数轴上的变量 $x_t$ 通过非线性变换 $r: \mathbb{R} \to \mathbb{R}$ 生成输出变量 $r(x_t)$。这个输出变量可以作为伪随机初值，去生成另一个伪随机变量 $r(x_{t+1})$。对于所有 $t$，只要知道 $r(X_t)$，就可以知道所有后续变量 $r(x_\tau)_{\tau>t}$，并复制整个序列，从而从概率上模拟时间流逝。同样重要的是，相同的初值会产生完全相同的伪随机变量，使得可以很容易地验证序列，但很难逆向工程（从结果倒推初始的序列数值）。
+区块链背后的概念，对于早期的量化金融从业者来说是非常简单易懂的。想想看，在蒙特卡罗模拟的高效软件广泛普及之前，我们中的一些人就已经在通过某种形式的链式非线性变换来生成伪随机变量了，这与冯·诺依曼最初的想法如出一辙[^r2]。将序列用 $t= 1, 2,... n$ 进行编号，以 $t$ 处的值为初值，实数轴上的变量 $x_t$ 通过非线性变换 $r: \mathbb{R} \to \mathbb{R}$ 生成输出变量 $r(x_t)$。这个输出变量可以作为伪随机初值，去生成另一个伪随机变量 $r(x_{t+1})$。对于所有 $t$，只要知道 $r(X_t)$，就可以知道所有后续变量 $r(x_\tau)_{\tau>t}$，并复制整个序列，从而从概率上模拟时间流逝。同样重要的是，相同的初值会产生完全相同的伪随机变量，使得可以很容易地验证序列，但很难逆向工程（从结果倒推初始的序列数值）。
 
 What the blockchain added, thanks to the hash function, is the condition that $r(.)$ must be functionally and probabilistically bijective: no two seeds should produce the same output (or should produce a vanishingly low probability of that happening), what, in computer science terminology, is called *collision*.
 
-由于哈希函数的存在，区块链增加了一个条件，即 $r(.)$ 必须在函数和概率上是双射（bijective）的：任意两个不同的初值产生的输出皆不相同（或者产生相同输出的概率应该低得可以忽略不计）。这在计算机科学术语中被称为*碰撞（collision）*。
+由于哈希函数的存在，区块链增加了一个条件，即 $r(.)$ 必须在函数和概率上是双射（bijective）的：任意两个不同的初值产生的输出皆不相同（或者产生相同输出的概率应该低得可以忽略不计）。这在计算机科学术语中被称为**碰撞（collision）**。
 
-This hard-wired attribute and absence of supervision of the blockchain allow the storage of activities on a public ledger to facilitate peer-to-peer commerce, transactions, and settlements. The blockchain concept also allows for serial record keeping. This is supposed to help create what the original white paper \[1\] described as:
+This hard-wired attribute and absence of supervision of the blockchain allow the storage of activities on a public ledger to facilitate peer-to-peer commerce, transactions, and settlements. The blockchain concept also allows for serial record keeping. This is supposed to help create what the original white paper[^r1] described as:
 
-这种一旦产生就无法更改（hard-wired），且区块链本身无需许可的特点，使得人们可以将活动存储在公共账本（public ledger）上，从而促进点对点（peer-to-peer）商业活动、交易和结算的发展。此外，区块链的机制还能够保存过往历史记录。这被认为有助于创建原始白皮书 \[1\] 中所描述的：
+这种一旦产生就无法更改（hard-wired），且区块链本身无需许可的特点，使得人们可以将活动存储在公共账本（public ledger）上，从而促进点对点（peer-to-peer）商业活动、交易和结算的发展。此外，区块链的机制还能够保存过往历史记录。这被认为有助于创建原始白皮书[^r1]中所描述的：
 
 > A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. </br>一种完全的点对点电子货币应当允许在线支付从一方直接发送到另一方，而不需要通过一个金融机构。（来源：[比特币白皮书中文版](https://bitcoin.org/files/bitcoin-paper/bitcoin_zh_cn.pdf)）
 
-From that paper, bitcoin makes use of three existing technologies: 1) the hash function, 2) the Merkle tree (to chain blocks of transactions tagged by the hash function), and 3) the concept of proof of work (used to deter spam by forcing agents to use computer time in order to qualify for a transaction) — technologies that, ironically, all came out of the academic literature \[3\][^1]. The idea provides a game theoretic approach to mitigate the effects of the absence of custodian and lack of trust between participants in the maintenance of a permanent shared public ledger — attenuating or circumventing the coordination quandary known as the "Byzantine general problem". 
+From that paper, bitcoin makes use of three existing technologies: 1) the hash function, 2) the Merkle tree (to chain blocks of transactions tagged by the hash function), and 3) the concept of proof of work (used to deter spam by forcing agents to use computer time in order to qualify for a transaction) — technologies that, ironically, all came out of the academic literature[^r3] *\[note 1\]*. The idea provides a game theoretic approach to mitigate the effects of the absence of custodian and lack of trust between participants in the maintenance of a permanent shared public ledger — attenuating or circumventing the coordination quandary known as the "Byzantine general problem". 
 
 根据白皮书的说法，比特币使用了三项已经存在的技术：
 
@@ -75,9 +75,11 @@ From that paper, bitcoin makes use of three existing technologies: 1) the hash f
 2) 默克尔树（the Merkle tree）（把一个个由哈希函数标记的交易区块链接起来）；
 3) 工作量证明（proof of work）的概念（强制让记账者使用时间戳来获得记录交易的资格，以避免双重支付）。
 
-具有讽刺意味的是，所有这些技术都出自学术文献 \[3\][^1]。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，能够缓解缺乏托管人、参与者之间缺乏信任带来的影响，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
+具有讽刺意味的是，所有这些技术都出自学术文献[^r3]【注释 1】。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，能够缓解缺乏托管人、参与者之间缺乏信任带来的影响，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
 
-[^1]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies. </br>由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
+\[note 1\]: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies.
+
+【注释 1】由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
 
 The bitcoin transactional currency (BTC) system establishes an adversarial collaboration between the so-called "miners" who validate transactions by getting them on a public ledger; as a reward they get coins plus a fee from the underlying transactions, transfers of coins between parties. The proof of work method has an adjustable degree of difficulty based on the speed of blocks, which aims, in theory, to keep the incentive sufficiently high for miners to keep operating the system. Such adjustments lead to an exponential increase in computer power requirements, making at the time of writing onerous energy demands on the system — energy that could find alternatives in other computational and scientific uses.
 
@@ -91,31 +93,33 @@ A central attribute is that bitcoin depends on the existence of such miners for 
 
 比特币的一个核心特性是，只有这种矿工一直存在，比特币才会永存。
 
-Note that the entire ideological basis behind bitcoin is complete distrust of other operators — there are no partial custodians; the system is fully distributed, though prone to concentration[^2]. Furthermore, by the very nature of the blockchain, transactions are irreversible, no matter the reason.
+Note that the entire ideological basis behind bitcoin is complete distrust of other operators — there are no partial custodians; the system is fully distributed, though prone to concentration *\[note 2\]*. Furthermore, by the very nature of the blockchain, transactions are irreversible, no matter the reason.
 
-请注意，比特币的整个理念基础是矿工之间彼此完全不信任（即系统内不存在托管商）。尽管容易出现集中化现象[^2]，整个系统是完全分布式的。此外，由于区块链的本质，无论出于何种原因，交易都是不可撤销的。
+请注意，比特币的整个理念基础是矿工之间彼此完全不信任（即系统内不存在托管商）。尽管容易出现集中化现象【注释 2】，整个系统是完全分布式的。此外，由于区块链的本质，无论出于何种原因，交易都是不可撤销的。
 
-[^2]: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S. </br>根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同。译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
+\[note 2\]: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S.
+
+【注释 2】根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同。译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
 
 Finally, note that bitcoins are zero-sum by virtue of the *numerus clausus*.
 
-最后，请注意，由于「*总量恒定（numerus clausus）*」，比特币是一个零和游戏。
+最后，请注意，由于「**总量恒定（numerus clausus）**」，比特币是一个零和游戏。
 
 As we will see, mathematical and combinatorial qualities do not necessarily translate into financial benefits at either individual or systemic levels.
 
 正如我们将看到的，比特币在数学和合作方面的精巧设计并不一定会转化为个人或系统层面的经济利益。
 
-**Comment 1: Why BTC is worth exactly 0**
-
-**评论 1：为什么比特币一文不值？**
-
-*Gold and other precious metals are largely maintenance free, do not degrade over an historical horizon, and do not require maintenance to refresh their physical properties over time.*
-
-*黄金和其他贵金属几乎不需要人为关照，在漫长历史中不会衰败，也无需花钱来保持其物理特性。*
-
-*Cryptocurrencies require a sustained amount of interest in them.*
-
-*相比之下，加密货币需要人们持续的关注和投入。*
+> **Comment 1: Why BTC is worth exactly 0**
+> 
+> **评论 1：为什么比特币一文不值？**
+>
+> Gold and other precious metals are largely maintenance free, do not degrade over an historical horizon, and do not require maintenance to refresh their physical properties over time.
+>
+> 黄金和其他贵金属几乎不需要人为关照，在漫长历史中不会衰败，也无需花钱来保持其物理特性。
+>
+> Cryptocurrencies require a sustained amount of interest in them.
+>
+> 相比之下，加密货币需要人们持续的关注和投入。
 
 ## Vulnerability Of Revenue-Free Bubbles </br>无收益资产泡沫的脆弱性
 
@@ -127,11 +131,13 @@ Earnings-free assets with no residual value are problematic.
 
 没有剩余价值的无收益资产是有问题的。
 
-The implication is that, owing to the absence of any explicit yield benefitting the holder of bitcoin, *if* we expect that at any point in the future the value will be zero when miners are extinct, the technology becomes obsolete, or future generations get into other such "assets" and bitcoin loses its appeal for them, *then* the value must be zero *now*[^3].
+The implication is that, owing to the absence of any explicit yield benefitting the holder of bitcoin, *if* we expect that at any point in the future the value will be zero when miners are extinct, the technology becomes obsolete, or future generations get into other such "assets" and bitcoin loses its appeal for them, *then* the value must be zero *now* *\[note 3\]*.
 
-这意味着，由于比特币持有者没有任何明确的收益，*如果*我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，*那么*比特币*现在的*价值就应该是零[^3]。
+这意味着，由于比特币持有者没有任何明确的收益，*如果*我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，*那么*比特币*现在的*价值就应该是零【注释 3】。
 
-[^3]: Using a traditional rational bubble model (see \[4\] and the review by \[5\]), we get the following conditions. Let $r_d$ be a discount rate and $\pi$ be a probability of absorption over a period. To escape the barrier, bitcoin must grow at $e^{r+\pi}$ forever, but no more, without remission, and with total certainty. Should it grow then stabilize, it still would be prone to extinction. We note that traditionally, models rule out any continuous growth at an exponential rate faster than $r+\pi$ because the security or asset would then represent the entire economy. Bitcoin distinguishes itself from other assets because of its fragility as a mere book entry on a virtual ledger that requires constant refreshing *ad infinitum*. </br>使用传统的理性泡沫模型（参考 \[4\]，以及 \[5\] 的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate），$\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要*永无止尽*（ad infinitum）持续更新的虚拟账本上的账目记录。
+\[note 3\]: Using a traditional rational bubble model (see this[^r4] and the review by this[^r5]), we get the following conditions. Let $r_d$ be a discount rate and $\pi$ be a probability of absorption over a period. To escape the barrier, bitcoin must grow at $e^{r+\pi}$ forever, but no more, without remission, and with total certainty. Should it grow then stabilize, it still would be prone to extinction. We note that traditionally, models rule out any continuous growth at an exponential rate faster than $r+\pi$ because the security or asset would then represent the entire economy. Bitcoin distinguishes itself from other assets because of its fragility as a mere book entry on a virtual ledger that requires constant refreshing *ad infinitum*.
+
+【注释 3】使用传统的理性泡沫模型（参考这篇[^r4]，以及这篇[^r5]的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate），$\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要*永无止尽*（ad infinitum）持续更新的虚拟账本上的账目记录。
 
 The typical comparison of bitcoin to gold is lacking in elementary financial rigor[^4]. We will see below how precious metals lost their quality as a medium of exchange; gold and other dividend-free precious items (such as other metals or stones) have held some financial status for more than 6,000 years, and their physical status for several orders of magnitude longer (i.e., they did not degrade or mutate into some other alloy or mineral). So one can expect one's gold or silver possessions to be around physically for at least the next millennium, as well as having some residual economic value by iteration, for the same reason. Metals have ample industrial uses with demand elasticity (and substitution for other raw materials). Currently, about half of gold production goes to jewelry (for which there are often no storage costs), one tenth to industry, and a quarter to central bank reserves.
 
@@ -280,48 +286,48 @@ We only judge a technology by how it solves problems, not by what technological 
 
 ## References
 
-\[1\] S. Nakamoto, "Bitcoin: A peer-to-peer electronic cash system,"Tech. Rep.,2008.
+[^r1]: S. Nakamoto, "Bitcoin: A peer-to-peer electronic cash system,"Tech. Rep.,2008.
 
-\[2\] J. Von Neumann, "Various techniques used in connection with random digits," *Appl. Math Ser*, vol. 12, no. 36-38, p. 3, 1951.
+[^r2]: J. Von Neumann, "Various techniques used in connection with random digits," *Appl. Math Ser*, vol. 12, no. 36-38, p. 3, 1951.
 
-\[3\] A. Narayanan and J. Clark, "Bitcoin's academic pedigree," *Communications of the ACM*, vol. 60, no. 12, pp. 36-45, 2017.
+[^r3]: A. Narayanan and J. Clark, "Bitcoin's academic pedigree," *Communications of the ACM*, vol. 60, no. 12, pp. 36-45, 2017.
 
-\[4\] O. J. Blanchard and M. W. Watson, "Bubbles, rational expectations and financial markets," *NBER working paper*, no. w0945, 1982.
+[^r4]: O. J. Blanchard and M. W. Watson, "Bubbles, rational expectations and financial markets," *NBER working paper*, no. w0945, 1982.
 
-\[5\] M. K. Brunnermeier, "Bubbles," in *Banking Crises*. Springer, 2016, pp.28-36.
+[^r5]: M. K. Brunnermeier, "Bubbles," in *Banking Crises*. Springer, 2016, pp.28-36.
 
-\[6\] D. Graeber, *Debt: The first 5000 years*. Penguin UK, 2012.
+[^r6]: D. Graeber, *Debt: The first 5000 years*. Penguin UK, 2012.
 
-\[7\] N. N. Taleb, *Antifragile: things that gain from disorder*. Random House and Penguin, 2012.
+[^r7]: N. N. Taleb, *Antifragile: things that gain from disorder*. Random House and Penguin, 2012.
 
-\[8\] D. Ricardo, *Reply to Mr. Bosanquet's practical observations on the report of the Bullion Committee*. J. Murray, 1811, vol. 10.
+[^r8]: D. Ricardo, *Reply to Mr. Bosanquet's practical observations on the report of the Bullion Committee*. J. Murray, 1811, vol. 10.
 
-\[9\] ——, *Proposals for an economical and secure currency*, 1816.
+[^r9]: ——, *Proposals for an economical and secure currency*, 1816.
 
-\[10\] W. S. Jevons, *A Serious Fall in the Value of Gold Ascertained: And Its Social Effects Set Forth*. E. Stanford, 1863.
+[^r10]: W. S. Jevons, *A Serious Fall in the Value of Gold Ascertained: And Its Social Effects Set Forth*. E. Stanford, 1863.
 
-\[11\] F. R. Velde and W. E. Weber, "A model of bimetallism," *Journal of Political Economy*, vol. 108, no. 6, pp. 1210-1234, 2000.
+[^r11]: F. R. Velde and W. E. Weber, "A model of bimetallism," *Journal of Political Economy*, vol. 108, no. 6, pp. 1210-1234, 2000.
 
-\[12\] T. J. Sargent and M. Wallace, "A model of commodity money," *Journal of Monetary Economics*, vol. 12, no. 1, pp. 163-187, 1983.
+[^r12]: T. J. Sargent and M. Wallace, "A model of commodity money," *Journal of Monetary Economics*, vol. 12, no. 1, pp. 163-187, 1983.
 
-\[13\] P. Krugman, M. Obstfeld, and M. Melitz, " International economics: Theory and policy,"2017.
+[^r13]: P. Krugman, M. Obstfeld, and M. Melitz, " International economics: Theory and policy,"2017.
 
-\[14\] M. McLeay, A. Radia, and R. Thomas, "Money creation in the modern economy," *Bank of England Quarterly Bulletin*, p. Q1, 2014.
+[^r14]: M. McLeay, A. Radia, and R. Thomas, "Money creation in the modern economy," *Bank of England Quarterly Bulletin*, p. Q1, 2014.
 
-\[15\] S. A. Ross, *Neoclassical finance*. Princeton University Press, 2009, vol.4.
+[^r15]: S. A. Ross, *Neoclassical finance*. Princeton University Press, 2009, vol.4.
 
-\[16\] L. Campiglio, "Un'analisi comparata del sistema dei prezzi nei venti comuni capoluogo di regione," *Rivista Internazionale di Scienze Sociali*, vol. 94, no. 3, pp. 329-377, 1986.
+[^r16]: L. Campiglio, "Un'analisi comparata del sistema dei prezzi nei venti comuni capoluogo di regione," *Rivista Internazionale di Scienze Sociali*, vol. 94, no. 3, pp. 329-377, 1986.
 
-\[17\] M. Nair and R. Emozozo, "Electronic currency in africa: M-pesa as private inside money," *Economic Affairs*, vol. 38, no. 2, pp. 197-206, 2018.
+[^r17]: M. Nair and R. Emozozo, "Electronic currency in africa: M-pesa as private inside money," *Economic Affairs*, vol. 38, no. 2, pp. 197-206, 2018.
 
-\[18\] K. Colucci and C. Moiso, "Il fenomeno delle monete virtuali: opportunità per telecom italia," *Notiziaro Tecnico /Telecom Italia*, vol. 1, pp. 76-89,2014.
+[^r18]: K. Colucci and C. Moiso, "Il fenomeno delle monete virtuali: opportunità per telecom italia," *Notiziaro Tecnico /Telecom Italia*, vol. 1, pp. 76-89,2014.
 
-\[19\] J. Murphy-O'Connor, "Jesus and the money changers (mark 11: 15-17; john 2： 13-17)," *Revue Biblique (1946-)*, pp. 42-55, 2000.
+[^r19]: J. Murphy-O'Connor, "Jesus and the money changers (mark 11: 15-17; john 2： 13-17)," *Revue Biblique (1946-)*, pp. 42-55, 2000.
 
-\[20\] M. W. Spitznagel, "Why cryptocurrencies will never be safe havens," *Von Mises Institute*, 2017.
+[^r20]: M. W. Spitznagel, "Why cryptocurrencies will never be safe havens," *Von Mises Institute*, 2017.
 
-\[21\] D. Porechna, "Darkside update: The fbi hacks the hackers?" *Wolfram Research*, June 2021.
+[^r21]: D. Porechna, "Darkside update: The fbi hacks the hackers?" *Wolfram Research*, June 2021.
 
-\[22\] J. M. Griffin and A. Shams, "Is bitcoin really untethered?" *The Journal of Finance*, vol. 75, no. 4, pp. 1913-1964, 2020.
+[^r22]: J. M. Griffin and A. Shams, "Is bitcoin really untethered?" *The Journal of Finance*, vol. 75, no. 4, pp. 1913-1964, 2020.
 
 
