@@ -185,7 +185,8 @@ First, let's discuss the demonetization of gold. In 1971, the U.S. government te
 
 In the early 1970s, the Hunt brothers started to hoard silver (when they started, U.S. citizens were banned from directly owning gold), and accelerated their hoarding in the late 1970s, turning it into a squeeze. It lead to a speculative explosion in the price of silver, as shown in Fig 3, leading by contagion to between a fivefold and tenfold increase in the price of precious metals. Then, upon the deflation of the bubble, metals gave back more than half of their gains and languished for more than two decades. At the time of writing, 41 years later, neither gold nor silver have, inflation adjusted, reached their previous peak. The same effect took place in 2008-2009 in the wake of the banking crisis: gold and silver jumped upwards between 80 and 120 % then subsequently lost most of their gains.
 
-![[999-笔记素材/202407281233/Fig 3.png]]
+![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_3.png]]
+
 *Fig. 3. The rise and fall of metals during the Hunt squeeze of silver and, indirectly, gold.*
 
 Gold and silver proved then that they could neither be a reliable numeraire, nor an inflation hedge. The world had become too sophisticated for precious metals. If we consider the most effective numeraire, it must be the one in which the bulk of salaries are paid, as we will show next.
