@@ -266,13 +266,13 @@ We can safely assume that government structures and computational power will rem
 
 In the cyber world, connections are with people one has never met in real life; infiltration by government agents has proven to be extremely easy *\[note 18\]*. By comparison, the mafia required a Sicilian lineage for "friends of ours" for security clearance. One never knows the degree of governmental surveillance and its real capabilities.
 
-*\[note 17\]*: This is one of the weaknesses of total decentralization.
+*\[note 18\]*: This is one of the weaknesses of total decentralization.
 
 The slogan "Escape government tyranny *hence* bitcoin" is similar to advertisements in the 1960s extolling the health benefits of cigarettes.
 
 *4\) Fallacy of the Agency problem*: One might have the impression that, by being distributed, Bitcoin would be democratic and reduce the agency problem perceived to be present among civil servants and bankers. Unfortunately, there appears to be a worse agency problem: a concentration of insiders hoarding what they think will be the world currency, so others would have to go to them later on for supply. They would be cumulatively earning trillions, with many billionaire "Hodlers" — in comparison the "evil civil servants" behind fiat money make, at best, lower middle class wages. This situation represents a wealth transfer to the cartel of early bitcoin accumulators *\[note 19\]*.
 
-*\[note 17\]*: The "distributed" attribute of cryptocurrencies appears to lead to both concentration and manipulation, precisely what they were supposedly designed to avoid. Griffin and Shams[^r22] show strong evidence of price manipulation, directly or via other cryptocurrencies such a tether, effectively printed by operators in order to prop up the price of bitcoin.
+*\[note 19\]*: The "distributed" attribute of cryptocurrencies appears to lead to both concentration and manipulation, precisely what they were supposedly designed to avoid. Griffin and Shams[^r22] show strong evidence of price manipulation, directly or via other cryptocurrencies such a tether, effectively printed by operators in order to prop up the price of bitcoin.
 
 ## Conclusion
 
