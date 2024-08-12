@@ -161,7 +161,7 @@ Path dependence is a problem. We cannot expect a book entry on a ledger that req
 
 >**Principle 1: Cumulative ruin**</br>定律 1：微瑕日久终崩坏
 >
->If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. </br>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么现值就是 0。
+>If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. </br>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么其现值就应该是 0。
 
 We exclude collectibles from that category, as they have an aesthetic utility as if one were, in a way, renting them for an expense that maps to a dividend — and thus are no different from perishable consumer goods. The same applies to the jewelry side of gold and its convenience yield: my gold necklace may be worth 0 in thirty years, but then I would have been wearing it for six decades.
 
