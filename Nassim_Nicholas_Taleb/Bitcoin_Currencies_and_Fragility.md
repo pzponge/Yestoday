@@ -121,7 +121,7 @@ As we will see, mathematical and combinatorial qualities do not necessarily tran
 >
 > 相比之下，加密货币需要人们持续的关注和投入。
 
-## Vulnerability Of Revenue-Free Bubbles </br>无收益资产泡沫的脆弱性
+## Vulnerability Of Revenue-Free Bubbles </br>非生息资产泡沫的脆弱性
 
 A central result (even principle) in the rational expectations and securities pricing literature is that, thanks to the law of iterated expectations, if we expect now *that we will expect* the price to vary at some point in the future, then by backward induction such a variation must be incorporated in the price *now*. When there are no dividends, as with growth companies, there is still an expectation of future earnings, and a future expected reward to stockholders — directly via dividends, or indirectly via reverse dilutions and buybacks. It remains that a stock is a claim on accumulated assets and their residual value.
 
@@ -129,7 +129,7 @@ A central result (even principle) in the rational expectations and securities pr
 
 Earnings-free assets with no residual value are problematic.
 
-没有剩余价值的无收益资产是有问题的。
+没有剩余价值的非生息资产是有问题的。
 
 The implication is that, owing to the absence of any explicit yield benefitting the holder of bitcoin, *if* we expect that at any point in the future the value will be zero when miners are extinct, the technology becomes obsolete, or future generations get into other such "assets" and bitcoin loses its appeal for them, *then* the value must be zero *now* *\[note 3\]*.
 
@@ -149,13 +149,19 @@ The typical comparison of bitcoin to gold is lacking in elementary financial rig
 
 Path dependence is a problem. We cannot expect a book entry on a ledger that requires active maintenance by interested and incentivized people to keep its *physical presence*, a condition for monetary value, for any period of time — and of course we are not sure of the interests, mindsets, and preferences of future generations. Once bitcoin drops below a certain threshold, it may hit an absorbing barrier and stays at 0 — gold on the other hand is *not* path dependent in its physical properties *\[note 5\]*. As discussed in this paper[^r7], technologies tend to be supplanted by other technologies (>99% of the new is replaced by something newer), whereas items such as gold and silver have proved resistant to extinction. Furthermore bitcoin is supposed to be hacker-proof and is based on total infallibility in the future, not just at present. It is crucial that bitcoin is based on perfect immortality; unlike conventional assets, the slightest mortality rate puts its value at 0 *\[note 6\]*.
 
+路径依赖是一个问题。这种账本上的任何记录，都需要人主动维护（出于兴趣和物质激励），才能保持其**物理状态**。而物理状态稳定是其资产价值的必要条件，在任何时期都是如此。我们不能指望这种账本永远有价值，尤其是我们尚不能确定未来几代人的兴趣、思维方式和偏好。一旦比特币跌破某个阈值，它可能会「撞上」吸收壁（absorbing barrier），然后永远归零。然而，黄金在其物理状态上**不存在**路径依赖的问题【注释 5】。正如这篇文章[^r7]讨论的那样，技术往往会被其他技术取代（新技术中超过 99% 会被更新的东西替代），而像黄金和白银这样的东西则被证明不会消亡。此外，比特币存在的前提是，这种技术应该是无法被黑客攻击的。这种坚不可摧并不仅仅适用于现在，而要适用于从现在往后的所有时刻。至关重要的是，比特币是建立在完美不朽的基础上的；于传统资产不同，一丝丝瑕疵都会让其价值永远归零【注释 6】。
+
 *\[note 5\]*: The absorbing barrier does not have to be 0 for the price to spiral to 0 upon hitting the barrier. This is similar to saying "if the heart rate drops below ten beats per minutes, it will be 0 (death)" — nor does it necessarily have to be caused by a drop in price. Nor does it have to be endogenous.
+
+【注释 5】吸收壁（absorbing barrier）并不意味着价格跌到 0，而是说，当触及吸收壁的时候，价格可能会螺旋式下降到 0。这个有点类似说「如果心率降到每分钟不到十次，那么它就会归零（死亡）」。这种撞上吸收壁后归零的情况，并不一定是由于价格下跌造成的，也不一定是内生的。
 
 *\[note 6\]*: To counter the effect of the absorbing barrier, the asset must grow at an exponential rate *forever*, without remission, and with total certainty. Belief in such an immortality for BTC — and its total infallibility — is in line with the common observation that its enthusiastic investors have the attributes of a religious cult.
 
->**Principle 1: Cumulative ruin**
+【注释 6】为了对抗吸收壁效应的影响，资产价格必须**永远**以指数速度增长，速度不能变慢，而且要具有完全的确定性。相信比特币是不朽的，认为它是无懈可击的，符合一个普遍观察到的事实：比特币投资者是狂热的，而且具有宗教异端的特征。
+
+>**Principle 1: Cumulative ruin**</br>定律 1：微瑕日久终崩坏
 >
->If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0.
+>If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. </br>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么现值就是 0。
 
 We exclude collectibles from that category, as they have an aesthetic utility as if one were, in a way, renting them for an expense that maps to a dividend — and thus are no different from perishable consumer goods. The same applies to the jewelry side of gold and its convenience yield: my gold necklace may be worth 0 in thirty years, but then I would have been wearing it for six decades.
 
