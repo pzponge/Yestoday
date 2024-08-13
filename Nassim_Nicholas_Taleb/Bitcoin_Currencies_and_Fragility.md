@@ -246,6 +246,18 @@ Path dependence is a problem. We cannot expect a book entry on a ledger that req
 
 We exclude collectibles from that category, as they have an aesthetic utility as if one were, in a way, renting them for an expense that maps to a dividend — and thus are no different from perishable consumer goods. The same applies to the jewelry side of gold and its convenience yield: my gold necklace may be worth 0 in thirty years, but then I would have been wearing it for six decades.
 
+在这里我们将收藏品排除在这一类别之外，因为它们具有美学价值。在某种程度上，这相当于人们愿意持续花钱租赁这种收藏品来获得美的体验，而租赁的价格，就相当于股息。（收藏品的价格就应该等于这种「股息」的贴现。）这与消费者买非耐用消费品没什么不同。同样的道理也适用于黄金首饰，佩戴它具有一定的便利收益（Convenience Yield）[^p2]：虽然我的黄金项链在三十年后可能一文不值，但那时我已经戴了六十年了。[^x22]
+
+[^p2]: 译者注：期货的专业名词，指持有现货带来的无法用钱来衡量的便利。尤其是对生产商，如果持有原材料的远期合约，要到到期才能执行购买，如果持有现货，就可以轻松应对临时急缺原材料的尴尬场景，这当中的无法用钱来衡量的便利称为 convenience yield。[来源](https://www.fxtjz.com/pricing-valuation-of-forwards/)
+
+[^x22]: 许哲注：
+	
+	意思是收藏品这类的持续在给人产生消费价值，这个持续产生的消费价值和股息分红是一个意思。是分批「划拨」给持有者的。大金链子戴六十年给塔勒布带来的效用已经「回本」了。
+	
+	这里得理解经济学上关于「效用」的意思，未必是金钱上的，满足你需求的都能改变人的经济行为。假如你买了一幅画，你越看越舒坦，其美学价值让你吃饭后看个十分钟就能觉得妙不可言，然后你持续看了三十年到你撒手人寰被你儿子贱卖掉。那么这三十年来给的这个舒适感也可以算作是「效用分红」，算变相的派息。
+	
+	按照这个收藏品效用的算法，NFT比BTC靠谱，我一时略有凌乱。抬个杠，我钱包里有比特币特看着就特满足算不算呢？
+
 The difference between the current bitcoin bubble and past recent ones, such as the dot-com episode spanning the period over 1995-2000, is that shell companies were at least promising some type of future revenue stream. Bitcoin would be allowed to escape a valuation methodology had it proven to be a medium of exchange or satisfied the condition for a numeraire from which other goods could be priced. But currently it is not, as we will see next.
 
 ## Success In Wrong Places
