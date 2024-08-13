@@ -238,9 +238,13 @@ Path dependence is a problem. We cannot expect a book entry on a ledger that req
 
 [^x20]: 许哲注：意思是比特币泡沫不触及到吸收壁除非有宗教信仰般的热情，否则不可能。而现在比特币还杵在那里是因为我们确实看到币圈搞的跟邪教一样。
 
->**Principle 1: Cumulative ruin**</br>定律 1：千里之堤毁于蚁穴
+>**Principle 1: Cumulative ruin**
 >
->If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. </br>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么其现值就应该是 0。[^x21]
+>**定律 1：千里之堤毁于蚁穴**
+>
+>If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. 
+>
+>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么其现值就应该是 0。[^x21]
 
 [^x21]: 许哲注：上一篇的贴限值理论和链接可以参考阅读，反复在用这个推论。
 
@@ -260,13 +264,30 @@ We exclude collectibles from that category, as they have an aesthetic utility as
 
 The difference between the current bitcoin bubble and past recent ones, such as the dot-com episode spanning the period over 1995-2000, is that shell companies were at least promising some type of future revenue stream. Bitcoin would be allowed to escape a valuation methodology had it proven to be a medium of exchange or satisfied the condition for a numeraire from which other goods could be priced. But currently it is not, as we will see next.
 
-## Success In Wrong Places
+当前比特币泡沫与过去泡沫（如 1995 年至 2000 年的科网泡沫）的不同之处在于，就算那时候的空壳公司，也至少承诺了一些未来的收入来源。如果比特币想摆脱以这种估值方式定价的话，那么它必须证明自己能够作为一种交换媒介，或能够成为其他商品定价的计量单位。但它目前并没有做到这一点，正如我们在下文论述的。[^x23]
+
+[^x23]: 许哲注：意思是纯交易媒介，也就是现金货币是不能用上面说的那些估值模式来定价的，或者世界上还有一些特殊的资产定价的模式，如果比特币是货币属性的话，就可以超然。塔勒布认为并没有。
+
+## Success In Wrong Places </br>在错误的领域里成功
 
 More generally, the fundamental flaw and contradiction at the base of most cryptocurrencies is, as we saw, that the originators, miners, and maintainers of the system currently make their money from the inflation of their currencies rather than *just* from the volume of underlying transactions in them. Hence the total failure of bitcoin to become a currency has been masked by the inflation of the currency value, generating (paper) profits for a large enough number of people to enter the discourse well ahead of its utility.
 
+更一般地说，正如我们所看到的，大多数加密货币的根本缺陷和矛盾在于，该体系的创始人、矿工和维护者目前都在通过发行代币来赚钱，而不是**仅仅**通过其中的基础交易量赚手续费。因此，比特币想要成为一种货币的梦想虽然彻底破灭了，但价格暴涨后，这种梦想似乎也没那么重要了。对很多人来说，比特币创造了足够多的（账面）利润，这使得他们不需要看到比特币真正落地就能坦然接受这种叙事逻辑。[^x24]
+
+[^x24]: 许哲注：
+	
+	这里说的是比特币作为货币属性的失败，如果是一个货币那么应该根据利用该货币清算的交易来得出它的媒介价值，也就是 MV=PQ ，当使用一个货币清算的商品数量和价格足够多的时候，货币是有价值的。但比特币并没用来清算什么贸易，而是一个通胀里的纸面富贵的游戏而已。
+	
+	人们沉迷于这个账面盈利的游戏，以至于不关心它有没有真的当货币用，这个是币圈里的现实。之前有尝试过比特币作为支付工具的创业公司，无一例外的都没成功，比特币在交易媒介领域并不成功。最初用比特币买披萨的反而是一个正途，而后期比特币虽然市值很高，但作为货币的尝试是失败的。但是 Who cares，币圈的人都盯着某某某发财了我也想要，比特币是不是货币确实没人关心。
+
+
 >**Comment 2: Success for a digital currency**
 >
+>**评论 2：数字货币的成功标准**
+>
 >There is a mistaken conflation between success for a "digital currency", which requires some stability and usability, and speculative price appreciation.
+>
+>「数字货币」的成功，需要的是一定程度上的稳定性和可用性，并不是投机性的「汇率升值」，有人将这两者错误混淆了。
 
 Transactions in bitcoin are considerably more expensive than wire services or other modes of transfers, or ones in other cryptocurrencies *\[note 7\]*. They are order of magnitudes slower than standard commercial systems used by credit card companies — anecdotally, while you can instantly buy a cup of coffee with your cell phone, you would need to wait ten minutes if you used bitcoin *\[note 8\]*, They cannot compete with African mobile money *\[note 9\]*. Nor can the system outlined above — as per its very structure — accommodate a large volume of transactions — which is something central for such an ambitious payment system.
 
@@ -388,7 +409,7 @@ So we close with a Damascus joke. One vendor was selling the exact same variety 
 
 We only judge a technology by how it solves problems, not by what technological attributes it has.
 
-## References
+
 
 [^r1]: S. Nakamoto, "Bitcoin: A peer-to-peer electronic cash system,"Tech. Rep.,2008.
 
