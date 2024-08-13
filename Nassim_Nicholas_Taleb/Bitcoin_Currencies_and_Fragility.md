@@ -29,11 +29,15 @@ This discussion applies quantitative finance methods and economic arguments to c
 
 In its current version, in spite of the hype, bitcoin failed to satisfy the notion of "currency without government" (it proved to not even be a currency at all), can be neither a short nor long term store of value (its expected value is no higher than 0), cannot operate as a reliable inflation hedge, and, worst of all, does not constitute, not even remotely, a safe haven for one's investments, a shield against government tyranny, or a tail protection vehicle for catastrophic episodes.
 
-就当下而言，尽管不断有人大肆鼓吹，但比特币并没能实现「无需政府的货币」的构想（事实证明，比特币甚至算不上是一种货币）。它既不能作为短期或长期的价值储存手段（其预期价值不会高于 0），也不能作为可靠的通胀对冲工具。最糟糕的是，它无法成为投资的避风港（完全没办法），也无法充当抵御政府暴政的盾牌，更不能为灾难性的尾部事件充当对冲保护的工具。
+就当下而言，尽管不断有人大肆鼓吹，但比特币并没能实现「无需政府的货币」的构想（事实证明，比特币甚至算不上是一种货币）。它既不能作为短期或长期的价值储存手段（其预期价值不会高于 0），也不能作为可靠的通胀对冲工具。最糟糕的是，它无法成为投资的避风港（完全没办法），也无法充当抵御政府暴政的盾牌，更不能为灾难性的尾部事件[^x1]充当对冲保护的工具。
+
+[^x1]: 许哲注：尾部事件是指发生概率很小的，在分布函数尾部的事件，可粗略理解成小概率事件。
 
 Furthermore, bitcoin promoters appear to conflate the success of a payment mechanism (as a decentralized mode of exchange), which so far has failed, with the speculative variations in the price of a zero-sum maximally fragile asset with massive negative externalities.
 
-此外，比特币的鼓吹者似乎想要把比特币「作为一种（去中心化交易）支付方案的成功与否」与「作为一个投机品的价格上涨与否」混为一谈。就前者来说，到目前为止已经宣告失败了；就后者来说，比特币作为用于零和投机游戏的脆弱资产，具有巨大的负外部性。
+此外，比特币的鼓吹者似乎想要把比特币「作为一种（去中心化交易）支付方案的成功与否」与「作为一个投机品的价格上涨与否」混为一谈。就前者来说，到目前为止已经宣告失败了；就后者来说，比特币作为用于零和投机游戏的脆弱资产，具有巨大的负外部性[^x2]。
+
+[^x2]: 许哲注：负外部性是经济学术语，可以粗略的理解为对社会有害。
 
 Going through monetary history, we show how a true numeraire must be one of minimum variance with respect to an arbitrary basket of goods and services, how gold and silver lost their inflation hedge status during the Hunt brothers squeeze in the late 1970s and what would be required from a true inflation hedged store of value.
 
@@ -45,13 +49,17 @@ Going through monetary history, we show how a true numeraire must be one of mini
 
 ![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_2.png)
 
-*Fig. 2. Too volatile to fail? We show the volatility of the capitalization of BTC. At higher levels of capitalization, return volatility compounds. In 2021 a swing of half a trillion dollars in the capitalization of bitcoin took place. </br>图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。*
+*Fig. 2. Too volatile to fail? We show the volatility of the capitalization of BTC. At higher levels of capitalization, return volatility compounds. In 2021 a swing of half a trillion dollars in the capitalization of bitcoin took place. </br>图 2：太过波动而不能倒？我们展示了比特币市值的波动性。在较高水平的市值下，回报的波动性会指数级增加。2021 年，比特币市值发生了 5000 亿美元的大幅波动。[^x3]*
+
+[^x3]: 许哲注：该图是比特币价格波动率的一个统计，波动率通常是描述资产价格不稳定性的指标，用价格变化的方差来刻画。波动率大意味着作为支付工具是不可用的。
 
 ## The Blockchain </br>区块链
 
 First, let us consider what cryptocurrencies do by examining the notion of blockchain and its intellectual and mathematical appeal.
 
-首先，让我们通过探讨区块链的概念及其在智力和数学方面的魅力特质，来了解加密货币所做的事情。
+首先，让我们通过探讨区块链的概念及其在智力和数学方面的魅力特质，来了解加密货币所做的事情[^x4]。
+
+[^x4]: 许哲注：关于比特币原理的简介，网上有很多，这里说的实在是不够清晰，**强烈推荐** [3blue1brown 比特币原理简介](https://www.bilibili.com/video/BV11x411i72w/)；了解了比特币的原理后关于原理部分的描述可以扫一眼跳着看
 
 The concept behind such a chain is quite intuitive to early practitioners of quantitative finance. Consider that before efficient software for Monte Carlo simulations became widely available, some of us were using methods to generate pseudorandom variables via some forms of chained nonlinear transformations, in the spirit of Von Neumann's original idea[^r2]. Indexing sequences by $t= 1, 2,... n$, with a seed at $t$, a variable $x_t$ on the real line generates via nonlinear transformations $r: \mathbb{R} \to \mathbb{R}$, an output variable $r(x_t)$. This output variable can serve as a pseudorandom seed to generate another pseudorandom variable, $r(x_{t+1})$. For all $t$, knowledge of $r(X_t)$ allows knowledge of all subsequent variables $r(x_\tau)_{\tau>t}$ and replication of the entire sequence, thus probabilistically mimicking the arrow of time. It is also crucial that the same seed produces exactly the same pseudorandom variable, allowing verification of sequence, but disallowing easy reverse engineering.
 
@@ -59,7 +67,9 @@ The concept behind such a chain is quite intuitive to early practitioners of qua
 
 What the blockchain added, thanks to the hash function, is the condition that $r(.)$ must be functionally and probabilistically bijective: no two seeds should produce the same output (or should produce a vanishingly low probability of that happening), what, in computer science terminology, is called *collision*.
 
-由于哈希函数的存在，区块链增加了一个条件，即 $r(.)$ 必须在函数和概率上是双射（bijective）的：任意两个不同的初值产生的输出皆不相同（或者产生相同输出的概率应该低得可以忽略不计）。这在计算机科学术语中被称为**碰撞（collision）**。
+由于哈希函数的存在，区块链增加了一个条件，即 $r(.)$ 必须在函数和概率上是双射（bijective）的：任意两个不同的初值产生的输出皆不相同（或者产生相同输出的概率应该低得可以忽略不计）。这在计算机科学术语中被称为**碰撞（collision）**[^x5]。
+
+[^x5]: 许哲注：如果你看着头晕，确保你知道哈希函数是什么的情况下可以跳过，如果还不知道，但能看点简单的代码，推荐参考 [关于哈希算法](https://zhuanlan.zhihu.com/p/28818841)
 
 This hard-wired attribute and absence of supervision of the blockchain allow the storage of activities on a public ledger to facilitate peer-to-peer commerce, transactions, and settlements. The blockchain concept also allows for serial record keeping. This is supposed to help create what the original white paper[^r1] described as:
 
@@ -69,7 +79,7 @@ This hard-wired attribute and absence of supervision of the blockchain allow the
 
 From that paper, bitcoin makes use of three existing technologies: 1) the hash function, 2) the Merkle tree (to chain blocks of transactions tagged by the hash function), and 3) the concept of proof of work (used to deter spam by forcing agents to use computer time in order to qualify for a transaction) — technologies that, ironically, all came out of the academic literature[^r3] *\[note 1\]*. The idea provides a game theoretic approach to mitigate the effects of the absence of custodian and lack of trust between participants in the maintenance of a permanent shared public ledger — attenuating or circumventing the coordination quandary known as the "Byzantine general problem". 
 
-根据白皮书的说法，比特币使用了三项已经存在的技术：
+根据白皮书的说法，比特币使用了三项已经存在的技术[^x6]：
 
 1) 哈希函数（the hash function）；
 2) 默克尔树（the Merkle tree）（把一个个由哈希函数标记的交易区块链接起来）；
@@ -77,9 +87,13 @@ From that paper, bitcoin makes use of three existing technologies: 1) the hash f
 
 具有讽刺意味的是，所有这些技术都出自学术文献[^r3]【注释 1】。区块链的机制提供了一种博弈论层面上的方法，使得公众在维护永久共享的公共账本过程中，能够缓解缺乏托管人、参与者之间缺乏信任带来的影响，同时能够减轻或规避被称为「拜占庭将军问题」的协调困境。
 
+[^x6]: 许哲注：使用已经成熟很久的技术拼凑出一个新技术并不丢人和讽刺，利用久经考验的技术会让技术更可靠，这并没问题。显得略有讽刺是区块链技术的鼓吹者把这项技术吹得过于跨时代，好似再造天地一般。这个锅是区块链的过度鼓吹者的，笔者并不认为这是区块链应该被诟病的点。
+
 *\[note 1\]*: As this discussion is focused on proof of work, we exclude from it Ethereum and other cryptocurrencies.
 
-【注释 1】由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。
+【注释 1】由于本文讨论的重点是工作量证明，因此将以太坊和其他加密货币排除在外。[^x7]
+
+[^x7]: 许哲注：以太坊要转用 POS 等完全原理上不同于 POW 的技术，之后关于 POW 的论述均不适用
 
 The bitcoin transactional currency (BTC) system establishes an adversarial collaboration between the so-called "miners" who validate transactions by getting them on a public ledger; as a reward they get coins plus a fee from the underlying transactions, transfers of coins between parties. The proof of work method has an adjustable degree of difficulty based on the speed of blocks, which aims, in theory, to keep the incentive sufficiently high for miners to keep operating the system. Such adjustments lead to an exponential increase in computer power requirements, making at the time of writing onerous energy demands on the system — energy that could find alternatives in other computational and scientific uses.
 
@@ -87,11 +101,15 @@ The bitcoin transactional currency (BTC) system establishes an adversarial colla
 
 Miners derive their compensation from both seignorage (the market value of a bitcoin minus its mining costs) and transaction fees upon validation — with the plan to switch to transaction fees as the sole revenues upon the eventual depletion of the coins, which are limited to a fixed number.
 
-矿工们的报酬来自两部分：铸币税（比特币的市场价值减去其挖矿成本）和验证交易收取的手续费。按照计划，比特币最终会停止增发（比特币的总发行量是固定的），矿工的收入将只依赖于交易费用。
+矿工们的报酬来自两部分：铸币税（比特币的市场价值减去其挖矿成本）和验证交易收取的手续费。按照计划，比特币最终会停止增发（比特币的总发行量是固定的），矿工的收入将只依赖于交易费用。[^x8]
+
+[^x8]: 许哲注：这里是比特币区块奖励的机制，每过一段时间区块奖励减半，最后直到没有，从而保证比特币的总量上限存在一个固定数字。当比特币达到最大值时，矿工的所有收益均来自于手续费。
 
 A central attribute is that bitcoin depends on the existence of such miners for perpetuity.
 
-比特币的一个核心特性是，只有这种矿工一直存在，比特币才会永存。
+比特币的一个核心特性是，只有这种矿工一直存在，比特币才会永存。[^x9]
+
+[^x9]: 许哲注：意思是当区块奖励消失后，矿工们能否继续参与挖矿有问题，但比特币唯一的物理存在就是矿工，矿工要是不干了就彻底废了。这个担忧是确实存在的，矿工圈内亦有激烈讨论，不是空穴来风。
 
 Note that the entire ideological basis behind bitcoin is complete distrust of other operators — there are no partial custodians; the system is fully distributed, though prone to concentration *\[note 2\]*. Furthermore, by the very nature of the blockchain, transactions are irreversible, no matter the reason.
 
@@ -99,11 +117,17 @@ Note that the entire ideological basis behind bitcoin is complete distrust of ot
 
 *\[note 2\]*: From public data, we were able to verify that the distribution of holdings of bitcoin follows a powerlaw with tail index $\approx \dfrac{5}{4}$ , no different from the distribution of wealth in the U.S.
 
-【注释 2】根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同。译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
+【注释 2】根据公开数据，我们可以证实比特币的持有量遵循幂律分布，且具有肥尾特征，其尾指数（Tail Index）大约是 1.25 左右，这种分布特征与美国的财富分布并无不同[^x10][^p1]。
+
+[^x10]: 许哲注：意思是比特币是集中在少数人手上的，所以理念上的去中心化并没什么卵用，还是掌握在几个中心手上
+
+[^p1]: 译者注：所谓尾指数，是一个用来衡量分布尾部厚度的参数，用于描述分布的尾部衰减速度，即极端事件发生的频率。正态分布的尾指数为0，表示其尾部衰减得最快；尾指数大于0时，表示分布具有肥尾特性，极端事件发生的频率较高。
 
 Finally, note that bitcoins are zero-sum by virtue of the *numerus clausus*.
 
-最后，请注意，由于「**总量恒定（numerus clausus）**」，比特币是一个零和游戏。
+最后，请注意，由于「**总量恒定（numerus clausus）**」[^x11]，比特币是一个零和游戏。
+
+[^x11]: 许哲注：这里的 *numerus clausus* 是拉丁语，意思是「closed number」，意思是比特币就在一个封闭的小圈子里互相搞一个零和的游戏而已。四个人打麻将永远创造不出价值的。
 
 As we will see, mathematical and combinatorial qualities do not necessarily translate into financial benefits at either individual or systemic levels.
 
@@ -125,7 +149,26 @@ As we will see, mathematical and combinatorial qualities do not necessarily tran
 
 A central result (even principle) in the rational expectations and securities pricing literature is that, thanks to the law of iterated expectations, if we expect now *that we will expect* the price to vary at some point in the future, then by backward induction such a variation must be incorporated in the price *now*. When there are no dividends, as with growth companies, there is still an expectation of future earnings, and a future expected reward to stockholders — directly via dividends, or indirectly via reverse dilutions and buybacks. It remains that a stock is a claim on accumulated assets and their residual value.
 
-在理性预期和证券定价文献中，一个核心结论（甚至可以说是核心原则）是：根据迭代期望定律（law of iterated expectations），如果我们现在预期「**站在未来某个时刻，那时候我们预期**价格将会在更远的未来发生变化」，那么通过反向推理，这种变化一定包含在**当下**的价格之中。与成长型公司一样，在不分红的情况下，股东仍然可以预期未来的公司利润，以及预期未来的股东回报——可能是通过股息直接实现，也可能是通过反向稀释和股票回购间接实现。无论如何，股票仍然是对累积资产及其剩余价值的索取权。
+在理性预期和证券定价文献中，一个核心结论（甚至可以说是核心原则）是：根据迭代期望定律（law of iterated expectations），如果我们现在预期「**站在未来某个时刻，那时候我们预期**价格将会在更远的未来发生变化」，那么通过反向推理，这种变化一定包含在**当下**的价格之中。与成长型公司一样，在不分红的情况下，股东仍然可以预期未来的公司利润，以及预期未来的股东回报——可能是通过股息直接实现，也可能是通过反向稀释和股票回购间接实现。无论如何，股票仍然是对累积资产及其剩余价值的索取权。[^x12]
+
+[^x12]: 许哲注：
+	
+	这里讲的未来贴现的股票定价模型，可以参考：[如何简单明了地解释自由现金流折现？](https://www.zhihu.com/question/23005134/answer/2306281723)
+	
+	这里的范围要略广一些，不仅仅是股息回报，所有的回购增加股东权益的行为都囊括进去了，意思是说明一个资产必然是因为未来有回报的（无论是不是以现金分红的形式）才造就了它当下的「贴现价值」。
+	
+	并且未来在某个条件下产生的某种期望的综合效果，和当下无视未来事件对期望的影响也一定是相同的，双重期望值定律给我们估值带来的巨大方便。
+	
+	双重期望值定律： E(X)=E(E(X|Y))
+	
+	当Y条件下X的期望值，也就是未来股票或者资产产生某些事件对我们估值的影响（利好或者利空的事件），长期综合考虑它们影响的总和，也就是对所有条件期望再求期望，和无条件期望（完全不考虑未来可能产生的利多利空，也就是无视条件概率事件）最后必然也是一致的。
+	
+	我再换人话一下：风风雨雨最后长期还是看内在，当下只要观察长期价值，当下也必然反应长期。因为有双重期望值定律，我们不需要考虑太多可能产生条件下期望的事情对当下估值的影响，使得资产估值变为可能。
+	
+	再透一点，价值投资可以彻底无视未来可能对价值预估产生变动的扰动，因为这些未来潜在的扰动其实也已经含在现在都价格里。因为未来是不可知的，所以有了双重期望值定律，我们才有可能定价，无惧未知。
+	
+	这些都是为了说明价值投资理论的内涵用于后续的论述。
+
 
 Earnings-free assets with no residual value are problematic.
 
@@ -133,35 +176,73 @@ Earnings-free assets with no residual value are problematic.
 
 The implication is that, owing to the absence of any explicit yield benefitting the holder of bitcoin, *if* we expect that at any point in the future the value will be zero when miners are extinct, the technology becomes obsolete, or future generations get into other such "assets" and bitcoin loses its appeal for them, *then* the value must be zero *now* *\[note 3\]*.
 
-这意味着，由于比特币持有者没有任何明确的收益，**如果**我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，**那么**比特币**现在的**价值就应该是零【注释 3】。
+这意味着，由于比特币持有者没有任何明确的收益，**如果**我们预期在未来某个时刻比特币的价值将为零，比如矿工最后因为激励不足停止运营了、现有技术过时了，或者未来几代人转向其他类似「资产」，不再看好比特币了，**那么**比特币**现在的**价值就应该是零【注释 3】[^x13]。
+
+[^x13]: 许哲注：在价值投资里，一个东西未来的价格如果是 0 的话，那么它的「现值」必然是 0。这段话的意思是比特币作为一个必须要有「后来人」接盘的东西，本身是无收益资产的话，那么几个可能让比特币归零的可能性存在，比特币的现值就应该是 0。肯定有人会说黄金白银也是无收益资产，不照样不归零还新高嘛，这个在后文里有讲到。我们先来看【注释 3】的内容
 
 *\[note 3\]*: Using a traditional rational bubble model (see this[^r4] and the review by this[^r5]), we get the following conditions. Let $r_d$ be a discount rate and $\pi$ be a probability of absorption over a period. To escape the barrier, bitcoin must grow at $e^{r+\pi}$ forever, but no more, without remission, and with total certainty. Should it grow then stabilize, it still would be prone to extinction. We note that traditionally, models rule out any continuous growth at an exponential rate faster than $r+\pi$ because the security or asset would then represent the entire economy. Bitcoin distinguishes itself from other assets because of its fragility as a mere book entry on a virtual ledger that requires constant refreshing *ad infinitum*.
 
-【注释 3】使用传统的理性泡沫模型（参考这篇[^r4]，以及这篇[^r5]的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate）， $\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要**永无止尽**（ad infinitum）持续更新的虚拟账本上的账目记录。
+【注释 3】使用传统的理性泡沫模型（参考这篇[^r4]，以及这篇[^r5]的文献综述部分），我们可以推导出泡沫不破裂需要满足下列的条件：令 $r_d$ 为贴现率（discount rate）， $\pi$ 为一段时间内的吸收概率（probability of absorption）。为了逃离吸收壁（absorbing barrier），比特币必须永远以 $e^{r+\pi}$ 的速度增长，但不能超过这个速度。而且，这个过程必须毫无间断，并且有十足的确定性。如果它增长后趋于稳定，它仍然容易消亡。我们注意到，传统模型排除了任何快于 $r+\pi$ 的指数增长，因为那样的话，证券或资产将代表整个经济。比特币与其他资产的区别在于其脆弱性，因为它仅仅是一个需要**永无止尽**（ad infinitum）持续更新的虚拟账本上的账目记录。[^x14]
+
+[^x14]: 许哲注：这两篇关于泡沫模型的论文我没读过，不过看着似乎挺有意思的。塔勒布的意思是根据这个泡沫模型，一个靠后来者接盘的东西本质上是一个旁氏模型，然后必须维持一定的增速，否则旁氏骗局就崩盘了。具体的推导过程大家可以去看引述的原论文。所有引述的论文最后会罗列。一个旁氏盘子必须药不能停，这个是肯定没问题的。如果比特币是完全依赖后来者以更高价格买走的旁氏的话，那么它维系存在的增长需求也是不断增长直到不可能的。塔勒布大致的意思是比特币那是比一般泡沫要虚得多的泡沫里的战斗机。
 
 The typical comparison of bitcoin to gold is lacking in elementary financial rigor *\[note 4\]*. We will see below how precious metals lost their quality as a medium of exchange; gold and other dividend-free precious items (such as other metals or stones) have held some financial status for more than 6,000 years, and their physical status for several orders of magnitude longer (i.e., they did not degrade or mutate into some other alloy or mineral). So one can expect one's gold or silver possessions to be around physically for at least the next millennium, as well as having some residual economic value by iteration, for the same reason. Metals have ample industrial uses with demand elasticity (and substitution for other raw materials). Currently, about half of gold production goes to jewelry (for which there are often no storage costs), one tenth to industry, and a quarter to central bank reserves.
 
-通常，人们将比特币比作黄金，但这种比较缺乏最基本的金融严谨性【注释 4】。我们将在下文中看到贵金属是如何失去其作为交换媒介的地位的；黄金和其他非生息稀缺品（比如其他金属或宝石）在 6,000 多年来一直具有着某种价值贮藏的功能，不过它们的物理状态可保持的时间则要比这长上好几个数量级（即，它们没有降解或变异成其他合金或矿物）。因此，可以预计自己的黄金或白银资产在物理上至少到公元三千年还会存在，并且由于相同的原因，在一代代相传之下仍会有一些残余的经济价值。金属在工业上有广泛的用途，具有需求弹性（黄金可以替代其他原材料）。目前，黄金产量的一半用于珠宝首饰（通常不需要储存成本），十分之一用于工业，四分之一用于中央银行储备。
+通常，人们将比特币比作黄金，但这种比较缺乏最基本的金融严谨性【注释 4】。我们将在下文中看到贵金属是如何失去其作为交换媒介的地位的；黄金和其他非生息稀缺品（比如其他金属或宝石）在 6,000 多年来一直具有着某种价值贮藏的功能，不过它们的物理状态可保持的时间则要比这长上好几个数量级（即，它们没有降解或变异成其他合金或矿物）。因此，可以预计自己的黄金或白银资产在物理上至少到公元三千年还会存在，并且由于相同的原因，在一代代相传之下仍会有一些残余的经济价值。金属在工业上有广泛的用途，具有需求弹性（黄金可以替代其他原材料）。目前，黄金产量的一半用于珠宝首饰（通常不需要储存成本），十分之一用于工业，四分之一用于中央银行储备。[^x15]
+
+[^x15]: 许哲注：意思是说贵金属宝石啥的并不是啥天然的货币，6000多年的金融属性历史远比不上它们更久远的历史，贵金属宝石等作为货币只占它们历史的很小一段，而且现在贵金属也失去了货币属性了。所以不存在什么金属天然是货币。且金属这类非生息资产因为有工业属性和其他用途，比如就是人们纯粹喜欢黄金而有价值。为什么把比特币称为电子黄金是不对的，是【注释 4】的内容。
 
 *\[note 4\]*: It is also a reasoning error to claim that an innovation, bitcoin, can become the "new gold" *ab ovo*, when gold wasn't decided to be so by fiat thanks to a white paper; it organically became a reserve asset ex post, through centuries of competitive selection against other modes of storage, payment, and collectibles. Gold elicited an aesthetic fascination and had been used as jewelry and store of value for more than two millennia before it became, literally, a currency or before there was such a thing as a currency. The Phoenicians used it as store of value because there was demand for it, and it was not until the 6th C. BCE that coins from Sardis became a widespread means of exchange[^r6].
 
-【注释 4】人们宣称一种创新产品（比特币）**一出现**就可以成为「新型黄金」，这是一种推理错误。当时黄金并不是通过一份白皮书被决定为如此的；站在今天回溯整段历史，黄金经历了好几个世纪的竞争性选择，在各种形式的存储、支付和收藏方式中脱颖而出，最终成为了储备资产。在黄金真正成为货币或出现货币这一概念之前的两千多年里，黄金本身就会引发人们的迷恋，人们认为黄金是美的，把黄金当作珠宝和价值储藏的工具。腓尼基人使用黄金作为储藏价值的工具，因为当时市场对其有需求。直到公元前 6 世纪，来自萨迪斯（Sardis）的硬币才成为一种广泛的交换手段。[^r6]
+【注释 4】人们宣称一种创新产品（比特币）**一出现**就可以成为「新型黄金」，这是一种推理错误。当时黄金并不是通过一份白皮书被决定为如此的；站在今天回溯整段历史，黄金经历了好几个世纪的竞争性选择，在各种形式的存储、支付和收藏方式中脱颖而出，最终成为了储备资产。在黄金真正成为货币或出现货币这一概念之前的两千多年里，黄金本身就会引发人们的迷恋，人们认为黄金是美的，把黄金当作珠宝和价值储藏的工具。腓尼基人使用黄金作为储藏价值的工具，因为当时市场对其有需求。直到公元前 6 世纪，来自萨迪斯（Sardis）的硬币才成为一种广泛的交换手段。[^r6][^x16]
+
+[^x16]: 许哲注：
+	
+	这段注释的意思是不能倒果为因，黄金在成为货币前因为大家都很想要了，所以才脱颖而出变成一种储备资产，然后才有把黄金当做货币的事情发生。是先有大家想要黄金为因，才有黄金被当做货币为果。先宣传一个东西是货币，然后说它是新黄金是不对的。
+	
+	一个东西能成为货币储备是因为大家想要它，而不是它像黄金。黄金也是因为大家要它，它才成为货币储备资产的，而非反过来。
+	
+	到这里大致的意思是要么一个资产是生息资产，我们能通过贴现模型的方式估值资产。而一个纯粹靠后来者接盘维系价格的旁氏结构未来对增长的需求会达到不可能实现而必然走向崩盘。比特币是非生息资产。
+	
+	例如黄金这样的也是非生息资产的东西，它能保持自己的价值是因为有需求，或者珠宝业人家喜欢黄金，或者是工业属性。且黄金存在的时间远远长于其作为货币属性的时间。是因为黄金被广泛的有需求了，才会让黄金脱颖而出成为货币的一种候选，并且黄金现在也失去了货币属性。
+	
+	所以因为比特币和黄金一样是稀缺不可再生的，就论证比特币一定会像黄金一样具备货币属性（黄金自己都没有了），这个逻辑推断是不成立的。是先有需求才有储备价值，才发展成货币。而非单纯因为稀有。如果比特币不能让人产生需求，仅就不可再生和稀缺的话，是站不住脚的论断。
+	
+	要么你拿贴现模型来，要么有人消费的供需模型来，否则就得用泡沫模型了，是个泡沫迟早要灭。如果迟早要灭，那么贴现价值也就是0了。
 
 Path dependence is a problem. We cannot expect a book entry on a ledger that requires active maintenance by interested and incentivized people to keep its *physical presence*, a condition for monetary value, for any period of time — and of course we are not sure of the interests, mindsets, and preferences of future generations. Once bitcoin drops below a certain threshold, it may hit an absorbing barrier and stays at 0 — gold on the other hand is *not* path dependent in its physical properties *\[note 5\]*. As discussed in this paper[^r7], technologies tend to be supplanted by other technologies (>99% of the new is replaced by something newer), whereas items such as gold and silver have proved resistant to extinction. Furthermore bitcoin is supposed to be hacker-proof and is based on total infallibility in the future, not just at present. It is crucial that bitcoin is based on perfect immortality; unlike conventional assets, the slightest mortality rate puts its value at 0 *\[note 6\]*.
 
-路径依赖是一个问题。这种账本上的任何记录，都需要人主动维护（出于兴趣和物质激励），才能保持其**物理状态**。而物理状态稳定是其资产价值的必要条件，在任何时期都是如此。我们不能指望这种账本永远有价值，尤其是我们尚不能确定未来几代人的兴趣、思维方式和偏好。一旦比特币跌破某个阈值，它可能会「撞上」吸收壁（absorbing barrier），然后永远归零。然而，黄金在其物理状态上**不存在**路径依赖的问题【注释 5】。正如这篇文章[^r7]讨论的那样，技术往往会被其他技术取代（新技术中超过 99% 会被更新的东西替代），而像黄金和白银这样的东西则被证明不会消亡。此外，比特币存在的前提是，这种技术应该是无法被黑客攻击的。这种坚不可摧并不仅仅适用于现在，而要适用于从现在往后的所有时刻。至关重要的是，比特币是建立在完美不朽的基础上的；于传统资产不同，一丝丝瑕疵都会让其价值永远归零【注释 6】。
+路径依赖是一个问题。这种账本上的任何记录，都需要人主动维护（出于兴趣和物质激励），才能保持其**物理状态**。而物理状态稳定是其资产价值的必要条件，在任何时期都是如此。我们不能指望这种账本永远有价值，尤其是我们尚不能确定未来几代人的兴趣、思维方式和偏好。一旦比特币跌破某个阈值，它可能会「撞上」吸收壁（absorbing barrier），然后永远归零。然而，黄金在其物理状态上**不存在**路径依赖的问题【注释 5】。正如这篇文章[^r7]讨论的那样，技术往往会被其他技术取代（新技术中超过 99% 会被更新的东西替代），而像黄金和白银这样的东西则被证明不会消亡[^x17]。此外，比特币存在的前提是，这种技术应该是无法被黑客攻击的。这种坚不可摧并不仅仅适用于现在，而要适用于从现在往后的所有时刻。至关重要的是，比特币是建立在完美不朽的基础上的；于传统资产不同，一丝丝瑕疵都会让其价值永远归零【注释 6】。[^x18]
+
+[^x17]: 许哲注：
+	
+	意思是比特币和黄金白银不一样，它要维持自己在物理世界的存在，需要矿工们持续支付代价来维持存在。而未来的人是不是会继续对比特币网络有那么高的兴趣来维护昂贵的区块链的运行成本，我们没办法知道。如果有更好的记账技术了，比特币主链会被放弃，那就会归零，而未来会归零的东西的贴现值就是零。也就是说除非币圈信仰充值药不能停能维持到天荒地老，并且当中不能有任何断档，不然迟早有一天要归零。中间任何一个 10 分钟都不能断是颇为脆弱的。
+	
+	长期来看，很难想象比特币的区块链技术就是最优版本，这也不符合计算机软件发展的规律。目前比特币的主链是否会是未来的最大市值链，甚至是否有挖矿的经济效益，确实是不确定的。并且未来如果有比区块链更好的作为记账的手段，抛弃区块链也不是不可能的事情。但这个未来可能会有更好方案的推论其实可以普适于一切对技术的评论。笔者认为这种诘难过于宽泛。
+	
+	但区块链需要一刻不停的以高成本维护确实是一个脆弱点，触及「吸收壁」效应的话，可能就会发生比较大的问题。相比于贵金属等而言需要高维护成本是一个实打实的弱点和劣势，这是不可否认的。下面的【注释 5】会进一步解释「吸收壁」效应。
+	
+	硬分叉或许是一个保持动态升级的办法，虽然其有负面效应，一刻不能停确实是一个很严苛的要求，很难想象长期到千年的级别，区块链能保持 always online。笔者更加相信在链在技术上撞到脆弱性的时间要晚于有比目前区块链技术更好的新技术的出现的时间。比区块链更优的新技术让挖矿成为不经济行为的可能性更大。
+
+[^x18]: 许哲注：从信息安全的角度上来说，没有绝对安全的系统，比特币亦然。比特币的区块链技术在历史上也有几次安全漏洞和更新，但并不是所有的安全漏洞都触发了吸收壁。但这确实是一个很大的风险隐患，我们确实没法确定比特币是否目前还藏着致命的安全性缺陷，没人知道。相比于黄金这类靠物理定律保持稳定的，确实是个劣势。而一旦有概率不小于 0 的比特币漏洞能导致比特币网络出致命问题，那么它的贴现值就是 0 这个推论是正确的。由此可以构造同义的句子：在未来无穷长的时间内，比特币技术存在任意致命漏洞的概率大于 0 的情况下，比特币当下的贴现价值为 0。比特币：我太难了……
 
 *\[note 5\]*: The absorbing barrier does not have to be 0 for the price to spiral to 0 upon hitting the barrier. This is similar to saying "if the heart rate drops below ten beats per minutes, it will be 0 (death)" — nor does it necessarily have to be caused by a drop in price. Nor does it have to be endogenous.
 
-【注释 5】吸收壁（absorbing barrier）并不意味着价格跌到 0，而是说，当触及吸收壁的时候，价格可能会螺旋式下降到 0。这个有点类似说「如果心率降到每分钟不到十次，那么它就会归零（死亡）」。这种撞上吸收壁后归零的情况，并不一定是由于价格下跌造成的，也不一定是内生的。
+【注释 5】吸收壁（absorbing barrier）并不意味着价格跌到 0，而是说，当触及吸收壁的时候，价格可能会螺旋式下降到 0。这个有点类似说「如果心率降到每分钟不到十次，那么它就会归零（死亡）」。这种撞上吸收壁后归零的情况，并不一定是由于价格下跌造成的，也不一定是内生的。[^x19]
+
+[^x19]: 许哲注：吸收壁效应的意思就是临界触发死亡螺旋的这么一个比喻，一旦触及到了，就不可逆的走向灭亡。
 
 *\[note 6\]*: To counter the effect of the absorbing barrier, the asset must grow at an exponential rate *forever*, without remission, and with total certainty. Belief in such an immortality for BTC — and its total infallibility — is in line with the common observation that its enthusiastic investors have the attributes of a religious cult.
 
-【注释 6】为了对抗吸收壁效应的影响，资产价格必须**永远**以指数速度增长，速度不能变慢，而且要具有完全的确定性。相信比特币是不朽的，认为它是无懈可击的，符合一个普遍观察到的事实：比特币投资者是狂热的，而且具有宗教异端的特征。
+【注释 6】为了对抗吸收壁效应的影响，资产价格必须**永远**以指数速度增长，速度不能变慢，而且要具有完全的确定性。相信比特币是不朽的，认为它是无懈可击的，符合一个普遍观察到的事实：比特币投资者是狂热的，而且具有宗教异端的特征。[^x20]
 
->**Principle 1: Cumulative ruin**</br>定律 1：微瑕日久终崩坏
+[^x20]: 许哲注：意思是比特币泡沫不触及到吸收壁除非有宗教信仰般的热情，否则不可能。而现在比特币还杵在那里是因为我们确实看到币圈搞的跟邪教一样。
+
+>**Principle 1: Cumulative ruin**</br>定律 1：千里之堤毁于蚁穴
 >
->If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. </br>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么其现值就应该是 0。
+>If any non-dividend yielding asset has the tiniest constant probability of hitting an absorbing barrier (causing its value to become 0), then its present value must be 0. </br>如果任何非生息资产有一定概率（哪怕极小）「撞上」吸收壁（导致价值归零），那么其现值就应该是 0。[^x21]
+
+[^x21]: 许哲注：上一篇的贴限值理论和链接可以参考阅读，反复在用这个推论。
 
 We exclude collectibles from that category, as they have an aesthetic utility as if one were, in a way, renting them for an expense that maps to a dividend — and thus are no different from perishable consumer goods. The same applies to the jewelry side of gold and its convenience yield: my gold necklace may be worth 0 in thirty years, but then I would have been wearing it for six decades.
 
