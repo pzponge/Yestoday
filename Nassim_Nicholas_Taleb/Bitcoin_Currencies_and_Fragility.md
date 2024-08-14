@@ -289,15 +289,29 @@ More generally, the fundamental flaw and contradiction at the base of most crypt
 >
 >「数字货币」的成功，需要的是一定程度上的稳定性和可用性，并不是投机性的「汇率升值」，有人将这两者错误混淆了。
 
-Transactions in bitcoin are considerably more expensive than wire services or other modes of transfers, or ones in other cryptocurrencies *\[note 7\]*. They are order of magnitudes slower than standard commercial systems used by credit card companies — anecdotally, while you can instantly buy a cup of coffee with your cell phone, you would need to wait ten minutes if you used bitcoin *\[note 8\]*, They cannot compete with African mobile money *\[note 9\]*. Nor can the system outlined above — as per its very structure — accommodate a large volume of transactions — which is something central for such an ambitious payment system.
+Transactions in bitcoin are considerably more expensive than wire services or other modes of transfers, or ones in other cryptocurrencies *\[note 7\]*. They are order of magnitudes slower than standard commercial systems used by credit card companies — anecdotally, while you can instantly buy a cup of coffee with your cell phone, you would need to wait ten minutes if you used bitcoin *\[note 8\]*. They cannot compete with African mobile money *\[note 9\]*. Nor can the system outlined above — as per its very structure — accommodate a large volume of transactions — which is something central for such an ambitious payment system.
+
+比特币的交易费用比银行电汇或其他转账方式高得多，甚至相较于其他加密货币的交易费用也偏昂贵【注释 7】。此外，比特币的支付确认时间比信用卡公司使用的支付系统慢了一个数量级——你用手机买一杯咖啡，可以立即支付，但据说你要是用比特币的话，需要等上 10 分钟，对方才能够确认你是否付款成功【注释 8】。这种速度甚至无法与非洲的移动支付相竞争【注释 9】。更要命的是，比特币系统由于其特殊的机制，本身也无法容纳大量的交易量，而这对于如此雄心勃勃的支付系统来说是很重要的。[^x25]
+
+[^x25]: 许哲注：批评比特币支付手段又慢又贵，比特币每秒 7 笔的处理速度从开始就被人诟病，大区块路线和闪电网络等方案也都是针对这个问题的。客观的说，原版的比特币作为一个通用支付系统，肯定是不够看的。
 
 *\[note 7\]*: Transactions in bitcoin are orders of magnitude more expensive than those done using African mobile phones.
 
+【注释 7】比特币的交易费用比非洲的移动支付都要贵得多。
+
 *\[note 8\]*: "As it grew in popularity, Bitcoin became cumbersome, slow, and expensive to use. It takes about 10 minutes to validate most transactions using the cryptocurrency and the transaction fee has been at a median of about \$20 this year." By Eswar Prasad, *New York Times*, Jun 15, 2021.
+
+【注释 8】「随着比特币的普及，比特币支付变得笨重、缓慢、使用成本高昂。使用这种加密货币确认大多数交易成功需要大约 10 分钟之久，而且每笔交易的费用中位数均值约为 20 美元（截至今年）。」——埃斯瓦尔·普拉萨德（Eswar Prasad），2021 年 6 月 15 日《纽约时报》
 
 *\[note 9\]*: There appear to be other protocols issued from the original white paper that claim to be more transaction focused; as with Ethereum, we exclude them from this analysis.
 
+【注释 9】除了比特币外，市面上似乎有其他也是源自原始白皮书的协议，这些协议声称更专注于交易场景。和以太坊一样，在我们的分析中先不讨论这些情况。
+
 To date, twelve years into its life, in spite of all the fanfare, but with the possible exception of the price tag of Salvadoran permanent residence (3 bitcoins), there are currently no prices fixed in bitcoin floating in fiat currencies in the economy.
+
+迄今为止，比特币已经诞生 12 年了。尽管宣传得沸沸扬扬，但除了萨尔瓦多永久居留权（标价 3 个比特币）之外，没有任何一个商品是根据比特币来标价的（从而相对于法币是浮动的）。[^x26]
+
+[^x26]: 许哲注：这个是充分说明比特币目前并没有被当做货币用的一个例证，确实如此。
 
 ## Principles For A Currency
 
