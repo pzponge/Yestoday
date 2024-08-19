@@ -313,13 +313,25 @@ To date, twelve years into its life, in spite of all the fanfare, but with the p
 
 [^x26]: 许哲注：这个是充分说明比特币目前并没有被当做货币用的一个例证，确实如此。
 
-## Principles For A Currency
+## Principles For A Currency </br>货币的原理
 
 First, let's discuss the demonetization of gold. In 1971, the U.S. government terminated the Bretton Woods Agreement, ending the convertibility of the U.S. dollar into gold. Gold stocks were growing too slowly, and, as mentioned earlier, much of it went to jewelry and industry — the most robust theory is that there was not enough gold to keep up with economic growth *\[note 10\]*. Furthermore, there had been long debates over the hampering of monetary policy by sticking to metals, as witnessed by the bullionist controversy *\[note 11\]*. It appears that developed economies have trouble hooking their currencies to a commodity.
 
+首先，让我们讨论一下黄金非货币化的问题。1971 年，美国政府终止了《布雷顿森林协定》，结束了美元与黄金之间的挂钩。黄金的总量增长太慢，而且正如前面提到的，其中大部分还流向了珠宝业和工业。（关于布林顿森林体系的崩溃，）目前最完备的解释是，黄金的增长速度是没办法满足经济增长需要的【注释 10】。此外，正如重金主义者（bullionist）的争论所证明的那样，坚持使用金银本位会对各国货币政策的实施产生阻碍，这种争论也是由来已久【注释 11】。看起来，发达经济体似乎很难将其货币与某种大宗商品挂钩。[^x27]
+
+[^x27]: 许哲注：传统的经济学理论认为货币的增长应该要和经济总量的增长保持一个平衡，这样这种货币才有利于经济的发展。黄金本来开采的量就不多，且没法预测，还流向珠宝业和工业（导电性等特质）的话，就会造成通缩。这样用黄金挂钩做货币就显得很糟糕了。但这个在经济学是有争议的，不是金科玉律。
+
 *\[note 10\]*: Ironically the U.S. deficit caused the dollar to be more widely available and used, in stable supply, by what is called the Triffin paradox.
 
+【注释 10】具有讽刺意味的是，美国的赤字导致了美元的更广泛使用和稳定供应，这就是所谓的特里芬悖论。[^x28]
+
+[^x28]: 许哲注：特里芬悖论的意思是如果美元和黄金挂钩，而其他货币和美元挂钩（也就是布雷顿森林体系），那么美元取得了核心的地位，别国为了发展国际贸易就必须储备美元，这样美元对于美国而言就是净流出的，美元在海外不断沉淀，则美国必然是逆差国。而美国作为维持美元稳定的主体，又必须是长期顺差国才能保持美元的稳定。这两者都要同时满足是矛盾的。由著名的经济学家罗伯特特里芬提出，所以叫特里芬悖论。
+
 *\[note 11\]*: Even Ricardo got drawn in, see Ricardo’s 1811-1816 arguments[^r8][^r9], and commentary by Jevons[^r10].
+
+【注释 11】关于金银本位制的争论，连李嘉图也下场争论过，详见李嘉图 1811-1816 年的讨论[^r8][^r9]，以及杰文斯[^r10]的评论。[^x29]
+
+[^x29]: 许哲注：伯南克也是这个论题里比较出名的经济学家，相关的论文也被引用不少，但塔勒布特看不起伯南克来着，哈哈哈。
 
 In the early 1970s, the Hunt brothers started to hoard silver (when they started, U.S. citizens were banned from directly owning gold), and accelerated their hoarding in the late 1970s, turning it into a squeeze. It lead to a speculative explosion in the price of silver, as shown in Fig 3, leading by contagion to between a fivefold and tenfold increase in the price of precious metals. Then, upon the deflation of the bubble, metals gave back more than half of their gains and languished for more than two decades. At the time of writing, 41 years later, neither gold nor silver have, inflation adjusted, reached their previous peak. The same effect took place in 2008-2009 in the wake of the banking crisis: gold and silver jumped upwards between 80 and 120 % then subsequently lost most of their gains.
 
