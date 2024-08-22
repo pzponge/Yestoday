@@ -264,6 +264,8 @@
 [ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥](./John_Huber/Importance_of_ROIC_Part_5.md)|John Huber|双语|Ponge
 [ROIC 的重要性：再投资护城河与传统护城河](./John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)|John Huber, Connor Leonard|双语|Ponge
 [“漂亮50”时期的沃尔特·施洛斯，兼谈当前市场的估值与机遇](./John_Huber/walter-schloss-nifty-fifty-current.md)|John Huber|双语|Terrellchen
+[对巴菲特出售苹果股票的看法](./John_Huber/Thoughts-on-Buffett-Selling-Apple.md)|John Huber|双语|Terrellchen
+
 
 # 8\. Michael J. Mauboussin
 

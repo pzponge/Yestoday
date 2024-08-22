@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "f04c387314644417",
   "lastOpenFiles": [
+    "John_Huber/walter-schloss-nifty-fifty-current.md",
+    "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
+    "README.md",
+    "Elements/John_Huber/Walter-Schloss-results.jpg",
+    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "nfx/The-Network-Effects-Bible.md",
     "Charles_Munger/Acquired_Interviews.md",
     "nfx/The-Network-Effects-Manual.md",
-    "README.md",
     "Elements/The-Network-Effects-Bible/Cross-side.png",
     "Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf",
     "Elements/The-Network-Effects-Bible-PPT.pdf",
@@ -164,17 +168,14 @@
     "Elements/The-Network-Effects-Bible/Traffic.png",
     "Elements/The-Network-Effects-Bible/Switching-Costs.png",
     "Elements/The-Network-Effects-Bible/Scale-Effect.png",
-    "Elements/The-Network-Effects-Bible/SameSide.png",
     "Elements/The-Network-Effects-Bible",
     "Elements/20201231-【NFX】The Network Effects Bible (PPT)",
     "Elements/202408021447",
     "Elements/The-Network-Effects-Manual/202408021447",
     "Elements/The-Network-Effects-Manual",
     "Elements/未命名文件夹",
-    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "nfx",
     "Charles_Munger/芒格 2020 年 12 月 14 日接受加州理工学院校友会采访.md",
-    "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/Importance_of_ROIC_Part_1.md",
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
     "John_Huber/Importance_of_ROIC_Part_5.md",
@@ -191,8 +192,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md"
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md"
   ]
 }
