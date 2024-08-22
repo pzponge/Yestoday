@@ -335,15 +335,27 @@ First, let's discuss the demonetization of gold. In 1971, the U.S. government te
 
 In the early 1970s, the Hunt brothers started to hoard silver (when they started, U.S. citizens were banned from directly owning gold), and accelerated their hoarding in the late 1970s, turning it into a squeeze. It lead to a speculative explosion in the price of silver, as shown in Fig 3, leading by contagion to between a fivefold and tenfold increase in the price of precious metals. Then, upon the deflation of the bubble, metals gave back more than half of their gains and languished for more than two decades. At the time of writing, 41 years later, neither gold nor silver have, inflation adjusted, reached their previous peak. The same effect took place in 2008-2009 in the wake of the banking crisis: gold and silver jumped upwards between 80 and 120 % then subsequently lost most of their gains.
 
+20 世纪 70 年代初，亨特兄弟开始囤积白银（当时美国公民不允许直接拥有黄金），并在 20 世纪 70 年代末加速囤积，导致了市场的紧缩。如图 3 所示，这导致白银价格出现投机性的暴涨，进而引发了其他贵金属价格涨了 5~10 倍。随后，在泡沫破裂后，这些贵金属价格腰斩，并在接下来的二十多年里萎靡不振。截至本文撰写之时，41 年过去了，经通胀调整后的黄金和白银价格依然没有回到之前的峰值。2008-2009 年银行业危机爆发后也出现了同样的情况：黄金和白银飙升了 80% 至 120%，随后又跌回去了。
+
 ![](../Elements/Bitcoin_Currencies_and_Fragility/Fig_3.png)
 
-*Fig. 3. The rise and fall of metals during the Hunt squeeze of silver and, indirectly, gold.*
+*Fig. 3. The rise and fall of metals during the Hunt squeeze of silver and, indirectly, gold. </br>图 3：贵金属价格在亨特操纵白银（间接操纵黄金）期间的涨跌*
 
 Gold and silver proved then that they could neither be a reliable numeraire, nor an inflation hedge. The world had become too sophisticated for precious metals. If we consider the most effective numeraire, it must be the one in which the bulk of salaries are paid, as we will show next.
 
+当时的事实证明，黄金和白银既不能成为可靠的计量单位，也不能作为通货膨胀的对冲工具。贵金属无法应对这个纷繁复杂的世界。说起最有效的计量单位，那一定用来付大部分工资的币种，这一点我们将在下文中说明。
+
 >**Comment 3: Payment system**
 >
+> **评论 3：支付系统**
+> 
 >There is a conflation between "accepting bitcoin for payments" and pricing goods in bitcoin. To "price" in bitcoin, bitcoin the price must be fixed, with a conversion into fiat floating, rather than the reverse.
+>
+> 有人将「接受比特币支付」和「商品以比特币计价」这两件事搞混了。商品想要以比特币「计价」，那么该商品的比特币价格应该是固定的，浮动的应该是比特币兑法币的「汇率」，而不是反过来。[^p3][^x30]
+
+[^p3]: 译者注：很多所谓接受比特币支付的商品（比如特斯拉），还是以美元计价的，只不过在支付的时候可以选择比特币支付。如果比特币涨了，那你就可以用更少的比特币支付。塔勒布说没有这样的。比特币想成为计量单位，商品应该直接标价为「X BTC/个」。
+
+[^x30]: 许哲注：意思和上面那个萨尔瓦多的公民身份开价 3 比特币是一个意思。比特币从 7 万刀左右跌到 2 万刀，那个公民资格还是卖 3 BTC，没有变成 10.5 BTC 保持 21 万美元的价格才叫以比特币定价，区别于「接受比特币支付」。
 
 Let us go deeper into how a currency can come about. No transaction between two persons is analytically pairwise in an open economy. The root of the confusion lies in the prevalent naïve-libertarian illusion that a transaction between two consenting adults, when devoid of coercion, is effectively just a transaction between two consenting adults and can be isolated and discussed as such *\[note 12\]* But one must consider the ensemble of transactions and the interactions between agents: people happen to engage in contractual agreements with others; for them a specific transaction is just one piece. To be able to regularly buy goods denominated in bitcoin (whose prices fixed in bitcoin but floating in U.S.\$ or some other fiat currency), one must have an income that is fixed in bitcoin. Such an income must come from somewhere, say, an employer. For an employer to pay a salary fixed in bitcoin, she or he must be getting revenues fixed in bitcoin. Furthermore, for the vendor to offer a can of beer in fixed bitcoins, she or he must be paying for the raw material, and have the overhead fixed in bitcoin. The same applies to the mismatch of assets and obligations on a balance sheet. All this requires a parity in bitcoin-USD of low enough volatility to be tolerable and for variations to remain inconsequential.
 
