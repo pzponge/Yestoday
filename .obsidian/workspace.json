@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "f04c387314644417",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
     "README.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
     "Elements/John_Huber/Walter-Schloss-results.jpg",

@@ -357,9 +357,23 @@ Gold and silver proved then that they could neither be a reliable numeraire, nor
 
 [^x30]: 许哲注：意思和上面那个萨尔瓦多的公民身份开价 3 比特币是一个意思。比特币从 7 万刀左右跌到 2 万刀，那个公民资格还是卖 3 BTC，没有变成 10.5 BTC 保持 21 万美元的价格才叫以比特币定价，区别于「接受比特币支付」。
 
-Let us go deeper into how a currency can come about. No transaction between two persons is analytically pairwise in an open economy. The root of the confusion lies in the prevalent naïve-libertarian illusion that a transaction between two consenting adults, when devoid of coercion, is effectively just a transaction between two consenting adults and can be isolated and discussed as such *\[note 12\]* But one must consider the ensemble of transactions and the interactions between agents: people happen to engage in contractual agreements with others; for them a specific transaction is just one piece. To be able to regularly buy goods denominated in bitcoin (whose prices fixed in bitcoin but floating in U.S.\$ or some other fiat currency), one must have an income that is fixed in bitcoin. Such an income must come from somewhere, say, an employer. For an employer to pay a salary fixed in bitcoin, she or he must be getting revenues fixed in bitcoin. Furthermore, for the vendor to offer a can of beer in fixed bitcoins, she or he must be paying for the raw material, and have the overhead fixed in bitcoin. The same applies to the mismatch of assets and obligations on a balance sheet. All this requires a parity in bitcoin-USD of low enough volatility to be tolerable and for variations to remain inconsequential.
+Let us go deeper into how a currency can come about. No transaction between two persons is analytically pairwise in an open economy. The root of the confusion lies in the prevalent naïve-libertarian illusion that a transaction between two consenting adults, when devoid of coercion, is effectively just a transaction between two consenting adults and can be isolated and discussed as such *\[note 12\]*. But one must consider the ensemble of transactions and the interactions between agents: people happen to engage in contractual agreements with others; for them a specific transaction is just one piece. To be able to regularly buy goods denominated in bitcoin (whose prices fixed in bitcoin but floating in U.S.\$ or some other fiat currency), one must have an income that is fixed in bitcoin. Such an income must come from somewhere, say, an employer. For an employer to pay a salary fixed in bitcoin, she or he must be getting revenues fixed in bitcoin. Furthermore, for the vendor to offer a can of beer in fixed bitcoins, she or he must be paying for the raw material, and have the overhead fixed in bitcoin. The same applies to the mismatch of assets and obligations on a balance sheet. All this requires a parity in bitcoin-USD of low enough volatility to be tolerable and for variations to remain inconsequential.
+
+让我们深入探讨一下货币是如何产生的。在一个开放的经济体中，买卖双方的交易并不能像理论上一样被孤立地拆分为一对一对的。这种错误理解的根源在于普遍存在的天真自由主义幻想（naïve-libertarian illusion）：在没有强迫的情况下，两个有交易意向的成年人之间发生的交易仅仅就是交易本身，而且可以被孤立地拆分出来并讨论【注释 12】。但现实情况是，必须要考虑许许多多交易的整体作用以及交易主体之间的互动关系：买卖双方签订合同协议是随机的，对于任何一个交易主体来说，任意一笔交易只是诸多交易行为的一部分。因此，如果一个人想要定期购买以比特币计价的商品（这个意思是说，该商品相对于比特币的兑价是固定的，相对于美元或其他法币的兑价是浮动的），那么，这个人必须有以比特币计价的收入。这种收入必须来自于其他地方，比如说，雇主。而对于一个雇主来说，想要支付以比特币计价的薪水，她或他必须赚取以比特币计价的营业收入。而且，如果商贩想要售卖以比特币计价的罐装啤酒，那么他或她在支付各类原材料成本和其他开销时都要以比特币来计价。同样，在资产负债表上也有类似的问题，如果你的资产是以比特币计价的，那么你的负债也要以比特币计价才可以，否则就会错配。而所有这一切都需要比特币兑美元的汇率保持足够低的波动，且波动是随机性的（而非趋势性的）。[^x31]
+
+[^x31]: 许哲注：
+
+	这里涉及到的一个概念是「交易成本」。真实世界里的交易不是没成本的，在一个异常孤立的经济学设想里，交易用什么货币清算是无关紧要的，因为可以把所有的交易都附加上一个外汇掉期互换。但真实的世界里，不可能所有涉及到的交易都频繁的做这种附加合同，必须考虑真实世界的日常清算的交易成本。一次涉及到汇率掉期的交易只能是偶尔出现的，不可能日常买菜等琐事里高频出现。
+	
+	纯粹的用一个个合同来解释自由人的经济活动是一个过度理想化的学术设想而已，是一个真空球形鸡式的构想，真实的世界不是这样的。人们在一个个合同下和人进行理性人博弈互动是偶尔的。大量的日常交易如果有一方要用比特币来进行计价的话，那意味着牵一发而动全身，所有的必须都用比特币来定价。除非比特币和现在最主流的清算方式，也就是美元，其之间的波动率小到可以不产生非常严重的影响。
+	
+	笔者的生活经验里有接触到一些跨国的不方便用正常银行渠道的清算案例，用USDT的交易远多于BTC。
+	
+	大体的意思是说比特币倘若真要走货币属性路线，那除非所有人突然都用比特币计价，否则它必须与当下世界的主流清算方式保持一个很小的波动率才有可能。
 
 *\[note 12\]*: [https://www.libertarianism.org/](https://www.libertarianism.org/)
+
+【注释 12】[https://www.libertarianism.org/](https://www.libertarianism.org/)
 
 There are also arbitrage bounds present in any sufficiently efficient economy with relatively free markets.
 
