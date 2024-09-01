@@ -151,7 +151,7 @@
 [2013 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md)|2014-02-28|双语|芒格书院共读群友
 [2014 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Letter_to_Berkshire_Shareholders.md)|2015-02-27|双语|芒格书院共读群友
 [2014 年特别信：伯克希尔的过去、现在和未来](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md)|2015-02-27|双语|芒格书院共读群友
-[2014 年特别信：副董事长的思考——过去与未来](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)|2015-02-27|双语|芒格书院共读群友
+[2014 年特别信：副董事长的思考——过去与未来](./Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman%E2%80%99s_Thoughts.md)|2015-02-27|双语|ShawnQinHX
 [2015 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2015_Letter_to_Berkshire_Shareholders.md)|2016-02-27|双语|芒格书院共读群友
 [2016 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2016_Letter_to_Berkshire_Shareholders.md)|2017-02-25|双语|芒格书院共读群友
 [2017 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/2017_Letter_to_Berkshire_Shareholders.md)|2018-02-24|双语|芒格书院共读群友
