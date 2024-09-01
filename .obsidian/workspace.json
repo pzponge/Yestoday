@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "f04c387314644417",
   "lastOpenFiles": [
+    "README.md",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
-    "README.md",
     "Elements/John_Huber/Walter-Schloss-results.jpg",
     "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "nfx/The-Network-Effects-Bible.md",
