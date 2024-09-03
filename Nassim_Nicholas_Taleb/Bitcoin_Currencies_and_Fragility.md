@@ -377,11 +377,33 @@ Let us go deeper into how a currency can come about. No transaction between two 
 
 There are also arbitrage bounds present in any sufficiently efficient economy with relatively free markets.
 
-Furthermore, to use a quantitative finance analogy: the seller of an item priced in fixed bitcoin, yet available elsewhere in fiat currency, would be short a currency option struck at the initial exchange rate. If a vendor prices goods in bitcoin, and the value fluctuates from the initial fixing, the price will be directly or indirectly arbitraged: when the conversion rate to fiat is favorable, customers will buy from the bitcoiner: when it is unfavorable they will either buy elsewhere (indirect arbitrage), or if possible, return previously purchased goods (direct arbitrage). For the price to not be arbitrageable requires the good to be unique and unavailable elsewhere at a price fixed in another currency -in this case it becomes, simply, a proxy for bitcoin. The only items that currently appear to be somewhat priced in bitcoin are other cryptocurrencies, even then not always.
+在任何充分有效的相对自由市场中，不同货币之间也存在着套利机制，将特定货币的价格稳定在某个区间。
+
+Furthermore, to use a quantitative finance analogy: the seller of an item priced in fixed bitcoin, yet available elsewhere in fiat currency, would be short a currency option struck at the initial exchange rate. If a vendor prices goods in bitcoin, and the value fluctuates from the initial fixing, the price will be directly or indirectly arbitraged: when the conversion rate to fiat is favorable, customers will buy from the bitcoiner; when it is unfavorable they will either buy elsewhere (indirect arbitrage), or if possible, return previously purchased goods (direct arbitrage). For the price to not be arbitrageable requires the good to be unique and unavailable elsewhere at a price fixed in another currency — in this case it becomes, simply, a proxy for bitcoin. The only items that currently appear to be somewhat priced in bitcoin are other cryptocurrencies, even then not always.
+
+借用量化金融的说法：如果一个商品以比特币计价进行出售，但该商品在其他地方是以法币计价，那么卖家应该同时卖出（short）一份按初始汇率执行的货币期权（currency option）。如果不这么做，因为卖家出售的商品以比特币计价，一旦比特币对法币的汇率开始偏离初始值发生波动，这种定价机制会被直接或间接套利：当比特币兑换成法定货币的汇率有利时，顾客会从比特币计价的销售商那里购买；当汇率不利时，他们要么选择在其他地方购买（间接套利），要么在可能的情况下退回之前购买的商品（直接套利）。如果不想被套利，那么该商品必须是独一无二的，并且无法在别处以其他货币计价的价格购买——但在这种情况下，这种商品实质上就是另一种形式的比特币。目前来看，以比特币计价的商品似乎只有其他加密货币，甚至其他加密货币也并不总是以比特币计价。[^x32]
+
+[^x32]: 许哲注：
+	
+	上面这一段套利的意思是：因为比特币和主流法币的汇率不稳定且自由市场自发的会出现套利行为，所以用比特币固定的去定价日常商品和服务是不可能的。假设一个人用比特币定价一箱啤酒因为比特币波动太大，而套利者一直存在，那么这个商贩平时啥事都别做了，每时每刻都不断修改报价了。
+	
+	这里的锁定某类商品必须用一种货币清算恰是当今石油-美元体系的方式，即强制用美元清算石油来使得美元的价值始终是存在的，美元成了纸原油，也就是一个代理机制。而比特币作为货币来看的话，唯一用它来购买的只有其他币这是个循环论证了。
+	
+	当一个货币能且只有它能购买某类大家都需要的商品时，它必然是有价值的。就好比当只有粮票能购买到粮食时，粮票也产生了一种货币属性是可流通的。现在目前全球很多货币的央行的资产负债表里的资产是美元，本身是个二级锚定机制，美元是原油的一级代理，那么这些央行资产表里是美元的货币就是原油的二级代理。
 
 Bimetalism did not last long[^r11]， nor could commodities last as currencies in developed economies[^r12].
 
+金银双本位制度（Bimetalism）并没有持续很久[^r11]，在发达经济体中，商品作为货币的地位也没有持续多久[^r12]。
+
 More generally, the reasons multiple currencies exist (in the absence of pegs) is because there is not enough globalization and markets are not entirely free between currency zones. And some goods and services, "such as haircuts and auto repair cannot be traded internationally"[^r13] they are not, to use the language of quantitative finance, arbitrageable.
+
+更一般地说，之所以存在多种货币（在没有挂钩的情况下），是因为全球化程度不够，各货币区之间的市场也不是完全自由的。而且一些商品和服务，「如理发和修车服务，无法进行跨国交易」[^r13]。用量化金融术语来说，它们是不可套利的。[^x33]
+
+[^x33]: 许哲注：
+
+	发达国家的理发师和汽车维修师的收入数倍于欠发达国家，并非是因为他们的服务好很多，也并没有引发发达国家的人都集体跑去欠发达国家修车和理发，那是因为存在国界和距离。这也是经济学里说的非可贸易商品的概念。如果所有的商品和服务都在零运费和零关税的情况下可以自由贸易，那么套利会抹平所有的价差。但真实的世界里是不可能这样理想化的。所以才会出现多币种同时存在且没有被套利抹平一切。固定挂钩汇率的情况除外，例如港币挂钩美元，那在经济学意义上，它们名字不一样，但其实是一种货币。
+	
+	这是补充说明上面那一段套利会让货币互相趋平的一个补丁，按照上面那一段世界就不应该有那么多种货币同时存在了，双币制和单一商品制不成立是好解释了，但无法解释当今世界货币林立。这里给的补丁是真实的世界套利不是那么理想化的。
 
 In 2021, the governments (central and local) share of GDP in Western economies is around 30-60%， one order of magnitude higher than it was in the 1900s. Government employees and contractors get paid in fiat currency; taxes are collected similarly *\[note 13\]*.
 
