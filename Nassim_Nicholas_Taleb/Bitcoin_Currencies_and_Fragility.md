@@ -405,15 +405,46 @@ More generally, the reasons multiple currencies exist (in the absence of pegs) i
 	
 	这是补充说明上面那一段套利会让货币互相趋平的一个补丁，按照上面那一段世界就不应该有那么多种货币同时存在了，双币制和单一商品制不成立是好解释了，但无法解释当今世界货币林立。这里给的补丁是真实的世界套利不是那么理想化的。
 
-In 2021, the governments (central and local) share of GDP in Western economies is around 30-60%， one order of magnitude higher than it was in the 1900s. Government employees and contractors get paid in fiat currency; taxes are collected similarly *\[note 13\]*.
+In 2021, the governments (central and local) share of GDP in Western economies is around 30-60%, one order of magnitude higher than it was in the 1900s. Government employees and contractors get paid in fiat currency; taxes are collected similarly *\[note 13\]*.
+
+到 2021 年，西方主要发达经济体的政府（包括中央和地方）占据了 GDP 大概 30%~60% 的经济活动总量，比 20 世纪初高出一个数量级。政府雇员和承包商会以法币支付工资；政府征税也是以法币计量【注释 13】。[^x34]
+
+[^x34]: 许哲注：
+	
+	这里其实主要讲的是货币场景的争夺，倘若真的有一天有一种货币要和法币竞争，那作为货币属性的竞争本质上是在竞争使用场景。也就是要把 MV=PQ 右边的用于支付的商品服务的量给提上来。现在政府已经占据了 GDP 活动的三成到六成了，那么政府只要坚持用法币支付报酬和收税，又有什么东西能和政府法定的法币来竞争呢？用更币圈的话术阐述：政府已经掌握了货币使用场景的 51% 攻击了。
+	
+	也不用过于悲观，法币其实并不是政府法令凭空创造的，也是要借其信用做支撑的。津巴布韦政府滥发货币依然是其国家唯一指定的法定货币，但本地已经被弃用了。所谓法币，依然是要用信用支撑的，不是一个敕令就大家所有人都必须认的。
 
 *\[note 13\]*: The designation "fiat" is a misleading stretch of language: money is not created by edict but largely via credit, by governments or the private sectors, particularly the banking system — and both lenders and borrowers need the least volatile currency[^r14].
 
+【注释 13】「法定货币（fiat currency）」这种叫法是有误导性的：货币不是通过法令创造的，而主要是通过信贷，由政府或私营部门创造的，特别是银行系统——无论是贷款人还是借款人都需要波动性最小的货币。[^r14]
+
 Finally, while within a modern currency zone a bimetallic style dual currency cannot easily exist, the same limitations exist between currency zones; parity between currencies tend to be subjected to volatility bounds. An observation we currency option traders made while doing cross-currency volatility arbitrages is that the volatility of a currency pair is inversely proportional to the trade between the two currency zones — countries heavy into trade such as Hong Kong, Saudi Arabia, the UAE, and Singapore (at some point) have maintained explicit pegs to the U.S. dollar or some basket. There could be an interactive relationship between trade and volatility: one can argue that the stability of a currency-pair (adjusted for the yield curve)encourages trade and trade in turn brings stability to the pair *\[note 14\]* *\[note 15\]*.
+
+最后，固然在一个货币区内，金银双本位制度难以存在，在不同货币区之间，也存在着相同的限制；货币之间的平价往往受到波动范围的限制。我们作为货币期权交易者在进行跨币种波动性套利时观察到，货币交易对的波动性与两个货币区之间的贸易量呈负相关——和美国贸易非常密切的地区，比如香港、沙特阿拉伯、阿联酋和新加坡（有时候），其汇率通常会挂钩或钉住美元或某个货币篮子。贸易量和汇率波动性之间是相互影响的：可以认为，两种货币汇率的稳定性（经过收益曲线调整）促进了贸易，而贸易反过来又为这两种货币的汇率带来了稳定性【注释 14】【注释 15】。[^x35]
+
+[^x35]: 许哲注：
+
+	这个结论和观察并不意外，我们理解了上文的套利活动的频繁存在就能理解为什么互相贸易比较频繁的两个地区的货币汇率会偏向于稳定了。
+	
+	期权是一种衍生品，本身是交易一个标的的波动率的，即可以下注它的波动变大和变小。在汇率的期权市场交易就是在交易某两个货币之间汇率变动的波动剧烈程度。所以汇率的期权市场最能直接观察到该汇率兑的稳定性。
+	
+	这个之间也存在着一种自我加强的正反馈过程，稳定的汇率使得两国之间的贸易并不需要太多考虑汇率波动的风险，而因为不用考虑汇率波动的风险，那么两个之间的贸易会增大而这个增大又加强了汇率的稳定。
+
 
 *\[note 14\]*: Currency pairs often show fake volatility as the spot price can be fluctuating, but forward contracts do less so, owing to interest rate adjustments in the weak currency: interest rates rise to compensate holders for the devaluation.
 
-*\[note 15\]*: We note here that quantitative finance operates along the lines of neoclassical economic theory in that both share a central principle: absence of arbitrage, which maps to the law of one price — the former, a concept initially aimed at goods and services, may be broadened to include asset valuation[^r15]. When we apply the law of one price to currencies, we realize using basic arbitrage arguments that the recent globalization does not allow for different currencies to coexist in the same marke: one must win.
+【注释 14】 由于即期价格波动性较大，货币对经常表现出不真实的波动性，但由于弱势货币的利率也会随之调整，远期合约的波动性较小：弱势货币的利率会上升，以补偿持有人因贬值而遭受的损失。[^x36]
+
+[^x36]: 许哲注：这里讲的是汇率市场的平价定律，意思是实际货币兑之间的平稳性要比现汇市场的波动率看上去要小。这里并不改变上面通过汇率期权市场观察汇率稳定性的有效性。因为期权定价锚定的也是标的物的未来的价格，汇率期权定价定的外汇远期的波动率而非即期汇率的波动率。所以塔勒布作为汇率期权交易员的观察没问题。
+
+*\[note 15\]*: We note here that quantitative finance operates along the lines of neoclassical economic theory in that both share a central principle: absence of arbitrage, which maps to the law of one price — the former, a concept initially aimed at goods and services, may be broadened to include asset valuation[^r15]. When we apply the law of one price to currencies, we realize using basic arbitrage arguments that the recent globalization does not allow for different currencies to coexist in the same market: one must win.
+
+【注释 15】 我们在此指出，量化金融遵循新古典经济理论，因为两者共享一个核心原则：无套利假设，也就是一价定律（law of one price）。无套利定价最初是一个针对商品和服务的概念，也可以扩展到资产估值[^r15]。当我们将一价定律应用于货币时，
+
+p我们在此指出，定量金融遵循新古典经济理论，因为两者共享一个核心原则：无套利原则，这与一价法则相对应——前者是一个最初针对商品和服务的概念，可以扩展到资产估值。当我们将一价法则应用于货币时，我们利用基本的套利论证意识到，最近的全球化并不允许不同货币在同一市场中共存：必然有一种货币胜出。
+
+x我们注意到量化金融和新古典主义经济学都遵循的原则：无风险套利不存在假设和一价定律，前者包括了所有的商品和服务，应该囊括资产定价在内。当我们应用一价定律在货币上的时候，我们意识到用最基本的套利规则那么当今全球化的请下事实上不允许同一个市场里存在两种不同的货币，有一个必须赢家通吃。
 
 Now bitcoin, as seen in Fig.1 has maintained extremely high volatility throughout its life (between 60% and 100% annualized) and, what is worse, at higher prices, which makes it's capitalization considerably more volatile, rising in price as shown in Fig. 2 — is it too volatile to fail?
 

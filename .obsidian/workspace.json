@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4fd8d089e5cb7eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "翻译更新日志.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "翻译更新日志.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "翻译更新日志.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
+                "file": "翻译更新日志.md"
               }
             }
           }
@@ -146,12 +159,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f04c387314644417",
+  "active": "4fd8d089e5cb7eeb",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
+    "翻译更新日志.md",
+    "README.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
+    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md",
-    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
-    "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
@@ -190,9 +206,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1965_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md"
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md"
   ]
 }
