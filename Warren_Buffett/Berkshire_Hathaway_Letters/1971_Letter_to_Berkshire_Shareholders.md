@@ -6,7 +6,9 @@
 - 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1971-Berkshire-AR.pdf)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 修订：Terrellchen
+
+[^*]: 该部分有修订，详见《[翻译更新日志](../../%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)》
 
 ---
 
@@ -14,9 +16,9 @@ To the Stockholders of Berkshire Hathaway Inc.:
 
 致伯克希尔·哈撒韦公司全体股东：
 
-It is a pleasure to report that operating earnings in 1971, excluding capital gains, amounted to more than 14% of beginning shareholders’ equity. This result --considerably above the average of American industry -- was achieved in the face of inadequate earnings in our textile operation, making clear the benefits of redeployment of capital inaugurated five years ago. It will continue to be the objective of management to improve return on total capitalization (long term debt plus equity), as well as the return on equity capital. However, it should be realized that merely maintaining the present relatively high rate of return may well prove more difficult than was improvement from the very low levels of return which prevailed throughout most of the 1960’s. [^1]
+It is a pleasure to report that operating earnings in 1971, excluding capital gains, amounted to more than 14% of beginning shareholders’ equity. This result --considerably above the average of American industry -- was achieved in the face of inadequate earnings in our textile operation, making clear the benefits of redeployment of capital inaugurated five years ago. It will continue to be the objective of management to improve return on total capitalization (long term debt plus equity), as well as the return on equity capital. However, it should be realized that merely maintaining the present relatively high rate of return may well prove more difficult than was improvement from the very low levels of return which prevailed throughout most of the 1960’s. 
 
-今天很高兴报告我们 1971 年的经营收益，扣除资本利得，我们的股东权益比年初增加了 14%。这个结果大大高于美国工业平均值，而且是在我们纺织业务对利润贡献不大的情况下，这些都归功于我们五年前开始的业务重组。管理层的目标依然是提高总资本（长期债务加上净资产）的回报率和股本回报率。然而，应该认识到，仅仅维持目前相对较高的回报率，很可能比从 1960 年代大部分时间普遍存在的极低回报率中改善要困难得多。[^1]
+今天很高兴报告我们 1971 年的经营收益，扣除资本利得，我们的股东权益比年初增加了 14%。这个结果大大高于美国工业平均值，而且是在我们纺织业务对利润贡献不大的情况下，这些都归功于我们五年前开始的业务重组。管理层的目标依然是提高总资本（长期债务加上净资产）的回报率和股本回报率。然而，应该认识到，仅仅维持目前相对较高的回报率，很可能比从 1960 年代大部分时间普遍存在的极低回报率中改善要困难得多。[^*]
 
 # Textile Operations 纺织业务
 
@@ -30,17 +32,17 @@ As mentioned last year, Ken Chace and his management group have been swimming ag
 
 # Insurance Operations 保险业务
 
-An unusual combination of factors -- reduced auto accident frequency, sharply higher effective rates in large volume lines, and the absence of major catastrophes -- produced an extraordinarily good year for the property and casualty insurance industry.[^2] We shared in these benefits, although they are not without their negative connotations.
+An unusual combination of factors -- reduced auto accident frequency, sharply higher effective rates in large volume lines, and the absence of major catastrophes -- produced an extraordinarily good year for the property and casualty insurance industry. We shared in these benefits, although they are not without their negative connotations.
 
-交通事故的降低，大额保单实际费率的大幅上升以及今年没有发生特大灾难，这些因素加在一起使我们的财产和意外险业务今年表现异常的好[^2]。虽然还存在一些不足，我们还是因此受惠。
+交通事故的降低，大额保单实际费率的大幅上升以及今年没有发生特大灾难，这些因素加在一起使我们的财产和意外险业务今年表现异常的好[^*]。虽然还存在一些不足，我们还是因此受惠。
 
 Our traditional business -- and still our largest segment -- is in the specialized policy or non‐standard insured. When standard markets become tight because of unprofitable industry underwriting, we experience substantial volume increases as producers look to us. This was the condition several years ago, and largely accounts for the surge of direct volume experienced in 1970 and 1971. Now that underwriting has turned very profitable on an industry‐wide basis, more companies are seeking the insureds they were rejecting a short while back and rates are being cut in some areas. We continue to have underwriting profitability as our primary goal and this may well mean a substantial decrease in National Indemnity’s direct volume during 1972. Jack Ringwalt and Phil Liesche continue to guide this operation in a manner matched by very few in the business.
 
 我们的传统业务(仍然是最大的业务)是专业保单和非标准保险业务，当标准保险市场由于无利可图的承保竞争而变得供应趋紧时，生产商主动找我们投保，因此我们的业务增长了很多，最近几年的行业情况都是如此。现在保险业在整个行业里已经变得非常有利可图，更多的公司在这一领域寻找曾被拒绝的投保人，一些地区投保费用也正在下降。但是我们继续保持承保盈利为我们的主要目标，这意味着在 1972 年国民保险公司的业务量将发生重大下降。杰克·林沃尔特和菲尔·列谢继续以业内无与匹敌的方式推进这些业务。
 
-Our reinsurance business, which has been developed to a substantial operation in just two years by the outstanding efforts of George Young, faces much the same situation. We entered the reinsurance business late in 1969 at a time when rates had risen substantially and capacity was tight.[^3] The reinsurance industry was exceptionally profitable in 1971, and we are now seeing rate‐cutting as well as the formation of well‐capitalized aggressive new competitors. These lower rates are frequently accompanied by greater exposure. Against this background we expect to see our business curtailed somewhat in 1972. We set no volume goals in our insurance business generally -- and certainly not in reinsurance -- as virtually any volume can be achieved if profitability standards are ignored. When catastrophes occur and underwriting experience sours, we plan to have the resources available to handle the increasing volume which we will then expect to be available at proper prices.
+Our reinsurance business, which has been developed to a substantial operation in just two years by the outstanding efforts of George Young, faces much the same situation. We entered the reinsurance business late in 1969 at a time when rates had risen substantially and capacity was tight. The reinsurance industry was exceptionally profitable in 1971, and we are now seeing rate‐cutting as well as the formation of well‐capitalized aggressive new competitors. These lower rates are frequently accompanied by greater exposure. Against this background we expect to see our business curtailed somewhat in 1972. We set no volume goals in our insurance business generally -- and certainly not in reinsurance -- as virtually any volume can be achieved if profitability standards are ignored. When catastrophes occur and underwriting experience sours, we plan to have the resources available to handle the increasing volume which we will then expect to be available at proper prices.
 
-再保险业务也是相同的状况，在两年中实现了很快的发展，这都要归功于  George Young 的杰出努力。我们在 1969 年末进入再保险领域，那时保费费率上升很快，承保能力紧张[^3]。再保险业务 1971 年利润非常可观。如今保费费率下降，又出现了很多资本充足的强大竞争对手。较低的保费费率往往伴随着较大的风险敞口。在这种背景下，我们预计 1972 年我们的业务会有所缩减。我们不会为我们的保险业务设置目标(再保险业务也是如此)，因为如果忽略盈利，任何虚幻的目标都可以实现。当大灾难出现和承保业务恶化索赔上升时，我们希望我们有能力调集足够的资金来处理这些问题。
+再保险业务也是相同的状况，在两年中实现了很快的发展，这都要归功于  George Young 的杰出努力。我们在 1969 年末进入再保险领域，那时保费费率上升很快，承保能力紧张[^*]。再保险业务 1971 年利润非常可观。如今保费费率下降，又出现了很多资本充足的强大竞争对手。较低的保费费率往往伴随着较大的风险敞口。在这种背景下，我们预计 1972 年我们的业务会有所缩减。我们不会为我们的保险业务设置目标(再保险业务也是如此)，因为如果忽略盈利，任何虚幻的目标都可以实现。当大灾难出现和承保业务恶化索赔上升时，我们希望我们有能力调集足够的资金来处理这些问题。
 
 We inaugurated our “home‐state” insurance operation in 1970 by the formation of Cornhusker Casualty Company. To date, this has worked well from both a marketing and an underwriting standpoint. We have therefore further developed this approach by the formation of Lakeland Fire & Casualty Company in Minnesota during 1971, and Texas United Insurance in 1972. Each of these companies will devote its entire efforts to a single state seeking to bring the agents and insureds of its area a combination of large company capability and small company accessibility and sensitivity. John Ringwalt has been in overall charge of this operation since inception. Combining hard work with imagination and intelligence, he has transformed an idea into a well‐organized business. The “home‐state” companies are still very small, accounting for a little over $1.5 million in premium volume during 1971. It looks as though this volume will more than double in 1972 and we will develop a more creditable base upon which to evaluate underwriting performance.
 
@@ -94,27 +96,3 @@ Chairman of the Board
 March 13, 1972
 
 1972 年 3 月 13 日
-
-[^1]: By Terrellchen @20231006
-	
-	原文：It will continue to be the objective of management to improve return on total capitalization (long term debt plus equity), as well as the return on equity capital. However, it should be realized that merely maintaining the present relatively high rate of return may well prove more difficult than was improvement from the very low levels of return which prevailed throughout most of the 1960’s. 
-	
-	芒格书院共读群友：我们管理层的主要目标仍然是提高投入资本回报率(股东权益+长期债券)和股本回报率。但是我们应该意识到保持这样高的投资回报率比较困难，因为整个 60 年代的投资回报都不是很高。
-	
-	参照张志雄版，拟修改为：管理层的目标依然是提高总资本（长期债务加上净资产）的回报率和股本回报率。然而，应该认识到，仅仅维持目前相对较高的回报率，很可能比从1960年代大部分时间普遍存在的极低回报率中改善要困难得多。
-
-[^2]: By Terrellchen @20231006
-	
-	原文：An unusual combination of factors -- reduced auto accident frequency, sharply higher effective rates in large volume lines, and the absence of major catastrophes -- produced an extraordinarily good year for the property and casualty insurance industry.
-	
-	芒格书院共读群友：交通事故的降低，大规模生产线效率的提高以及今年没有发生特大灾难，这些因素加在一起使我们的财产和意外险业务今年表现异常的好。
-	
-	参照张志雄版，拟建议为：交通事故的降低，大额保单实际费率的大幅上升以及今年没有发生特大灾难，这些因素加在一起使我们的财产和意外险业务今年表现异常的好。
-
-[^3]: By Terrellchen @20231006
-	
-	原文：Our reinsurance business, which has been developed to a substantial operation in just two years by the outstanding efforts of George Young, faces much the same situation. We entered the reinsurance business late in 1969 at a time when rates had risen substantially and capacity was tight.
-	
-	芒格书院共读群友：再保险业务也是相同的状况，在两年中实现了很快的发展，这都要归功于 George Young 的杰出努力。我们在 1969 年末进入再保险领域，那时保费费率上升很快，市场产能也变得紧张。
-	
-	拟修改为：再保险业务也是相同的状况，在两年中实现了很快的发展，这都要归功于 George Young 的杰出努力。我们在 1969 年末进入再保险领域，那时保费费率上升很快，承保能力紧张。

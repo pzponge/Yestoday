@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "翻译更新日志.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f5855ec9bf844e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -160,6 +172,8 @@
   },
   "active": "f04c387314644417",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md",
     "翻译更新日志.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
     "README.md",
@@ -203,8 +217,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1965_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md"
+    "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md"
   ]
 }

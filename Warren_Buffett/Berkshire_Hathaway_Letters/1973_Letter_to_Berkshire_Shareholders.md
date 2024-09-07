@@ -6,7 +6,9 @@
 - 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1973-Berkshire-AR.pdf)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 修订：Terrellchen
+
+[^*]: 该部分有修订，详见《[翻译更新日志](../../%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)》
 
 ---
 
@@ -46,9 +48,9 @@ During 1973, Jack Ringwalt retired as President of National Indemnity Company af
 
 1973 年，杰克·林沃尔特 (Jack Ringwalt) 从国民保险总裁的职务上退休。自 1940 年创立这家公司以来，Jack 引领它取得了绝佳的经营记录。接替他的是菲尔·列舍 (Phil Liesche)，杰克有一套行之有效的承保和管理哲学，幸运的是，Phil 坚持同样的行事方式。
 
-Our traditional business, specialized auto and general liability lines conducted through National Indemnity Company and National Fire and Marine Insurance Company, had an exceptionally fine underwriting year during 1973. We again experienced a decline in volume. Competition was intense, and we passed up the chance to match rate‐cutting by more optimistic underwriters.[^1] There currently are faint indications that some of these competitors are learning of the inadequacy of their rates (and also of their loss reserves) which may result in easing of market pressures as the year develops. If so, we may again experience volume increases.
+Our traditional business, specialized auto and general liability lines conducted through National Indemnity Company and National Fire and Marine Insurance Company, had an exceptionally fine underwriting year during 1973. We again experienced a decline in volume. Competition was intense, and we passed up the chance to match rate‐cutting by more optimistic underwriters. There currently are faint indications that some of these competitors are learning of the inadequacy of their rates (and also of their loss reserves) which may result in easing of market pressures as the year develops. If so, we may again experience volume increases.
 
-我们主要的保险业务是国民保险经营的专业汽车和一般责任险。 1973 年的承保状况都非常好，但业务量再一次下降了。竞争很激烈，我们拒绝像其他更为乐观的承保者一样调低保险费率[^1]。目前隐约的迹象表明，竞争对手中的一些已经意识到了他们利润率(以及损失储备金)的不足。或许这可以缓解市场上的压力。如果真是这样的话，那我们就可以再次期望承保量上升了。
+我们主要的保险业务是国民保险经营的专业汽车和一般责任险。 1973 年的承保状况都非常好，但业务量再一次下降了。竞争很激烈，我们拒绝像其他更为乐观的承保者一样调低保险费率[^*]。目前隐约的迹象表明，竞争对手中的一些已经意识到了他们利润率(以及损失储备金)的不足。或许这可以缓解市场上的压力。如果真是这样的话，那我们就可以再次期望承保量上升了。
 
 Our reinsurance operation had a somewhat similar year—good underwriting experience, but difficulty in maintaining previous volume levels. This operation, guided by the tireless and well‐ directed efforts of George Young, has been a major profit producer since its inception in 1969.
 
@@ -153,12 +155,3 @@ Chairman of the Board
 March 29, 1974
 
 1974 年 3 月 29 日
-
-
-[^1]: By Terrellchen @20231007
-	
-	原文： Competition was intense, and we passed up the chance to match rate‐cutting by more optimistic underwriters.
-	
-	芒格书院共读群友：竞争很激烈，我们放弃了一些乐观的承保者降低了利润率的业务。
-	
-	参照张志雄版修改为：竞争很激烈，我们拒绝像其他更为乐观的承保者一样调低保险费率。
