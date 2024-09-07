@@ -6,9 +6,9 @@
 - 链接：[PDF](https://www.berkshirehathaway.com/letters/final1999pdf.pdf)
 - 中文翻译参考：芒格书院共读群友
 - 整理：009
-- 校译：纪璐、Ponge
+- 修订：纪璐、Ponge（[修订记录](./%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)）
 
-[^*]: [1999 年致股东的信](./Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md)
+[^*]: 该部分有修订，详见《翻译更新日志》
 
 ---
 
