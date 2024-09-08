@@ -288,8 +288,13 @@
 ---|---|---|---
 [马丁资管 2022 年年度报告](./Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md)|双语|DeepL|Terrellchen，Ponge
 
+# 11\. Nassim Nicholas Taleb
 
-# 11\. 其他
+|标题|语言|翻译|
+|---|---|---|
+|[比特币、货币和脆弱性](./Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md)|双语|Ponge|
+
+# 12\. 其他
 
 标题|作者|语言|翻译|整合
 ---|---|---|---|---
