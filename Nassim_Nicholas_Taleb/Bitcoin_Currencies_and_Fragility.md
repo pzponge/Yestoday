@@ -450,7 +450,7 @@ Now bitcoin, as seen in Fig.1 has maintained extremely high volatility throughou
 
 [^x38]: 许哲注：总结一下这一整大断的意思：一个东西要成为货币属性的东西，它必须不能和商品的价值之间产生太大的波动率，因为这个世界是存在频繁套利的且普遍遵循一价定律，那么频繁套利会使得改候选货币无法在真实的日常的生活里充当货币的角色，因为交易成本会高到不可忍受（买卖双方要过于频繁的修改交易）。并且这个推论放到国际货币市场上也是完全成立的，能被作为可贸易货币的东西会互相稳定下来，做不到的这不可能成为可贸易货币圈子里的一员。底层的例外是如果你能锚定一种广泛被需要的商品必须用此种货币来交易，但比特币能锚定交易的只有其他币，没有任何一种商品可以。除了萨尔瓦多的公民身份之外一个都没有。货币自由竞争的场景下因为政府活动已经占了 GDP 的三成到六成，那么在使用场景的竞争上比特币也不可能是法币的对手。
 
-## The Difficulty With Inflation Hedges </br>难以对冲通胀
+## The Difficulty With Inflation Hedges </br>通胀对冲的难题
 
 This does not mean that a cryptocurrency cannot displace fiat — it is indeed desirable to have at least one *real* currency without a government. But the new currency just needs to be more appealing as a store of value by tracking a weighted basket of goods and services with minimum error.
 
