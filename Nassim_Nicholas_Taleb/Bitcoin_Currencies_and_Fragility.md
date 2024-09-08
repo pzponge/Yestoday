@@ -454,17 +454,37 @@ Now bitcoin, as seen in Fig.1 has maintained extremely high volatility throughou
 
 This does not mean that a cryptocurrency cannot displace fiat — it is indeed desirable to have at least one *real* currency without a government. But the new currency just needs to be more appealing as a store of value by tracking a weighted basket of goods and services with minimum error.
 
+这并不是说加密货币这个形式一定不能取代法币——这个世界上至少有一种非政府发行的、**真正的**货币还是很令人期待的。不过这种新币种需要以非常小的误差跟踪一篮子商品和服务的价值，才能作为一种更具吸引力的价值储存方式存在。
+
 Displacing fiat is not easy, and has been done locally — though no single item has proved to be permanent and the difficulty is best represented in the following example. During the 1970s, the Italian national telephone tokens, the *gettoni*, were considered acceptable tender, almost always accepted as payment. The price of the espresso when expressed in lira varied over time, but it remained sticky to the *gettone*. For a while the *gettone* proved the closest money to track the Fisher Index across 12 communes[^r16] *\[note 16\]*. And while the gettoni worked for daily purchases such as espresso, it is doubtful that they could have been used as payment for an Alfa Romeo[^r18].
+
+尽管在某些局部地区进行过尝试，取代法币不是一个容易的事情，目前还没有一种新币能够永久取代法币。下面的例子最能体现这种难度。在 1970 年代，意大利的国家电话代币 gettone（复数形式是 gettoni） 被视为可接受的货币，差不多成为了当时的支付手段。在当时，意式浓缩咖啡的意大利里拉价格是浮动的，但其 gettone 的价格却是固定的。有一段时间，gettone 被证明是跟踪 12 个市镇（communes）费雪物价指数最接近的货币[^r16]【注释 16】。虽然 gettone 可以用来购买意式浓缩咖啡等日常用品，但它可能没办法用来买一台阿尔法·罗密欧（Alfa Romeo）跑车[^r18]。[^x39]
+
+[^x39]: 许哲注：这里指的不是代金券，比如星巴克发的以人民币计价的礼品券和这里完全是两个概念。这个 gettoni 币和里拉没有固定的兑换关系。而它在一定情况下追踪物价要比里拉好，那居民就更乐意拿它做货币使用（买卖双方都希望获得和物价最小的误差方差）。
 
 *\[note 16\]*: Likewise, the M-Pesa mobile currency used as tender in Africa is associated with transferable airtime minutes[^r17]. People can do microfinance via cell phones.
 
+【注释 16】同样，在非洲，M-Pesa 手机货币可以当作日常支付手段使用，这种货币与可转让的通话分钟数有关。通过手机，人们可以进行小额信贷。
+
 Considering that communications get cheaper over time, the notion of a telephone call is today, in the Zoom days, obsolete. So the *gettone* story illustrates the fact that, owing to technological changes, in the long term, no single item, such a telephone call, will permanently track inflation indices and act as a store of value. Even categories have their weights naturally revised over time: the share of food and clothing declined by almost threefold as a proportion of Western consumers expenditure since the great recession.
+
+随着时间的推移，通信费用越来越低，电话的概念在如今这个有 Zoom 的时代已经过时，gettone 也是如此。因此，gettone 的故事说明了这样一个事实：由于技术变革，从长远来看，没有任何单一品类（比如通话服务）能永久跟踪通胀指数并作为价值储存手段。即使这种品类依然存在，其在经济生活中的比重也会随着时间的推移而自然调整。举例来说，自美国大萧条以来，食品和服装在西方消费者支出中所占的比重下降了近三倍。[^x40]
+
+[^x40]: 许哲注：意思是那家电话公司的积分在一段时间内和物价高度正比相关，但因为通讯业的飞速发展，这个服务大幅贬值。我们很难找到一揽子商品能保持稳定，因为世界是在不断变化的，今天昂贵稀缺的商品和服务明天可能就变得不值钱。要找到一个东西对整体物价保持稳定是不太可能的。
 
 Thus we can look at an inflation hedge as the analog of a minimum variance numeraire.
 
-> Let us assume that there exists an efficient inflation hedge for period $[to, T]$ for an index methodology, the one in which the index, constantly revised, is the most stable when it is as a numeraire (adjusting for interest and dividend payments).
+因此，我们可以把通胀对冲看作是最小方差计量单位的类似物。
+
+> Let us assume that there exists an efficient inflation hedge for period $[t_0, T]$ for an index methodology, the one in which the index, constantly revised, is the most stable when it is as a numeraire (adjusting for interest and dividend payments).
+> 
+> 让我们假设存在一种有效的指数化的通胀对冲工具，能够在 $[t_0, T]$ 期间对冲通胀。这种指数工具的成分需要不断调整，以使得这种工具作为计量单位时是最稳定的（经利息和股息支付调整后）。[^x41]
+
+[^x41]: 许哲注：这里数学化了一个理想计价单位的目标，也就是对通胀的完美对冲，一个方差最小的物价跟踪指数。把这个方差最小化的物价跟踪指数做一个ETF的话，就是完美货币了。
 
 Can one find her or his own hedge?
+
+那人们能找到自己心中的完美对冲物吗？
 
 In the parable of the Christ in the temple, Jesus kicked the money changers out of the temple of Jerusalem... Now one wonders why were there were money changers in a place of worship? The answer is that the temple took for currency only the shekel of Tyre, known for its 90% silver content and its ancestral quality control[^r19] *\[note 17\]*.
 
