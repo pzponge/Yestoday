@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md"
               }
             }
           }
@@ -172,13 +172,18 @@
   },
   "active": "f04c387314644417",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md",
     "翻译更新日志.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1978_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1977_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1975_Letter_to_Berkshire_Shareholders.md",
+    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1973_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1999_Letter_to_Berkshire_Shareholders.md",
     "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
-    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Vice_Chairman’s_Thoughts.md",
@@ -212,11 +217,6 @@
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
     "John_Huber/Importance_of_ROIC_Part_5.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1968_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1969_December_5th_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1966_Letter_to_Limited_Partners_CM.md"
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md"
   ]
 }

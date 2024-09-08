@@ -6,7 +6,9 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1979.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 修订：Terrellchen
+
+[^*]: 该部分有修订，详见《[翻译更新日志](../../%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)》
 
 ---
 
@@ -46,7 +48,7 @@ The primary test of managerial economic performance is the achievement of a high
 
 In measuring long term economic performance - in contrast to yearly performance - we believe it is appropriate to recognize fully any realized capital gains or losses as well as extraordinary items, and also to utilize financial statements presenting equity securities at market value. Such capital gains or losses, either realized or unrealized, are fully as important to shareholders over a period of years as earnings realized in a more routine manner through operations; it is just that their impact is often extremely capricious in the short run, a characteristic that makes them inappropriate as an indicator of single year managerial performance.
 
-在衡量长期业绩时，与年度业绩相反，我们认为，应当确认所有已实现的资本损益和非经常性损益，在财务报表上以市场价列示证券投资的价值。长期而言，对于股东来说，这类资本损益(无论是否已经实现)会变得和日常经营慢慢积累的利润同等重要。只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们不适合作为评估单年度管理表现的指标。[^3]
+在衡量长期业绩时，与年度业绩相反，我们认为，应当确认所有已实现的资本损益和非经常性损益，在财务报表上以市场价列示证券投资的价值。长期而言，对于股东来说，这类资本损益(无论是否已经实现)会变得和日常经营慢慢积累的利润同等重要。只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们不适合作为评估单年度管理表现的指标。[^*]
 
 The book value per share of Berkshire Hathaway on September 30, 1964 (the fiscal yearend prior to the time that your present management assumed responsibility) was $19.46 per share. At yearend 1979, book value with equity holdings carried at market value was $335.85 per share. The gain in book value comes to 20.5% compounded annually. This figure, of course, is far higher than any average of our yearly operating earnings calculations, and reflects the importance of capital appreciation of insurance equity investments in determining the overall results for our shareholders. It probably also is fair to say that the quoted book value in 1964 somewhat overstated the intrinsic value of the enterprise, since the assets owned at that time on either a going concern basis or a liquidating value basis were not worth 100 cents on the dollar. (The liabilities were solid, however.)
 
@@ -148,9 +150,9 @@ Really extraordinary results were turned in by the portion of National Indemnity
 
 国民保险公司的菲尔·列舍 (Phil Liesche) 在承保部门 Roland Miller 以及理赔部门 Bill Lyons 的协助下，再度缴出漂亮的成绩单，这个部门总计为我们创造 840 万美元的承保收益与  8,200 万美元的保费收入，这在同业间并不多见。
 
-You will notice that earned premiums in this segment were down somewhat from those of 1978. We hear a great many insurance managers talk about being willing to reduce volume in order to underwrite profitably, but we find that very few actually do so. Phil Liesche is an exception: if business makes sense, he writes it; if it doesn’t, he rejects it. It is our policy not to lay off people because of the large fluctuations in work load produced by such voluntary volume changes. We would rather have some slack in the organization from time to time than keep everyone terribly busy writing business on which we are going to lose money.[^1] Jack Ringwalt, the founder of National Indemnity Company, instilled this underwriting discipline at the inception of the company, and Phil Liesche never has wavered in maintaining it. We believe such strong-mindedness is as rare as it is sound - and absolutely essential to the running of a first-class casualty insurance operation.
+You will notice that earned premiums in this segment were down somewhat from those of 1978. We hear a great many insurance managers talk about being willing to reduce volume in order to underwrite profitably, but we find that very few actually do so. Phil Liesche is an exception: if business makes sense, he writes it; if it doesn’t, he rejects it. It is our policy not to lay off people because of the large fluctuations in work load produced by such voluntary volume changes. We would rather have some slack in the organization from time to time than keep everyone terribly busy writing business on which we are going to lose money. Jack Ringwalt, the founder of National Indemnity Company, instilled this underwriting discipline at the inception of the company, and Phil Liesche never has wavered in maintaining it. We believe such strong-mindedness is as rare as it is sound - and absolutely essential to the running of a first-class casualty insurance operation.
 
-或许你可能会发现这比去年的数字少了些，虽然我们常听到同业提及宁愿少接点保单也不愿亏钱作生意，然真正能贯策执行的并不多，但 Phil 却能是个例外，若保费合理他便签，否则一慨拒绝。我们的政策是不因为业务量的大幅变动而裁员。我们宁可让业务规模下降也不会无节制的接受大量的业务，以至于我们的员工身心俱疲而忙到最后却是亏本[^1]。公司在杰克·林沃尔特  (Jack Ringwalt) 创办时便立下了这一承保原则，而 Phil 从未放弃保持此优良传统，我们相信，这种罕见的坚定意志，是运营一流的意外伤害保险业务必不可少的。
+或许你可能会发现这比去年的数字少了些，虽然我们常听到同业提及宁愿少接点保单也不愿亏钱作生意，然真正能贯策执行的并不多，但 Phil 却能是个例外，若保费合理他便签，否则一慨拒绝。我们的政策是不因为业务量的大幅变动而裁员。我们宁可让业务规模下降也不会无节制的接受大量的业务，以至于我们的员工身心俱疲而忙到最后却是亏本[^*]。公司在杰克·林沃尔特  (Jack Ringwalt) 创办时便立下了这一承保原则，而 Phil 从未放弃保持此优良传统，我们相信，这种罕见的坚定意志，是运营一流的意外伤害保险业务必不可少的。
 
 John Seward continues to make solid progress at Home and Automobile Insurance Company, in large part by significantly expanding the marketing scope of that company in general liability lines. These lines can be dynamite, but the record to date is excellent and, in John McGowan and Paul Springman, we have two cautious liability managers extending our capabilities.
 
@@ -241,9 +243,9 @@ For the last few years our insurance companies have not been a net purchaser of 
 
 最近这几年来，我们的保险公司没有成为任何纯粹长期债券的净买者(即不含转换权或可提供额外获利可能性的债券)，即使有买进也是为了弥补先前到期或出售的部位，而在此之前，我们也从未投资那些长达三、四十年的债券，相反，我们试图将注意力集中在备有偿债基金的短期债券，以及因市场缺乏效率而使得价格被低估的债券。
 
-However, the mild degree of caution that we exercised was an improper response to the world unfolding about us. You do not adequately protect yourself by being half awake while others are sleeping.[^2] It was a mistake to buy fifteen-year bonds, and yet we did; we made an even more serious mistake in not selling them (at losses, if necessary) when our present views began to crystallize. (Naturally, those views are much clearer and definite in retrospect; it would be fair for you to ask why we weren’t writing about this subject last year.)
+However, the mild degree of caution that we exercised was an improper response to the world unfolding about us. You do not adequately protect yourself by being half awake while others are sleeping. It was a mistake to buy fifteen-year bonds, and yet we did; we made an even more serious mistake in not selling them (at losses, if necessary) when our present views began to crystallize. (Naturally, those views are much clearer and definite in retrospect; it would be fair for you to ask why we weren’t writing about this subject last year.)
 
-然而，虽然较之同业我们稍具警觉心，却仍是不够的。"虽然其他人都在沉睡，但半梦半醒状态下的你依然无法为自己提供足够的保护[^2]。"购买 15 年期债券是一个错误，这个错误我们犯了，更严重的是在我们现在的观点已经明确的情况下，我们没有卖出他们（即便是亏损价位）。（当然，在事后看来，这些观点更加清晰和明确；你也有权质询我们为什么去年没有提及这个话题。）[^4]
+然而，虽然较之同业我们稍具警觉心，却仍是不够的。"虽然其他人都在沉睡，但半梦半醒状态下的你依然无法为自己提供足够的保护[^*]。"购买 15 年期债券是一个错误，这个错误我们犯了，更严重的是在我们现在的观点已经明确的情况下，我们没有卖出他们（即便是亏损价位）。（当然，在事后看来，这些观点更加清晰和明确；你也有权质询我们为什么去年没有提及这个话题。）[^*]
 
 Of course, we must hold significant amounts of bonds or other fixed dollar obligations in conjunction with our insurance operations. In the last several years our net fixed dollar commitments have been limited to the purchase of convertible bonds. We believe that the conversion options obtained, in effect, give that portion of the bond portfolio a far shorter average life than implied by the maturity terms of the issues (i.e., at an appropriate time of our choosing, we can terminate the bond contract by conversion into stock).
 
@@ -370,37 +372,3 @@ Warren E. Buffett, Chairman
 March 3, 1980
 
 1980 年 3 月 3 日
-
-[^1]: By Terrellchen @20231005
-	
-	原文：It is our policy not to lay off people because of the large fluctuations in work load produced by such voluntary volume changes. We would rather have some slack in the organization from time to time than keep everyone terribly busy writing business on which we are going to lose money. 
-	
-	芒格书院共读群友：我们的政策是不裁员，因为这种自愿的业务调整会导致保费收入的大幅波动，我们宁愿业务时不时地松懈一下，也不愿让大家忙的要死，到头来却发现做的是亏本生意。
-	
-	（从前文看）建议修改为：我们的政策是不因为业务量的大幅变动而裁员。我们宁可让业务规模下降也不会无节制的接受大量的业务，以至于我们的员工身心俱疲而忙到最后却是亏本。
-
-[^2]: By Terrellchen @20231005
-	
-	原文：You do not adequately protect yourself by being half awake while others are sleeping.
-	
-	芒格书院共读群友：虽然半睡半醒，比起熟睡要好得多，但却不能保证你不会被熊吃掉。
-	
-	比较下来，改为张志雄版：虽然其他人都在沉睡，但半梦半醒状态下的你依然无法为自己提供足够的保护。
-
-[^3]: By 雪球网友@日常30 @20231219
-	
-	原文：it is just that their impact is often extremely capricious in the short run, a characteristic that makes them inappropriate as an indicator of single year managerial performance.
-	
-	芒格书院共读群友：只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们适合作为评估年度管理表现的指标。
-	
-	修改为：只是说，资本损益的影响在短期内通常都极端地变化莫测，这样的特点使它们不适合作为评估单年度管理表现的指标。
-
-
-[^4]: By 雪球网友@日常30 @20231226
-	
-	原文：It was a mistake to buy fifteen-year bonds, and yet we did; we made an even more serious mistake in not selling them (at losses, if necessary) when our present views began to crystallize. (Naturally, those views are much clearer and definite in retrospect; it would be fair for you to ask why we weren’t writing about this subject last year.)
-	
-	共读版：若说买进四十年期的债券是个大错，那么投资十五年期的也好不到那里去，很遗憾的是，我们属于后者，更惨的是，我们未能适时地忍痛卖掉，而眼睁睁的看着它们的价值日益缩水。(当然，事后回想起来，会觉得真是笨得可以，而或许你会认为要是去年我就看透这点就好了)。
-	
-	修改为：购买 15 年期债券是一个错误，这个错误我们犯了，更严重的是在我们现在的观点已经明确的情况下，我们没有卖出他们（即便是亏损价位）。（当然，在事后看来，这些观点更加清晰和明确；你也有权质询我们为什么去年没有提及这个话题。）
-

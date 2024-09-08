@@ -6,7 +6,9 @@
 - 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1977-Berkshire-AR.pdf)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 修订：Terrellchen
+
+[^*]: 该部分有修订，详见《[翻译更新日志](../../%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)》
 
 ---
 
@@ -161,9 +163,9 @@ We again increased our equity interest in Blue Chip Stamps, and owned approximat
 
 我们再度增加对蓝筹印花的持股权益，截至 1977 年底，持有的股权比例大约是 36.5%，蓝筹印花去年的表现相当不错，经营收益达到 1,290 万美元，此外还有 410 万的已实现资本利得。
 
-Both Wesco Financial Corp., an 80% owned subsidiary of Blue Chip Stamps, managed by Louis Vincenti, and See’s Candies, a 99% owned subsidiary, managed by Chuck Huggins, made good progress in 1977. Since See’s was purchased by Blue Chip Stamps at the beginning of 1972, pre‐tax operating earnings have grown from $4.2 million to $12.6 million with little additional capital investment. See’s achieved this record while operating in an industry experiencing practically no unit growth.[^1] Shareholders of Berkshire Hathaway Inc. may obtain the annual report of Blue Chip Stamps by requesting it from Mr. Robert H. Bird, Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040.
+Both Wesco Financial Corp., an 80% owned subsidiary of Blue Chip Stamps, managed by Louis Vincenti, and See’s Candies, a 99% owned subsidiary, managed by Chuck Huggins, made good progress in 1977. Since See’s was purchased by Blue Chip Stamps at the beginning of 1972, pre‐tax operating earnings have grown from $4.2 million to $12.6 million with little additional capital investment. See’s achieved this record while operating in an industry experiencing practically no unit growth. Shareholders of Berkshire Hathaway Inc. may obtain the annual report of Blue Chip Stamps by requesting it from Mr. Robert H. Bird, Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040.
 
-蓝筹印花持有 80% 股权的 Wesco 金融公司(由 Louis Vincenti 管理)，及其持有 99% 股权的子公司 See's Candies 喜诗糖果(由 Chuck Huggins 管理)在 1977 年都有重大进展，自从喜诗糖果在 1972 年被蓝筹印花所买下后，就没有增加任何额外的资本，其税前收益从 420 万美元增长到 1,260 万美元，尤其难得的是，喜诗是在几乎没有增长的行业中取得这一成绩的[^1]。伯克希尔哈撒韦公司的股东可向 Robert H. Bird 先生索取蓝筹邮票公司的年度报告，地址是 Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040。
+蓝筹印花持有 80% 股权的 Wesco 金融公司(由 Louis Vincenti 管理)，及其持有 99% 股权的子公司 See's Candies 喜诗糖果(由 Chuck Huggins 管理)在 1977 年都有重大进展，自从喜诗糖果在 1972 年被蓝筹印花所买下后，就没有增加任何额外的资本，其税前收益从 420 万美元增长到 1,260 万美元，尤其难得的是，喜诗是在几乎没有增长的行业中取得这一成绩的[^*]。伯克希尔哈撒韦公司的股东可向 Robert H. Bird 先生索取蓝筹邮票公司的年度报告，地址是 Blue Chip Stamps, 5801 South Eastern Avenue, Los Angeles, California 90040。
 
 
 Warren E. Buffett, Chairman
@@ -173,11 +175,3 @@ Warren E. Buffett, Chairman
 March 14, 1978
 
 1978 年 3 月 14 日
-
-[^1]: By Terrellchen @ 20231010
-	
-	原文： See’s achieved this record while operating in an industry experiencing practically no unit growth.
-	
-	芒格书院共读群友：尤其难得的是喜诗所处的产业环境，几乎没有成长。
-	
-	修改为：尤其难得的是，喜诗是在几乎没有增长的行业中取得这一成绩的。

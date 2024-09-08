@@ -6,7 +6,9 @@
 - 链接：[PDF](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1975-Berkshire-AR.pdf)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 修订：Terrellchen
+
+[^*]: 该部分有修订，详见《[翻译更新日志](../../%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)》
 
 ---
 
@@ -46,17 +48,17 @@ We have great confidence in the ability of Ken Chace and his team to maximize ou
 
 # Insurance Underwriting 保险承保业务
 
-The property and casualty insurance industry had its worst year in history during 1975. We did our share -- unfortunately, even somewhat more. Really disastrous results were concentrated in auto and long‐tail (contracts where settlement of loss usually occurs long after the loss event) lines.[^1]
+The property and casualty insurance industry had its worst year in history during 1975. We did our share -- unfortunately, even somewhat more. Really disastrous results were concentrated in auto and long‐tail (contracts where settlement of loss usually occurs long after the loss event) lines.
 
-1975 年是有史以来财产和意外险行业表现最差的一年。我们也不能例外，不幸的是，我们的表现甚至比整个行业还要糟。真正灾难性的承保亏损都集中在汽车保险和长尾保险方面(通常在损失事件发生后很久才进行损失结算的合同)。[^1]
+1975 年是有史以来财产和意外险行业表现最差的一年。我们也不能例外，不幸的是，我们的表现甚至比整个行业还要糟。真正灾难性的承保亏损都集中在汽车保险和长尾保险方面(通常在损失事件发生后很久才进行损失结算的合同)。[^*]
 
-Economic inflation, with the increase in cost of repairing humans and property far outstripping the general rate of inflation, produced ultimate loss costs which soared beyond premium levels established in a different cost environment. “Social” inflation caused the liability concept to be expanded continuously, far beyond limits contemplated when rates were established—in effect, adding coverage beyond what was paid for. Such social inflation increased significantly both the propensity to sue and the possibility of collecting mammoth jury awards for events not previously considered statistically significant in the establishment of rates. Furthermore, losses to policyholders which otherwise would result from mushrooming insolvencies of companies inadequately reacting to these problems are divided through Guaranty Funds among remaining solvent insurers. These trends will continue, and should moderate any optimism which otherwise might be justified by the sharply increased rates now taking effect.[^2]
+Economic inflation, with the increase in cost of repairing humans and property far outstripping the general rate of inflation, produced ultimate loss costs which soared beyond premium levels established in a different cost environment. “Social” inflation caused the liability concept to be expanded continuously, far beyond limits contemplated when rates were established—in effect, adding coverage beyond what was paid for. Such social inflation increased significantly both the propensity to sue and the possibility of collecting mammoth jury awards for events not previously considered statistically significant in the establishment of rates. Furthermore, losses to policyholders which otherwise would result from mushrooming insolvencies of companies inadequately reacting to these problems are divided through Guaranty Funds among remaining solvent insurers. These trends will continue, and should moderate any optimism which otherwise might be justified by the sharply increased rates now taking effect.
 
-由于人身和财产的赔付成本增长远远超过一般通货膨胀率，经济通货膨胀导致最终损失成本飙升，超过了在不同成本环境下确定的保费水平。"社会通货膨胀"导致责任概念不断扩大，远远超出了最初确定费率时预期的赔付上限，还增加了超过保险合同赔偿范围的项目。这种概念还大大增加了起诉的倾向，也增加了为以前在拟定费率时不在统计范围内的事件获得陪审团巨额裁决的可能性。此外，由于对这些问题反应迟钝的保险公司迅速出现破产，而其保单持有人的损失则通过担保基金，分配给其他剩余的有偿付能力的保险公司。这些趋势将继续下去，而且应该缓和目前生效的大幅提高的费率可能带来的任何乐观情绪。[^2]
+由于人身和财产的赔付成本增长远远超过一般通货膨胀率，经济通货膨胀导致最终损失成本飙升，超过了在不同成本环境下确定的保费水平。"社会通货膨胀"导致责任概念不断扩大，远远超出了最初确定费率时预期的赔付上限，还增加了超过保险合同赔偿范围的项目。这种概念还大大增加了起诉的倾向，也增加了为以前在拟定费率时不在统计范围内的事件获得陪审团巨额裁决的可能性。此外，由于对这些问题反应迟钝的保险公司迅速出现破产，而其保单持有人的损失则通过担保基金，分配给其他剩余的有偿付能力的保险公司。这些趋势将继续下去，而且应该缓和目前生效的大幅提高的费率可能带来的任何乐观情绪。[^*]
 
-Berkshire Hathaway’s insurance subsidiaries have a disproportionate concentration of business in precisely the lines which produced the worst underwriting results in 1975. Such lines produce unusually high investment income and, therefore, have been particularly attractive to us under previous underwriting conditions. However, our “mix” has been very disadvantageous during the past two years and it well may be that we will remain positioned in the more difficult part of the insurance spectrum during the inflationary years ahead.[^3]
+Berkshire Hathaway’s insurance subsidiaries have a disproportionate concentration of business in precisely the lines which produced the worst underwriting results in 1975. Such lines produce unusually high investment income and, therefore, have been particularly attractive to us under previous underwriting conditions. However, our “mix” has been very disadvantageous during the past two years and it well may be that we will remain positioned in the more difficult part of the insurance spectrum during the inflationary years ahead.
 
-伯克希尔的保险子公司的业务过于集中于 1975 年承保业绩最差的业务线上。这些业务线产生异常高的投资收入，因此，在以前的承保标准下，对我们特别有吸引力。然而，我们的这种保险结构在过去两年中处于非常不利的境地，在未来几年通胀高企的年代中，保险行业将进入更为困难的阶段，我们的这种不利地位很有可能会继续维持下去。[^3]
+伯克希尔的保险子公司的业务过于集中于 1975 年承保业绩最差的业务线上。这些业务线产生异常高的投资收入，因此，在以前的承保标准下，对我们特别有吸引力。然而，我们的这种保险结构在过去两年中处于非常不利的境地，在未来几年通胀高企的年代中，保险行业将进入更为困难的阶段，我们的这种不利地位很有可能会继续维持下去。[^*]
 
 The only segment to show improved results for us during 1975 was the “home state” operation, which has made continuous progress under the leadership of John Ringwalt. Although still operating at a significant underwriting loss, the combined ratio improved from 1974. Adjusted for excess costs attributable to operations still in the start‐up phase, underwriting results are satisfactory. Texas United Insurance Company, a major problem a few years ago, has made outstanding progress since George Billing has assumed command. With an almost totally new agency force, Texas United was the winner of the “Chairman’s Cup” for achievement of the lowest loss ratio among the home state companies. Cornhusker Casualty Company, oldest and largest of the home state companies, continues its outstanding operation with major gains in premium volume and a combined ratio slightly under 100. Substantial premium growth is expected at the home state operation during 1976; the measurement of success, however, will continue to be the achievement of a low combined ratio.
 
@@ -162,32 +164,6 @@ While 1975 was a major disappointment, efforts will continue to develop growing 
 
 尽管 1975 年的业绩令人大失所望，但是我们会继续致力于壮大公司规模并使得盈利来源多元化。我们的目标是维持保守的融资和资本的高流动性，保持资产负债表的额外盈利优势，同时坚守银行及保险行业固有的信托责任，这样会使得我们长期的股权资本回报率高于美国整体行业的水平。
 
-
 Warren E. Buffett, Chairman
 
 沃伦·巴菲特 董事长
-
-
-[^1]: By Terrellchen @20231010
-	
-	原文： We did our share—unfortunately, even somewhat more. Really disastrous results were concentrated in auto and long‐tail (contracts where settlement of loss usually occurs long after the loss event) lines.
-	
-	芒格书院共读群友：我们拥有市场份额，不幸地是还有很多。真正灾难性的承保亏损都集中在汽车和长尾线上(通常在损失事件发生后很久才进行损失结算的合同)。
-	
-	参照张志雄版，修改为：我们也不能例外，不幸的是，我们的表现甚至比整个行业还要糟。真正灾难性的承保亏损都集中在汽车保险和长尾保险方面(通常在损失事件发生后很久才进行损失结算的合同)。
-
-[^2]: By Terrellchen @20231010
-	
-	原文：These trends will continue, and should moderate any optimism which otherwise might be justified by the sharply increased rates now taking effect.
-	
-	芒格书院共读群友：破产的趋势将继续下去，并且应该会缓和任何对赔付乐观的情绪，否则，已经生效的那些大幅增加赔偿金的案例，可能会证明这种赔付乐观的情绪是合理的。
-	
-	修改为：这些趋势将继续下去，而且应该缓和目前生效的大幅提高的费率可能带来的任何乐观情绪。
-
-[^3]: By Terrellchen @20231010
-	
-	原文：However, our “mix” has been very disadvantageous during the past two years and it well may be that we will remain positioned in the more difficult part of the insurance spectrum during the inflationary years ahead.
-	
-	芒格书院共读群友：然而，在过去两年中，我们的"投资组合"非常不利，很可能在未来的通胀年份，我们仍将处于保险业务范围中更困难的部分。
-	
-	修改为张志雄版：然而，我们的这种保险结构在过去两年中处于非常不利的境地，在未来几年通胀高企的年代中，保险行业将进入更为困难的阶段，我们的这种不利地位很有可能会继续维持下去。

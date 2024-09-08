@@ -6,7 +6,9 @@
 - 链接：[HTML](https://www.berkshirehathaway.com/letters/1980.html)
 - 中文翻译参考：芒格书院共读群友
 - 整理：Terrellchen
-- 校译：Terrellchen
+- 修订：Terrellchen
+
+[^*]: 该部分有修订，详见《[翻译更新日志](../../%E7%BF%BB%E8%AF%91%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.md)》
 
 ---
 
@@ -316,9 +318,9 @@ We mentioned earlier that companies that were unwilling - for any of a number of
 
 我前面提到，保险公司不愿认赔卖掉债券。他们这样做可能有很多原因，公众反应，机构的自尊，或者保护规定的净资产。他们这样做有可能导致束缚自己的投资方式长达十年甚至更久。但是，如前面所说，这只是问题的一半。购买了大量长期债券的保险公司有可能在很长时期内，不但失去了更多的投资选择，还有他们的承销原则的选择。
 
-Our own position in this respect is satisfactory.  We believe our net worth, valuing bonds of all insurers at amortized cost, is the strongest relative to premium volume among all large property-casualty stockholder-owned groups.  When bonds are valued at market, our relative strength becomes far more dramatic. (But lest we get too puffed up, we remind ourselves that our asset and liability maturities still are far more mismatched than we would wish and that we, too, lost important sums in bonds because your Chairman was talking when he should have been acting.)[^1]
+Our own position in this respect is satisfactory.  We believe our net worth, valuing bonds of all insurers at amortized cost, is the strongest relative to premium volume among all large property-casualty stockholder-owned groups.  When bonds are valued at market, our relative strength becomes far more dramatic. (But lest we get too puffed up, we remind ourselves that our asset and liability maturities still are far more mismatched than we would wish and that we, too, lost important sums in bonds because your Chairman was talking when he should have been acting.)
 
-在这方面我们自己的状况还是令人满意的。我们相信，在所有股东拥有的大型产险集团中，以摊余成本对所有保险公司的债券进行估值，我们的净资产相对于保费而言是最强的。当债券价值以市价评估时，我们的竞争优势则更加明显。（但为了避免过于自大，我们提醒自己，我们的资产和负债期限仍远比我们希望的要错配。我们也在债券上损失了大笔资金，因为你们的主席在应该采取行动的时候只是在夸夸其谈。)[^1]
+在这方面我们自己的状况还是令人满意的。我们相信，在所有股东拥有的大型产险集团中，以摊余成本对所有保险公司的债券进行估值，我们的净资产相对于保费而言是最强的。当债券价值以市价评估时，我们的竞争优势则更加明显。（但为了避免过于自大，我们提醒自己，我们的资产和负债期限仍远比我们希望的要错配。我们也在债券上损失了大笔资金，因为你们的主席在应该采取行动的时候只是在夸夸其谈。)[^*]
 
 Our abundant capital and investment flexibility will enable us to do whatever we think makes the most sense during the prospective extended period of inadequate pricing.  But troubles for the industry mean troubles for us.  Our financial strength doesn’t remove us from the hostile pricing environment now enveloping the entire property-casualty insurance industry.  It just gives us more staying power and more options.
 
@@ -457,11 +459,3 @@ Chairman of the Board
 February 27, 1981
 
 1981 年 2 月 27 日
-
-[^1]: By Terrellchen @20231001
-	
-	原文： (But lest we get too puffed up, we remind ourselves that our asset and liability maturities still are far more mismatched than we would wish and that we, too, lost important sums in bonds because your Chairman was talking when he should have been acting.)
-	
-	肖良版：但为了避免过于自大，我们提醒自己，我们的资产和负债期限仍远比我们希望的要错配，我们也损失了大量债券，因为你们的主席本应采取行动的时候却在讲话。
-	
-	修改为：(但为了避免我们过于自大，我们提醒自己，我们的资产和负债期限仍然远比我们希望的要错配，我们也在债券上损失了大笔资金，因为你们的主席在应该采取行动的时候只是在夸夸其谈。)
