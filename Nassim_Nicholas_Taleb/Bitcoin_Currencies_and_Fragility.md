@@ -488,13 +488,27 @@ Can one find her or his own hedge?
 
 In the parable of the Christ in the temple, Jesus kicked the money changers out of the temple of Jerusalem... Now one wonders why were there were money changers in a place of worship? The answer is that the temple took for currency only the shekel of Tyre, known for its 90% silver content and its ancestral quality control[^r19] *\[note 17\]*.
 
+在新约「圣殿中的基督」故事中，耶稣把兑换银钱的人赶出了耶路撒冷的圣殿……现在人们不禁要问，为什么在一个礼拜场所会有银钱兑换商？答案是，圣殿奉献的银钱只接受推罗的舍客勒（shekel），这种银币以其 90% 的银含量和祖传的质量控制而闻名[^r19]【注释 17】。
+
 *\[note 17\]*: This appears to be a Judean custom; in the Mishnah (Bekhorot 8): "The five sela coins of the redemption of the firstborn son, with regard to which it is written: "Five shekels of silver, after the shekel of the Sanctuary" (Numbers 18:16), are calculated using a Tyrian maneh. The silver content of the Tyrian coinage is significantly higher than that of provincial coinage, which is worth one-eighth its value."
+
+【注释 17】这似乎是犹太人的习俗；在《米书拿（Mishnah）》 Bekhorot 第 8 节中写道：「正如经文中写道：『按圣所的平，用银子五舍客勒赎出来』（民数记 18:16），赎回长子的五枚西拉（sela）钱币是用推罗的弥拿（maneh）计算的。[^p4]
+
+[^p4]: 译者注：这里的很多词语比较生涩，在此统一解释。推罗是现在黎巴嫩的一个城市，现叫做苏尔，在圣经中被称为推罗。舍客勒是推罗银币的计量单位，圣经中多处是以舍客勒计量的。弥拿则是一种计量工具，一弥拿等于 50 舍客勒（也有说 60 舍客勒的）。米书拿是犹太教的经典书籍之一，也有翻译为米示拿、密释纳的，是《塔木德》书中的第一部分（口传律法）。犹太教的另外一本经典书籍是基督教中旧约。
 
 Simply, there is a free market for fiat currencies, with the most reliable *at the time* used by third parties. Before the Euro, there were plenty of currencies in Europe. But long term contracts, investments, and commitments were evaluated in deutschmarks or Swiss francs, sometimes the U.S. dollar; drachmas, liras, and pesetas were there mostly for petty expenditures. So what we had was competition between fiat currencies just as with the shekel-of-Tyre!
 
+简而言之，不同的法定货币之间存在一个自由兑换的市场，而**当时**最可靠的货币是一个第三方的币种。在欧元诞生之前，欧洲有许多种货币。但长期合同、投资项目和定期支付的款项通常以德国马克或瑞士法郎来计量，偶尔使用美元。德拉克马（希腊）、里拉（土耳其、意大利）和比塞塔（西班牙）主要用于小额支出。因此，自古以来，法定货币之间就存在竞争，正如新约时代推罗的舍客勒一样。[^x42]
+
+[^x42]: 许哲注：这里的意思是货币自由竞争就解决问题了，不是德国和瑞士的人在做大额的投资协议的时候一样是会选择德国马克或者瑞士法郎。这个是自由竞争选择的结果。
+
 This competition provides for a vastly more convenient monetary store of value. For practitioners of quant finance, the most effective inflation hedge can be a combination of bets which includes short positions in government bonds.
 
-## Some Additional Fallacies
+这种竞争提供了一种方便得多的货币价值储存手段。对于量化金融的参与者来说，最有效的通胀对冲方法是构建一个组合，组合中包含政府债券的空头头寸。[^x43]
+
+[^x43]: 许哲注：这里的意思是要创造出一种完美的通胀对冲物使得物价方差最小化是不太现实的，让自由市场发挥作用，让法币们卷起来就可以了。如果懂量化金融，什么短期债券之类的组合大家都可以比赛去追踪最好的通胀对冲，量化金融师们也卷起来。
+
+## Some Additional Fallacies </br>其他一些谬论
 
 *1\) Fallacy of libertarianism*: The belief that bitcoin is an offshoot of libertarian and Austrian economics has no solid backing — it has the same lack of rigor as the one behind the belief that cryptos represent a "hedge for inflation". Spitznagel[^r20] had already, in 2017， debunked the notion that bitcoin can be a safe haven (as discussed next) or that the principles of Austrian economics can be invoked in support of cryptocurrencies.
 

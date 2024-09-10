@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f04c387314644417",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "4fd8d089e5cb7eeb",
             "type": "leaf",
             "state": {
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
               }
             }
           }
@@ -170,11 +158,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f04c387314644417",
+  "active": "4fd8d089e5cb7eeb",
   "lastOpenFiles": [
+    "README.md",
     "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "翻译更新日志.md",
-    "README.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1979_Letter_to_Berkshire_Shareholders.md",
