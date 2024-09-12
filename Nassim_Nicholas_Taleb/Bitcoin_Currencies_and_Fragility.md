@@ -212,7 +212,7 @@ The typical comparison of bitcoin to gold is lacking in elementary financial rig
 
 Path dependence is a problem. We cannot expect a book entry on a ledger that requires active maintenance by interested and incentivized people to keep its *physical presence*, a condition for monetary value, for any period of time — and of course we are not sure of the interests, mindsets, and preferences of future generations. Once bitcoin drops below a certain threshold, it may hit an absorbing barrier and stays at 0 — gold on the other hand is *not* path dependent in its physical properties *\[note 5\]*. As discussed in this paper[^r7], technologies tend to be supplanted by other technologies (>99% of the new is replaced by something newer), whereas items such as gold and silver have proved resistant to extinction. Furthermore bitcoin is supposed to be hacker-proof and is based on total infallibility in the future, not just at present. It is crucial that bitcoin is based on perfect immortality; unlike conventional assets, the slightest mortality rate puts its value at 0 *\[note 6\]*.
 
-路径依赖是一个问题。这种账本上的任何记录，都需要人主动维护（出于兴趣和物质激励），才能保持其**物理状态**。而物理状态稳定是其资产价值的必要条件，在任何时期都是如此。我们不能指望这种账本永远有价值，尤其是我们尚不能确定未来几代人的兴趣、思维方式和偏好。一旦比特币跌破某个阈值，它可能会「撞上」吸收壁（absorbing barrier），然后永远归零。然而，黄金在其物理状态上**不存在**路径依赖的问题【注释 5】。正如这篇文章[^r7]讨论的那样，技术往往会被其他技术取代（新技术中超过 99% 会被更新的东西替代），而像黄金和白银这样的东西则被证明不会消亡[^x17]。此外，比特币存在的前提是，这种技术应该是无法被黑客攻击的。这种坚不可摧并不仅仅适用于现在，而要适用于从现在往后的所有时刻。至关重要的是，比特币是建立在完美不朽的基础上的；于传统资产不同，一丝丝瑕疵都会让其价值永远归零【注释 6】。[^x18]
+路径依赖是一个问题。这种账本上的任何记录，都需要人主动维护（出于兴趣和物质激励），才能保持其**物理状态**。而物理状态稳定是其资产价值的必要条件，在任何时期都是如此。我们不能指望这种账本永远有价值，尤其是我们尚不能确定未来几代人的兴趣、思维方式和偏好。一旦比特币跌破某个阈值，它可能会「撞上」吸收壁（absorbing barrier），然后永远归零。然而，黄金在其物理状态上**不存在**路径依赖的问题【注释 5】。正如这篇文章[^r7]讨论的那样，技术往往会被其他技术取代（新技术中超过 99% 会被更新的东西替代），而像黄金和白银这样的东西则被证明不会消亡[^x17]。此外，比特币存在的前提是，这种技术应该是无法被黑客攻击的。这种坚不可摧并不仅仅适用于现在，而要适用于从现在往后的所有时刻。至关重要的是，比特币是建立在完美不朽的基础上的；与传统资产不同，一丝丝瑕疵都会让其价值永远归零【注释 6】。[^x18]
 
 [^x17]: 许哲注：
 	
@@ -464,7 +464,7 @@ Displacing fiat is not easy, and has been done locally — though no single item
 
 *\[note 16\]*: Likewise, the M-Pesa mobile currency used as tender in Africa is associated with transferable airtime minutes[^r17]. People can do microfinance via cell phones.
 
-【注释 16】同样，在非洲，M-Pesa 手机货币可以当作日常支付手段使用，这种货币与可转让的通话分钟数有关。通过手机，人们可以进行小额信贷。
+【注释 16】同样，在非洲，M-Pesa 手机货币可以当作日常支付手段使用，这种货币与可转让的通话分钟数有关[^r17]。通过手机，人们可以进行小额信贷。
 
 Considering that communications get cheaper over time, the notion of a telephone call is today, in the Zoom days, obsolete. So the *gettone* story illustrates the fact that, owing to technological changes, in the long term, no single item, such a telephone call, will permanently track inflation indices and act as a store of value. Even categories have their weights naturally revised over time: the share of food and clothing declined by almost threefold as a proportion of Western consumers expenditure since the great recession.
 
@@ -564,7 +564,7 @@ The slogan "Escape government tyranny *hence* bitcoin" is similar to advertiseme
 
 *4\) Fallacy of the Agency problem*: One might have the impression that, by being distributed, Bitcoin would be democratic and reduce the agency problem perceived to be present among civil servants and bankers. Unfortunately, there appears to be a worse agency problem: a concentration of insiders hoarding what they think will be the world currency, so others would have to go to them later on for supply. They would be cumulatively earning trillions, with many billionaire "Hodlers" — in comparison the "evil civil servants" behind fiat money make, at best, lower middle class wages. This situation represents a wealth transfer to the cartel of early bitcoin accumulators *\[note 19\]*.
 
-（4）代理问题的谬误：人们可能会认为，通过充分分散，比特币将会是民主的，并认为存在于公务员和银行家之间的代理问题会随之减少。然而，不幸的是，比特币世界的代理问题更严重：内部人士聚集在一起，囤积他们认为将成为世界货币的东西，以便其他人在未来需要时只能向他们购买。这些人累积了数万亿美元的财富，许多所谓的「Hodlers」成为了亿万富翁——而与之相比，法币背后的「邪恶官员们」充其量只能赚取较低的中产阶级工资。这种情况表明，财富转移到了早期比特币积累者的垄断财团手中【注释 19】。
+（4）**代理问题的谬误**：人们可能会认为，通过充分分散，比特币将会是民主的，并认为存在于公务员和银行家之间的代理问题会随之减少。然而，不幸的是，比特币世界的代理问题更严重：内部人士聚集在一起，囤积他们认为将成为世界货币的东西，以便其他人在未来需要时只能向他们购买。这些人累积了数万亿美元的财富，许多所谓的「Hodlers」成为了亿万富翁——而与之相比，法币背后的「邪恶官员们」充其量只能赚取较低的中产阶级工资。这种情况表明，财富转移到了早期比特币积累者的垄断财团手中【注释 19】。
 
 *\[note 19\]*: The "distributed" attribute of cryptocurrencies appears to lead to both concentration and manipulation, precisely what they were supposedly designed to avoid. Griffin and Shams[^r22] show strong evidence of price manipulation, directly or via other cryptocurrencies such a tether, effectively printed by operators in order to prop up the price of bitcoin.
 
