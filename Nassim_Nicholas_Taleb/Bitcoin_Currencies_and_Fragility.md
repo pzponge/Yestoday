@@ -508,49 +508,85 @@ This competition provides for a vastly more convenient monetary store of value. 
 
 [^x43]: 许哲注：这里的意思是要创造出一种完美的通胀对冲物使得物价方差最小化是不太现实的，让自由市场发挥作用，让法币们卷起来就可以了。如果懂量化金融，什么短期债券之类的组合大家都可以比赛去追踪最好的通胀对冲，量化金融师们也卷起来。
 
-## Some Additional Fallacies </br>其他一些谬论
+## Some Additional Fallacies </br>其他一些谬误
 
-*1\) Fallacy of libertarianism*: The belief that bitcoin is an offshoot of libertarian and Austrian economics has no solid backing — it has the same lack of rigor as the one behind the belief that cryptos represent a "hedge for inflation". Spitznagel[^r20] had already, in 2017， debunked the notion that bitcoin can be a safe haven (as discussed next) or that the principles of Austrian economics can be invoked in support of cryptocurrencies.
+*1\) Fallacy of libertarianism*: The belief that bitcoin is an offshoot of libertarian and Austrian economics has no solid backing — it has the same lack of rigor as the one behind the belief that cryptos represent a "hedge for inflation". Spitznagel[^r20] had already, in 2017, debunked the notion that bitcoin can be a safe haven (as discussed next) or that the principles of Austrian economics can be invoked in support of cryptocurrencies.
+
+（1）**自由意志主义（libertarianism）的谬误**：有人认为比特币是自由主义和奥地利经济学派的分支，这种观点没有坚实的依据，就像有人认为加密货币能「对冲通胀」一样，缺乏严谨性。斯皮茨纳格尔（Spitznagel）[^r20]早在 2017 年就已揭穿了比特币可以作为避风港的观点（下文会讨论），也证伪了奥地利经济学派的原则可以用来支持加密货币的说法。
 
 >**Comment 4: Law vs. Regulations vs. Rules**
 >
+> **评论 4：法律 vs. 监管行为 vs. 规则**
+> 
 >Libertarianism is about the rule of law in place of the rule of regulation. It is not about the rule of rules.
+>
+> 自由意志主义说的是用法治取代规制统治，它并非主张规则统治。
 
 Libertarianism is fundamentally about the rule of law in place of the rule of regulation. It is not about the rule of rules — mechanistic, automated rules with irreversible outcomes. The real world is fraught with ambiguities and even Napoleonic law (far less mechanistic than crypto rules) cannot keep up — to wit, as a risk management directive, most commercial contracts traditionally prefer forums of dispute resolution to be under the more flexible Anglo Saxon common law (London, NY, Hong Kong) that rules on balance, intent, and symmetry in contracts. This applies of course to quantitative finance products such as complex derivatives contracts for which one needs to minimize the legal risk.
 
+自由意志主义（libertarianism）本质上是用法治取代规制统治。它并非主张规则统治，尤其是机械化、自动化且结果不可逆的规则。现实世界充满模糊性，即便是拿破仑法典（比加密货币的规则灵活得多）也难以跟上。为此，作为一种风险管理的指导原则，大多数商业合同传统上更倾向于选择在更为灵活的英美判例法管辖下（比如伦敦、纽约、香港）解决争议，在这种法律体系下，会根据合同的平衡性、意图和对称性来做出裁决。当然，这也适用于复杂的衍生品合同等量化金融产品，因为这些产品需要将法律风险降至最低。
+
 Nor is libertarianism about total distrust.
+
+而且自由意志主义也并不意味着完全不信任彼此。
 
 *2\) Fallacy of safe haven, I (protection for financial tail risk)*: The experience of March 2020, during the market panic upon the onset of the pandemic, when bitcoin dropped farther than the stock market — and subsequently recovered with it upon the massive injection of liquidity is sufficient evidence that it cannot remotely be used as a tail hedge against systemic risk. Furthermore, bitcoin appears to respond to liquidity, exactly like other bubble items.
 
+（2）**避风港谬误之一（针对金融尾部风险的保护）**：2020 年 3 月的经历足以证明比特币远不能被用作对抗系统性风险的尾部对冲工具。当时，随着疫情爆发引发市场恐慌，比特币的跌幅超过了股市——而后在大规模流动性注入后又与股市一同复苏。此外，比特币表现出的性质是对流动性的正比反应，这和其他泡沫资产是一模一样的。
+
 It is also uncertain what could happen should the internet experience a general, or an even a regional, outage — particularly if it takes place during a financial collapse.
+
+此外，如果互联网出现全面中断，或者是区域性中断，比特币会出现什么情况，我们也不得而知。如果这种情况恰好叠加了金融崩溃，会不会出现大问题，我们也无法确定。
 
 *3\) Fallacy of safe haven, II (protection from tyrannical regimes)*: To many paranoid antigovernment individuals and of others distrustful of institutions, bitcoin has been marketed as a safe haven — also with an open invitation to fall for the fallacy that a volatile electronic token in a public setting is a place for your hidden treasure.
 
+（3）**避风港谬误之二（保护人们免受暴政政权的侵害）**：对于许多偏执的反政府人士和不信任机构的人来说，比特币被宣传为一个避风港——这也公开煽动人们去相信这样一个谬论：一个在公共场所中运行的、波动的电子代币是存放隐秘财富的地方。
+
 By its very nature, bitcoin is open for all to see. The belief in one's ability to hide one's assets from the government with a public blockchain easily triangularizable at endpoints, and not just read by the FBI but also by people in their living rooms, requires a certain lack of financial seasoning and statistical understanding — perhaps even a lack of minimal common sense. For instance a Wolfram Research specialist was able to statistically detect and triangularize "anonymous" ransom payments made by Colonial Pipeline on May 8 in 2021[^r21] — and it did not take long for the FBI to restore the funds.
+
+就其本质而言，比特币对所有人都是公开可见的。相信自己能够通过公共区块链来隐藏资产，使其免受政府审查，这种想法反映出缺乏一定的金融阅历和统计学理解——甚至可能缺乏最基本的常识。公共区块链不仅能被 FBI 读取，甚至普通人在家中也能看到，而且最后交易者很容易被三角定位（triangularizable）。例如，2021 年 5 月 8 日，一位 Wolfram Research 的专家能够利用统计数据检测并定位 Colonial Pipeline 支付的「匿名」赎金[^r21]——而 FBI 也没花多长时间就追回了这笔资金。
 
 We can safely assume that government structures and computational power will remain stronger than those of distributed operators who, while distrusting one another, can fall prey to simple hoaxes.
 
+我们可以有把握地认为，政府的组织能力和计算能力在未来仍将强于那些相互不信任的分布式节点。这些节点虽然彼此不信任，却可能轻易落入简单的骗局之中。
+
 In the cyber world, connections are with people one has never met in real life; infiltration by government agents has proven to be extremely easy *\[note 18\]*. By comparison, the mafia required a Sicilian lineage for "friends of ours" for security clearance. One never knows the degree of governmental surveillance and its real capabilities.
+
+在网络世界中，网友们彼此之间从未在现实生活中见过面；事实证明，政府特工的渗透极其容易【注释 18】。相比之下，黑手党为了安全起见，要求「我们的朋友」必须有西西里血统。人们永远不知道政府监控的程度及其真实能力。
 
 *\[note 18\]*: This is one of the weaknesses of total decentralization.
 
+【注释 18】这是完全去中心化的一个弱点之一。
+
 The slogan "Escape government tyranny *hence* bitcoin" is similar to advertisements in the 1960s extolling the health benefits of cigarettes.
+
+「逃离政府暴政，比特币应运而生（Escape government tyranny *hence* bitcoin）」这个口号，与 20 世纪 60 年代宣扬香烟有益健康的广告如出一辙。
 
 *4\) Fallacy of the Agency problem*: One might have the impression that, by being distributed, Bitcoin would be democratic and reduce the agency problem perceived to be present among civil servants and bankers. Unfortunately, there appears to be a worse agency problem: a concentration of insiders hoarding what they think will be the world currency, so others would have to go to them later on for supply. They would be cumulatively earning trillions, with many billionaire "Hodlers" — in comparison the "evil civil servants" behind fiat money make, at best, lower middle class wages. This situation represents a wealth transfer to the cartel of early bitcoin accumulators *\[note 19\]*.
 
+（4）代理问题的谬误：人们可能会认为，通过充分分散，比特币将会是民主的，并认为存在于公务员和银行家之间的代理问题会随之减少。然而，不幸的是，比特币世界的代理问题更严重：内部人士聚集在一起，囤积他们认为将成为世界货币的东西，以便其他人在未来需要时只能向他们购买。这些人累积了数万亿美元的财富，许多所谓的「Hodlers」成为了亿万富翁——而与之相比，法币背后的「邪恶官员们」充其量只能赚取较低的中产阶级工资。这种情况表明，财富转移到了早期比特币积累者的垄断财团手中【注释 19】。
+
 *\[note 19\]*: The "distributed" attribute of cryptocurrencies appears to lead to both concentration and manipulation, precisely what they were supposedly designed to avoid. Griffin and Shams[^r22] show strong evidence of price manipulation, directly or via other cryptocurrencies such a tether, effectively printed by operators in order to prop up the price of bitcoin.
 
-## Conclusion
+【注释 19】加密货币的「去中心化」属性却导致了集中和操纵，而这恰恰是加密货币的设计初衷里想要避免的。Griffin 和 Shams [^r22]的研究展示了强有力的证据，节点们直接或通过其他加密货币（如 USDT）进行价格操纵。而发行 USDT 的泰达公司实际上是由节点控制的，他们通过「印钱」来支撑比特币的价格。
+
+## Conclusion </br>结论
 
 We have presented the attributes of the blockchain in general and bitcoin in particular. Few assets in financial history have been more fragile than bitcoin.
 
+通过这篇文章，我们介绍了区块链的一般属性，并特别论述了比特币。在金融史上，很少有资产比比特币更脆弱。
+
 The customary standard argument is that "bitcoin has its flaws but we are getting a great technology; we will do wonders with the blockchain". No, there is no evidence that we are getting a great technology — unless "great technology" doesn't mean "useful". And at the time of writing — in spite of all the fanfare — we have done still close to nothing with the blockchain.
+
+通常的标准说法是：「比特币虽然有缺陷，但它依然是一个伟大的技术创新；我们将用区块链创造奇迹」。并不是这样。没有证据表明这是一个伟大的技术创新——除非「伟大的技术创新」并不意味着「有用」。在撰写本文的当下，尽管媒体上吹得天花乱坠，但我们在区块链方面仍然约等于一事无成。
 
 So we close with a Damascus joke. One vendor was selling the exact same variety of cucumbers at two different prices. "Why is this one twice the price?", the merchant was asked. "They came on higher quality mules" was the answer.
 
+让我们以一个大马士革的笑话结束。一个小贩以两种不同的价格出售同样品种的黄瓜，有人问道：「为什么这个价格是那个的两倍？」小贩回答道：「更贵的那批黄瓜是用更好的骡子运来的」。
+
 We only judge a technology by how it solves problems, not by what technological attributes it has.
 
-
+我们评判一项技术的唯一标准是看它如何解决问题，而不是看它具有哪些技术属性。
 
 [^r1]: S. Nakamoto, "Bitcoin: A peer-to-peer electronic cash system,"Tech. Rep.,2008.
 
