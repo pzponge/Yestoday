@@ -3,7 +3,7 @@
 - 标题：Measuring the Moat: Assessing the Magnitude and Sustainability of Value Creation
 - 作者：Michael J. Mauboussin
 - 发表时间：2016-11-01
-- 链接：[PDf](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1066439791&serialid=4uA2wHojCvFKzqWfwIyDvkSN1pkXRpb43LvyclLcJsk%3D&cspId=null)
+- 链接：[PDF](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1066439791&serialid=4uA2wHojCvFKzqWfwIyDvkSN1pkXRpb43LvyclLcJsk%3D&cspId=null)
 
 翻译信息：
 
