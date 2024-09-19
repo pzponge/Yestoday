@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Michael_Mauboussin/Measuring_the_Moat.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Michael_Mauboussin/Measuring_the_Moat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+                "file": "Michael_Mauboussin/Measuring_the_Moat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md"
+                "file": "Michael_Mauboussin/Measuring_the_Moat.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "4fd8d089e5cb7eeb",
   "lastOpenFiles": [
-    "README.md",
+    "nfx/The-Network-Effects-Bible.md",
+    "Michael_Mauboussin/Measuring_the_Moat.md",
     "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+    "README.md",
     "翻译更新日志.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1980_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1971_Letter_to_Berkshire_Shareholders.md",
@@ -178,7 +180,6 @@
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
     "Elements/John_Huber/Walter-Schloss-results.jpg",
-    "nfx/The-Network-Effects-Bible.md",
     "Charles_Munger/Acquired_Interviews.md",
     "nfx/The-Network-Effects-Manual.md",
     "Elements/The-Network-Effects-Bible/Cross-side.png",
@@ -204,7 +205,6 @@
     "John_Huber/Importance_of_ROIC_Part_1.md",
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
     "John_Huber/Importance_of_ROIC_Part_5.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2012_Letter_to_Berkshire_Shareholders.md"
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md"
   ]
 }
