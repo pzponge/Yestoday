@@ -49,6 +49,7 @@
 [塔克商学院 2004-2005 访问巴菲特实录](./Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md)|佚名|双语|DeepL|Terrellchen、Ponge
 [沃伦 · 巴菲特捐出自己的财富](./Warren_Buffett/Warren_Buffett_Gives_It_Away.md)|Carol J. Loomis|双语|Vito|Vito
 [2023 年 11 月 21 日巴菲特捐赠公告](./Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md)|Berkshire Hathaway|双语|Vito|Vito
+[伯克希尔·哈撒韦股东手册（2010 年报版）](./Warren_Buffett/An_Owners_Manual.md)|Warren Buffett|双语|DeepL|Terrellchen
 
 ## 1.1. 致巴菲特合伙基金持有人信
 

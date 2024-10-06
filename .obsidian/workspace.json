@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/DJCO_Meeting_Detailed_Notes_2013.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               }
+            }
+          },
+          {
+            "id": "b5d4e87246c32ca0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/DJCO_Meeting_Detailed_Notes_2013.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/DJCO_Meeting_Detailed_Notes_2013.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/DJCO_Meeting_Detailed_Notes_2013.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +156,11 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/An_Owners_Manual.md",
+    "README.md",
+    "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
     "Warren_Buffett/DJCO_Meeting_Detailed_Notes_2013.md",
-    "Warren_Buffett/Berkshire_annual_report_2010.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
     "翻译更新日志.md",
     "nfx/The-Network-Effects-Manual.md",
     "nfx/The-Network-Effects-Bible.md",
@@ -181,7 +191,6 @@
     "Elements/Output/Partership_Letter_RanRan_20240728.epub",
     "Elements/Output/Partership_Letter_CM_20240728.pdf",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2007_Letter_to_Berkshire_Shareholders.md",
-    "README.md",
     "Monish_Pabrai/Compounding_with_the_Spawners.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1987_Annual_Meeting_Kingswell.md",
     "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1985_Annual_Meeting_Kingswell.md",
@@ -192,7 +201,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2022_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2020_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2018_Letter_to_Berkshire_Shareholders.md"
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2019_Letter_to_Berkshire_Shareholders.md"
   ]
 }
