@@ -1,13 +1,14 @@
+原文信息：
 
-https://www.rbcpa.com/wp-content/uploads/2017/01/DJCO_Meeting_Detailed_Notes_2013.pdf
+- 标题：Daily Journal Corp Annual Meeting Notes
+- 作者：rbcpa.com
+- 发表时间：2013-02-06
+- 链接：[Daily Journal Corp Annual Meeting Notes](https://www.rbcpa.com/wp-content/uploads/2017/01/DJCO_Meeting_Detailed_Notes_2013.pdf)
+- 整理：Terrellchen
 
-----------
+---
 
-## Daily	Journal	Corp Annual	Meeting	Notes 
-
-2013年每日期刊年会笔记
-
-(Feb 6,2013)
+# Daily	Journal	Corp Annual	Meeting	Notes (Feb 6, 2013)</br>2013 年每日期刊年会笔记（2013 年 2 月 6 日）
 
 Charlie Munger: and this building, which, of course, is on a site that we cleared old buildings off of. You have the Tilmet Building (sp?). That was very cheap to construct. You can look around at how nicely it works. It's a very inexpensive building. It has high ceilings and good lighting et cetera. 
 
@@ -69,9 +70,9 @@ The daily press with all its power is by and large civic-minded and honest all t
 
 拥有巨大影响力的日报，大体上在全国范围内都是具有公民责任感和诚实的，当然，它正遭受着可怕的威胁。国家将会为失去这种建设性的影响付出沉重的代价。……并不是说我们没有其他的新闻工作，但我认为我们正在失去某些东西。
 
-We never used The Daily Journal, which you people own part of, as a mouthpiece for our personal political opinions. For one thing, we didn't have an impregnable monopoly. For another thing, we just didn't want... we had very intelligent readers, judges and lawyers. Half of them were in one party, and half of them were in another. I don't think either Rick or I felt at all comfortable telling somebody else what we thought on every subject as if we were God, and so we never did it.
+We never used The Daily Journal, which you people own part of, as a mouthpiece for our personal political opinions. For one thing, we didn't have an impregnable monopoly. For another thing, we just didn't want... we had very intelligent readers, judges and lawyers. Half of them were in one party, and half of them were in another. **I don't think either Rick or I felt at all comfortable telling somebody else what we thought on every subject as if we were God, and so we never did it.**
 
-我们从未将《每日期刊》——你们这些人拥有一部分的报纸——作为传达我们个人政治观点的工具。首先，我们并没有牢不可破的垄断地位。其次，我们本来就不想……我们拥有非常聪明的读者、法官和律师。他们中一半人属于一个政党，另一半属于另一个政党。里克和我都不觉得自己适合告诉别人我们对每个问题的看法，仿佛我们是上帝一样，所以我们从未这样做过。
+我们从未将《每日期刊》——你们这些人拥有一部分的报纸——作为传达我们个人政治观点的工具。首先，我们并没有牢不可破的垄断地位。其次，我们本来就不想……我们拥有非常聪明的读者、法官和律师。他们中一半人属于一个政党，另一半属于另一个政党。**里克和我都不觉得自己适合告诉别人我们对每个问题的看法，仿佛我们是上帝一样，所以我们从未这样做过。**
 
 I also think that was the best business policy. We always wanted the paper to be trusted, and I think it by and large is. I think the judges and lawyers who read it, they don't think we've got some crazy personal agenda. We're trying to tell it like it is. That's, of course, the ultimate, correct journalistic ethos.
 
@@ -81,8 +82,7 @@ How people cope with a technological revolution is interesting. A great number o
 
 人们如何应对技术革命是一件有意思的事。许多大型报纸集团为了收购更多报纸而借下巨额债务。他们喜欢垄断，并且愿意通过借贷来扩大垄断。然而，当技术发生变革时，他们中的一些人被晾在了一边。这种情况基本上摧毁了股东们的共同股权。这样的事在许多地方都有发生。
 
-Even places that are super-strong like The New York Times destroyed an enormous amount of equity by paying a billion dollars for the newspaper in Boston which now 
-makes no money at all, in fact, is probably losing. 
+Even places that are super-strong like The New York Times destroyed an enormous amount of equity by paying a billion dollars for the newspaper in Boston which now makes no money at all, in fact, is probably losing. 
 
 即使是像《纽约时报》这样实力雄厚的媒体，也因为花费十亿美元收购波士顿的一家报纸而损失了大量的股东权益，而那家报纸现在根本不赚钱，实际上可能还在亏损。
 
@@ -134,17 +134,21 @@ You people have the declining remnants of the top tick of an old information bus
 
 你们拥有的是一个旧信息产业——报纸业的衰退余波，一堆可销售的证券，以及一个非常有趣的、类似风险投资的软件项目。
 
-Most of you did not buy the Daily Journal company to get this particular outcome, but we didn't set out to create this outcome either. It just happened. Therein lies a lesson in life. I think most lives work best when you simply react intelligently to the opportunities and difficulties you encounter, and just take the results as they fall.
+Most of you did not buy the Daily Journal company to get this particular outcome, but we didn't set out to create this outcome either. It just happened. **Therein lies a lesson in life. I think most lives work best when you simply react intelligently to the opportunities and difficulties you encounter, and just take the results as they fall.**
 
-你们大多数人并不是为了得到这样的结果而投资《每日期刊》公司，但我们也没有特意去追求这样的结果。它就这样自然而然地发生了。这就是生活中的一个教训。我认为，当你遇到机会和挑战时，最理想的生活状态是，你只是聪明地做出反应，然后顺其自然地接受结果。
+你们大多数人并不是为了得到这样的结果而投资《每日期刊》公司，但我们也没有特意去追求这样的结果。它就这样自然而然地发生了。**这就是生活中的一个教训。我认为，当你遇到机会和挑战时，最理想的生活状态是，你只是聪明地做出反应，然后顺其自然地接受结果。**
 
-Some people think that by master planning, you will solve everything, but what I find is that the master plan gets a life of its own, and people believe it because they previously decided on that then, and they make all kinds of mistakes.
+**Some people think that by master planning, you will solve everything, but what I find is that the master plan gets a life of its own, and people believe it because they previously decided on that then, and they make all kinds of mistakes.**
 
-有些人认为，通过总体规划就能解决一切问题，但我发现总体规划有其自身的生命力，人们相信它，因为他们之前就已经决定了，结果他们犯了各种各样的错误。
+**有些人认为，通过总体规划就能解决一切问题，但我发现总体规划有其自身的生命力，人们相信它，因为他们之前就已经决定了，结果他们犯了各种各样的错误。**
 
-(Thomas) Carlyle was a very smart man, and one of his favorite sayings was, the task of man is not to see what lies dimly in the distance but to do what lies clearly at hand. (Ed: actual quote: “Our main business is not to see what lies dimly at a distance, but to do what clearly lies at hand.”)
+(Thomas) Carlyle was a very smart man, and one of his favorite sayings was, the task of man is not to see what lies dimly in the distance but to do what lies clearly at hand. 
 
-托马斯·卡莱尔是一个非常明智的人，他最喜欢的一句话是，人的任务不是去遥望远方模糊不清的事物，而是去做眼前清晰可见的事情。（编辑注：实际引用：“我们的主要任务不是去遥望远方模糊不清的事物，而是去做眼前清晰可见的事。）
+托马斯·卡莱尔是一个非常明智的人，他最喜欢的一句话是，人的任务不是去遥望远方模糊不清的事物，而是去做眼前清晰可见的事情。
+
+*(Ed: actual quote: “Our main business is not to see what lies dimly at a distance, but to do what clearly lies at hand.”)*
+
+*（编辑注：实际引用：“我们的主要任务不是去遥望远方模糊不清的事物，而是去做眼前清晰可见的事。）*
 
 It was that message from Carlyle that caused Sir William Osler to create the medical school, which became a model or revising all the medical schools of the world, which was Johns Hopkins.
 
@@ -242,7 +246,7 @@ Munger: Any other questions?
 
 芒格：还有其他问题吗？
 
-###Shareholder: Do you have any thoughts on how the legal challenges to the ratings agencies will work out?
+Shareholder: Do you have any thoughts on how the legal challenges to the ratings agencies will work out?
 
 股东：关于评级机构所面临的法律挑战，你有何见解？
 
@@ -314,7 +318,7 @@ Even if it were in the interest to allow this recreational poker, to turn the pu
 
 即使这样做符合某些人的利益，将公众证券市场变成一个高效的赌场，让那些想法像扑克瘾君子、行为像扑克瘾君子的人去赌博——如果我是掌管世界的人，我会让很多从事这种业务的人失业，包括在座的一些人。换句话说，我认为你不一定希望一大批人通过比其他人聪明一点而在软件方面发财致富。
 
-###Shareholder: Two questions, if you don't mind. From 2000 to 2008, Daily Journal seemed to reinvest nearly all of its profits into US Treasury notes and bills. In the last two years, after February 2009, Daily Journal has invested over $30 million into common stock of three companies. Can you discuss the difference between the investment landscape over the last few years versus 2000 to 2008?
+Shareholder: Two questions, if you don't mind. From 2000 to 2008, Daily Journal seemed to reinvest nearly all of its profits into US Treasury notes and bills. In the last two years, after February 2009, Daily Journal has invested over $30 million into common stock of three companies. Can you discuss the difference between the investment landscape over the last few years versus 2000 to 2008?
 
 股东：不介意的话，我有两点想问。从 2000 年到 2008 年，每日期刊似乎将其几乎所有的利润重新投入到了美国国债和短期国库券中。而在最近的两年里，也就是 2009 年 2 月之后，每日期刊已经向三家公司的普通股投资了超过 3000 万美元。你能解释一下最近几年的投资环境与 2000 至 2008 年期间相比有何不同吗？
 
@@ -326,7 +330,7 @@ Keynes used to say, “When the facts change, do you change your opinion?” (Ke
 
 凯恩斯曾说：“事实变了，你会跟着变吗？”（凯恩斯的原话是：“事实变了，我就改变我的想法。先生，你怎么办呢？”） 你当然会，我们就是这么做的。我们的处境不同，我们面对的机会也不同，所以我们的行为也不同。你会怎么做？
 
-###Shareholder: Is it any reflection of the investment climate, or purely...
+Shareholder: Is it any reflection of the investment climate, or purely...
 
 股东：这是否反映了投资环境的变化，还是纯粹是……
 
@@ -338,13 +342,13 @@ So I don't think you should be terribly encouraged by what has happened. It does
 
 所以我不认为你应该对所发生的事情感到特别振奋。这并不表明 90 多岁的人突然会有源源不断的钱。这只是意味着，出于某种原因，我们的行为相当合理，对机会的反应相当明智，而其他人没有这样做。
 
-General Motors, out of the profits of their good years, they could have bought, every year, for many years, a big company. They could have bought Eli Lilly one year and Merck the next, and United Technologies. General Motors could own the world. Instead, what they declared to their shareholders was a goose egg. They took the common equity to zero. And they would say it was all somebody else's fault. The climate was bad, the unions got powerful. Those damn Asians and Europeans were too competitive.
+**General Motors, out of the profits of their good years, they could have bought, every year, for many years, a big company. They could have bought Eli Lilly one year and Merck the next, and United Technologies. General Motors could own the world. Instead, what they declared to their shareholders was a goose egg. They took the common equity to zero. And they would say it was all somebody else's fault. The climate was bad, the unions got powerful. Those damn Asians and Europeans were too competitive.**
 
-通用汽车公司，凭借他们好年景的利润，他们本可以每年购买一家大型公司。他们可以在一年内收购礼来公司，下一年收购默克公司，再下一年收购联合技术公司。通用汽车本可以拥有整个世界。相反，他们却没有赚到钱。他们将普通股权益降至零。他们会说这都是别人的错。气候不好，工会过于强大。那些该死的亚洲人和欧洲人太有竞争力了。
+**通用汽车公司，凭借他们好年景的利润，他们本可以每年购买一家大型公司。他们可以在一年内收购礼来公司，下一年收购默克公司，再下一年收购联合技术公司。通用汽车本可以拥有整个世界。相反，他们却没有赚到钱。他们将普通股权益降至零。他们会说这都是别人的错。气候不好，工会过于强大。那些该死的亚洲人和欧洲人太有竞争力了。**
 
-The truth of the matter is, their very prosperity made them weak. The dealerships got in the hands of inheritors, and the executives on the sales field, they go around and drink martinis with inheritors, and didn't pay enough attention to defects in their vehicles. And one thing led to another, and when they were all done the shareholders' equity went to zero.
+**The truth of the matter is, their very prosperity made them weak. The dealerships got in the hands of inheritors, and the executives on the sales field, they go around and drink martinis with inheritors, and didn't pay enough attention to defects in their vehicles. And one thing led to another, and when they were all done the shareholders' equity went to zero.**
 
-事实的真相是，他们自身的繁荣反而使他们变得脆弱。经销权落入了继承人手中，而销售领域的高管们，他们与继承者们应酬畅饮，却没有足够重视他们车辆的缺陷。一个问题接着一个问题，最终导致了股东们的股本化为乌有。
+**事实的真相是，他们自身的繁荣反而使他们变得脆弱。经销权落入了继承人手中，而销售领域的高管们，他们与继承者们应酬畅饮，却没有足够重视他们车辆的缺陷。一个问题接着一个问题，最终导致了股东们的股本化为乌有。**
 
 And that was in a company that at its peak was one of the most admirable companies in the world. Take the stuff that Boss Kettering (Charles Kettering - head of research at General Motors from 1920 to 1947) had invented in the early days. Kettering was one of the most useful citizens that ever lived in America.
 
@@ -410,7 +414,7 @@ How would you change DuPont into Berkshire Hathaway, if you were the CEO of DuPo
 
 如果你是杜邦的首席执行官，你会如何将杜邦改造成伯克希尔·哈撒韦呢？这让人着迷。我完全可以选择放弃这个问题，不去思考它。不管怎么说，我确实认为这是一件不同寻常的事情。这种并购业务——通常来说，都是一项艰巨的挑战。
 
-###Shareholder: I had a second question. The second question was you had mentioned talk about doubling down on the New Dawn acquisition. In 2012, the company also added a supplemental addendum to management incentives, where management should be compensated should Sustain be sold or IPO. I was curious if there's anything that we should think about if Sustain were a standalone business, if it could have value to another owner that exceeds what's currently being suggested by the current financials?
+Shareholder: I had a second question. The second question was you had mentioned talk about doubling down on the New Dawn acquisition. In 2012, the company also added a supplemental addendum to management incentives, where management should be compensated should Sustain be sold or IPO. I was curious if there's anything that we should think about if Sustain were a standalone business, if it could have value to another owner that exceeds what's currently being suggested by the current financials?
 
 股东：我还有一个问题。你之前谈到了对新黎明收购的加码投资。2012 年，公司还增加了一个补充的管理激励条款，规定如果 Sustain 被出售或者进行 IPO，管理层应当获得报酬。我想知道，如果 Sustain 作为一个独立的业务，它是否可能对其他潜在买家具有超出当前财务状况所显示的价值？
 
@@ -430,7 +434,7 @@ Eventually, if we succeed, it will do a lot of good in terms of service and effi
 
 最终，如果我们成功了，这将极大地提升我们的服务水平和工作效率等。我们采取了这种不同寻常的激励计划，因为软件行业的每个人都期待得到一些激励，所以我们只是在顺应这个行业的潮流。这就是为什么我们会这样做。
 
-###Shareholder: As a fellow addict, I wanted to comment and then a question, and that has to be why so many people gathered to hear a 90-year-old. I'm reminded of the difference between knowledge and wisdom. We're here for wisdom. Knowledge is knowing the tomato is a fruit, but wisdom is knowing not to put it in the fruit salad. 
+Shareholder: As a fellow addict, I wanted to comment and then a question, and that has to be why so many people gathered to hear a 90-year-old. I'm reminded of the difference between knowledge and wisdom. We're here for wisdom. Knowledge is knowing the tomato is a fruit, but wisdom is knowing not to put it in the fruit salad. 
 
 股东：作为同道中人，我想先说几句，然后问一个问题。这也许就是为什么这么多人来听一位九十岁老人讲话的原因。我想到了知识与智慧之间的区别。我们来这里是为了获得智慧。知识是知道番茄是一种水果，而智慧是知道不应该把它放入水果沙拉中。
 
@@ -438,7 +442,7 @@ Munger: Well, I think there's some truth in that.
 
 芒格：嗯，我觉得这话确实有几分道理。
 
-###Shareholder: So we hear from the liberals that have commented on had to do with paradigm shifts in management styles and is that the goals in management should be... I'd like you to apply that to the government, because I think the elephant in the room that I haven't heard that, is all of us share a concern for the leadership … and the consequences of the decisions.
+Shareholder: So we hear from the liberals that have commented on had to do with paradigm shifts in management styles and is that the goals in management should be... I'd like you to apply that to the government, because I think the elephant in the room that I haven't heard that, is all of us share a concern for the leadership … and the consequences of the decisions.
 
 股东：我们听到一些自由派人士谈论管理风格中的范式转变，以及管理的目标应该是什么……我想让你将这些观点应用于政府层面，因为我认为我们大家都对领导力……以及决策的后果感到担忧。
 
@@ -482,7 +486,7 @@ But at any rate, I can't solve your problem. You're right to be concerned about 
 
 但无论如何，我无法解决你的问题。你对此事感到担忧是正确的。但如果你也四处看看，你会发现一个又一个政府和各种机构做得非常好的例子，无论是私营企业还是公共机构。我对密歇根大学的运营方式印象深刻。在经济长期紧缩的情况下，该州的处境非常艰难。密歇根大学不断发展壮大，得到了更好的爱戴、尊重和服务。如果你环顾四周，你会发现人类政府有很多优点，也有很多缺点。
 
-###Shareholder: what is the company doing today different from yesterday and that could be reflected in the picking of the right software?
+Shareholder: what is the company doing today different from yesterday and that could be reflected in the picking of the right software?
 
 股东：公司今天相较于昨天有哪些变化，这些变化是否能够在选择正确的软件方面体现出优势？
 
@@ -490,7 +494,7 @@ Munger: We bought New Dawn, which has a way better sales culture than we have an
 
 芒格：我们收购了新黎明，它的销售文化比我们出色，拥有更大的客户基础，而且我们欣赏公司的团队。这是一个很大的不同。
 
-###Shareholder: Is that proprietary?
+Shareholder: Is that proprietary?
 
 股东：那是独有的技术吗？
 
@@ -498,7 +502,7 @@ Charlie: Well, meaning is it a cinch that we will win? The answer is no. Is it q
 
 芒格：你的意思是我们能否轻松获胜？答案是否定的。我们是否有可能获胜？答案是肯定的。但这确实与众不同。对吗？
 
-###Shareholder: If you're design a proxy statement and you're trying to think about a couple simple long term metrics to incentivize management. What would you think about?
+Shareholder: If you're design a proxy statement and you're trying to think about a couple simple long term metrics to incentivize management. What would you think about?
 
 股东：如果你在起草一份代理声明书，并且你想要思考一些简单而长期的指标来激励管理层，你会考虑哪些指标？
 
@@ -554,7 +558,7 @@ It's not a good system, and I don't think there's any easy fix. Well, there is a
 
 这不是一个好的体系，我不认为有简单的解决方案。好吧，有一个简单的解决方案，但它不是那种可以通过投票轻易通过的。
 
-###Shareholder: Markets are making five year highs, what do you think … 
+Shareholder: Markets are making five year highs, what do you think … 
 
 股东：市场正在达到五年来的高点，你对此有何看法？
 
@@ -574,7 +578,7 @@ In the end, the wealth of the country is based on the productivity of the countr
 
 归根结底，一个国家的财富是建立在其生产力之上的，而生产力的提升速度是有限的。当然，如果给越来越多不工作的人发工资，就很难看出这如何能够促进国家的生产力增长。
 
-###Shareholder: You talked about modern institutional money management. How would you contrast that system with what you were doing in the late 1960s, your mindset and how you went about your business?
+Shareholder: You talked about modern institutional money management. How would you contrast that system with what you were doing in the late 1960s, your mindset and how you went about your business?
 
 股东：你提到了现代的机构投资管理。你如何将当前的系统与你在 1960 年代末期所采取的方法、你的思维模式以及你处理业务的方式进行对比？
 
@@ -614,7 +618,7 @@ But it is the right way. It's the other people who are wrong. If you want to get
 
 但其实这是正确的方式。其他人才是错了。如果你想变得富有，你需要一些你真正了解的好点子。然后你必须有勇气坚持这些想法，无论市场如何波动。这并不复杂，而且非常传统。难道我没有引用过鲁德亚德·吉卜林的诗《如果》吗？“如果你能在周围人都失去理智的时候保持冷静，”等等，等等，如果你能做到这一点，“你将是一个真正的男子汉，我的孩子。”我认为吉卜林的《如果》是一首伟大的诗，尽管它出自一个因说过“女人只是女人，但一支好雪茄是一次享受”而让全世界的英语簇系感到不悦的人。他在政治上不正确。但他是对的——所以，我说的是“如果”仍然有效。
 
-###Shareholder: Quick follow-up there...
+Shareholder: Quick follow-up there...
 
 股东：接着刚才的话题……
 
@@ -622,7 +626,7 @@ Munger: It's very old-fashioned. How could you teach it in business school? They
 
 芒格：这很传统。你怎么能把它放在商学院的课程里？他们教的是要进行逆向投资，行业轮动，天晓得他们还教了些什么。我从来没关注过。完全没有。
 
-###Shareholder: You talk about patience and long periods of dullness.
+Shareholder: You talk about patience and long periods of dullness.
 
 股东：你谈到了耐心和长时间的无所事事。
 
@@ -630,7 +634,7 @@ Munger: Yes.
 
 芒格：没错。
 
-###Shareholder: What did your process look like back then at Pacific Coast Stock Exchange on a daily basis?
+Shareholder: What did your process look like back then at Pacific Coast Stock Exchange on a daily basis?
 
 股东：在太平洋海岸证券交易所，你那时候的日常操作是怎样的？
 
@@ -662,7 +666,7 @@ He copied a good system. How many people do? There are not that many Mohnish’s
 
 他采用了一套出色的体系。但有多少人会这么做呢？莫尼什这样的人并不多见。这套体系依然奏效。你甚至能够利用它来开展资产管理业务。在前排就座的这位男士就是最好的证明。
 
-###Shareholder: Could you give an example of an investment decision 
+Shareholder: Could you give an example of an investment decision 
 
 股东：你能分享一个投资决策的例子吗……
 
@@ -690,7 +694,7 @@ Don't be too timid, when you really have a cinch. Go at life with a little coura
 
 当你确信无疑时，不要太胆怯。要有点勇气去面对生活。南方过去常用一个词，我现在很少听到别人用，除了我自己，那就是“胆识”。我认为你们需要的是智慧加上胆识。
 
-###Shareholder：question on BYD
+Shareholder：question on BYD
 
 股东：关于比亚迪的问题……
 
@@ -766,7 +770,7 @@ I'd rather bet with them. Anyway, you ask a question, I think? You'll have it di
 
 我宁愿选择站在他们这边。不管怎样，你想提个问题，不是吗？你将亲耳听到第一手的信息。
 
-###Shareholder Question: I was wondering when the electric car might make it to the United States. Can you expand on that?
+Shareholder Question: I was wondering when the electric car might make it to the United States. Can you expand on that?
 
 股东：关于比亚迪，您能否阐述一下电动汽车何时可能进入美国市场？
 
@@ -840,7 +844,7 @@ We have assets that if this fails, we're not alone in the world without resource
 
 我们有资产，即使这次尝试失败了，我们也不会一无所有。对吗？
 
-###Shareholder: Charlie, you mention this idea of gumption -- also have the courage to take advantage of things. Can you help us understand just a little bit more about how you balance those two, because from that example -- obviously, it would to be aggressive, but there's also the sense that Berkshire's always been much more prudent and cautious than others.
+Shareholder: Charlie, you mention this idea of gumption -- also have the courage to take advantage of things. Can you help us understand just a little bit more about how you balance those two, because from that example -- obviously, it would to be aggressive, but there's also the sense that Berkshire's always been much more prudent and cautious than others.
 
 股东：查理，你谈到了“胆识”这个概念——也就是抓住机会的勇气。你能不能再向我们解释一下你是如何在这两者之间取得平衡的，因为从那个例子来看——显然需要主动出击，但同时伯克希尔也一直比其他公司更加审慎和谨慎。
 
@@ -868,7 +872,7 @@ What I'm telling you is when it's virtually a cinch, or it's in a gamble you can
 
 我要告诉你的是，当事情几乎十拿九稳，或者是一场你轻易承受得起的赌博，而且胜算明显在你这边，你对此确信无疑——我只是说不要胆怯。古林从来不需要这样的建议。他从不胆怯。
 
-###Shareholder: When Bell Rich Oil goes up 35 times, it's pretty...I imagine myself have a lot of regret or debilitating. How does one recuperate from something like that? A big missed opportunity? 
+Shareholder: When Bell Rich Oil goes up 35 times, it's pretty...I imagine myself have a lot of regret or debilitating. How does one recuperate from something like that? A big missed opportunity? 
 
 股东：如果贝尔里奇石油的股价上涨了 35 倍，那真是……我想象自己会感到很遗憾或者很沮丧。一个人怎样才能从这样的失误中恢复过来？一个巨大的错失良机？
 
@@ -876,7 +880,7 @@ Munger: Yeah.
 
 芒格：是的。
 
-###Shareholder: How does one recover from that? How do you end up not dwelling on that?
+Shareholder: How does one recover from that? How do you end up not dwelling on that?
 
 股东：一个人该如何从这样的失误中恢复过来？你如何避免一直对此耿耿于怀？
 
@@ -884,7 +888,7 @@ Munger: You know what Kipling said? Treat those two imposters just the same -- s
 
 芒格：你知道吉卜林是怎么说的吗？对成功和失败这两个变幻莫测的伙伴一视同仁。当然了，在做出正确决策的过程中难免会遭遇失败。没有人能够百发百中。我认为审视自己过去的错误是很重要的，这样你就不大会重蹈覆辙，但我并不会为此而痛苦不堪或者感到煎熬。我认为失败和做出糟糕的决策是人生常态。我认为人生真正的悲剧是过于胆怯，以至于你不敢全力以赴去争取，这样你就不会遭遇挫折。
 
-###Shareholder: You commented on the challenges that the newspaper industry and other forms of print media. Can you comment on Berkshire's investments in the newspaper industry as of late? 
+Shareholder: You commented on the challenges that the newspaper industry and other forms of print media. Can you comment on Berkshire's investments in the newspaper industry as of late? 
 
 股东：您对报业和其他印刷媒体所面临的挑战提出了看法。您能否就伯克希尔近期在报业的投资情况发表一些评论？
 
@@ -931,7 +935,7 @@ Believe me, Berkshire's not buying these things expecting some bonanza. I don't 
 
 相信我，伯克希尔购买这些报纸并不是期望会有意外的大丰收。我不认为会有任何突然的繁荣为我们所有的报纸带来大量的财富。这是一项稳健的投资，是负责任的行为。我们有大量的资金，而且我们的借款成本几乎为零。我不认为我们购买报纸的行为对你们有太多价值。
 
-###Shareholder: Yeah. Two quick questions about the investment portfolio of Daily Journal. Who's going to manage your investment portfolio when you're not managing it? And the second question is how come you've chosen not to tell us what's in the investment portfolio?
+Shareholder: Yeah. Two quick questions about the investment portfolio of Daily Journal. Who's going to manage your investment portfolio when you're not managing it? And the second question is how come you've chosen not to tell us what's in the investment portfolio?
 
 股东：是的。关于每日期刊的投资组合，我有两个问题。首先，一旦你不再亲自管理，将由谁来负责管理这个投资组合？其次，你为何决定不向我们公开投资组合的具体构成？
 
@@ -947,7 +951,7 @@ End of the day, it is not...If I thought that portfolio needed a lot of manageme
 
 最终，如果我认为那个投资组合需要大量的管理，我们就不会持有它。就像 B. B. Robinson 的母亲所说，“不要喝酒。”那个投资组合即使在我们所有人都不在了之后，也会表现得很好。
 
-###Shareholder: In spite of your comment about not knowing who competes with BYD employees, can you share or do you have to respect the manufacturing ...
+Shareholder: In spite of your comment about not knowing who competes with BYD employees, can you share or do you have to respect the manufacturing ...
 
 股东：尽管你谈到了不清楚比亚迪的竞争对手是谁，你能分享一些相关信息吗？或者你是否需要遵守制造业的某些保密规定？
 
@@ -955,7 +959,7 @@ Munger: Manufacturing what?
 
 芒格：制造业什么？
 
-###Shareholder: Just the manufacturing industry in this country.
+Shareholder: Just the manufacturing industry in this country.
 
 股东：我指的是这个国家的制造业。
 
@@ -1019,7 +1023,7 @@ But I don't think we'll be making many shoes in America.
 
 但我认为我们不会在美国大量生产鞋子。
 
-###Shareholder: I'm just wondering what your thoughts might be on California politics and the propositions and maybe the marginal tax rates that we face here.
+Shareholder: I'm just wondering what your thoughts might be on California politics and the propositions and maybe the marginal tax rates that we face here.
 
 股东：我想知道您对加州政治、提案以及我们面临的边际税率有什么看法。
 
@@ -1051,7 +1055,7 @@ I recommend that same course of action to all of you. Let the little darlings ha
 
 我对你们所有人的建议是，让孩子们享受我们留下的一切。但我不认为我们应该为了让我们的孩子生活尽可能舒适而牺牲我们自己的生活质量。大家主要的问题是我们可能过于溺爱孩子，让他们的生活过于轻松，而不是我们对他们要求太高了。
 
-###Shareholder: Charlie, in the past the board has offered some book recommendations. I wonder if they might have books that they might recommend. And yourself?
+Shareholder: Charlie, in the past the board has offered some book recommendations. I wonder if they might have books that they might recommend. And yourself?
 
 股东：查理，过去董事会曾推荐过一些书籍。我想知道他们是否有新的书籍推荐，以及您自己有什么推荐？
 
@@ -1071,7 +1075,7 @@ Munger: Well, we ordinarily let these things go on way too long, even though we 
 
 芒格：我们通常的这个问答环节会持续时间非常长，虽然我们还有一个董事会要开，因为你们中的一些人不辞辛劳地远道而来，我们会适当延长讨论，但不会无休止地进行下去。
 
-###Shareholder: Lawrence Krauss (author of the book)
+Shareholder: Lawrence Krauss (author of the book)
 
 股东：劳伦斯·克劳斯（这本书的作者）
 
@@ -1079,7 +1083,7 @@ Charlie: Lawrence Krauss, yeah.
 
 芒格：是的，劳伦斯·克劳斯。
 
-###Shareholder: I have a question about the government involvement in the economy. It's obvious that with continuation of QE that government's doing a lot to support the economy and the market and the stock market. What do you think the right role … and involvement, and what do you ?
+Shareholder: I have a question about the government involvement in the economy. It's obvious that with continuation of QE that government's doing a lot to support the economy and the market and the stock market. What do you think the right role … and involvement, and what do you ?
 
 股东：我有一个关于政府参与经济的问题。很显然的，由于持续的量化宽松政策，政府一直在支持经济，市场包括股票市场。你认为政府的正确的角色应该是什么，应该在多大程度上介入经济？
 
@@ -1091,7 +1095,7 @@ Somebody like Paul Krugman, who's overdosed on mathematics, and uses the king's 
 
 像保罗·克鲁格曼这样的人，他对数学的依赖程度过高，而且他运用英语的能力几乎无人能及，这使得他颇具影响力。他可能不会直接说没有限制，但是他认为这个政策的风险边际足够远，完全不用为之担忧。我不同意这种观点。但没有人知道这个问题的答案。
 
-###Shareholder: I wanted to see how you see the retail landscape. The future of retail from your Costco lens, and how it might be affected...?
+Shareholder: I wanted to see how you see the retail landscape. The future of retail from your Costco lens, and how it might be affected...?
 
 股东：查理，我想听听你对零售业现状的看法，特别是从 Costco 的角度来看，以及它可能面临的变化……
 
@@ -1131,7 +1135,7 @@ That's why you asked the question.
 
 这就是你提出这个问题的原因。
 
-###Shareholder: I think it's really tough, and it's ...
+Shareholder: I think it's really tough, and it's ...
 
 股东：我觉得这真的很难，而且它...
 
@@ -1139,7 +1143,7 @@ Munger: Yeah.
 
 芒格：是的。
 
-###Shareholder: I'm almost running out of...
+Shareholder: I'm almost running out of...
 
 股东：我快顶不住了...
 
@@ -1147,7 +1151,7 @@ Munger: He wanted to hear somebody else say what he already believes. He should 
 
 芒格：他想要听到别人确认他已经相信的事情。他应该去参加天主教会。
 
-###Shareholder: You described what seemed to me is an unsustainable situation.
+Shareholder: You described what seemed to me is an unsustainable situation.
 
 股东：从你描述的情况来看，是无法持续了。
 
@@ -1155,7 +1159,7 @@ Munger: We know there's some limit, don't we? Everybody in the room knows it. Ke
 
 芒格：我们明白总归是有个极限的，对吧？在座的各位都心知肚明。如果一直这样逼迫下去，最后它可能会反噬你。
 
-###Shareholder: Most of us admire is how resolute you've been with your investment philosophy. Can you talk a little bit on that? 
+Shareholder: Most of us admire is how resolute you've been with your investment philosophy. Can you talk a little bit on that? 
 
 股东：我们大多数人所钦佩的是你在投资哲学上的坚定。你能稍微谈谈这一点吗？
 
@@ -1179,7 +1183,7 @@ Being a professional money manager is not so easy. It shouldn't be easy. You're 
 
 成为一个专业的资金管理人并不容易。这本就不应该容易。你刚才还在抱怨没有臭鸡蛋扔在你的脸上；你说你有。那就皱皱眉头，你的计划就成功了。
 
-###Shareholder: Hey, Charlie. That gentleman back there on the book recommendation.
+Shareholder: Hey, Charlie. That gentleman back there on the book recommendation.
 
 股东：嗨，查理。刚才那位先生谈到了书籍推荐。
 
@@ -1187,7 +1191,7 @@ Munger: Yeah.
 
 芒格：对。
 
-###Shareholder: I have a book recommendation, but the story -- it has both humor and mystery attached to it. In effect, you're going to get a Warren Buffet book recommendation here. I've got this email the other day from Todd Combs. He said, "Warren gave me a copy of this book yesterday, and I just finished it. And would recommend you read it as well." The name of the book is The Outsiders. I had a member of my staff buy that. I'll get to that. Give me a moment. I had a member of my staff buy the book from Amazon, and the book arrived. 
+Shareholder: I have a book recommendation, but the story -- it has both humor and mystery attached to it. In effect, you're going to get a Warren Buffet book recommendation here. I've got this email the other day from Todd Combs. He said, "Warren gave me a copy of this book yesterday, and I just finished it. And would recommend you read it as well." The name of the book is The Outsiders. I had a member of my staff buy that. I'll get to that. Give me a moment. I had a member of my staff buy the book from Amazon, and the book arrived. 
 
 股东：我也有一本书推荐，但这个故事——它既有趣又神秘。实际上，是沃伦·巴菲特推荐的。我前几天收到了托德·库姆斯的一封电子邮件。他说，“沃伦昨天给了我这本书，我刚刚读完。我也推荐你读一读。”书的名字是《局外人》。我让我的一个员工去买那本书。我稍后会拿到的。给我一点时间。 我让我的一个员工从亚马逊订购了这本书，书到了。
 
