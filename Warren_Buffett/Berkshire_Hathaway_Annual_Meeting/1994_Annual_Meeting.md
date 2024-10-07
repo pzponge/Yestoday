@@ -4,11 +4,11 @@
 - 发表时间：1994-04-25
 - 视频及文字稿：[1994 Annual Meeting](https://buffett.cnbc.com/1994-berkshire-hathaway-annual-meeting/)
 - 中文翻译：一朵喵（[上午场-上](https://mp.weixin.qq.com/s/jx1meQN5Cc291CJ4h2abww)，[上午场-中](https://mp.weixin.qq.com/s/y_QqNFtZ-1UmPsjkl_7mig)，[上午场-下](https://mp.weixin.qq.com/s/IdwVr1xsY4bPH7rIkU9SCg)，[下午场](https://mp.weixin.qq.com/s/1_lzWmG0LUJgN6QDnm46jw)）
-- 整理：Ponge
+- 整理：纪璐，Ponge
 
 ---
 
-# About 1994 Annual Meeting 关于 1994 年年度会议
+# About 1994 Annual Meeting</br>关于 1994 年年度会议
 
 (April 25, 1994) Buffett warns that excessive risks in the reinsurance business may not become evident until big problems arise years later, and calls derivatives a dangerous combination of “ignorance and borrowed money.” He and Munger also tell investors why they don’t need to do extraordinary things to get extraordinary results.
 
@@ -16,10 +16,10 @@
 
 Berkshire Hathaway Shareholder Letters: [1993 Letter to Berkshire Shareholders](../../Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md)
 
-# Morning Session 上午场
+# Morning Session</br>上午场
 
 
-## 1\. Bigger meeting venue needed next year 明年需要更大的会议场地
+## 1\. Bigger meeting venue needed next year </br>明年需要更大的会议场地
 
 WARREN BUFFETT: Put this over here.
 
@@ -59,7 +59,7 @@ We are sliding down the cultural chain — (laughter) — just as Charlie predic
 
 我们的文化品味正在下降——(笑声)——就像查理几年前预测的那样。他预见到了这一切。(笑声)
 
-## 2\. Buffett loses “Miss Congeniality” title to Munger 巴菲特把“万人迷”的头衔输给了芒格
+## 2\. Buffett loses “Miss Congeniality” title to Munger </br>巴菲特把“万人迷”的头衔输给了芒格
 
 WARREN BUFFETT: Charlie — I have some rather distressing news to report. There are always a few people that vote against everyone on the slate for directors and there’s maybe a dozen or so people do that. And then there are others that single shot it, and they pick out people to vote against.
 
@@ -77,7 +77,7 @@ I tell you, when you lose out the title of Miss Congeniality to Charlie, you kno
 
 我告诉你们，我“万人迷”的头衔被查理抢去了，你们要有麻烦了。(笑声)
 
-## 3\. Meeting timetable 会议日程
+## 3\. Meeting timetable </br>会议日程
 
 WARREN BUFFETT: Now, I’d like to tell you a little bit how we’ll run this. We will have the business meeting in a hurry with the cooperation of all of you, and then we will introduce our managers who are here, and then we will have a Q&A period.
 
@@ -103,7 +103,7 @@ We encourage you staying around on that basis.
 
 不过我们还是希望你们都留下来。
 
-## 4\. Berkshire directors introduced 伯克希尔的董事介绍
+## 4\. Berkshire directors introduced </br>伯克希尔的董事介绍
 
 WARREN BUFFETT: Let’s have the — let’s get the business of the meeting out of the way. Then we can get on to more interesting things.
 
@@ -113,7 +113,7 @@ First of all, there’s Charlie, who is the vice chairman of Berkshire, and if t
 
 We have Susan T. Buffett, Howard Buffett, Malcolm Chase III, and Walter Scott Jr. And that’s it. (Applause)
 
-## 5\. Meeting quorum 会议议案
+## 5\. Meeting quorum </br>会议议案
 
 WARREN BUFFETT: Also with us today are partners in the firm of Deloitte and Touche, our auditors, Mr. Ron Burgess and Mr. Craig Christiansen (PH).
 
@@ -151,7 +151,7 @@ Does the secretary have a report of the number of Berkshire shares outstanding e
 
 FORREST KRUTTER: Yes, I do. As indicated in the proxy statement that accompanied the notice of this meeting that was sent by first class mail to all shareholders of record on March 8, 1994, being the record date for this meeting, there were 1,177,750 shares of Berkshire common stock outstanding, with each share entitled to one vote on motions considered at the meeting. Of that number, 1,035,680 shares are represented at this meeting by proxies returned through last Friday.
 
-## 6\. Directors elected 董事会选举
+## 6\. Directors elected </br>董事会选举
 
 WARREN BUFFETT: Thank you. We will proceed to elect directors.
 
@@ -191,7 +191,7 @@ WARREN BUFFETT: Thank you, Mr. Fitzsimmons.
 
 Warren E. Buffett, Susan T. Buffett, Howard G. Buffett, Malcolm G. Chase III, Charles T. Munger, and Walter Scott Jr. have been elected as directors. (Applause)
 
-## 7\. Formal meeting adjourns 股东大会普通流程结束
+## 7\. Formal meeting adjourns </br>股东大会普通流程结束
 
 WARREN BUFFETT: Does anyone have any further business to come before this meeting before we adjourn?
 
@@ -211,7 +211,7 @@ WARREN BUFFETT: Opposed say no, the meeting is adjourned. (Laughter)
 
 It’s democracy in Middle America. (Laughter)
 
-## 8\. Berkshire managers introduced 伯克希尔的管理者团队介绍
+## 8\. Berkshire managers introduced </br>伯克希尔的管理者团队介绍
 
 WARREN BUFFETT: Now, I’d like to introduce some of the people that make this place work to you. And if you would hold your applause until the end because there are quite a number of our managers here.
 
@@ -259,7 +259,7 @@ Harry saved our bacon back in 19 — what? — 62 or so, when in some mad moment
 
 That’s our group of managers and I appreciate it if you give them a hand. (Applause)
 
-## 9\. Midwest Express adding flights to Omaha 中西部航空公司增加了飞往奥马哈的航班
+## 9\. Midwest Express adding flights to Omaha </br>中西部航空公司增加了飞往奥马哈的航班
 
 WARREN BUFFETT: I have one piece of good news about next year for you.
 
@@ -273,23 +273,37 @@ So, I hope they do very well with it and I hope that makes it easier for you to 
 
 我希望能让你更加容易来奥马哈。
 
-## 10\. Q&A logistics
+## 10\. Q&A logistics </br>问答环节
 
 WARREN BUFFETT: Now, in this — for the next two hours and 15 minutes or so, we’ll have a session where we will take questions.
 
+沃伦·巴菲特：现在，在接下来的两个小时15分钟左右的时间里，我们将有一个会议，我们将回答问题。
+
 We have seven zones, three on the main floor. We’ll go start over there with zone one and work across.
+
+我们有七个分区，主楼有三个。我们从那边的一区开始，然后穿过一区。
 
 On the main floor, if you’ll raise your hand, the person who is handling the mic will pass it to you and we’ll try to not repeat any individual in any one zone till everyone in that zone has had a chance to ask one question. So, after you’ve been on once, let other people get a shot.
 
+在主会场，如果你举手，负责拿话筒的人会把话筒递给你，我们会尽量不重复任何一个区域的任何人，直到该区域的每个人都有机会问一个问题。所以，在你发言一次后，让其他人也有机会发言。
+
 When we move up to the loge, we have one person there and in the case — and then we have three in the balcony, which is essentially full now.
+
+当我们走上平台时，我们有一个工作人员在那里——
 
 And we would, up there, we would appreciate it if you would you leave your seat and go to the person with the mic. It’ll be a little easier in both the loge and the balcony to handle it that way.
 
+如果你能离开座位，走向拿麦克风的人，我们将不胜感激。这样无论是在大厅还是在阳台都会方便一些。
+
 And if you’ll go a little ahead of time, that way if there’s a line of two or three you can you can line up for questions in both the loge and balcony.
+
+如果你们提前一点去，有两三个人排队，你们就可以在大厅和阳台排队提问。
 
 So, whatever you’d care to ask. If you want an optimistic answer you’ll, of course, direct your question to Charlie. If you’d like a little more realism you’ll come to me and — (laughter).
 
-## 11\. Derivatives: dangerous combination of “ignorance and borrowed money”
+所以，你想问什么都行。如果你想要一个乐观的答案，当然可以直接向查理提问。如果你想要更现实一点的答案，你可以来找我--（笑声）。
+
+## 11\. Derivatives: dangerous combination of “ignorance and borrowed money”</br>衍生品："无知与借钱"的危险组合
 
 WARREN BUFFETT: Let’s start over in zone 1.
 
@@ -299,73 +313,113 @@ In fact, I can’t even see the monitor right now, but do we have one over there
 
 And if you’ll identify yourself by name and your hometown, we’d appreciate it.
 
-AUDIENCE MEMBER: My name is Michael Mullen (PH) from Omaha.
+AUDIENCE MEMBER: My name is Michael Mullen (PH) from Omaha. Would you comment on the use of derivatives? I noticed that Dell computer stock was off 2 1/2 points Friday with the loss of derivatives.
 
-Would you comment on the use of derivatives? I noticed that Dell computer stock was off 2 1/2 points Friday with the loss of derivatives.
+股东：我是来自奥马哈的Michael Mullen (PH)。你能对衍生品评论以下吗？我注意到，由于衍生品的损失，戴尔电脑的股票周五下跌了 2.5 个百分点。
 
 WARREN BUFFETT: Question is about derivatives. We have in this room the author of the best thing you can read on that. There was an article in Fortune about a month ago or so by Carol Loomis on derivatives, and far and away it’s the best article that has been written.
 
+巴菲特：问题是关于衍生品的。写衍生品写得最好的文章的作者今天也在座，大约在一个月前，《财富》杂志刊登了一篇文章，作者是卡罗尔·卢米斯(Carol Loomis)，那篇文章无疑是衍生品方面写得最好的。
+
 We also have some people in the room that do business in derivatives from Salomon.
+
+在座的还有所罗门公司从事衍生品业务的几位先生。
 
 And it’s a very broad subject. It — as we said last year, I think someone asked what might be the big financial story of the ’90s and we said we obviously don’t know, but that if we had to pick a topic that it could well be derivatives because they lend themselves to the use of unusual amounts of leverage and they’re sometimes not completely understood by the people involved.
 
+这是一个非常宽泛的主题。去年有人问我们，1990 年代最大的金融话题会是什么。我说我们显然不知道，不过如果要我们选一个题材，我们会选择衍生品，因为可以通过衍生品使用异常巨大的杠杆，有时候连与衍生品打交道的人都不完全明白衍生品。
+
 And any time you combine ignorance and borrowed money — (laughter) — you can get some pretty interesting consequences. (Laughter)
+
+任何时候你把无知和借钱结合起来，你会得到一些非常有趣的结果，特别是当金额模糊不清的的时候。(笑声)
 
 Particularly when the numbers get vague. And you’ve seen that, of course, recently with the recent Procter and Gamble announcement.
 
+想必你们已经看到宝洁公司最近的做法。
+
 Now, I don’t know the details of the P&G derivatives, but I understand, at least from press reports, that what started out as interest rate swaps ended up with P&G writing puts on large quantities of U.S. and, I think, one other country’s bonds. And any time you go from selling soap to writing puts on bonds, you’ve made a big jump. (Laughter)
+
+我也不知道宝洁公司衍生品的详细情况，但我从媒体报道中得知，宝洁公司从利率掉期协议开始卖出美国和另一个国家的大量的债券的看跌期权。我想还有一个国家的债券写了看跌期权。从卖肥皂到卖债券，这是个很大的转变。（笑声）
 
 And it — the ability to borrow enormous amounts of money combined with a chance to get either very rich or very poor very quickly, has historically been a recipe for trouble at some point.
 
+从历史上看，借大量的钱——有机会迅速变得非常富有或非常贫穷——在某种程度上一直是麻烦的根源。
+
 Derivatives are not going to go away. They serve useful purposes and all that, but I’m just saying that it has that potential. We’ve seen a little bit of that.
+
+但衍生品不会消失，衍生品很有用。当然，衍生品有制造麻烦的潜在可能，我们也看到了这些迹象。
 
 I can’t think of anything that we’ve done that would — can you think of anything we do that approaches derivatives, Charlie? Directly?
 
+我想不起来我们在衍生品领域有任何业务，你能想起我们和衍生品直接有关的任何业务吗？查理？
+
 CHARLIE MUNGER: No. (Laughter)
+
+芒格：不。(笑声)
 
 WARREN BUFFETT: I may have to cut him off if he talks too long. (Laughter)
 
+巴菲特：如果他讲得太久，我可能得打断他的话。(笑声)
+
 Is there anything you would like to add to your already extensive remarks? (Laughter)
+
+巴菲特：你有什么想补充的吗？笑
 
 CHARLIE MUNGER: No. (Laughter)
 
+芒格：没有。(笑声)
+
 WARREN BUFFETT: OK.
 
-## 12\. Berkshire participated in Cap Cities stock buyback
+沃伦·巴菲特：好的
+
+## 12\. Berkshire participated in Cap Cities stock buyback</br>伯克希尔参与了大都会的股票回购
 
 WARREN BUFFETT: In that case we’ll go to zone 2. (Laughter)
 
 AUDIENCE MEMBER: My name is Hugh Stevenson (PH). I’m a shareholder from Atlanta.
 
+股东：我叫休·史蒂文森，来自亚特兰大。
+
 My question involves the company’s investment in the stock of Cap Cities. It’s been my understanding in the past that that was regarded as one of the four, quote unquote, “permanent” holdings of the company.
+
+根据我的理解，首府/ABC 广播公司是你宣称永久持有的四大公司之一，
 
 So I was a little bit confused by the disposition of one million shares. Could you clarify that? Was my previous misunderstanding — was my previous understanding incorrect? Or has there been some change or is there a third possibility?
 
-WARREN BUFFETT: Well, we have classified the Washington Post Company and Cap Cities and GEICO and Coke in the category of permanent holdings. And —
+所以你出售 100 万股的行动让我很困惑。你能澄清一下吗？是我之前的理解是错误的？或者有一些新变化？还是说有其他解释？
 
-But in the case of three of those four, The Washington Post Company, I don’t know, maybe seven or eight years ago, GEICO some years back, and now Cap Cities, we have participated in tenders where the company has repurchased shares.
+WARREN BUFFETT: Well, we have classified the Washington Post Company and Cap Cities and GEICO and Coke in the category of permanent holdings. But in the case of three of those four, The Washington Post Company, I don’t know, maybe seven or eight years ago, GEICO some years back, and now Cap Cities, we have participated in tenders where the company has repurchased shares.
 
-Now the first two, the Post and GEICO, we participated proportionally. That was not feasible, and incidentally, not as attractive taxwise anymore.
+巴菲特：我们把华盛顿邮报、大都公司、GEICO 和可口可乐公司列为永久持有的类别。但在这四家中有三家，华盛顿邮报可能在七八年前、GEICO 在若干年前，现在是首府/ABC 广播公司，我们都参与了它们股票回购计划中的要约收购。
 
-The 1968 Tax Act changed the desirability of proportional redemptions of shares, from our standpoint. That point has been missed by a lot of journalists in commenting on it, but it just so happens that the commentary that has been written has been obsolete, in some cases, by six or seven years.
+Now the first two, the Post and GEICO, we participated proportionally. That was not feasible, and incidentally, not as attractive taxwise anymore. The 1968 Tax Act changed the desirability of proportional redemptions of shares, from our standpoint. That point has been missed by a lot of journalists in commenting on it, but it just so happens that the commentary that has been written has been obsolete, in some cases, by six or seven years.
 
-But, we did participate in the Cap Cities tender offer, just as we did in the Post and GEICO.
+在前两个例子中，也就是华盛顿邮报和 GEICO，我们按比例将股票回售给公司。但是首府广播公司采取以前的回购方式就不可行了，税负也不合算。从我们的角度看，1986 年税法的修改降低了按比例回售股票的可行性，很多评论这件事的报道都忽视了这一点，但这件事就这么发生了，有些评论过时了 6、7 年。
 
-We still are, by far, the largest shareholder of Cap Cities. We think it’s a superbly run operation in a business that looks a little tougher than it did 15 years ago, but looks a little bit better than it did 15 months ago.
+But, we did participate in the Cap Cities tender offer, just as we did in the Post and GEICO. We still are, by far, the largest shareholder of Cap Cities. We think it’s a superbly run operation in a business that looks a little tougher than it did 15 years ago, but looks a little bit better than it did 15 months ago.
+
+我们确实参加了首府/ABC 广播公司的要约收购，就和我们以前参加华盛顿邮报和 GEICO 的股票回购一样，到目前为止，我们依旧是首府广播公司最大的股东。我们认为首府广播公司的运营非常出色，公司面对的环境比 15 年前更困难一点，但表现却比 15 个月前更好一点。
 
 Charlie, you have anything?
 
+查理，你有什么可补充的吗？
+
 CHARLIE MUNGER: Uh, no. (Laughter)
+
+芒格：不。(笑声)
 
 WARREN BUFFETT: He’s thinking it over now though before — (Laughter)
 
-## 13\. Unlikely we’d buy company with no current cash flow
+巴菲特：他现在还在考虑呢。(笑声)
+
+## 13\. Unlikely we’d buy company with no current cash flow</br>我们不太可能买下没有现金流的公司
 
 WARREN BUFFETT: Zone 3.
 
-AUDIENCE MEMBER: Good morning. My name is Howard Bask (PH) and I’m from Kansas City. And I’ve got a theoretical value question for you.
+AUDIENCE MEMBER: Good morning. My name is Howard Bask (PH) and I’m from Kansas City. And I’ve got a theoretical value question for you. If you were to buy a business and you bought it at its intrinsic value, what’s the minimum after-tax free cash flow yield you’d need to get?
 
-If you were to buy a business and you bought it at its intrinsic value, what’s the minimum after-tax free cash flow yield you’d need to get?
+股东：早上好。我叫霍华德·巴斯克，来自堪萨斯城。我有一个关于如何估值的问题想请教。如果你要购买一项业务，并且是按其内在价值购买的，你需要获得的税后自由现金流的最低收益率是多少？
 
 WARREN BUFFETT: Well, your question is if we were buying all of a business and we’re buying at what we thought was intrinsic value, what was the minimum —
 
@@ -373,33 +427,59 @@ AUDIENCE MEMBER: Correct.
 
 WARREN BUFFETT: — present earning power or what the present — the minimum discount rate of future streams?
 
+巴菲特：你的问题是如果我们以我们认可的内在价值，去购买一家企业 100%的所有权的时候，我们对未来现金流的最低贴现率是多少？
+
 AUDIENCE MEMBER: No, what’s the minimum current after-tax free cash flow yield you’d…
+
+股东：不。我想问的是最小的税后自由现金流收益率是多少？
 
 WARREN BUFFETT: We could conceivably buy a business — I don’t think we would be likely to — but we could we could conceivably buy a business that had no current after-tax cash flow. But, we would have to think it had a tremendous future.
 
+巴菲特：我们可能投资一笔生意——我不认为我们这么做的可能性很大——但我们可能买到一个现在没有税后现金流的生意。但是，我们必须认为它有着巨大的未来(才会这么做)。
+
 But we would not find — obviously the current figures, particularly in the kind of businesses we buy, tend to be representative, we think, of what’s going to happen in the future.
+
+我们并没有发现——根据我们目前买进的企业的财务数据，特别是根据当前的财务数据——可以指示企业未来的发展。
 
 But that would not necessarily have to be the case. You can argue, for example, in buying stocks, we bought GEICO at a time when it was losing significant money. We didn’t expect it to continue to lose significant money.
 
+事实未必如此。比如，我们在 GEICO严重亏损的时候收购了它，当时我们预期它不会继续亏损。
+
 But if we think the present value of the future earning power is attractive enough compared to the purchase price, we would not be overwhelmed by what the first year’s figure would be.
+
+如果我们认为未来盈利能力的现值相对于购买价格具有足够的吸引力，我们就不会被第一年的数字所左右。
 
 Charlie, you want to add to that?
 
+查理，你有什么可补充的吗？
+
 CHARLIE MUNGER: Yeah. We don’t care what we report in the first year or two of — after buying anything.
+
+芒格：我们在并购任何公司之后，公司头两年的报表如何我们根本就不在乎。
 
 AUDIENCE MEMBER OFF MIC: (INAUDIBLE) on average over the years (INAUDIBLE).
 
+股东：你用的自由现金流的贴现率是多少？
+
 WARREN BUFFETT: Well, I would say that in a world of 7 percent long-term bond rates that we would certainly want to think we were discounting future after-tax streams of cash at at least a 10 percent rate.
 
+巴菲特：在长期债券利率为 7%的世界里，我们肯定希望我们的税后现金流贴现率至少为 10%。
+
 But that will depend on the certainty we feel about the business. The more certain we feel about a business, the closer we are willing to play it.
+
+但是这要看我们对企业有多确定，我们对企业越觉得确定，贴现率越接近最低值。只有在我们对所有的问题都有相当的把握之后才会对一家企业感兴趣，但确定性有不同的程度之分。
 
 We have to feel pretty certain about any business before we’re even interested at all. But there are still degrees of certainty, and —
 
 If we thought we were getting a stream of cash over the next 30 years that we felt extremely certain about, we would use a discount rate that would be somewhat less than if it was one where we thought we might get some surprises in five or 10 years — possibility existed. Charlie?
 
+如果我们觉得对未来 30 年里获得的现金流极其确定，我们对这家公司使用的贴现率，就会比我们认为会在 5 年或 10 年内发生预期外事情的公司，更低一点，这种可能性是存在的。查理？
+
 CHARLIE MUNGER: Nothing to add.
 
-## 14\. Insurance business intrinsic value is well above book value
+芒格：我没有什么要补充的。
+
+## 14\. Insurance business intrinsic value is well above book value</br>保险业务的内在价值远远高于帐面价值
 
 WARREN BUFFETT: OK. Zone 4.
 
@@ -409,17 +489,29 @@ You’ve made comments on several occasions about the intrinsic business value o
 
 I was wondering if you would explain in greater detail why you believe that to be true.
 
+股东：马库斯斯宾塞来自内布拉斯加州奥马哈。你曾多次就保险业务的内在商业价值发表评论。你在今年年报里说，保险业务的内在价值超过账面价值的程度大大高于伯克希尔的其他业务，我想请你详细解释一下。
+
 WARREN BUFFETT: Well, I — it’s very hard to quantify, as we’ve said many times in the report. But, I think that it’s clear that even taking fairly pessimistic assumptions, that the excess of intrinsic value over carrying value is higher, by some margin, for the insurance business.
+
+巴菲特：正如我们在报告中多次提到的，这很难量化。但是，我认为很明显，即使采取相当悲观的假设，对保险业务来说，内在价值还是要比账面价值要高一些。
 
 And I think that the table in the report that shows you what our cost to float has been over the years, and also what the trend of float has been over the years, would, unless you thought that table had no validity for the future, I think that that table would tend to the point you in the direction of saying the insurance business does have a very significant excess of intrinsic value over carrying value.
 
+我想在年报里的表格，显示出了我们的浮存金成本，以及多年来浮存金金额的趋势，除非你认为那张表格的情况未来不能继续下去，否则你会得出我们的保险业务的内在价值大大高于账面价值的结论。
+
 Very hard number to put something on. But — and you don’t want to extrapolate that table out. But I think that table shows that we started with maybe 20 million of float and that we’re up to something close to three billion of float. And that that float has come to us at a cost that’s extremely attractive, on average, over the years.
+
+很难用数据完全解释清楚，但年报里的表格已经足够清晰了。从表里可以知道，我们从 2000 万的浮存金开始发展，现在已经超过 30 亿美金，并且这么多年来，浮存金的成本一直很有吸引力。
 
 And just to pick an example, last year, when we actually had an underwriting profit, the value of that float was something over $200 million. And that figure was a lot bigger than it was 10 years ago or 20 years ago.
 
+举例来说，去年在我们获取承保利润的同时，我们获取的浮存金(投资创造)的价值超过了 2 亿美元，大大多于 10年或 20 年前。
+
 So that’s — that is a stream — last year was unusually favorable, but that is a — that’s a very significant stream of earnings, and it’s one we feel we have reasonably good prospects in. So we feel very good about the insurance business.
 
-## 15\. Why Berkshire doesn’t split its stock
+不过去年的现金流和经营情况异常的好，我们也对未来保险业务的盈利能力及前景感到非常乐观。
+
+## 15\. Why Berkshire doesn’t split its stock</br>为什么伯克希尔不拆分其股票
 
 WARREN BUFFETT: OK. Zone 5?
 
@@ -427,25 +519,39 @@ AUDIENCE MEMBER: My name is Cy Rademacher (PH) from Omaha.
 
 Is there any point at which your stock would rise to the point where you might split the stock?
 
+股东：我是来自奥马哈的赛·瑞德马赫。你们会不会在伯克希尔股价上升到某个价格的时候，进行拆股呢？
+
 WARREN BUFFETT: Surprise, surprise. (Laughter)
 
 I think I’ll let Charlie answer that this year. (Laughs)
 
 He’s so popular with the shareholders that I can afford to let him take the tough questions. (Laughter)
 
+巴菲特：Woo...惊喜，惊喜(笑声)我还是让查理来回答这个问题吧，他那么受股东欢迎，那我就把困难的问题留给他吧。
+
 CHARLIE MUNGER: I think the answer is no. (Laughter and applause)
 
+芒格：我认为答案是不拆股。(笑声和掌声)
+
 I think the idea of carving ownerships in an enterprise into little, tiny $20 pieces is almost insane. And it’s quite inefficient to service a $20 account and I don’t see why there shouldn’t be a minimum as a condition of joining some enterprise. Certainly we’d all feel that way if we were organizing a private enterprise.
+
+我认为把企业所有权分割成 20 美元的一小块的想法几乎是疯狂的。对一个 20 美元的账户去提供服务，是非常低效的。我不明白为什么企业不可以有一个加入投资的最小投资金额？可以肯定的是，如果我们都是私营企业的业主，我们会这么做(设立最小投资金额)。
 
 WARREN BUFFETT: Yeah, we would not carve it up in $20 units.
 
 We find it very — it’s interesting because every company finds a way to fill up its common shareholder list. And you can start with the As and work through to the Zs and you’ll — every company in the New York Stock Exchange, one way or another, has attracted some constituency of shareholders.
 
+巴菲特：对。不应该把股票切成 20 美元的一小块。我们发现这非常有趣——因为每家公司都能找到方法来填满其普通股股东名单。你可以从 a 开始，一直到 z，你会发现，纽交所的每一家公司，都以这样或那样的方式，吸引了一些稳定的股东。
+
 And frankly, we can’t imagine a better constituency than is in this room. I mean, we have — we don’t think we can improve on this group, and we followed certain policies that we think attracted certain types of shareholders and actually pushed away others.
 
 And that is part of our eugenics program here at Berkshire. (Laughter)
 
+坦率地说，我想象不出哪家公司的股东构成会比我们的好——我们认为我们的股东好得不能再好。我们遵循某些政策，我们认为这些政策吸引了某些类型的股东，但实际上也排斥了其他类型的股东。这是我们伯克希尔优生优育计划的一部分。(笑声)
+
 CHARLIE MUNGER: Yeah, just look around this room and as you mingle with one another. This is a very outstanding group of people. And why would anybody want a different kind of a group?
+
+芒格：看看这个房间，看看你们周围，都是多么优秀的一群人啊。为什么会有人想要进行改变呢？
 
 WARREN BUFFETT: Yeah, if we cause — if we follow some policies that cause a whole bunch of people to buy Berkshire for the wrong reason, the only way they can buy it is to replace somebody in this room, or in this larger metaphorical room, of shareholders that we have.
 
@@ -453,7 +559,9 @@ So someone in one of these seats gets up and somebody else walks in. The questio
 
 I don’t think so. So I think that — I think Charlie said it very well.
 
-## 16\. Buffett is keeping his private jet
+巴菲特：对。如果我们的政策吸引了一些投资者，以错误的理由购买了伯克希尔的股票，同时他们要因此把在座的各位里的某人给替换掉，让在座的一些人起身离开……我认为这样不会给我们带来更好的股东。我觉得查理对这点已经说的很透彻了。
+
+## 16\. Buffett is keeping his private jet</br>巴菲特将保留他的私人飞机
 
 WARREN BUFFETT: Zone 6
 
@@ -462,6 +570,8 @@ AUDIENCE MEMBER: Mr. Buffett, my name is Rob Na (PH) and I’m from Omaha, Nebra
 My question is, given the recent announcement of Midwest Express and their nonstop jet service between East and West Coasts, will this cut down on your use of “The Indefensible?” (Laughter)
 
 And will you use more commercial air travel?
+
+股东：罗伯·纳来自奥马哈。我的问题是，考虑到中西部航空最近宣布将在东西海岸之间开通直飞航班，这会减少你使用"不可原谅号"吗？(笑声)你会乘坐更多的商务航空吗？
 
 WARREN BUFFETT: This is a question planted by Charlie. (Laughter)
 
@@ -473,25 +583,37 @@ Nothing will cut back on “The Indefensible.” It’s being painted right now,
 
 Charlie, though, was pointing out the merits of other kinds of transportation last night at the meeting of our managers. He might want to repeat those here.
 
+巴菲特：这一定是查理准备的问题。(笑声)我觉得你应该知道，我每天都乘坐它去药店……(笑声)唯一的问题是，你得看我什么时候开始睡在飞机上。没有任何事情能让我减少乘坐"不可原谅号"，现在(飞机名称)已经开始粉刷了，我让工人们让它尽可能刷的保持清晰可见。昨晚和经理们开会的时候，查理指出了乘坐其他交通工具的优点。也许查理可以在这里重复一下。
+
 CHARLIE MUNGER: Well, I just pointed out that the back of the plane arrived at the same time as the front of the plane, invariably. (Laughter)
+
+芒格：我只是指出坐飞机后舱和坐飞机前舱都是同时抵达而已。(笑声)
 
 WARREN BUFFETT: He’s even more of an authority on buses, incidentally, if anybody has his — (Laughter)
 
-## 17\. Buffett’s next goal in life
+巴菲特：顺便说一句，他在公共汽车领域更是专业，如果有人有的话——(笑声)
+
+## 17\. Buffett’s next goal in life</br>巴菲特的下一个人生目标
 
 AUDIENCE MEMBER: Mr. Buffett, my name’s Allan Maxwell from Omaha. I’ve got two questions.
 
 What is your next goal in life now that you’re the richest man in the country?
 
+股东：巴菲特先生，我叫艾伦·麦克斯韦尔，来自奥马哈。我有两个问题。你现在是这个国家最有钱的人，你人生的下一个目标是什么？
+
 WARREN BUFFETT: That’s easy. It’s to be the oldest man in the country. (Laughter and applause)
 
-## 18\. “Two yardsticks” for judging management
+巴菲特：这个问题很简单，我要成为美国最长寿的人。(笑声&掌声)
+
+## 18\. “Two yardsticks” for judging management</br>评判管理层的“两个标准”
 
 AUDIENCE MEMBER: Secondly, you talk about good management with corporations and that you try and buy companies with good management.
 
 I feel that I have about as much chance of meeting good managers, other than yourself, as I do bringing Richard Nixon back to life.
 
 How do I, as an average investor, find out what good management is?
+
+股东：你尝试发现好的管理层并购买管理良好的公司。就我个人而言，我觉得我遇见像你一样优秀的管理层的概率，就像我把理查德·尼克松复活一样(意思是不可能)。作为一个普通的投资者，我怎么才能知道什么是好的管理层呢？
 
 WARREN BUFFETT: Well, I think you judge management by two yardsticks.
 
@@ -501,7 +623,11 @@ You have to have some understanding of the hand they were dealt when they themse
 
 But, if you understand something about the business they’re in — and you can’t understand it in every business, but you can find industries or companies where you can understand it — then you simply want to look at how well they have been doing in playing the hand, essentially, that’s been dealt with them.
 
+巴菲特：我们根据两个准绳来衡量管理层。第一是弄明白他们管理的企业到底有多好。我认为你可以通过阅读他们的成就、将他们的成就和竞争对手相比，并看看他们的长期资本配置能力到底如何。你可以从中学习到很多东西。你必须了解他们当时手中到底有怎样的牌。如果你对这家企业有所了解——你不可能理解所有的企业，但可以找到你能理解的行业或公司——那么你就可以看看管理层在利用手里的资源方面有多出色。
+
 And then the second thing you want to figure out is how well that they treat their owners. And I think you can get a handle on that, oftentimes. A lot of times you can’t. I mean it — they’re many companies that obviously fall in — somewhere — in that 20th to 80th percentile and it’s a little hard to pick out where they do fall.
+
+第二就是弄明白管理层是如何对待自己的股东的。有时候你能掌握这件事。很多时候你做不到。很多管理层的表现在前百名之 20 到 80 之间，弄明白他们到底排在哪里并不容易。
 
 But, I think you can usually figure out — I mean, it’s not hard to figure out that, say, Bill Gates, or Tom Murphy, or Don Keough, or people like that, are really outstanding managers. And it’s not hard to figure out who they’re working for.
 
@@ -509,9 +635,13 @@ And I can give you some cases on the other end of the spectrum, too.
 
 It’s interesting how often the ones that, in my view, are the poor managers also turn out to be the ones that really don’t think that much about the shareholders, too. The two often go hand in hand.
 
+但是，我认为你不难发现，比尔·盖茨，汤姆·墨菲，唐·基奥……或者像这样的人，都是非常优秀的经理人。要弄清楚他们为谁工作并不难，我也可以给你另一些反面的例子。有趣的是，在我看来，管理能力差劲的管理者常常不考虑股东利益。管理能力和对股东态度常常要么都好，要么都差劲。
+
 But, I think reading of reports — reading of competitors’ reports — I think you’ll get a fix on that in some cases. You don’t have to — you know, you don’t have to make a hundred correct judgments in this business or 50 correct judgments. You only have to make a few. And that’s all we try to do.
 
 And, generally speaking, the conclusions I’ve come to about managers have really come about the same way you can make yours. I mean they come about by reading reports rather than any intimate personal knowledge or — and knowing them personally at all.
+
+但是，我认为阅读报告——阅读竞争对手的报告——在某些情况下您会得到一个结论。你不需要在这个行业中做出 100 个正确的判断或者 50 个正确的判断。你只需要做几个，而这就是我们要做的。总的来说，我对管理层的评价和你对管理层的评价来源是一样的，都是来自于阅读报表而不是因为我和他们很熟或者我完全了解他们。
 
 So it — you know, read the proxy statements, see what they think of — see how they treat themselves versus how they treat the shareholders, look at what they have accomplished, considering what the hand was that they were dealt when they took over compared to what is going on in the industry.
 
@@ -519,9 +649,13 @@ And I think you can figure it out sometimes. You don’t have to figure out very
 
 Charlie?
 
+所以，去阅读报表吧，看看他们是怎么想的，看看他们是怎么对待自己和股东的，看看他们取得了什么成就，考虑一下他们在接管时所做的事情，并和这个行业的其他公司做对比。我认为有时候能弄明白这些问题就行，用不着次次都能判断。查理？
+
 CHARLIE MUNGER: Nothing to add.
 
-## 19\. How Berkshire keeps great managers
+芒格：我没有什么要补充的。
+
+## 19\. How Berkshire keeps great managers</br>伯克希尔如何留住优秀的经理人
 
 WARREN BUFFETT: Ok, we’re back to zone 1.
 
@@ -531,71 +665,125 @@ In meeting Ajit Jain, I’ve been very impressed over the years. And I think I e
 
 Please comment on your deepest impressions of his personality and managerial skills, and also how you go about exactly keeping somebody who has such fine skills within the fold. He might go to Walt Disney someday and, you know, pull down 200 million.
 
+股东：嗨，我叫李。我来自加州的帕洛阿尔托。这些年来，对于阿吉特·贾恩(AjitJain)我印象深刻。请对他的人格和管理技能进行一下评论，以及请你谈谈你是如何让那些有能力的人保持这种能力的。我觉得以阿吉特·贾恩的能力，也许有一天他会去迪士尼工作，年薪两亿。
+
 WARREN BUFFETT: Well, if he gets offered 200 million — (laughs) — we may not compete too vigorously at that level. (Laughter)
 
 We basically try to run a business so that — Charlie and I have two jobs. We have to identify and keep good managers interested after we’ve figured out who they are.
 
 And that often is a little different here, because I would say a majority of our managers are financially independent, so that they don’t go to work because they are worried about putting kids through school or putting food on the table. So they have to have some reason to go to work aside from that.
 
+巴菲特：好吧，如果他得到 2 亿美元的工作的话(笑声)，我们可能不会给他这个回报。(笑声)一般而言，查理和我有两个任务：我们得识别出优秀的经理人，并且在找到这些人之后，想办法保持他们的工作热情。因为我们大多数经理人都已实现财务自由，所以要保持他们的工作热情略有点难度——他们不需要为小孩上学的学费、为了赚钱买食物而去上班的，他们去上班是因为除此之外的一些原因。
+
 They have to be treated fairly in terms of compensation, but they also have to figure it is better than playing golf every day or whatever it may be.
 
+ 在薪酬方面，他们必须得到公平对待，但也要给他们找到比每天打高尔夫球或其他事情更有意思的事。
+ 
 And, so that’s one of the jobs we have and we basically attack that the same way — we look at what they do the same way we look at what we do.
+
+这是我们的工作之一，我们对待经理人的态度和对我们自己一样。
 
 We’ve got a wonderful group of shareholders. Before I ran this, I had a partnership. I had a great group of partners. And essentially, I like to be left alone to do what I did. I like to be judged on the scorecard at the end of the year rather than on every stroke, and not second guessed in a way that was inappropriate.
 
+我们有一群非常好的股东，在巴菲特合伙基金的时代，我曾有一群非常好的合伙人。实际上，我喜欢很多事情自己干。我喜欢在年底的时候，用我的内部记分卡来评价我自己，而不想在每次挥棒的时候都被人用一种不恰当的方式来评判。
+
 I like to have people who understood the environment in which I was operating.
+
+我喜欢和能理解我经营企业时所处环境的人共事。
 
 And so the important thing we do with managers, generally, is to find the .400 hitters and then not tell them how to swing, as I put in the report.
 
+所以我们对待经理人的重点在于，找到击球率为40%的棒球击球手，然后让他自己决定如何挥棒，而不是在旁边告诉他该怎么挥棒。
+
 The second thing we do is allocate capital. And aside from that, we play bridge. (Laughter)
+
+我们所做的第二件事是分配资金。除此之外，我们还打桥牌。(笑声)
 
 Pretty much what happens at Berkshire.
 
+伯克希尔的情况差不多就是这样。
+
 So, with any of the managers you might name here, we try to make it interesting and fun for them to run their business. We try to have a compensation arrangement that’s appropriate for the kind of business they’re in.
+
+对每一位经理人，我们都努力使他们的企业管理工作变得有趣且开心。我们努力使薪酬安排和经理人所在的企业类型相匹配。
 
 We have no company-wide compensation plan. We wouldn’t dream of having some compensation expert or consultant come in and screw it up. (Laughter)
 
+我们没有全公司范围内的薪酬计划。我们做梦也想不到会有薪酬专家或顾问来把事情搞砸。(笑声)
+
 We try to — some businesses require a lot of capital that we’re in, some require no capital. Some are easy businesses where good profit margins are a cinch to come by, but we’re really paying for the extra beyond that. Some are very tough businesses to make money in.
+
+有些公司需要大量资本，有些不需要。有些企业是很容易就可以赚到利润，只要我们对这些新增的利润进行额外的奖励。而有些企业就很难赚到利润。
 
 And it would be crazy to have some huge framework that we try to place everybody in that — where one size would fit all.
 
+如果想建立一个薪酬框架，把每个人都放进去，这样的薪酬制度就好像给身材不同的人穿同一尺码的衣服，那是疯狂的。
+
 People, generally, are compensated relating in some manner that relates to how their business does as opposed to — there’s no reason to pay anybody based on how Berkshire does, because no one has responsibility for Berkshire except for Charlie and me.
+
+一般来说，人们得到的报酬与他们的企业的经营状况有关，而不是根据伯克希尔的经营状况。因为除了查理和我，没有人应该对伯克希尔的业绩负责。
 
 And we try to make them responsible for their own units, compensated based on how those units do.
 
 We try to understand the businesses they’re in, so we know what the difference between a good performance and a bad performance —
 
+我们努力使经理人能对自己管理的企业负责，根据他们所管理的企业的业绩来给他们制订薪酬，同时我们试着去理解他们的企业，这样我们就可以真正区分企业经营业绩的好与坏。
+
 And that’s about — that’s how we work with people.
+
+这就是我们与人共事的方法。
 
 We’ve had terrific luck over the years in retaining the managers that we wanted to retain. I think, largely, it’s because — particularly if they sell us a business — to a great extent, the next day they’re running it just as they were the day before. And they’re having as much fun running their business as I am running Berkshire.
 
+多年以来，我们一直感到很幸运可以留住这些我们希望留住的经理人。我认为这主要是因为他们管理的企业依旧是和我们并购前的一样。他们和我们管理伯克希尔一样，在管理企业的时候得到很多乐趣。
+
 Charlie?
+
+查理，你觉得呢？
 
 CHARLIE MUNGER: Well, I’ve got nothing to add, but I think that concept of treating the other fellow the way you’d like to be treated if the roles were reversed — it’s so simple, when you stop to think about it, but —
 
+芒格：我没什么要特别补充的。不过我觉得，我们的理念就是，假如我们和他们对调位置，我们希望怎么被对待，那我们就怎么对待他们——你只要停下来想一下，就会发现这很简单。
+
 It’s a rare evening when Ajit and Warren aren’t talking once on the phone. It’s more than a business relationship, at least it seems that way to me.
+
+阿吉特（Ajit）和沃伦几乎每个晚上都在通电话。在我看来，这不仅仅是工作关系了。
 
 WARREN BUFFETT: Yeah, well, it is. It will stay that way, too.
 
+巴菲特：的确如此。未来这种关系也会继续保持。
+
 CHARLIE MUNGER: And by the way, we like our businesses — our relationships — to be more than a business relationship
+
+芒格：顺便提一句，我喜欢我们业务上的关系——是一种超越普通商业关系的关系。
 
 WARREN BUFFETT: Charlie and I are very — we basically — it’s a luxury but it’s a luxury that we should try to nurture — we get to work with people we like. And it makes life a lot simpler.
 
+巴菲特：查理和我非常幸运。和自己喜欢的人一起工作是很奢侈的，这种奢侈很值得培育——这使得我们的生活更加简单。
+
 It probably helps in that goal of being the oldest living American, too. (Laughter)
+
+对我成为美国最长寿的人的野心也很有帮助。(笑声)
 
 CHARLIE MUNGER: Yeah, and we tend to like people we admire. (Laughter)
 
+芒格：是的，我们喜欢我们钦佩的人。(笑声)
+
 WARREN BUFFETT: Yeah, who do we like that we don’t admire, Charlie? (Laughter)
 
+巴菲特：说说我们不喜欢的人是谁吧，查理?(笑声)
+    
 Start naming names. These people have names. (Laughter)
 
-## 20\. Guinness hurt by weak demand for scotch
+## 20\. Guinness hurt by weak demand for scotch</br>苏格兰威士忌需求疲软影响了健力士（Guinness）
 
 WARREN BUFFETT: Zone 2.
 
 AUDIENCE MEMBER: My name is Peter Bevelin from Sweden.
 
 How do you perceive Guinness long-term, economics growth-wise?
+
+股东：我是来自瑞典的Peter Bevelin，你对健力士的长期看法如何？(Arthur Guinness Son&Co.健力士公司，1997 年 Grand Metropolitan和 Guinness 两大公司合并为帝亚吉欧 Diageo。2019 年帝亚吉欧并购四川水井坊。)
 
 WARREN BUFFETT: Fitz — would you repeat that please, Fitz. What was it? What firm growth-wise?
 
@@ -607,15 +795,25 @@ WARREN BUFFETT: Oh, Guinness.
 
 I’m not as much of an expert on Guinness’ products as Charlie is.
 
+巴菲特：在健力士方面，我不如查理，查理才是专家....(笑声)
+
 CHARLIE MUNGER: We approved that. (Laughter)
 
+芒格：我们同意。(笑声)
+
 WARREN BUFFETT: You didn’t hear him. He said, “I approved that.”
+
+沃伦·巴菲特：你没听见。他说：“我同意了。”
 
 I made the decision to buy Guinness and Guinness has — it’s down somewhat from — actually, the price in pounds is about the same but the pound is at about $1.46 or -7 against an average of $1.80-something, so we’ve had a significant exchange loss on that.
 
 The — Guinness’ — despite the name — you know, the main product, of course, is scotch. And that’s where most of the money is made, although they make good money in brewing.
 
+巴菲特：实际上是我决定买健力士的。健力士的英镑价格并没有下跌，只是英镑对美元下跌了。英镑兑美元从 1 比 1.8，现在跌到 1 比 1.47 了，所以我们对健力士的投资出现了严重的汇率损失。健力士最主要的产品是苏格兰威士忌，这也是他们最赚钱的业务，也决定了整个公司的业绩。
+
 But, distilling is the main business. And, you know, the usage of scotch, particularly in this country, the trends have not been strong at all, but that was true when we bought it, too.
+
+苏格兰威士忌在一些国家增长一般，在一些国家却增长迅速——在远东的一些国家，苏格兰威士忌卖的越贵，人们就会越尊重你。我搞不懂他们怎么想的，不过我希望这可以持续。(笑声)
 
 There are some countries around the world where it’s grown and there are certain countries where it’s a huge prestige item.
 
@@ -627,15 +825,21 @@ Guinness makes a lot of money in the business. But, I would not — I don’t se
 
 The — Guinness itself, the beer, actually has shown pretty good growth rates in some countries. Actually, from a very tiny base in the U.S. as well.
 
+从整个世界看，苏格兰威士忌的消费并没有什么值得大书特书的地方。健力士在他们的领域赚了很多钱，但我在这家公司的历史中没有发现任何证据——能够让人相信苏格兰威士忌的销售量还会大幅增长。健力士啤酒的销量在一些国家增长得很快，实际上美国只占到其国外市场很小的一部分。
+
 But, they will have to do well in distilling or — I mean that will govern the outcome of Guinness.
 
 I think Guinness is well run and it’s a very important company in that business. But, I wouldn’t count on a lot of physical growth.
 
 Charlie, what — any consumer insights?
 
+健力士未来在蒸馏酒领域必须要有好的表现，这决定了它未来的业绩。总的来说，我认为健力士经营的非常好，它也是这个领域中非常重要的公司之一，但我不会期待它在销量上有大的增长。查理，对消费品领域，你有什么高见吗？
+
 CHARLIE MUNGER: No. (Laughter)
 
-## 21\. Why Berkshire will be OK if Buffett dies suddenly
+芒格：我没有什么要补充的。(笑声)
+
+## 21\. Why Berkshire will be OK if Buffett dies suddenly</br>如果巴菲特突然去世，伯克希尔哈撒韦为什么会安然无恙
 
 WARREN BUFFETT: Zone 3.
 
@@ -643,11 +847,15 @@ AUDIENCE MEMBER: Mr. Buffett, my name is Arthur Coleus (PH) from Canton, Massach
 
 And I’d like to know how you’d respond to the question that my associates ask me when they say that Berkshire Hathaway has been a good investment up to now, but what happens to your investment if, God forbid, something happens to Mr. Warren Buffett?
 
+股东：巴菲特先生，我叫亚瑟·科勒斯，来自马萨诸塞州的坎顿。我想知道，假如沃伦·巴菲特有个三长两短，我们的投资该怎么办？
+
 WARREN BUFFETT: Well, I’m glad you didn’t say Charlie Munger. (Laughter)
 
 No, there — Berkshire will do just fine. We’ve got a wonderful group of businesses.
 
 I’ve told you the two things I do in life. And, in terms of the managers we have, you have to come in and really want to mess it up, I would think. And we don’t have anybody like that, in terms of succession plans at Berkshire.
+
+巴菲特：你没有问查理三长两短，我很开心。(笑声)伯克希尔的表现仍将良好，因为我们有一群很好的企业。我告诉你我做的两件事。考虑到我们现有的经理人，我想若你担心有人继任后会乱来一气，那么尽可放心，伯克希尔的继任者名单中没有这种人。
 
 And then there’s the question of allocation of capital. And, you could do worse than just adding it to some of the positions that we already had.
 
@@ -655,25 +863,37 @@ The ownership is — if I die tonight, the ownership structure does not change. 
 
 I mean, there’s no — there would be no greater interest. And it is not a complicated business. I mean, you ought to worry more about, if you own Microsoft, about Bill Gates, I think, or something of the sort.
 
+还有资本配置方面，我认为如果我们增加新人负责这个工作，表现可能会不如现在。假如我今晚去世，伯克希尔的所有权结构不会改变。你还是会和现在一样，拥有一个像我一样的继任者去保持良好的管理。我认为，我们的业务并不复杂，如果你持有微软的股票，要更加担心比尔·盖茨的身体。
+
 But, this place is, you know, we’ve got a group down here that are running these. You didn’t see me out at Borsheims selling any jewelry the other day. I mean, that’s somebody else’s job. So, I — it is not — it’s not very complicated.
 
 Incidentally, I think I’m in pretty good health. I mean this stuff (Coca-Cola) will do wonders for you if you’ll just try it. (Laughter)
 
 Charlie, do you want to add anything as the —?
 
+在我们伯克希尔，我们有一群人在经营着我们的生意。今天你不会看到我在波仙珠宝店里卖珠宝，因为那是别人的工作。我的工作并不是很复杂。顺便说一下，我身体很好。我建议你尝试一下，这些东西(可口可乐)会给你创造奇迹。(笑声)查理，你有什么要补充的么？
+
 CHARLIE MUNGER: Yeah. I think the prospects of Berkshire would be diminished — obviously diminished — if Warren were to drop off tomorrow morning. But it would still be one hell of a company and I think it would still do quite well.
 
 I used to do legal work, when I was young, for Charlie Skouras. I heard him once say, my business, which was movie theaters like this one, was off 25 percent last year, and last year was off 25 percent from the year before, and that was off 25 percent from the year before, and then he pounded the table and he’d say, “But it’s still one hell of a business.”
 
+芒格：假如沃伦明天早上去世，伯克希尔的前景就会很明显地黯淡下来。但伯克希尔仍然是一家好公司，我们的业绩依旧会很好。我年轻时曾为查理·斯库拉斯(Charlie Skouras)做过法律工作。我听见他说，"我的生意，去年下降 25%，前年下降 25%，大前年也下降 25%"，然后他猛击桌子说，"但它仍然是一个非常好的生意。"
+
 WARREN BUFFETT: It’s not a formula we want to test, incidentally.
 
+巴菲特：我可不认为我们的业绩每年会下降 25%。
+
 CHARLIE MUNGER: No, no. (Laughter)
+
+芒格：这倒是。(笑声)
 
 WARREN BUFFETT: It is one hell of a business that we’ve got here. I mean — and if you saw what happened at Berkshire headquarters, you would not worry as much. There’s very little going on there that contributes to things. (Laughter)
 
 We’re, right now, at our peak of activity. This is it.
 
-## 22\. Easy answer: no reverse split, either
+巴菲特：我们的企业是一家非常好的企业。要是你去伯克希尔的总部看看，你就不会太担心了——毕竟总部几乎什么事也没干。(笑声)不管怎样，我们的事业正运行的非常好，就这么简单。
+
+## 22\. Easy answer: no reverse split, either</br>我们说了不会拆股，更不会有合股
 
 WARREN BUFFETT: Zone 4.
 
@@ -683,7 +903,11 @@ I was a little bit dubious and quite excited at that game Saturday night. I didn
 
 The first question, actually, was somewhat answered, but not fully. Has the board considered a reverse split? My experience has been that —
 
+股东：我叫 AlMartin，我的妻子 Terry 和我在一起。我感谢你们邀请我参加这次会议。实际上，第一个问题已经得到了某种程度的回答，但还不够全面。董事会是否考虑过合股？
+
 WARREN BUFFETT: Would you like to make that a motion? There was a motion for a reserve — reverse split. (Laughter)
+
+巴菲特：你是想提出一项议案吗？(笑声)
 
 AUDIENCE MEMBER: I would say a two-for-one because if it were three or four-for-one I might end up with no shares. Or fractional shares.
 
@@ -697,15 +921,21 @@ So that’s a different philosophy, I guess, as somewhat shared indirectly with 
 
 The second question, which is — has to do with —
 
+股东：我会提议 2 股合 1 股，因为如果 3 合 1 或 4 合 1 的话，我可能没有足够的股份(或只有部分股份)。我的经验是，进行股票拆分的公司的股价往往在未来一段时间都下跌，包括你现在正在喝的可口可乐。同时，我观察到默克公司的股价在每股拆分成 3 股后，股价创了新低。所以我在想，拆分股价的原因之一是让大众买得起。……我的第二个问题是……
+
 WARREN BUFFETT: Hope it’s as easy as the first question. (Laughter)
+
+巴菲特：我希望你的第二个问题会比第一个问题简单。(笑声)
 
 AUDIENCE MEMBER: Well, I didn’t want to wait for an answer of the first question for that reason, because it could be complicated and confusing and so forth.
 
-## 23\. Hillary Clinton’s success as commodities trader
+## 23\. Hillary Clinton’s success as commodities trader</br>希拉里·克林顿(Hillary Clinton)：成功的大宗商品交易商
 
 AUDIENCE MEMBER: The second question has to do with, could the board consider looking into a commodity broker, or a lawyer, or both, that could take action similar to Hillary Clinton’s?
 
 I think, you know, making your net worth go up by a factor of five overnight is more than enticing. Some of us might even want to wait for ten months to get a 100-to-1 return on the money.
+
+股东：董事会是否会考虑物色一位商品经纪人、或者律师、或者身兼两者的人，做像类似希拉里·克林顿那样的工作？——一夜之间就让净资产增长 5 倍，那可不是一般的诱人啊。我觉得在做得人当中，有一些人指望着 10个月内赚 100 倍呢。
 
 WARREN BUFFETT: Well, I want to say — I want to say to you, when I saw that 530 percent in one day, it — Charlie has never done that for us.
 
@@ -717,35 +947,61 @@ I hope you’re applauding over her coming to Berkshire, not — but I’ll leav
 
 OK, that was their second question. (Laughs)
 
+巴菲特：我曾在一天内取得过 530%的回报，查理从来没有做到过。(笑声)这真的促使我重新评估伯克希尔的继任计划。(笑声)希拉里·克林顿可能几年后就是自由身了。(掌声)我希望你们鼓掌是希望她来伯克希尔。(笑声)看起来这就是他们的第二个问题。(笑声)
+
 AUDIENCE MEMBER: That was my second question.
 
 Of course, in my experience, it’s been that most of us have thought through this situation and I guess it’s pretty speculative, but I found out that the rules and laws that are made for trading are interpreted rather than enforced. And I think that applied to this particular case, so let’s go on to the third question. (Laughter)
 
+股东：这的确是我的第二个问题。当然，根据我的经验，我们大多数人都已经考虑过这种情况了，让我们继续第三个问题吧。
+
 WARREN BUFFETT: Alright. They’re getting easier. (Laughter)
 
-## 24\. Blue Chip Stamps is a disaster under Buffett and Munger
+巴菲特：希望第三个问题会更简单一点。
+
+## 24\. Blue Chip Stamps is a disaster under Buffett and Munger</br>在巴菲特和芒格的领导下，蓝筹印花公司是一场灾难
 
 AUDIENCE MEMBER: This one is real easy. My wife was a collector of Blue Chip stamps for many, many years. And she brought some stamps with her. What should she do with them?
 
+股东：我的老婆收集了很多蓝筹印花公司的印花，她一直带着它们，你觉得她应该怎么办呢？
+
 WARREN BUFFETT: Well, that — we can give you a definitive answer to that. Charlie and I entered the trading stamp business to apply our wizardry to it in what, 1969 or so, Charlie?
 
+巴菲特：我们可以给你一个明确的答案。查理和我进入优惠券这个行业，是大概在 1969 年吧，查理？
+
 CHARLIE MUNGER: Yes.
+
+芒格：是的。
 
 WARREN BUFFETT: We were doing what then, about 110 million?
 
+巴菲特：我们在那之后做了啥？收入大概 1.1 亿？
+
 CHARLIE MUNGER: No, it went up to 120.
+
+芒格：不，最多的时候值 1.2 亿。
 
 WARREN BUFFETT: OK. And then we arrived on the scene and we’re going to do what, about 400,000 this year?
 
+巴菲特：好吧，然后到现在，只剩 40 万？
+
 CHARLIE MUNGER: Yes.
+
+芒格：是的。
 
 WARREN BUFFETT: Yeah. (Laughter)
 
 That shows you what can be done when your management gets active. (Laughter)
 
+巴菲特：哈，那不错。(笑声)这表明了管理层(我们)开始行动时，会有什么后果。(笑声)
+
 CHARLIE MUNGER: We have presided over a decline of 99 1/2 percent. (Laughter)
 
+芒格：我们只是主导了 99.5%下跌。(笑声)
+
 WARREN BUFFETT: Yeah. Yeah. But, we’re waiting for a bounce — (Laughter)
+
+巴菲特：没错，我们即将迎来一波反弹。(笑声)
 
 I would say this. The trading stamp business, as those of you who have followed all know, it only works because of the float.
 
@@ -755,11 +1011,17 @@ But, our advice to anyone who has stamps is to save them because they’re going
 
 Tell her to keep them. They’ll do nothing but gain in value over years. (Laughter)
 
-## 25\. Stock split wouldn’t raise long-term average price
+从事印花交易的人都知道，只有在波动的情况下，这项业务才会成功。在 60 年代，有很大一部分印花已经被兑换掉了，那些年我们 99%的印花都被兑换了。那些持有印花是因为相信它们将成为收藏家藏品的人，我们给的建议是保存他们的印花，此外如果你把它们带来给我们，我们还得给你商品。告诉你老婆保留好这些印花，它们以后只会更值钱。(笑声)
+
+## 25\. Stock split wouldn’t raise long-term average price</br>股票拆分不会提高长期平均价格
 
 WARREN BUFFETT: Going back, incidentally, to your point on the split.
 
+巴菲特：顺便再说一下股票拆分的问题。我觉得大多数人认为，股票拆分可以提高股价。
+
 I think most people think that the stock would sell for more money split.
+
+首先，我们认为这并不明智，同时我们认为，这种股价的提高不会长时间持续下去。
 
 A, we wouldn’t necessarily think that was advisable in the first place.
 
@@ -768,6 +1030,8 @@ But we — in the second place, we don’t think it would necessarily be true ov
 We think our stock is more likely to be rationally priced over time following the present policies than if we were to split it in some major way.
 
 And we don’t think the average price would necessarily be higher. We think that the volatility would probably be somewhat greater, and we see no way that volatility helps our shareholders as a group.
+
+我们认为遵循现有的政策，比采取大动作拆股，能使我们的股票定价更加合理。同时我们不认为拆股后的股票价格会变得更高，反倒是波动性会有所增大——而波动性对保持股东群的稳定并没有好处。
 
 ## 26\. Fed Chairman Greenspan’s actions are “quite sound”
 
