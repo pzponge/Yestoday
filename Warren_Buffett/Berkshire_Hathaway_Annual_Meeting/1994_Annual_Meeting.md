@@ -1033,23 +1033,35 @@ And we don’t think the average price would necessarily be higher. We think tha
 
 我们认为遵循现有的政策，比采取大动作拆股，能使我们的股票定价更加合理。同时我们不认为拆股后的股票价格会变得更高，反倒是波动性会有所增大——而波动性对保持股东群的稳定并没有好处。
 
-## 26\. Fed Chairman Greenspan’s actions are “quite sound”
+## 26\. Fed Chairman Greenspan’s actions are “quite sound”</br>美联储主席格林斯潘的行动“相当稳健”
 
 WARREN BUFFETT: Zone 5.
 
 AUDIENCE MEMBER: I am Peg Gallagher from Omaha.
 
+股东：佩格·加拉格尔来自奥马哈。
+
 Mr. Buffett, are you interested in influencing Mr. Greenspan at the Fed to stop raising interest rates?
 
+巴菲特先生，请问你有兴趣对美联储的格林斯潘建议，让他停止加息吗？
+
 WARREN BUFFETT: Well, I wouldn’t have any influence with him. He was on the board of Cap Cities some years ago and I know him a bit. But I don’t think anyone would have any influence with Mr. Greenspan on that point.
+
+巴菲特：我不会对他给他任何建议。若干年前，他曾是首府广播公司(CapCities)的董事会成员，我认识他。但我认为关于加息，没有人能够对格林斯潘先生施加任何影响。
 
 But, I generally think that his actions have been quite sound during his period as Fed chief.
 
 I mean, it’s part of the job of the Fed, as Mr. Martin said many years ago, was to take away the punchbowl at the party, occasionally. And that’s a very difficult, difficult policy to quantify working with markets day-by-day.
 
+总体上，我认为，他在担任美联储主席期间的做法相当明智，正如很多年前马丁先生所言，有时候在派对狂欢时拿走盛满美酒的酒杯，也是美联储职责的一部分。将美联储每天在市场的政策进行量化评价，是很困难的。
+
 And, of course, it’s always been the job of the Fed, basically, to lean against the wind. Which, of course, means if the wind changes, you fall flat on your face. But that’s another question.
 
+当然，美联储的职责一直都是逆周期操作，这就意味着当风向改变时，美联储的措施就会失效。不过那是另一个问题了。
+
 But the — I don’t — I think what he has done is probably been somewhat appropriate. I think he’s probably been surprised, a little bit, as to what has happened with long-term rates as he’s nudged up short-term rates.
+
+格林斯潘的做的基本上是恰当的。我想他在提高短期利率之后，可能会对长期利率的反应有点吃惊。
 
 I think he was hoping that — this is just a guess on my part — that action, sort of early in the cycle on the short-term rate front, would — might make people feel more confident about the longer-term rates and therefore that the yield curve would flatten some. I don’t know that. And, he may have been a little surprised on that.
 
@@ -1057,79 +1069,139 @@ But it’s not an easy job he has. So, I would not second guess him myself.
 
 Charlie, how do you feel about him?
 
+我认为他可能本来想通过提升短期利率，让大家对长期利率前景更有信心，让收益率曲线更平坦一点。他的工作并不容易，所以，我就不去评论他了。查理，你对格林斯潘先生怎么看呢？
+
 CHARLIE MUNGER: Fine. (Laughter)
+
+芒格：不错。(笑声)
 
 WARREN BUFFETT: Greenspan is safe. (Laughter)
 
-## 27\. Don’t pay attention to what people say about stocks
+巴菲特：格林斯潘位置安全了。(笑声)
+
+## 27\. Don’t pay attention to what people say about stocks</br>不要在意人们对股票的看法
 
 WARREN BUFFETT: Zone 6.
 
 MILLER: Mr. Buffett, I’m Lee Miller (PH) from St Louis.
 
+股东：巴菲特先生，我是圣路易斯的李·米勒博士。
+
 There was an article in the April 18th Barron’s that attempted to calculate the value behind each Berkshire Hathaway share.
 
 I’m sure you have some views on that and I’d be very interested in your perspective on that issue.
 
+《巴伦周刊》 (Barron's)最近有篇文章，试图计算伯克希尔的内在价值。你愿意评论那篇文章吗?
+
 WARREN BUFFETT: Yeah, there was an article about a week or so ago in Barron’s. The same fellow wrote an article about four years ago reaching pretty much the same conclusion, and I hope he hasn’t been short in between, but the — (Laughter)
+
+巴菲特：大约在4年前，这个人也写过一篇类似的文章，结论和最近的文章几乎相同。我希望在这4年里，他没有做空伯克希尔。（笑声）
 
 I would say this. It is not the way I would calculate the intrinsic value of Berkshire.
 
+我不会采取他那种方法来计算伯克希尔的内在价值。
+
 But everyone in securities markets make choices on that. Every day somebody sells a few shares of Berkshire and someone sell — buys — and, you know, they are probably coming to differing opinions about valuation.
+
+证券市场中每个人都在判断企业的内在价值，每天都有人卖出伯克希尔股票，也有人买进，他们可能是因为持有不同的估值观点，而采取了不同的行动。
 
 I would say that I found it strange that apparently he forgot we were in the insurance business, but that — that’s not — (Applause).
 
+我觉得很奇怪，这位作者似乎忘记我们也有保险业务。（笑声）
+
 It really doesn’t make any difference. I mean, what — we don’t pay any attention to what people say about Coca-Cola stock or Gillette stock or any of those things.
 
+但这篇文章对我们没有任何影响。我们不会关注别人对可口可乐或吉列公司股票的任何评价。
+
 I mean, on any given day, two million shares of Coca-Cola may trade. That’s a lot of people selling, a lot of people buying. If you talk to one person, you’d hear one thing, and you’d talk to another — you really should not make decisions in securities based on what other people think.
+
+随便哪一天，都可能有200万股可口可乐股票被交易，很多人买入，很多人卖出。你问一个人，会听到一种观点；你问另一个人，又会听到另一种观点——在投资中，你不应该根据别人的想法而做出任何决定。
 
 If you’re doing that, you should think about doing something else, because it’s —
 
 A public opinion poll will just — it will not get you rich on Wall Street. So you really want to stick with businesses that you feel you can somehow evaluate yourself.
 
+如果你这么做，就应该考虑改行，因为在华尔街，听大众的观点（去投资）是不可能致富的。所以你必须坚持投资那些你自己可以进行评估的企业。
+
 And, I don’t think — I mean Charlie and I, we don’t read anything about what business is going to be — the economy is going to do, or the market’s going to do, or what anybody —
 
 Anytime I see some article that says, you know, these analysts say this or that about some business, it just — it doesn’t mean anything to us.
 
+查理和我不关注任何关于经济或市场会怎么发展的文章，因为分析师说这说那，对我们毫无意义。
+
 You cannot get rich with a weather vane.
 
-## 28\. Judge bank stock buybacks on case-by-case basis
+你不可能通过猜测风往哪儿吹而致富。
+
+## 28\. Judge bank stock buybacks on case-by-case basis</br>对具体银行的股票回购的观点
 
 WARREN BUFFETT: Zone 7.
 
 AUDIENCE MEMBER: I’m Edward Barr from Lexington, Kentucky, and I’d like to ask, given the amount of capital in the banking industry, do you think that more banks should be buying back significant amounts of their stock, like SunTrust, versus just the token amounts that they’re buying back or just the authorized amounts?
 
+股东：我是来自肯塔基州莱克星顿的爱德华·巴尔。我想问的是，考虑到银行业的资本规模，你认为应该有更多的银行回购股票吗，比如像SunTrust所作的，而不是仅仅回购一部分？
+
 And then also, related question in banking. Are they — are banks too focused on goodwill amortization when declining to buy other banks for cash, thereby using purchase accounting versus the normal practice in the industry of pooling accounting even when the stock they issue may be depressed or undervalued?
+
+另外还有关于银行的一些问题。银行在拒绝以现金收购其他银行时，是否过于注重商誉摊销，从而使用了购买会计？而不是在发行的股票可能被低估的情况下，采用权益会计的正常做法?
 
 WARREN BUFFETT: Well, the first question about the capital in the industry — that — you really have to look at that on a bank-by-bank basis and there is a lot more repurchasing of shares by banks taking place.
 
+巴菲特：第一个问题是关于银行业的资本的——你必须逐个银行来看待这个问题，而且最近我们看到银行回购股票的现象越来越多。
+
 You mentioned SunTrust, but National City is — they bought it back, I think, 5 percent of their — National City of Cleveland — bought back 5 percent of their stock in the first quarter.
+
+你提到了SunTrust，但National City在第一季度回购了5%的股票。
 
 There’s much more repurchasing going on, and that’s simply a judgment call by management that — as to the level of capital they need going forward, and what level of capital enables them to earn the return on equity that they think appropriate and whether they — what they feel like paying for their own shares.
 
+现在有更多的回购在进行，这只是关乎管理层的一个判断——关于他们未来需要的资本水平、以及什么样的资本水平能够让他们获得他们认为合适的股本回报率，以及他们愿意为自己的股票支付什么。
+
 So, I think you have to look at that on case-by-case.
+
+所以我建议你必须分银行来看待回购这件事。
 
 We certainly like it, if we were to own a bank, we would — or own shares in a bank — we would like the idea of the bank repurchasing its stock at a price that we thought was attractive. We would think that they probably knew more about their own bank than some other bank they were going to buy and that if the numbers are right, it’s an attractive way to use capital.
 
-## 29\. We don’t pay attention to accounting of a transaction
+如果我们拥有一家银行，我们当然希望银行以我们认为有吸引力的价格回购其股票。我们认为，如果数字正确，他们可能比其他银行更了解自己，这种使用资金（回购）的方式我认为很有吸引力。
+
+## 29\. We don’t pay attention to accounting of a transaction</br>在交易中，我们不太关心会计处理方式
 
 WARREN BUFFETT: Your second question about goodwill amortization and purchase accounting versus pooling: we care not — at Berkshire, it absolutely makes no difference to us what accounting treatment we get on something. We are interested in the economics of a transaction.
 
+巴菲特：你的第二个问题，是使用购买会计还是权益会计去处理商誉摊销的：在伯克希尔，不管使用什么会计方法对我们来讲都无所谓。我们关注的，是交易的实质经济情况。
+
 Some banks — some businesses generally, most businesses perhaps — prefer pooling because they don’t like to take a goodwill amortization charge.
+
+一般来说，大多数银行和企业(也许是大多数企业)偏爱使用权益会计法(pooling method)，因为他们不喜欢把商誉费用摊销。
 
 We think our shareholders are smart enough, particularly if we make it clear to them — the accounting consequences — we think they’re smart enough to look through to the economic reality of what Berkshire’s businesses are all about.
 
+我们认为，在我们把会计结果清楚告知的情况下，我们的股东会足够聪明，能够透过报表洞悉伯克希尔的经济现实。
+
 And I think that some managements sell short their own ownership group by doing various kinds of financial acrobatics in order to have the charges come in a certain way rather than, as you point out, often they might be better off buying for cash rather than using their own stock as currency, but they may prefer to use their own stock because they avoid goodwill charges.
+
+有些管理人员会通过利用各式各样的财务技巧粉饰报表，从而出卖自己的股东，以获得一些经济利益。就像你指出的那样，他们更愿意用现金去支付而不是用股份，因为使用股份支付可以避免商誉摊销。
 
 We’ve written a few things on goodwill in the past and past annual reports that might get to that subject.
 
+我们在过去的年度报告中，写过一些可能会涉及到会计政策话题的文章。
+
 We don’t care what accounting — we sort of rewrite the accounting for any business that we’re looking at, because in our heads we want to have, in effect, a standardized way of looking at businesses.
+
+我们根本不关心会计政策——我们在某种程度上重新编写了我们所有公司的财务报表。因为我们希望用一种标准化的方式来衡量企业。
 
 And if one company goes through pooling transactions and another goes through purchase transactions, we’re going to recast them in our own minds so that there is comparability.
 
+如果一家公司使用权益会计法，另一家使用购买会计法，我们就重新将它们的报表按照我们的法子进行重写，以方便比较。
+
 Charlie?
 
+查理？
+
 CHARLIE MUNGER: Yeah, the published accounting results are in accordance with standard convention and they’re a place to start economic analysis. The figures are frequently quite silly on a functional basis. I’m not criticizing accounting conventions except for some. (Laughter)
+
+芒格：公开的会计业绩当然是一个很好的通用的比较标准，这是进行经济分析的出发点。很多财务数字常常会很愚蠢，我对会计标准不予评价。（笑声）
 
 WARREN BUFFETT: Yeah.
 
@@ -1137,37 +1209,67 @@ CHARLIE MUNGER: But, I think it’s just a place to start thinking about economi
 
 By their nature, they can’t tie perfectly — they can’t even tie very well — to economic reality.
 
+我认为会计数据只是思考经济实质的起点，我认为很多会计数据的本质，并不能很好的体现经济的实质。
+
 WARREN BUFFETT: We regard it is a negative when we find a management that’s preoccupied with accounting considerations. But, we find it so frequent that we can’t afford to use it as a total exclusionary factor.
+
+巴菲特：我们认为管理层把注意力放在会计政策上是一个负面因素，但我们发现这种情况如此之普遍，以至于我们不能把这个负面因素列为一票否决的因素。
 
 It really surprises me how many managements focus on accounting, and the time they spend on it, the — it’s really unproductive.
 
+我真的很吃惊，竟然有这么多的经理把注意力放在会计政策上，浪费在会计政策上的时间根本不会有任何收益。
+
 If you find a management that doesn’t care about the accounting but does explain to you in clear terms what’s going on, I think you should regard that as a plus in owning a security.
 
-## 30\. Buffett praises new Salomon Brothers management
+如果管理层不关心会计政策，但却能清楚地解释公司在做什么，这就是一个积极的因素。
+
+## 30\. Buffett praises new Salomon Brothers management</br>所罗门公司的管理层表现非常出色
 
 WARREN BUFFETT: Zone 1.
 
 AUDIENCE MEMBER: Mr. Buffett, my name is Bill Ackman. I’m from New York City. And my question relates to the appeal of Salomon Brothers as an investment.
 
+股东：巴菲特先生，我叫比尔·阿克曼，我来自纽约。我的问题与所罗门兄弟的投资有关。
+
 You talked earlier about leverage and the dangers of leverage. Salomon is a business which is levered 30-to-1, which has very narrow margins, and earns a relatively modest return on equity, in light of the amount of leverage that they use. What is the appeal of the business to you?
+
+之前你说过杠杆的危险。所罗门的杠杆比率是30比1，虽然使用了高杠杆，但利润率还是很低，ROE也不高。这家公司为什么吸引你呢?
 
 WARREN BUFFETT: We have here today the chief executive of Salomon, Inc., the parent company, and also the chief executive of Salomon Brothers, the investment banking arm.
 
+巴菲特：所罗门公司的首席执行官就在会场里，所罗门公司是所罗门兄弟公司的母公司，所罗门兄弟公司是其负责投资银行业务的一个分支机构，所罗门兄弟公司的首席执行官也在这里。
+
 And, I would say one of the things we — Charlie and I — feel extraordinarily good about are the two fellows that are running that operation. They did an exceptional job under extraordinarily difficult circumstances, as did John Macfarlane, who’s also here today.
+
+查理和我都觉得他们管理得非常好，他们在极其困难的环境下取得了极好的成绩，还有约翰·麦克法兰(John Macfarlane)，他今天也在这里。
 
 The three of them — I mentioned four people in the annual report — and Salomon wouldn’t be here today without those three. And it wouldn’t be the company in the future that it’s going to be without them. They did an absolutely fabulous job.
 
+没有这三位管理人，所罗门公司不可能活到现在，也不会有今天和美好的未来。他们做了非常出色的工作。
+
 It’s the sort of business that, as you point out, uses a lot of leverage. It doesn’t — in one way it doesn’t use as much as it looks like and in another way it uses even more than it looks like.
+
+如你所言，这是一个大量使用杠杆的行业。从某种角度看，它的杠杆其实没有看起来那么大；但从另一种角度看，它使用的杠杆比看起来高。
 
 But — it — the test will be: A, whether they control that business in a way that that leverage does not prove dangerous, and secondly, what kind of returns on equity they earn while using it.
 
+其中的关键在于：(1)能否控制自己的业务，使杠杆不会造成危险； (2)使用杠杆的时候带来什么样的ROE。
+
 You certainly should expect to earn somewhat higher returns on equity when you are necessarily exposed to a small amount of systemic risk and significant amounts of borrowed money, than you would in a business that’s an extremely plain vanilla business.
+
+当你必须面对少量的系统风险和大量的借款时，你当然应该期望获得更高的ROE，这当然应该比你在一个非常普通的行业中期盼的要高。
 
 But, I don’t know whether you’ve met Bob and Deryck, but, I think you’d feel better about having a leverage in their hands than about any other hand you can imagine.
 
+我不知道你们有没有见过鲍勃·德纳姆(Bob Denham)和德瑞克·毛姆(Deryck Maughan)。我认为，在管理杠杆方面，没有谁能比他们更让人放心的。
+
 Charlie?
 
+查理？
+
 CHARLIE MUNGER: Why don’t we have those three gentlemen stand up?
+
+芒格：为什么不让这三人起立呢？
 
 WARREN BUFFETT: Yeah, you ought to give them a hand.
 
@@ -1175,11 +1277,15 @@ CHARLIE MUNGER: They really have done a job for Berkshire in this last year.
 
 WARREN BUFFETT: Yeah, I’ll lead the applause for them. Where are they? There they are. (Applause).
 
+巴菲特：你们在哪里？（掌声）
+
 I mentioned this before, but it’s worth mentioning again. Deryck took on the job of being the operating head of Salomon Brothers on what, August 18th, 1991.
 
 He didn’t know what — he couldn’t know what he was getting into, exactly. He — two months later or three months later, we’d never had a conversation about compensation. He did not ask me for Berkshire, or my, guarantee for indemnification because he was walking in not knowing legal problems. We didn’t know what we would finally uncover.
 
 And he worked incredible hours to keep that place together, which was not easy.
+
+我之前提到过，这里值得再说一次，德瑞克从1991年8月18日起开始负责管理所罗门兄弟公司的运作，他当时并不知道他要接管的是什么样的公司。在那两三个月后，我们还没有谈过他的薪酬。他没有因为他接掌的是一家有未知法律问题且前途未卜的公司，而问过伯克希尔或我对他有什么保证或补偿。他夜以继日地工作，使得公司能维持下去，这可不是件容易的事情。
 
 Bob Denham, I called — I guess on the 23rd or so, 20th. I called him on a Friday. I got home on a Saturday, the 24th of August.
 
@@ -1187,11 +1293,15 @@ He was living a nice pleasant peaceful life in California. And had a first class
 
 And I told him I was in a mess and there wasn’t any second choice and three days later he was back in New York and living in a small apartment in Battery City and handling the general counsel’s job at Salomon.
 
+我想应该是在8月24日，一个周五的晚上，我打电话给鲍勃·德纳姆。当时他在加利福尼亚州过着舒适、愉快而平静的生活，他拥有一家一流的律师行、一群很好的客户，他的妻子在加州也有一份很好的工作。我告诉他，我遇到麻烦了，而且除了他没有第二人选。三天后，他就搬到纽约，住进了巴特里公园城的一套小公寓，担任所罗门公司的总顾问。
+
 They found John Macfarlane on that Sunday, on the 18th. I think he was running a triathlon or something.
 
 Not a practice that Charlie and I follow, but, ah — (Laughter)
 
 And he was yanked from that and came down, and I think John was over in New Jersey, but he holed up in the Downtown Athletic Club. And it was his job to keep funding what was then $150 billion balance sheet during a period when people right and left were canceling.
+
+他们在星期天找到了约翰·麦克法兰，我想应该是8月18日吧，当时他在参加铁人三项全能赛——这种运动可不是查理和我所能参加的。（笑声）我们硬生生地把他从比赛中拽了出来，我以为约翰当时在新泽西，但当时他却躲在市中心运动员俱乐部里。他的工作是在周围的人都在取消和我们的业务的时候，保持1,500亿美元规模的资产负债表的资金链不断裂。
 
 It’s not because we weren’t a good credit, but because they just didn’t want to have anything to do with us for a while.
 
@@ -1199,41 +1309,71 @@ And the World Bank and the State of Texas pension fund and CalPERS, all these pe
 
 And so those three deserve an enormous hand by — really by the Salomon shareholders — but by this group in turn because we have an important investment. So I thank them publicly. (Applause)
 
-## 31\. Wesco sold small savings and loan as regulations tightened after crisis
+周围的人不和我们做生意并不是因为我们的信用差，只是因为他们在那段时间不想和我们有任何关系。世界银行、养老金基金都停止向我们提供资金，资金是这家企业的生命血液。这三个人理当受到热烈的鼓掌。（掌声）
+
+## 31\. Wesco sold small savings and loan as regulations tightened after crisis</br>随着危机后监管收紧，韦斯科金融出售了小额储蓄和贷款业务
 
 WARREN BUFFETT: Zone 2.
 
 AUDIENCE MEMBER: I’m Kelly Ranson from San Antonio, Texas.
 
+股东：我是来自德克萨斯州圣安东尼奥的凯莉·兰森。
+
 And I wondered if you could comment on the Mutual Savings and Loan. There was just a footnote that the deposits have been assumed by a federal savings bank.
+
+我想知道你能否就共同储蓄贷款公司（Mutual Savings and Loan）发表一下意见。有评论说说存款是由联邦储蓄银行所假定的。
 
 And also, what about the annual report for Wesco Financial that I know it used to be in the annual report for Berkshire. Just wondered if you could comment on that, please.
 
+还有，今年我没在伯克希尔年报中看到关于韦斯科金融公司的财报?我想知道你能否对此发表评论。
+
 WARREN BUFFETT: The question is about — we — our 80 percent-owned subsidiary Wesco Financial sold its ownership in Mutual Savings and Loan of Pasadena last year. I’ll let Charlie comment on that.
+
+巴菲特：我们拥有80%股份的子公司韦斯科金融，在去年出售了其在帕萨迪纳共同储蓄贷款公司的所有权。我会让查理评论的。
 
 And then the second question is about the Wesco report, which is available to any Berkshire shareholder simply by writing Wesco. But, we found that the stapling problems and other things made it a little difficult to keep adding that every year to the report. So, now we just — we make it available to anyone who would, at Berkshire, who would like to have it.
 
+第二个问题是关于韦斯科金融公司的报告，伯克希尔哈撒韦的任何股东需要韦斯科金融公司的报告，是都没问题的。但是，我们今年发现了一些装订和年报编辑上的问题，使得每年在报告中继续添加这些内容变得有点困难。所以，我们只是会把它提供给在伯克希尔里任何想要它的人。
+
 But Charlie, want to comment on the sale of Mutual?
+
+查理，对于出售共同储蓄贷款公司，你有什么评论吗？
 
 CHARLIE MUNGER: Yes. The savings and loan business became very much more heavily regulated after the huge nationwide collection of scandal and insolvency and so on.
 
+芒格：在全国范围内发生了大量的丑闻和资不抵债等事件之后，存贷款业务受到了更加严格的监管。
+
 And meanwhile, we had a very small savings and loan association. And the combination of the new regulation, and the fact that it was a very small part of our operation, made us decide that we were better off without it.
+
+同时，我们有一个非常小的储蓄和贷款协会。根据新的法律规定，以及它只是我们经营业务很小一部分的事实，我们决定出售它，我相信我们会更好。
 
 That does happen from time to time in Berkshire. We do exit once in a while.
 
+在伯克希尔，这种情况时有发生。我们偶尔会退出一项业务。
+
 And, by the way, we would reserve the right to change our mind. I always liked Lord Keynes when he said that he got new facts or new insights, why he changed his mind and then he’d say, what do you do? So we changed our mind.
+
+顺便说一下，我们保留改变主意的权利。我曾经很喜欢凯恩斯爵士，特别是当他说他有一些新的见解的时候。但当他的见解能力消失后，我们改变了主意。
 
 WARREN BUFFETT: They start — they asked our directors at Mutual to start going to school on Saturday, didn’t they, Charlie? Or something? I think that helped change our mind about Mutual.
 
+巴菲特：是因为他们让我们在共同储蓄贷款公司的董事周六开始参加培训，查理？还是什么？我认为这改变了我们对共同储蓄贷款公司的看法。
+
 CHARLIE MUNGER: There’s a time to vote with your feet. (Laughter)
+
+芒格：是时候用脚投票了。(笑声)
 
 WARREN BUFFETT: And even your wallet.
 
-## 32\. Shoe industry is tough, but Dexter has great managers
+巴菲特：甚至还有你的钱包。
+
+## 32\. Shoe industry is tough, but Dexter has great managers</br>制鞋业是艰难的，但德克斯特（Dexter）有伟大的经理人
 
 WARREN BUFFETT: Zone 3.
 
 AUDIENCE MEMBER: (Inaudible) Chicago. Can you speak to some of the economic characteristics of the shoe industry that allow the business to be profitable and, in your view, attractive?
+
+股东：你可以评价一下制鞋行业的优点吗？你为什么会觉得这个行业有吸引力呢？
 
 WARREN BUFFETT: I didn’t hear that. Did you hear that, Charlie?
 
@@ -1243,19 +1383,31 @@ WARREN BUFFETT: Well, I think our feelings for the shoe industry are very clear 
 
 We think it’s a great business to be in as long as you’re in with Frank Rooney and Jim Issler and Peter Lunder and Harold Alfond. Otherwise, it hasn’t been too good.
 
+巴菲特：我们对制鞋行业的情况很清楚，只要有弗兰克·鲁尼(Frank Rooney)、哈罗德·阿方德(HaroldAlfond)和彼得·伦德(Peter Lunder)这几位打理，德克斯特就是很值得投资的好公司。
+
 The — we have a couple of extraordinary shoe operations, but they’re not extraordinary because we get our leather from different steers or anything of the sort.
 
+我们有两家非常好的制鞋公司，但因为我们的皮革来源等问题，现在这些公司还没有体现出优势。
+
 It’s — we have two companies, really three now that Lowell’s been brought in, too, but that have truly extraordinary records. I think those same managements would have been enormous successes in any business they’d gone into.
+
+我们有两家公司，在购入洛威尔公司（Lowell‘s）后，现在实际上是三家，我认为它们都有非常出色的业绩。我认为这几个管理人员，不管在什么行业都能取得巨大的成功。
 
 But, they have gone into the — they are in the shoe business and the companies earn unusual returns on equity. They earn unusual returns on sale. They’ve got terrific trade reputations.
 
 And I think that to the extent we can find ways to expand in the shoe business while employing those managements, we’ll be very excited about doing so.
 
+他们的公司ROE和利润回报都非常棒，而且在行业内有很好的名声，若这些公司能在这些管理人员的领导下，找到扩张制鞋行业的新途径，我们将会拭目以待。
+
 It isn’t because we think that the shoe industry is any cinch, you know, per se, or anything of the sort. But we’ve got a lot of talent employed in the shoe business and whenever we’ve got talent we like to try and figure out a way to give them as big a domain as we can.
+
+这并不是因为我们认为制鞋业本身肯定会繁荣或者别的什么原因，这只是因为我们在制鞋公司里有很多人才。不管何时，只要我们得到人才，我们总是尽可能地给他们舞台发挥。
 
 And it’s not inconceivable that we would expand the shoe business, perhaps even significantly over time.
 
-## 33\. Buffett on investing in tobacco companies
+我们扩张制鞋公司并非不可想象，从长期看，这块业务甚至会有很显著的扩张。
+
+## 33\. Buffett on investing in tobacco companies</br>巴菲特对投资烟草公司的看法
 
 WARREN BUFFETT: Zone 4.
 
@@ -1263,27 +1415,43 @@ AUDIENCE MEMBER: Yeah, thanks Mr. Buffett. My name is Stewart Hartman from Sioux
 
 The — given the scrutiny that the tobacco business is going under right now, number one, what do you see as the business prospects for those huge cash cows? And, at any point, would that be attractive to you given their liability?
 
+股东：我是苏城的斯图尔特·哈特曼。你对烟草行业以及烟草行业中的这些巨型现金牛怎么看？这些公司在某个时间点会吸引你吗？
+
 WARREN BUFFETT: The question is about the future of the tobacco business?
 
 I don’t — I probably know no more about that then you do because it’s fraught with questions that relate to societal attitudes and you can form an opinion on that just as well as I could.
+
+巴菲特：我在这方面知道得可能并不比你多，至于社会各界对烟草的态度，你在这方面的了解应该不比我少。
 
 But, I would not like to have a significant percentage of my net worth in the tobacco business myself, but —
 
 They may have better futures than I envision. I don’t really think that I have special insights on that.
 
+但我不会把自己很大百分比的净值投入烟草行业，烟草行业的未来可能比我预期的好，我不认为我在烟草方面有什么特别的洞察力。
+
 Charlie, you —?
+
+查理，你——？
 
 CHARLIE MUNGER: No.
 
+芒格：我没啥要说的。
+
 WARREN BUFFETT: You have to come to a conclusion as to how society is going to want to treat — and the present administration for that matter. And the economics of the business may be fine, but that doesn’t mean it has a great future.
 
-## 34\. “Hard to argue with the market”
+巴菲特：你必须对社会以及本届政府将会怎样对待烟草有个看法。目前烟草公司的经济情况可能良好，但这并不意味着烟草公司前程似锦。
+
+## 34\. “Hard to argue with the market”</br>“你很难和市场争辩”
 
 WARREN BUFFETT: Zone 5.
 
 AUDIENCE MEMBER: I’m Harriet Morton from Seattle, Washington.
 
+股东：我是哈里特·莫顿，来自华盛顿。
+
 I’m wondering, when you are considering an acquisition, how you look at the usefulness of the product?
+
+我想知道，当你考虑收购时，你是如何看待产品的实用性的?
 
 WARREN BUFFETT: In looking at any business?
 
@@ -1291,41 +1459,65 @@ AUDIENCE MEMBER: Yes.
 
 WARREN BUFFETT: Yeah. Well, obviously we look at what the market says is the utility. And the market has voted very heavily for Dexter Shoe, just to be an example.
 
+巴菲特：显然我们要看看市场是怎么看产品的实用性的。比如市场就非常喜欢Dexter鞋业的鞋子。
+
 I don’t know many how many pairs of shoes they were turning out back in 1958 or thereabouts, but year after year, people have essentially voted for the utility of that product.
+
+我不知道1958年前它们生产了多少双鞋，但年复一年过去了，人们都很喜欢它们的鞋子。
 
 There are 750 million or so 8-ounce servings of one product or another from the Coca-Cola Company consumed every day around the world. And there are those of us who think the utility is very high. I can’t make it through the day without a few. But there are other people that might rate it differently.
 
+每天在全世界各地，人们都要消费7.5亿吨的可口可乐。包括我们在内，许多人认为可乐的实用性非常高。像我自己，我每天都要消费很多罐。但总有些人，有不同的评价。
+
 But essentially, people are going to get thirsty and if this is the way they take care of their thirst better than — and they prefer that to other forms — then I would rate the utility high of the product. But, I think it’s hard to argue with the market on that.
+
+一般来说，人们总会感到口渴，如果喝可乐就是是他们解决口渴的方式，同时他们喜欢这种方式，而不是其他形式，那么人们就会给产品的效用打高分。但是，我认为这一点很难与市场争辩。
 
 I mean, people — some people may think that, you know, listening to a rock concert is not something of high utility. Other people might think it’s terrific.
 
+就像有些人可能会认为，听摇滚音乐会并不是很有用。但其他人可能会觉得这很棒。
+
 And so, we would judge that — I don’t think we would come to an independent decision that there was some great utility residing in some product that had been available to the public for a long time, but that the public and not endorsed in any way.
 
+我不认为我们会做出一个独立的决定——在某些产品中，巨大的实用价值已经在公众面前持续了很长一段时间，但公众对这些产品却没有任何认同。
+
 Charlie?
+
+查理？
 
 CHARLIE MUNGER: Well, I think that’s right. But, that’s averaged out.
 
 We’re in a bunch of high-utility products. I mean, nurses’ shoes, work shoes, casual shoes. We don’t have a lot of, what, Italian pumps? (Laughter)
 
+芒格：我认为这是对的，这就是取一个平均水平。我只是说，如果你认为现有的投资产品组合，意味着未来就会是什么样……
+
 WARREN BUFFETT: Don’t rule it out, Charlie. We may be here next year defending it. (Laughter)
+
+巴菲特：别排除这种可能性，查理。我们明年可能会在这里为它辩护。（笑声）
 
 CHARLIE MUNGER: Yeah, right, well.
 
 No, I’m just saying, if you judge the existing portfolio as indicating what the future’s likely to be like, why —
 
+是的，对，好吧。我只是说，如果你认为现有的投资产品组合，意味着未来就会是什么样……
+
 WARREN BUFFETT: Well, certainly a lot of essentials were sold out of Borsheims yesterday.
+
+巴菲特：看起来波仙珠宝今天的很多必需款式要卖完了。
 
 CHARLIE MUNGER: Yes. (Laughter and applause)
 
+芒格：没错。（掌声&笑声）
+
 WARREN BUFFETT: I hear my family clapping.
 
-## 35\. No question from zone 6
+## 35\. No question from zone 6</br>第六区没有提问
 
 WARREN BUFFETT: Zone 6.
 
 VOICE: We have no question up here.
 
-## 36\. Insurers have “head in the sand” on catastrophes
+## 36\. Insurers have “head in the sand” on catastrophes</br>保险公司不能“逃避现实”
 
 WARREN BUFFETT: OK, zone 7.
 
@@ -1345,21 +1537,33 @@ WARREN BUFFETT: (Laughs)
 
 AUDIENCE MEMBER: And my second question is, in light of the multiple disasters that have taken place in LA, has that had any impact on the cats for Berkshire?
 
+股东：洛杉矶遭遇了两场灾害，有没有对伯克希尔的“霹雳猫”巨灾保险造成冲击呢?
+
 WARREN BUFFETT: On our super-cat business?
 
 AUDIENCE MEMBER: Yes.
 
 WARREN BUFFETT: The LA earthquake, which is originally — I believe the first estimate of insured damage was a billion-five, which struck us as kind of ludicrous, but has now escalated.
 
+巴菲特：我认为，洛杉矶地震造成的保险损失的初步估算是15亿美元，我们觉得这个数字不可信，因为实际损失要更严重。
+
 The last official estimate, the one we use that’s a trigger in our policies, I think is either 4.5 billion or 4.8 billion. But it’s going to be higher than that.
 
+不过我们承保的保单的起赔点是45亿至48亿美元，实际损失应该比这更高。
+
 Our losses are fairly minor. If it gets to eight billion of insured damage, that would trigger another policy or two. But, I would say that the LA quake — which did considerably more damage, I think, than people would have anticipated from a 6.7 for various reasons having to do with how quakes operate — that quake is not going to turn out to be of any real — it’s not the kind of super-cat that a 15 or $20 billion hurricane which hit Florida or Long Island or New England would be.
+
+我们的损失非常小，不过如果有80亿美元的保险损失，就会触发另外一两种巨灾保险。洛杉矶的地震虽然造成的损失比预期的6.7级地震大得多，但这并不是像飓风袭击佛罗里达、长岛或新英格兰那样造成超过150亿美元损失的重大事件。
 
 That’s the kind of — we could lose — or we could pay out — 6 or $700 million in sort of a worst case super-cat. Now our total premiums this year might be, say, 250 million or something in that area.
 
 So one super-cat in the wrong place would produce — and there could be more than one — could produce, we’ll say, a $400 million or thereabouts underwriting loss from that business.
 
+在最严重的情况下，我们可能要支付6亿至7亿美元，而今年我们在这个区域收取的保险费可能有2.5亿美元。所以说，在未预料到的地区发生异常巨灾，可能会祸不单行，可能会给巨灾保险业务带来4亿美元的保险损失。
+
 The LA quake is peanuts on that scale, but it wouldn’t have taken a whole lot more in terms of numbers on the Richter scale, if it happened to have an epicenter where it did, and be of the type that it was, relatively shallow, that we could have had that sort of thing happen.
+
+从规模上说，洛杉矶地震小得像花生米。但是，如果震源较浅，用不着更大的里氏震级，也能造成巨灾，这种情况也是有可能发生的。安德鲁飓风和洛杉矶地震远远算不上是最糟糕的情况。
 
 I think that the insurance industry has vastly underestimated — maybe not now, but up till a few years ago — the full potential of what a super-cat could do. But Hurricane Andrew and the LA quake may have been something of a wake-up call.
 
@@ -1367,31 +1571,49 @@ They were far from a worst-case situation. A really big Type Five hurricane on L
 
 We define our losses — essentially, 700 million sounds like a lot of money. It is a lot of money. But, there are limits on our policies. That is not true of people that are just writing the basic homeowners or business. Those losses could go off the chart.
 
+我认为保险业大大低估了巨灾可能造成的危害，安德鲁飓风和洛杉矶地震可能会唤醒他们。不过这一次远远称不上是最糟糕的，假如一场5级大型飓风登陆长岛，不少大型保险公司就会有大麻烦。我们的损失是有上限的，这个数字差不多是7亿美元，这听起来是很大一笔钱，的确是很大一笔。我们的保险单上设置了理赔的上限，但是那些保险公司卖给房屋业主或企业的保单却没有设置上限，他们的损失可能超出预期。
+
 There were certain companies in the LA quake that thought they had a — what they call a “probable maximum loss” for California quakes. And the LA quake, which was far from the worst case you can imagine, turned out to far exceed those probable maximum losses.
 
 So, I think the industry has had, and may still have, its head in the sand a little bit, in terms of what can happen, either in terms of a quake in California or, more probably, in terms of a hurricane along the East Coast.
 
+有一些公司在洛杉矶板块上卖保险，自以为有所谓的加利福尼亚州地震损失可能的最高值。洛杉矶地震虽然远远称不上是最糟糕的场景，但依旧超出了那些可能的最高损失。所以我认为，巨灾保险行业以前采取鸵鸟政策——现在依旧还是把脑袋埋在沙里（意思是逃避现实），他们对加利福尼亚州发生地震和东海岸遭遇飓风的可能性都视而不见。
+
 So far this year we’re in reasonable shape, but that doesn’t mean much because, by far, the larger exposure is in hurricanes and essentially 50 percent of the hurricanes hit in September. And about — I think it’s about 15 percent would be in August. Close to 15 percent in October. So you have 80 percent, roughly, in those three months and there’s a little tail on both sides.
+
+今年到目前为止，我们的情况很合理，但因为我们还有飓风风险，所以目前的情况尚不能说明什么。我记得，50%的飓风发生在9月份，8月份和10月份各有15%，所以大约80%的飓风会在8至10月份中发生。等这三个月过去了，我们就会知道巨灾保险今年是好年景还是差年景。
 
 But that’s when you find out whether you’ve had a good or bad year in the super-cat business, basically.
 
 It’s a business we like at the right rates because there are very few people who can afford to write it at the level that the underlying company, the reinsured companies, need it. And we’re in a position, if the rates are right, to do significant business.
 
+我们愿意从事巨灾保险。只要保险费合适，我们就会放手大干。
+
 Charlie?
+
+查理？
 
 CHARLIE MUNGER: Nothing to add.
 
-## 37\. Book recommendations
+芒格：我没有什么要补充的。
+
+## 37\. Book recommendations</br>推荐书单
 
 WARREN BUFFETT: Zone 1,
 
 AUDIENCE MEMBER: Clayton Riley (PH) from Jacksonville, Florida.
 
+股东：莱利，来自佛罗里达州杰克逊维尔。
+
 This is a little different than all the other questions, but what were the three best books you read last year outside of the investment field? Why don’t — even one will do.
+
+在投资领域之外，去年你读到的最好的三本书是哪三本？
 
 WARREN BUFFETT: I’ll give you — I’ll tout a book first that I’ve read but that isn’t available yet. But it will be in September.
 
 The woman who wrote it, I believe, is in the audience and it’s Ben Graham’s biography, which will be available in September, by Janet Lowe. And I’ve read it and I think those of you who are interested in investments, for sure, will enjoy it. She’s done a good job of capturing Ben.
+
+巴菲特：要吹捧的第一本书我已经读过，但现在还没有上市，会在9月份上市。写这本书的女士今天也在座，这本书就是珍妮特·洛尔所作的本·格雷厄姆的传记。你们喜欢投资，自然也会喜欢这本书。她深得本·格雷厄姆的神韵。
 
 One of the books I enjoyed a lot was written also by a shareholder who is not here because he’s being sworn in, I believe today or tomorrow, maybe tomorrow, as head of the Voice of America.
 
@@ -1399,29 +1621,49 @@ And that’s Geoff Cowan’s book, which is on “The People v. Clarence Darrow.
 
 It’s a fascinating book. Geoff uncovered a lot of information that the previous biographies of Darrow didn’t have. I think you’d enjoy that.
 
+另一本书我非常欣赏的书也是股东写的，他今天不在会场,因为他明天就要参加就职典礼，担任美国之音的台长。这本书是杰夫·考恩(Jeff Cowen)所著，书名叫《克拉伦斯.达罗的审判》 (The Trial of Clarence Darrow)。这是1912年克拉伦斯·达罗(美国曾颁布《布特勒法》禁止公立学校讲授进化论，美国民间团体进行诉讼试图废除该法案，史称“猴子审判”，克拉伦斯,达罗是“猴子审判”中民间团体的律师——译者注)因为贿赂陪审团的罪名而在洛杉矶受审的故事。这是一本好书，杰夫挖掘出很多达罗过去的传纪中没有的信息。我想你们也会喜欢的。
+
 Charlie?
+
+查理，你有什么书要推荐的吗？
 
 CHARLIE MUNGER: Well, I very much enjoyed Connie Bruck’s biography Master of the Game, which was a biography of Steve Ross, who headed Warner and later was, what, co-chairman of Time Warner.
 
+芒格：我很喜欢康妮·布鲁克(Connie Bruck)所著的传纪文学《游戏大师》 (Master of the Game)，这本传纪写的是史蒂夫·罗斯(Steve Ross)的故事，此人曾执掌华纳公司，后来担任时代华纳公司的联席董事长。
+
 WARREN BUFFETT: Yeah, he’s a little more than co-chairman. (Laughs)
+
+巴菲特：他可不仅仅是联席董事长。（笑声）
 
 CHARLIE MUNGER: Yeah, and — she’s a very insightful writer and it’s a very interesting story.
 
+芒格：对，康妮是一位非常有洞察力的作家。这是一个非常有趣的故事。
+
 I am rereading a book I really like, which is Van Doren’s biography of Benjamin Franklin, which came out in 1952, and I’d almost forgotten how good a book it was. And that’s available in paperback everywhere. We’ve never had anybody quite like Franklin in this country. Never again.
+
+我正在读一本我很喜欢的书，这本书是范·多伦(VanDoren)所著的本富兰克林的传纪, 1952年出版，平装本到处都可以买到。在这个国家里，从没有人能像富兰克林那样,将来也不会再有。
 
 WARREN BUFFETT: He believed in compound interest, too, incidentally, as you may remember. (Laughter)
 
+巴菲特：很凑巧，他也相信复利。（笑声）
+
 What did he — he set up those two little funds, one in Philadelphia, one in Boston?
+
+他开设了两只小基金，一只基金在费城，另一只在波士顿，用来展示复利的优势。
 
 CHARLIE MUNGER: Right.
 
 WARREN BUFFETT: Yeah, to demonstrate the advantages of compound interest. I think that’s the part Charlie’s rereading. (Laughter)
 
-## 38\. Nike and Reebok
+我想查理肯定重读了那一段。（笑声）
+
+## 38\. Nike and Reebok</br>耐克和锐步
 
 WARREN BUFFETT: Zone 2.
 
 AUDIENCE MEMBER: Thank you for teaching me — teaching so much to all of us about business. My name is Mike Assail (PH) from New York City.
+
+股东：谢谢你们教了我们那么多关于商业的知识。我叫迈克·阿塞尔，来自纽约市。
 
 You mentioned earlier that Berkshire’s shoe business was great, but that other shoe businesses were not so good.
 
@@ -1429,57 +1671,97 @@ What are the uncertainties of the global brand leaders that Berkshire seems to l
 
 What are their uncertainties, in terms of long-term competitive advantage, business economics, consumer behavior, and the other risk factors that you mentioned in the annual report this year? Thank you.
 
+你说伯克希尔旗下的制鞋公司很好，但其他的制鞋公司情况却不妙。你似乎很喜欢全球著名品牌,比如说可口可乐和吉列。制鞋行业内的著名品牌是耐克和锐步，你对这两家公司的前景怎么看?
+
 WARREN BUFFETT: So, you’re really asking about the future prospects of Nike and Reebok?
 
 Yeah. I don’t know that much about those businesses. We do have one person in this audience, at least, who owns a lot of Reebok.
 
 But I am not expressing a negative view in any way on that. I just — I don’t understand that — I don’t understand their competitive position and the likelihood of permanence of their competitive position over a 10 or 20 year period as well as I think I understand the position of Brown and Dexter.
 
+巴菲特：我对这两家公司不是很了解。现场的观众中有一位先生，是GEICO公司的卢·辛普森(Lou Simpson)，他有很多锐步的股份。我并不是对这两家公司有任何负面的评价，只是不理解它们的竞争优势和在未来10年、20年或30年里竞争优势的持久性如何，但是我理解布朗鞋业(Brown)和Dexter（Dexer是当时巴菲特买下的制鞋公司,现在已倒闭-译者注）。
+
 That doesn’t mean I think that it’s inferior. Doesn’t mean I think that we’ve got better businesses or anything.
+
+这并不是说我认为耐克和锐步不如我买下的企业那么好，虽然我认为我们的制鞋企业是非常好的企业。
 
 I think we’ve got very good businesses. But I — I’m not — I haven’t done the work and I’m not sure if I did the work I would understand them.
 
+我没有分析过耐克和锐步，也不能确定如果我分析的话，是不是会理解它们。
+
 I think they are harder to understand, frankly, and to develop a fix on, than our kinds. But, they may be easier for other people who just have a better insight into that kind of business.
 
-## 39\. “You don’t have to do exceptional things to get exceptional results”
+我认为这两家公司比我们的公司更难理解，也更难得出结论。不过对于更加精通制鞋业的人来说，这两家公司可能更容易理解，但这并不意味着我认为我们的企业比别的制鞋企业更好。
+
+## 39\. “You don’t have to do exceptional things to get exceptional results”</br>"你不需要做特别的事情就能得到特别的结果"
 
 WARREN BUFFETT: Some businesses are a lot easier to understand than others. And Charlie and I don’t like difficult problems. I mean, we — if something is hard to figure, you know, we’d rather multiply by three than by pi. I mean it’s just easier for us. (Laughter)
 
 Charlie, you have any —?
 
+巴菲特：有些企业比其他企业更容易理解，查理和我都不喜欢艰难的问题。如果某样东西很难懂……我们宁愿用3而不用Π。（笑声）查理，你有啥说的吗？
+
 CHARLIE MUNGER: Well, that is such an obvious point. And yet so many people think if they just hire somebody with the appropriate labels they can do something very difficult. That is one of the most dangerous ideas a human being can have.
+
+芒格：这是非常明显的。有人以为他们雇用一些有头衔的人，就能完成一些非常困难的工作。这是人类所能有的最危险的想法之一。
 
 All kinds of things just intrinsically create problems. The other day I was dealing with a problem and I said, this thing — it’s a new building — and I said this thing has three things I’ve learned to fear: an architect, a contractor, and a hill. (Laughter)
 
+很多事情可能会因增加复杂性而导致问题。有一天我去处理一个问题，那是一栋新楼。我说， “这个问题有三样东西让我害怕——建筑师、承包商和一座山。”（笑声）
+
 And — if you go at life like that, I think you, at least, make fewer mistakes than people who think they can do anything by just hiring somebody with a label.
+
+如果你能这样生活，我认为，比起那些自以为只要雇用一个有适当头衔的人、不管多么复杂的问题都能解决的人，你可以少犯错误。
 
 WARREN BUFFETT: We don’t comment — excuse me, go ahead.
 
 CHARLIE MUNGER: You don’t have to hire out your thinking if you keep it simple.
 
+如果你能保持简单，用不着请你不懂的高人。
+
 WARREN BUFFETT: You don’t have to do — we’ve said this before — but you don’t have to do exceptional things to get exceptional results.
 
+巴菲特：用不着为了获得出色的业绩而去做异常的事。
+
 And some people think that if you jump over a seven-foot bar that the ribbon they pin on you is going to be worth more money than if you step over a one-foot bar. And it just isn’t true in the investment world, at all.
+
+有人认为，如果你能跳过7英尺高的栅栏，就能比跨过1英尺高的栅栏得到更值钱的绥带。可惜在投资界里完全不是这样，在投资界，你可以靠做非常平常的事情发财。
 
 So, you can do very ordinary things. I mean, what is complicated about this? But, you know, we’re $3 billion pretax better off than we were a few years ago because of it.
 
 There’s nothing that I know about that product, or its distribution system, its finances, or anything, that, really, hundreds of thousands — or millions — of people aren’t capable of, that they don’t already know. They just don’t do anything about it.
 
+可口可乐有什么复杂的地方?因为可口可乐，我们的税前收入比一些年前增加了30亿美元。我对可口可乐的产品、分销系统、财务情况的理解，任何正常人都能理解，只是别人没有像我一样看见机会就出手罢了。
+
 And similarly, if you get into some complicated business, you can get a report that’s a thousand pages thick and you got Ph.D.s working on it, but it doesn’t mean anything.
 
 You know, what you’ve got is a report but you don’t — it — you won’t understand that business, what it’s going to look like in 10 or 15 years.
 
+如果你进入有点复杂的企业，可能会得到一份1,000页厚的报表，你可能有一个理学博士分析报表。但这并没有任何意义，你得到的只是一份报表，从报表里无法理解那家企业，也不能看出未来10至15年后企业会怎样。
+
 The big thing to do is avoid being wrong. (Laughter)
+
+重要的是避免犯错误。（笑声）
 
 CHARLIE MUNGER: There are some things that are so intrinsically dangerous. Another of my heroes is Mark Twain, who looked at the promoters of his day and he said, “A mine is a hole in the ground owned by a liar.” (Laughter)
 
+芒格：有些东西本质上很危险……我心目中的另一个英雄，马克·吐温说起过他那个时代的促销商。他说:“骗子把自己拥有的土地上的一个洞称为矿井。”（笑声）
+
 And that’s the way I’ve come to look at projections. I mean, basically, I can remember, Warren and I were offered $2 million worth of projections once in the course of buying a business and the book was this thick.
+
+这就是我看待前景预期的态度。我记得，在一桩企业并购交易中，曾有人想让我们花200万美元买份专家的前景预测。
 
 WARREN BUFFETT: For nothing.
 
+巴菲特：其实没有任何价值。
+
 CHARLIE MUNGER: And, if we were given it for nothing, and we wouldn’t open it.
 
+芒格：那本书有这么厚，我们不会翻开看。
+
 WARREN BUFFETT: We almost paid 2 million not to look at it. (Laughter)
+
+巴菲特：我们宁可花200万美元不看这本书。（笑声）
 
 It’s ridiculous. I do not understand why any buyer of a business looks at a bunch of projections put together by a seller or —
 
@@ -1489,149 +1771,257 @@ WARREN BUFFETT: — or his agent.
 
 I mean, it — you can almost say that it’s naive to think that that has any utility whatsoever. We just are not interested.
 
+这是荒谬的。我不明白，为什么会有企业并购者去阅读卖方或者卖方的代理人拼凑出来的一堆预测呢？相信卖方的前景预期有任何用处是很天真的，我们对这种东西完全不感兴趣。
+
 If we don’t have some idea ourselves of what we think the future is, to sit there and listen to some other guy who’s trying to sell us the business or get a commission on it tell us what the future’s going to be — it — like I say, it’s very naïve.
+
+如果我们对并购目标的未来心里没数，坐在那里，听卖方的人或想得到交易佣金的人来告诉我们这家企业的未来如何如何，就像我说的那样，很天真。
 
 CHARLIE MUNGER: Yeah, and five years out.
 
+芒格：而且是五年展望！
+
 WARREN BUFFETT: Yeah. We had a line in the report one time, “Don’t ask the barber whether you need a haircut.” And — (laughter) — it’s quite applicable to projections of — by sellers — of businesses.
 
-## 40\. Cutting USAir’s costs will be “enormously tough”
+巴菲特：对。我们在年报里有句话：“不要问理发师你是否需要理发。”（笑声）这句话对卖方的前景预期也很适用。
+
+## 40\. Cutting USAir’s costs will be “enormously tough”</br>缩减全美航空公司的成本会很艰难
 
 WARREN BUFFETT: Zone 3.
 
 AUDIENCE MEMBER: Mr. Buffett, Greg Elright (PH) from Washington, DC.
 
+股东：巴菲特先生，我是来自华盛顿特区的格雷格·埃尔特。
+
 In the last year, United Airlines and Northwest have resolved some of their financial problems by moving ownership over to the employees.
+
+去年，联合航空和西北航空通过将所有权转移给员工，解决了一些财务问题。
 
 With USAir’s current positions — uh, problems — what do you see as occurring with USAir and do you see any movement toward employee ownership? And how will that affect Berkshire’s interest in the company?
 
+目前全美航空面临的问题，你认为全美航空会发生什么?你认为它会朝着员工所有制的方向发展吗?这将如何影响伯克希尔在该公司的利益?
+
 WARREN BUFFETT: USAir has a cost structure which is non-viable in today’s airline business. Now that, in an important way, involves its labor cost, but it involves other things, too. But it certainly involves its labor costs.
+
+巴菲特：全美航空公司(US Air)的成本结构无法在今天的民航业中生存下去，其中主要的问题是劳动力成本问题，当然也有其他问题，但主要是劳动力成本。
 
 And they’ve stated this publicly. And I think — and they have — they are talking with their unions about it and they’re talking with other people about other parts of their cost structure.
 
 And I think you’ll just see what unfolds in the next relatively few months, because there isn’t any question that the cost structure is out of line. I think the cost structure could be brought into line. But whether it will be brought into line or not is another is another question.
 
+该公司已经公开承认这一点，他们正在和工会和其他有关人员讨论这个问题。由于他们的成本结构已经失控，所以用不着几个月，我们会看到结果如何。该公司的成本可以恢复到合理的水平，但会不会恢复是另一个问题。
+
 And, looking backwards, the answer is not to get into businesses that need to solve problems like that. It’s to — but — that was a mistake I made.
+
+回顾(伯克希尔对全美航空公司优先证券的投资)，得出的结论是不应该投资有问题待解决的公司。这是我犯的一个错误，查理和这完全没有关系。
 
 And I think in Seth Schofield you’ve got a manager who understands that business extremely well, who probably is as — in my view, anyway — is as well regarded and trusted by people who are going to have to make changes as anyone could be in that position. But that may not be enough. I mean that — there’s enormous tensions when you need to take hundreds and hundreds of millions of dollars out of the cost structure of any business.
 
+至于塞思·修菲尔德(Seth Schofield)，他非常理解全美航空公司，我认为他很受尊敬和信赖，不管谁坐上他的位置，都将不得不进行改变。但是这可能还不够，当你准备对任何企业几亿美元几亿美元地削减成本时，总是会遇到巨大的阻力。
+
 And when you need cooperative action, all by various groups, each one of which feels that maybe they’re having to give a little more than some other group, and understandably feels that way, you know that is an enormously tough negotiating job.
+
+在你需要很多群体的配合时，每个群体都会认为自己比其他群体牺牲得更多，人们就会觉得不开心，这可是一个非常艰巨的协商工作。
 
 I think Seth is as well-equipped for that as anyone. But I would not want to — you know, I cannot predict the outcome.
 
+我想塞思在这方面不比任何人差。但结果会怎样，我也不能预测。
+
 WARREN BUFFETT: Charlie, do you —?
+
+查理？
 
 CHARLIE MUNGER: Well, if I were a union leader, I would give Seth whatever he wants because he’s not the kind of a fellow who would ask for more than he needs. And, it’s perfectly obvious that’s the correct decision on the labor side. But whether the obvious will be done or not is in the lap of the gods.
 
+芒格：假如我是工会领导人，我就会满足赛思的任何要求，因为我可以信任他，他可不是会提出非分要求的人。劳工方的正确决定是什么非常清楚，不过他们会不会作出这个决定，只有天知道。
+
 WARREN BUFFETT: It’s a lot of people with a lot of different motivations and, I mean, those are really tough questions. I mean, we — Charlie and I’ve been involved in that sort of thing a few times and frequently it works out, but it’s not preordained.
 
-## 41\. We’re “not in any hurry” to retire
+巴菲特：其中涉及到很多人，有很多不同的动机，这是一个艰巨的问题。查理和我也遇到过几次这种问题，虽然通常都能达成谅解，但这不能事先判断。
+
+## 41\. We’re “not in any hurry” to retire</br>我们并不着急退休
 
 WARREN BUFFETT: Zone 4.
 
 AUDIENCE MEMBER: My name is Sheldon Scizick (PH) from Chicago, Illinois. I have two questions.
 
+股东：我的名字是来自伊利诺斯州芝加哥的谢尔顿.齐茨克。我有两个问题。
+
 The first one is concerning Mr. Munger. We know what Mr. Buffett’s retirement plans are. I was wondering what yours — your plans for the future concerning Berkshire are?
+
+第一个是关于芒格先生的。我们知道巴菲特的退休计划是什么了。芒格先生，我想知道你的退休计划？
 
 CHARLIE MUNGER: I have always preferred the system of retirement where you can’t quite tell from observing from the outside whether the man is working or retired. (Laughter)
 
+芒格：我喜欢这样的退休机制，要让外面的人看不出我退休后仍然在工作。（笑声）
+
 WARREN BUFFETT: He does it well, too. (Laughter)
 
+巴菲特：这方面芒格做得很好。（笑声）
+
 CHARLIE MUNGER: You know, a problem in many businesses, particularly the more bureaucratic ones, is that your employees retire, but they don’t tell you. (Laughter)
+
+芒格：很多企业，,特别是更官僚制度的企业，都有一个问题，就是员工退休了，但是不公布。（笑声）
 
 WARREN BUFFETT: I think I can speak for Charlie on this one.
 
 Charlie and I are not in any hurry to retire. He’s trying to outlast me, actually. (Laughter)
 
+巴菲特：我能代表查理发言。查理和我不急着退休，实际上，查理在努力和我比赛谁活得更久。（笑声）
+
 AUDIENCE MEMBER: Thank you.
 
-## 42\. Berkshire sold some Cap Cities shares in tender offer
+## 42\. Berkshire sold some Cap Cities shares in tender offer</br>伯克希尔以要约收购的方式出售了部分大都会公司的股票
 
 AUDIENCE MEMBER: My second question is, I was just curious why you sold a portion of Cap Cities?
 
+股东：我的第二个问题是，为什么你卖了一部分的大都会的股票？
+
 WARREN BUFFETT: We thought that — we thought it was a good idea for Cap Cities to have a tender offer. They had cash that we thought that they could not use in any — they were not likely to be able to use — in a better way than repurchasing their own shares because they do have some very good businesses.
+
+巴菲特：我们认为大都会公司回购股票是一个好主意。他们有现金，因为他们的业务是极好的，所以不可能找到比回购股票更好的使用资金的途径。
 
 They, and we, felt that a tender offer would not be successful, in terms of attracting a number of shares unless Berkshire were tendering. We felt the price was reasonable to tender at.
 
 It turned out that the business was getting stronger during that period and various things were happening in media, so there were only 100,000 shares or so tendered outside of our million. That isn’t necessarily what we thought was going to happen going in, but that is what happened.
 
+他们和我们都认为，如果伯克希尔不参加，回购就不能吸引足够多的股票。我们认为回购的价格合理。在这段时间里，这家公司更强了，媒体行业中发生了很多事，所以我们只回售了10万股。
+
 It’s acceptable to us, but that doesn’t mean that it was the desired outcome. We would not have tendered all of our shares or anything of the sort.
+
+股票回购并不是我们所期待的，只是发生了这件事情，我们觉得可接受而已。
 
 We want to remain a substantial shareholder of Cap Cities. We’ve always — most of the time we favored Cap Cities buying in its stock and it’s bought in a fair amount of stock since the ABC merger took place in 19 — started in 1986.
 
-## 43\. Structured settlements business isn’t big, but is “perfectly satisfactory”
+这并不意味着我们巴不得回购，我们不会把所有的股票都回售，我们希望继续当大都会公司的大股东。大多数时候，我们都支持大都会公司回购股票。该公司自1986年并购ABC公司后，回购了很多股票。
+
+## 43\. Structured settlements business isn’t big, but is “perfectly satisfactory”</br>结构化结算业务规模不大，但“令人非常满意”
 
 WARREN BUFFETT: Zone 5.
 
 AUDIENCE MEMBER: Good morning. My name is Matt Voke (PH). I’m from Omaha.
 
+股东：早上好。我叫马特·沃克。我来自奥马哈。
+
 In last year’s meeting you made reference to structured settlements. I was wondering, how is that business progressing for you?
+
+在去年会议上，你提到了结构化结算。我想知道，你们的业务进展如何?
 
 WARREN BUFFETT: Question’s about the structured settlement business, which is a business in which Berkshire guarantees, in effect, an annuity to some claimant of another — usually — of another insurance company, who suffered an injury and instead of getting a lump sum now wants to get a stream of payments over many years in the future, sometimes going out 75 years.
 
+巴菲特：问题是关于结构结算业务的。这是一项伯克希尔为另一家保险公司的索赔人担保年金的业务。通常情况下，是另一家保险公司的索赔人，他们受伤了，现在不想一次性得到一笔钱，而是希望在未来的很多年里得到一笔付款，有时是75年。
+
 We have set up a life company to do that business. We formerly did it all through our property-casualty companies. And, we have done some business, but it’s not been a big business yet, and it may never be a big business.
+
+我们成立了一家人寿保险公司来做这项业务。我们以前都是通过我们的财产保险公司来做的。我们已经做了一些生意，但这还不是大生意，也可能永远不会是个大生意。
 
 It’s a perfectly satisfactory business, but it’s not an important item at present in the analysis of Berkshire’s value.
 
+这是一项令人非常满意的业务，但在目前对伯克希尔价值的分析中，它还不是一个重要项目。
+
 Are you getting — having a problem with sound out there on this or no? Just — no?
 
-## 44\. No comment on Wrigley
+## 44\. No comment on Wrigley</br>对箭牌不予置评
 
 WARREN BUFFETT: Zone 6.
 
 AUDIENCE MEMBER: My name is David Samra. I’m from San Francisco, California.
 
+股东：我叫大卫·萨姆拉。我来自加利福尼亚的旧金山。
+
 In your annual report, I noticed you mention Wrigley as being a company that has worldwide dominance, somewhat like Coca-Cola and Gillette. And, was curious to know if you had looked at the company in any detail. And, if so, whether or not — if you decided not to invest, what were the reasons why?
+
+在你的年度报告中，我注意到你提到箭牌是一家在世界范围内占据主导地位的公司，有点像可口可乐和吉列。我很想知道你是否仔细看过这家公司。如果是，如果你决定不投资，原因是什么?
 
 WARREN BUFFETT: Well, we wouldn’t want to comment on a company like that because we might or might not be buying it. We might or might not be selling it. We might or might not buy or sell it in the future. (Laughter)
 
+巴菲特：我们不想评论这样的公司，因为我们可能会买，也可能不会买。我们可能会卖，也可能不会卖。我们将来可能会买，也可能不会卖。(笑声)
+
 And, since it falls under that narrow definition of things that we don’t talk about —
+
+因为它属于我们不讨论的范围内。
 
 It’s a good illustration of a company that has a high market share worldwide, but you can understand the Wrigley Company just as well as I can. I have no insights in the — into the Wrigley Company that you wouldn’t have and I don’t — I wouldn’t want to go beyond that in giving you our evaluation of the company.
 
+箭牌是一家在全球拥有很高的市场份额的公司，但我对箭牌的理解和你没什么差别。我对箭牌公司没有什么见解。对于箭牌，我不会给出超过你认知水平的评价。
+
 I hate to disappoint you on those, but on specific securities, we are not too forthcoming sometimes.
+
+我不想让你失望，不过在一些特定的证券上，我们有时不太愿意说。
 
 Charlie?
 
+查理?
+
 CHARLIE MUNGER: I’m good at not being forthcoming. (Laughter)
 
-## 45\. “No specific desire” to buy companies in certain parts of the world
+芒格：我非常善于啥都不说。（笑声）
+
+## 45\. “No specific desire” to buy companies in certain parts of the world</br>对于买美国外的公司并不十分渴望
 
 WARREN BUFFETT: Zone 7.
 
 AUDIENCE MEMBER: Mr. Buffett, Kathleen Ambrose (PH) from Omaha.
 
+股东：凯瑟琳·安布罗斯，来自奥马哈。
+
 I have a question regarding global diversification. Just in general, what do you look for in a company and, if so, as far as Europe or Latin America, if you’d like to be specific?
+
+我有一个关于全球多元化的问题。一般来说，你对一家公司有什么要求?如果有的话，你希望欧洲或拉丁美洲的公司有什么要求?
 
 WARREN BUFFETT: The question is about global diversification.
 
 All we want to be in is businesses that we understand, run by people that we like, and priced attractively compared to the future prospects.
 
+巴菲特：我们想要的东西很简单，那就是投资由我们欣赏的人掌管且价格相对于前景很有吸引力的企业。
+
 So, there is no specific desire to either be in the rest of Europe, or the rest of the world, or Far East, or to avoid it.
+
+若这些企业位于欧洲、远东或别的什么地方，我们并不会因此而有特别的兴趣，也不会因此而回避。
 
 It’s simply a factor that — it’s not a big factor. There may be more chances for growth in some countries.
 
+虽然在某些国家可能会有更多的机会，但地理位置不是重要的因素。
+
 We — 80 percent of Coca-Cola’s earnings, roughly, will come from outside the United States. Eighty percent of Guinness’s earnings will come from outside the United States, but they’re domiciled outside the United States, whereas Coca-Cola is domiciled here.
+
+可口可乐的利润大约有80%来自美国以外的地区，健力士啤酒(Guinness)的利润将来大约也会有80%来自美国以外的地区，不过健力士注册在国外，而可口可乐注册在美国。
 
 Certainly, in many cases, there are markets outside the United States that have way better prospects for growth than the U.S. market would have, but they probably have some other risks to them that this market may not have.
 
+可以肯定，在很多案例中，国外市场的成长前景远远好于美国市场，不过可能也存在着美国市场没有的风险。
+
 But, we, you know, we like the international prospects, obviously, of a company like Coke. We like the international prospects of a company like Gillette. Gillette earned 70 percent of its money outside this country.
 
+很显然，对于可口可乐这样的公司，我们喜欢它有国际前景。我们喜欢吉列这样的公司的国际前景，吉列70%的利润来自美国以外。
+
 So, if you look — on a look-through basis — Coke — we might this year get something like $150 million of earnings, indirectly, for Berkshire’s interest from the rest of the world just through Coca-Cola alone.
+
+粗略地看，今年，伯克希尔的利润中有大约1.5亿美元是可口可乐的海外利润。
 
 But, we don’t make any specific — we don’t think in terms of, I like this region so I want to be there or something of a sort.
 
 It’s something that’s specific to the companies we’re looking at, then we’ll try to evaluate that.
 
+我们的思路并不是“我们喜欢这个地区，希望能投资这里”，或者任何类似的想法。
+
 Coke is expanding in China. Well, it — you know — I think that — I forget what they showed last year, maybe 38 percent growth, or something like that, in cases. Maybe —
 
 It’s nice to have markets like that that are relatively untapped.
 
+可口可乐正在中国扩张。去年，其在中国的销量增长率达到38%左右。能有这样尚未开发的市场是件好事。
+
 Actually, Gillette is expanding in China in a big way and the Chinese don’t shave as often. And more of them are what they call “dry shavers” than “wet shavers” there, which is electric shavers.
+
+吉列也在中国大举扩张，中国人刮胡须不怎么频繁，他们用干剃须刀(电动剃须刀)比用湿剃须刀多。
 
 But you know, maybe we could stick something in the Coke that would — (laughter)
 
+也许我们可以在可口可乐里下点药（帮助长胡子）……（笑声）
+
 Maybe a little synergy at Berkshire, finally. Who knows?
+
+若这么做，可算是伯克希尔旗下公司的协同效应了。
 
 ## 46\. Hurricanes are bigger insurance risk than riots
 
