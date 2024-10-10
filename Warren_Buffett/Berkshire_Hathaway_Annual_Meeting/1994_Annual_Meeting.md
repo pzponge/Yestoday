@@ -2023,141 +2023,153 @@ Maybe a little synergy at Berkshire, finally. Who knows?
 
 若这么做，可算是伯克希尔旗下公司的协同效应了。
 
-## 46\. Hurricanes are bigger insurance risk than riots
+## 46\. Hurricanes are bigger insurance risk than riots</br>飓风比暴乱的保险风险更大
 
 WARREN BUFFETT: Zone 1.
 
 AUDIENCE MEMBER: Good morning. I’m Marshall Patton (PH) from Bandera, Texas.
 
+股东：早上好。我是杰马歇尔巴顿，来自德克萨斯。
+
 And back to the insurance losses. What is the comparison between natural disasters, such as the earthquake, and so on, and the LA riots?
 
-WARREN BUFFETT: Well, I’m not sure what the connection —
+回到保险损失。自然灾害，比如地震，和洛杉矶暴乱的区别是什么?
 
-They, you know, they obviously can both lead to super-cats that we insure against, because if there is enough insured damage, it’s likely to trigger a payment under some of our policies.
+WARREN BUFFETT: Well, I’m not sure what the connection —They, you know, they obviously can both lead to super-cats that we insure against, because if there is enough insured damage, it’s likely to trigger a payment under some of our policies. It would take some really big riot damage to get to our levels, because normally we don’t kick in now until an event gets up to at least, you know, $5 billion or so of insured damage under a very large majority of our policies. Something like a quake causes a fair amount of damage that is not insured, because of the extent that it’s highways and things of that sort, public buildings. A lot of that is not insured.
 
-It would take some really big riot damage to get to our levels, because normally we don’t kick in now until an event gets up to at least, you know, $5 billion or so of insured damage under a very large majority of our policies.
+巴菲特：很明显，只要有足够高的保险损失，就会触发我们的一些保单，会导致我们的巨灾再保险赔付。要触发巨灾险的保单，骚乱得造成相当大的损失，对于我们的大部分巨灾险保单而言，事件造成的损失至少得 50 亿美元左右，才能触发巨灾险赔付。像地震这种灾害导致的很多损失不在保险范围内，比如说高速公路和公共建筑等。
 
-Something like a quake causes a fair amount of damage that is not insured, because of the extent that it’s highways and things of that sort, public buildings. A lot of that is not insured.
+But you get interesting questions on this. Usually we insure an event, but what’s an event? If you go back to the riots that occurred after Martin Luther King was shot, you had riots in dozens of cities. Is that one event or is that a multiple number of events? I mean, it was started by different people, but maybe arising from a common cause. Some of those things aren’t actually very well-defined, even after hundreds of years of insurance law and custom, the experience of that. But I would say that rioting is very unlikely to get to a level that triggers our policy. The big risks we face are quake and hurricanes, and hurricanes are a more significant risk than quake. They call them typhoons in the Pacific Ocean. But floods, tremendous damage from floods last year. But basically there’s not a lot of private flood insurance bought, so the insured losses do not get large. Just watch the Weather Channel. (Laughter)
 
-But you get interesting questions on this. Usually we insure an event, but what’s an event? If you go back to the riots that occurred after Martin Luther King was shot, you had riots in dozens of cities.
+不过这就遇到一个很有趣的问题，一般来说，我们是为一个事件承保。什么事件呢？例如，在马丁·路德·金被枪击后，几十个城市出现骚乱。这是一个事件呢，还是多个事件？虽然保险法、惯例操作以及业务经验已经有数百年的历史，但有些事情依旧很难定义。但我认为，骚乱很难达到触发巨灾险的程度，我们面对的大风险是地震、飓风(飓风是较大的风险)以及台风。至于洪水，去年洪水造成了巨大的损失，不过买洪水保险的人却不多，所以保险损失不怎么可能会有(触发我们的巨灾险)。你们只要看天气预报就会心里有数。(笑声)
 
-Is that one event or is that a multiple number of events? I mean, it was started by different people, but maybe arising from a common cause. Some of those things aren’t actually very well-defined, even after hundreds of years of insurance law and custom, the experience of that. But I would say that rioting is very unlikely to get to a level that triggers our policy.
-
-The big risks we face are quake and hurricanes, and hurricanes are a more significant risk than quake. They call them typhoons in the Pacific Ocean.
-
-But floods, tremendous damage from floods last year. But basically there’s not a lot of private flood insurance bought, so the insured losses do not get large.
-
-Just watch the Weather Channel. (Laughter)
-
-## 47\. Why we have no short-term opinion on stocks
+## 47\. Why we have no short-term opinion on stocks</br>为什么我们对股票没有短期看法
 
 WARREN BUFFETT: Zone 2.
 
 AUDIENCE MEMBER: Diane West (PH) from Corona Del Mar, California.
 
+股东：黛安·韦斯特，来自加利福尼亚的科罗娜德尔玛。
+
 I know, Mr. Buffett, that you said that you don’t read what other people say about the market or the economy, but do either you or Charlie have an opinion about how you think things are going to go? Are you bullish or bearish?
+
+巴菲特先生，我知道你说过你不读别人对市场或经济的看法，但你和查理对你认为事情会如何发展有什么看法吗?你是看涨还是看跌?
 
 WARREN BUFFETT: You may have trouble believing this, but Charlie and I never have an opinion about the market because it wouldn’t be any good and it might interfere with the opinions we have that are good. (Laughter)
 
+巴菲特：你可能很难相信这一点，但查理和我从来没有对市场有过任何看法，因为它不会有任何好处，它可能会干扰我们对市场的看法。(笑声)
+
 If we’re right about a business, if we think a business is attractive, it would be very foolish for us to not take action on that because we thought something about what the market was going to do, or anything of that sort.
+
+如果我们看中了一个企业，如果我们认为其业务是非常有吸引力的，如我我们只是因为认为市场将发生一些事情，就不采取行动，那无疑是很愚蠢的。
 
 Because we just don’t know. And to give up something that you do know and that is profitable for something that you don’t know and won’t know because of that, it just doesn’t make any sense to us, and it doesn’t really make any difference to us.
 
+大市的走向并非我们所能理解的，为了现在不理解而且将来也不会理解的大市走向，放弃理解的有利可图的投资项目，我们觉得是没有道理的。
+
 I mean, I bought my first stock in, probably, April of 1942 when I was 11. And since then, I mean, actually World War II didn’t look so good at that time. I mean, the prospects, they really didn’t. I mean, you know, we were not doing well in the Pacific. I’m not sure I calculated that into my purchase of my three shares. (Laughter)
+
+大市走向对我们没有任何影响。我在1942年4月买了我人生中的第一只股票，那时我11岁，当时正处于二战中期，而且盟军的前景看起来不容乐观，真的不乐观。当时，太平洋战场的情况很不妙，我不确定我在购买这三股股票时是否考虑到了这一点。（笑声）
 
 But I mean, just think of all the things that have happened since then, you know? Atomic weapons and major wars, presidents resigning, and all kinds of things, massive inflation at certain times.
 
+但我想起了之后发生的事情：核武出现、大规模冲突、总统辞职、通胀和其他各种事件。
+
 To give up what you’re doing well because of guesses about what’s going to happen in some macro way just doesn’t make any sense to us. The best thing that can happen from Berkshire’s standpoint — we don’t wish this on anybody — but is that over time is to have markets that go down a tremendous amount.
+
+我们觉得，为了猜测将来的某些宏观事件，放弃你很拿手的投资项目是说不通的。从伯克希尔的立场出发，最美妙的事情莫过于市场大幅下跌，当然，这只是我的个人看法，不会把它强加给任何人。假如你问，若下个月市场下跌50%，伯克希尔是不是情况更好了，我们会告诉你，若真的下跌50%，伯克希尔的情况会更好。
 
 I mean, we are going to be buyers of things over time. And if you’re going to be buyers of groceries over time, you like grocery prices to go down. If you’re going to be buying cars over time, you like car prices to go down.
 
+我们是长期的股票买方，如果你常常去一家食品店买东西，就应该喜欢价格下降。如果你常常要买汽车，就会喜欢汽车降价。
+
 We buy businesses. We buy pieces of businesses: stocks. And we’re going to be much better off if we can buy those things at an attractive price than if we can’t.
+
+我们买公司，也买公司的一部分——股票。如果我们能以一个有吸引力的价格买进，我们的情况就会更好。
 
 So we don’t have any fear at all. I mean, what we fear is an irrational bull market that’s sustained for some long period of time.
 
+我们什么都不怕，只怕长期持续的不理智的牛市。
+
 You, as shareholders of Berkshire, unless you own your shares on borrowed money or are going to sell them in a very short period of time, are better off if stocks get cheaper, because it means that we can be doing more intelligent things on your behalf than would be the case otherwise.
+
+作为伯克希尔的股东，除非你是借钱买的股票或者你马上就要出售股票，股价更便宜也会对你有好处，因为股价更便宜就意味着我们能更好地为你进行明智的投资。
 
 But we have no idea what — and we wouldn’t care what anybody thought about it. I mean, most of all ourselves. (Laughter)
 
+我们不知道将会发生什么，也不关心别人的想法，尤其是别人对我们的看法。（笑声）
+
 Charlie, do you have anything?
+
+查理，你有啥补充的吗？
 
 CHARLIE MUNGER: No. I think the — if you’re agnostic about those macro factors and therefore devote all your time to thinking about the individual businesses and the individual opportunities, it’s just, it’s a way more efficient way to behave, at least with our particular talents and lacks thereof.
 
+芒格：如果你是一个对宏观因素持不可知论的人，就把所有的时间都用在分析个别公司和单个机会上吧，这是一种特别有效的方法，至少对有我们来说是有效的方法。
+
 WARREN BUFFETT: If you’re right about the businesses, you’ll end up doing fine.
 
+巴菲特：如果你对企业的判断正确,就会有不错的回报。
+
 We don’t know, and we don’t think about when something will happen. We think about what will happen. It’s fairly, it’s not so difficult to figure out what will happen. It’s impossible, in our view, to figure out when it will happen. So we focus on what will happen.
+
+我们不知道，也不思考某件事何时发生，我们只思考什么事会发生，会发生什么并不难弄明白。我们认为判断何时发生是不可能的，所以我们只全力思考会发生什么。
 
 This company in 1890 or thereabouts, the whole company sold for $2,000. It’s got a market value now of about 50-odd-billion, you know?
 
 Somebody could’ve said to the fellow who was buying this in 1890, you know, “You’re going to have a couple of great World Wars, and you know, you’ll have the panic of 1907, all these things will happen. And wouldn’t it be a better idea to wait?” (Laughter)
 
+1890年时， 2,000美元就能把可口可乐整家公司买下来，今天可口可乐的市值是500多亿美元。有人可能会对在1890年买可口可乐股票的人说：“我们将会经历两场世界大战，1907年会有大恐慌，所有的这些事情都会发生。是不是该等等再买可口可乐的股票呢?”（笑声）
+
 We can’t afford that mistake, basically. Yeah.
 
-## 48\. We’d rather buy an entire company, but stocks offer more bargains
+我们可承受不了这种错误。
+
+## 48\. We’d rather buy an entire company, but stocks offer more bargains</br>我们希望买下整个公司，但股票更便宜
 
 WARREN BUFFETT: Zone 3.
 
-AUDIENCE MEMBER: Mr. Buffett, Mr. Munger, last year — I’m Tim Medley from Jackson, Mississippi — last year the question was asked about your preference for purchasing entire businesses versus parts of public companies.
+AUDIENCE MEMBER: Mr. Buffett, Mr. Munger, last year — I’m Tim Medley from Jackson, Mississippi — last year the question was asked about your preference for purchasing entire businesses versus parts of public companies. You mentioned you prefer to buy private businesses because of the tax advantages and your attraction to the people in those businesses. Are you finding today that there are better purchases within the private market versus in the public securities market?
 
-You mentioned you prefer to buy private businesses because of the tax advantages and your attraction to the people in those businesses.
+股东：巴菲特先生，芒格先生，我是来自密西西比州杰克逊市的蒂姆·麦德利。去年，有人问你，比起部分上市公司，你更喜欢收购整个企业。你提到你更倾向于购买私营企业，因为它的税收优势，以及你对这些私营企业中的管理者的吸引力。今天你是否发现在私人市场上的购买行为比在公共证券市场上的购买行为要好？
 
-Are you finding today that there are better purchases within the private market versus in the public securities market?
+WARREN BUFFETT: Well, I would answer that no. We do not — we very seldom find something to buy on a negotiated basis for an entire business. We have certain size requirements. A big limiting factor is it has to be something we can understand. I mean, that eliminates 95 percent of the businesses. nd we don’t pay any attention to them, but we get lots of proposals for things that just are totally outside the boundaries of what we’ve already said we’re interested in.
 
-WARREN BUFFETT: Well, I would answer that no.
+巴菲特：我的答案是不。我们很少在谈判的基础上找到可以买到的东西。我们有一定的规模要求。一个很大的限制因素是它必须是我们能够理解的。这就排除了 95%的业务。我们对大多数生意没有兴趣，但我们收到了很多已经超出我们感兴趣的东西的提议。
 
-We do not — we very seldom find something to buy on a negotiated basis for an entire business. We have certain size requirements. A big limiting factor is it has to be something we can understand. I mean, that eliminates 95 percent of the businesses.
+We prefer to buy entire businesses, or 80 percent or greater interest in businesses, partly for the tax reasons you mentioned, and frankly, we like it better. We just, it’s the kind of business we would like to build if we had our absolute druthers on it. Counter to that is we can usually get more for our money in wonderful businesses, in terms of buying little pieces of them in the market, because the market is far more inefficient in pricing businesses than is the negotiated market.
 
-And we don’t pay any attention to them, but we get lots of proposals for things that just are totally outside the boundaries of what we’ve already said we’re interested in.
-
-We prefer to buy entire businesses, or 80 percent or greater interest in businesses, partly for the tax reasons you mentioned, and frankly, we like it better. We just, it’s the kind of business we would like to build if we had our absolute druthers on it.
-
-Counter to that is we can usually get more for our money in wonderful businesses, in terms of buying little pieces of them in the market, because the market is far more inefficient in pricing businesses than is the negotiated market.
+我们更喜欢把整个企业都买下来，或者买下 80%或更多，这部分是出于税负考虑，坦率地说，也是因为我们更喜欢这样做。如果在这件事上我们能完全随心所欲，我们会整体并购。和议价市场相反，在股市中，我们总是能够以更便宜的价格买到公司的一小部分，这是因为股市在给企业定价方面的有效程度远低于议价市场。
 
 You’re not going to buy any bargains, and I mean, you shouldn’t even approach the idea of buying a bargain in a negotiated purchase.
 
+在议价买进中，你不会买到任何便宜货，也不应该指望能买到便宜货。
+
 You want to buy it from people who are going to run it for you. You want to buy it from people who are intelligent enough to price their business properly, and they are. I mean, that’s the way things are.
 
-The market does not do that. The market — in the stock market, you get a chance to buy businesses at foolish prices, and that is why we end up with a lot of money in marketable securities.
+如果你指望这些管理层将来为你管理企业，想从这些足够聪明的人以合理定价买入他们的企业。如果他们能正确地为自己的企业定价，你就甭想买到便宜货。道理就是这么简单。
 
-If we absolutely had our choice, we would own a group of — we would own three times the number of businesses we own outright.
+You’re not going to buy any bargains, and I mean, you shouldn’t even approach the idea of buying a bargain in a negotiated purchase. You want to buy it from people who are going to run it for you. You want to buy it from people who are intelligent enough to price their business properly, and they are. I mean, that’s the way things are. The market does not do that. The market — in the stock market, you get a chance to buy businesses at foolish prices, and that is why we end up with a lot of money in marketable securities.（这里似乎少了一段）
 
-We’re unlikely to get that opportunity over time, but periodically we’ll get the chance to find something that fits our test.
+在议价买进中，你不会买到任何便宜货，也不应该指望能买到便宜货。如果你指望这些管理层将来为你管理企业，要以合理定价从这些足够聪明的人手中买入他们的企业。如果他们能正确地为自己的企业定价，你就甭想买到便宜货。道理就是这么简单。虽然整体并购企业有税负上的优势，而且我们也偏爱这种方式，但是有一个事实可以抵消这两个理由——你永远不可能有机会整体并购可口可乐或吉列这种企业，这种好企业不可能(从议价市场中)以便宜的价格买到。不过有时候我们能在股市中找到机会以合理的价格买入好企业的股票，有时候甚至有机会以愚蠢的价格买进好企业的股票。
 
-And in between we will, when the market offers us the right prices, we will buy more, either businesses we already own pieces of, or we’ll buy one or two new ones. Something’s usually going on.
+If we absolutely had our choice, we would own a group of — we would own three times the number of businesses we own outright. We’re unlikely to get that opportunity over time, but periodically we’ll get the chance to find something that fits our test. And in between we will, when the market offers us the right prices, we will buy more, either businesses we already own pieces of, or we’ll buy one or two new ones. Something’s usually going on. There are tax advantages to owning all of them, but that’s more than offset by the fact that you’ll never get a chance to buy the whole Coca-Cola Company or the whole Gillette company. I mean, businesses like that, sensational businesses, are just not available. Sometimes you get a chance to make a sensible purchase in the market of such businesses. Charlie?
 
-There are tax advantages to owning all of them, but that’s more than offset by the fact that you’ll never get a chance to buy the whole Coca-Cola Company or the whole Gillette company.
+这就是我们大量投资有价证券的原因。如果有这样的机会，我希望我们全资控股的企业数量是现在的三倍。从长期看，虽然我们隔段时间就能找到机会买进符合我们投资标准的企业，但是将我们全资拥有的企业数量翻三倍不太可能。当市场价格合适的时候，我们就会增持已有的股票，或者买进一两只新的股票。通常就是这样。查理，你觉得呢？
 
-I mean, businesses like that, sensational businesses, are just not available. Sometimes you get a chance to make a sensible purchase in the market of such businesses.
+CHARLIE MUNGER: Well, I think that’s exactly right. And if you stop to think about it, if a hundred percent of a business is for sale, you’ve got — the average corporate buyer is being run by people who have the mindset of people buying with somebody else’s money. And we have the mindset of people buying with our own money. And there’s also a class of buyers for a hundred percent of businesses who are basically able and assured financial promoters. I’m talking about the leveraged buyout funds and so on. And those people tend to have the upside, but not the downside, in the private arrangements they’ve made with their investors. And naturally, they tend to be somewhat optimistic. And so we have formidable competition when we try and buy a hundred percent of businesses.
 
-Charlie?
+芒格：我认为这完全正确。你可以停下来想一想，在整体并购企业时，普通的企业并购者的心态是拿别人的钱买东西，我们的心态是拿我们自己的钱买东西。还有一种整体并购企业的并购者，他们天生有很强的抬高价格的能力。我说的是杠杆并购基金等机构，根据这些基金和它们的投资者之间的分成协议，这些基金趋向于并购价格越高越好而不是越便宜越好。因此，当我们试图收购 100%的企业时，我们面临着强大的竞争。
 
-CHARLIE MUNGER: Well, I think that’s exactly right. And if you stop to think about it, if a hundred percent of a business is for sale, you’ve got — the average corporate buyer is being run by people who have the mindset of people buying with somebody else’s money. And we have the mindset of people buying with our own money.
+WARREN BUFFETT: Most managers are better off, in terms of their personal equation, if they’re running something larger. And they’re also better off if they’re running something larger and more profitable. But the first condition alone will usually leave them better off. We’re only better off if we’re running something that’s more profitable. We also like it if it’s larger, too. But our equation, actually, our personal equation is actually different than a great many managers in that respect. Even if that didn’t operate, I think most managers psychically would enjoy running something larger. And if you can pay for it with other people’s money, I mean, that gets pretty attractive. You know, how much would — and let’s just say you’re a baseball fan — well, how much would you pay to own whatever your hometown, the Yankees?
 
-And there’s also a class of buyers for a hundred percent of businesses who are basically able and assured financial promoters. I’m talking about the leveraged buyout funds and so on.
+巴菲特：所以，这些基金在并购时，会对企业前景持某种乐观的态度。管理的企业规模越大，经理人的收入也会越高。当然，若企业规模更大且利润更高，经理人的收入也会更高，不过呢，只要规模更大，无须利润更高，就足以让经理人腰包更鼓。在这方面，我们的个人收入公式和绝大多数经理人不一样，规模变大未必能使腰包更鼓，我想，大多数经理人还是喜欢自己的王国越大越好。如果并购的时候能够用别人的钱付账，并购就会非常诱人。假设你是一个棒球迷，让你买下你家乡的棒球队，你愿意出多少钱？比如说扬基队。
 
-And those people tend to have the upside, but not the downside, in the private arrangements they’ve made with their investors. And naturally, they tend to be somewhat optimistic.
+You might pay more if you were writing a check on someone else’s bank account than if you were writing it on your own. It’s been known to happen. (Laughter) And in corporate America, animal spirits are there. And those are our competitors on buying entire businesses. In terms of buying securities, most managers don’t even think about it. It’s very interesting to me, because they’ll say that — they’ll have somebody else manage their money in terms of portfolio securities. Well, all that is is a portfolio of businesses. And I’ll say, “Well, why don’t you pick out your own portfolio?” And they’ll say, “That’s much too difficult.” And then some guy will come along with some business that they never heard of a week before and give them some figures and a few projections, and the guy thinks he knows enough to buy that business. It’s very puzzling to me sometimes.
 
-And so we have formidable competition when we try and buy a hundred percent of businesses.
+假如你可以开一张用别人的账户付账的支票，你的出价就会比你用自己的银行账户付账时更高。(笑声)所以美国企业界存在着动物精神，这些人就是在我们在整体并购时面对的竞争对手。因此，我们整体并购企业时，竞争非常激烈。买证券的时候，大多数经理人根本就不操心，这个现象非常有趣。他们会委派一个人去管理证券投资组合，其实证券投资组合就是企业的投资组合。我说："你为什么不亲自挑选一个投资组合呢？"他们会说，"不，这太难了。"如果有人向他出售他自己从未听说过的企业，并告诉他一些数字和预测，他就以为彻底了解这个企业了。这真叫我看不懂。
 
-WARREN BUFFETT: Most managers are better off, in terms of their personal equation, if they’re running something larger. And they’re also better off if they’re running something larger and more profitable.
-
-But the first condition alone will usually leave them better off. We’re only better off if we’re running something that’s more profitable. We also like it if it’s larger, too.
-
-But our equation, actually, our personal equation is actually different than a great many managers in that respect. Even if that didn’t operate, I think most managers psychically would enjoy running something larger. And if you can pay for it with other people’s money, I mean, that gets pretty attractive.
-
-You know, how much would — and let’s just say you’re a baseball fan — well, how much would you pay to own whatever your hometown, the Yankees?
-
-You might pay more if you were writing a check on someone else’s bank account than if you were writing it on your own. It’s been known to happen. (Laughter)
-
-And in corporate America, animal spirits are there. And those are our competitors on buying entire businesses. In terms of buying securities, most managers don’t even think about it.
-
-It’s very interesting to me, because they’ll say that — they’ll have somebody else manage their money in terms of portfolio securities. Well, all that is is a portfolio of businesses.
-
-And I’ll say, “Well, why don’t you pick out your own portfolio?” And they’ll say, “That’s much too difficult.”
-
-And then some guy will come along with some business that they never heard of a week before and give them some figures and a few projections, and the guy thinks he knows enough to buy that business. It’s very puzzling to me sometimes.
-
-## 49\. Revealing Wesco’s estimated intrinsic value was a “quirk”
+## 49\. Revealing Wesco’s estimated intrinsic value was a “quirk”</br>揭示威斯科金融的潜在内在价值是一个“怪癖”
 
 WARREN BUFFETT: Zone 4.
 
@@ -2173,179 +2185,134 @@ AUDIENCE MEMBER: Let’s try it one more time. Dan Raider (PH) —
 
 WARREN BUFFETT: Got it.
 
-AUDIENCE MEMBER: — San Mateo, California. This is a question for Mr. Munger.
+AUDIENCE MEMBER: — San Mateo, California. This is a question for Mr. Munger. In your most recent letter to shareholders in Wesco’s annual report, you calculated the intrinsic value of Wesco at about $100 per share, and compared that to the then-current market price of Wesco of about $130 per share. In the same letter, you stated that it was unclear whether at then-current market prices Berkshire or Wesco presented a better value to prospective purchasers. In light of that, would you compare the intrinsic value of Berkshire to its current market price?
 
-In your most recent letter to shareholders in Wesco’s annual report, you calculated the intrinsic value of Wesco at about $100 per share, and compared that to the then-current market price of Wesco of about $130 per share.
+股东：在你最近的致威斯科金融公司股东信中，你计算了威斯科的内在价值是 100 美元一股，而当时的股价是 130 美元一股。在那封信里，你说，在当时的价格下，是否有购买的价值并不很清晰。你可不可以把伯克希尔的内在价值和市场价比较一下呢？
 
-In the same letter, you stated that it was unclear whether at then-current market prices Berkshire or Wesco presented a better value to prospective purchasers.
+CHARLIE MUNGER: Well, the answer to that is no. (Laughter) Berkshire has never calculated intrinsic value per share and reported it to the shareholders, and Wesco never did before this year. We changed our mind at Wesco because we really thought some of the buyers had gone a little crazy, and a lot of things were being said to prospective shareholders that, in our opinion, were unwise. And we don’t really like attracting — even though we’ve had nothing to do with it — we don’t like attracting people in at high prices that may not be wise. So we departed from our long precedent, and we did in the Wesco report make an estimate of intrinsic value per share. But we’re not changing the general policy. That was just a one-time quirk.
 
-In light of that, would you compare the intrinsic value of Berkshire to its current market price?
+芒格：答案是不行。(笑声)伯克希尔从来不曾在给股东的报告中计算每股内在价值。威斯科在今年之前也从未这样做过，我们之所以改变做法，是因为我们真的认为有些买方有点疯狂，潜在的股票购买者得到的很多信息照我们看来是很不明智的。虽然这并不是我们的错，但我们真的不想在可能不明智的高价位上吸引股东购买我们的股票。所以我们改变了一直以来不公布内在价值的习惯做法。我们没有改变总的政策，这次只是下不为例的特殊情况。
 
-CHARLIE MUNGER: Well, the answer to that is no. (Laughter)
+WARREN BUFFETT: Well, and also I think it’s true that the Wesco intrinsic value per share can be estimated by anyone within fairly close limits. It just isn’t that complicated because there aren’t a number of businesses there that have values different than carrying values, or where they are, they’re all footnoted, in terms of numbers. So it would be almost impossible to come up with numbers that are significantly different than the number Charlie put in there.
 
-Berkshire has never calculated intrinsic value per share and reported it to the shareholders, and Wesco never did before this year.
+巴菲特：任何人估算威斯科的每股内在价值，都能得出相近的答案。这并不复杂，因为威斯科的价值和其账面结存价值一致，不一致的地方都加了注脚。所以几乎不可能算出和查理提供的数值有显著差异的结果。
 
-We changed our mind at Wesco because we really thought some of the buyers had gone a little crazy, and a lot of things were being said to prospective shareholders that, in our opinion, were unwise.
+Berkshire has assets that, number one of which would be the insurance business, that it’s clear have very significant excess values, but one person might estimate those at maybe three times what somebody else would estimate them at. That’s less true of our other businesses, but it’s still true in a way, so that Berkshire’s range would be somewhat greater. And as Charlie — we basically — we don’t want to disappoint people, but we also don’t want to disappoint ourselves. But we have our own yardsticks for what we think is doable. We try to convey that as well as we can to the people who are partners in the business, and I think that we saw some things being published about Wesco that simply might have led to, and probably did lead to, some expectations that simply weren’t consonant with our own personal expectations. And that leaves us uncomfortable.
 
-And we don’t really like attracting — even though we’ve had nothing to do with it — we don’t like attracting people in at high prices that may not be wise.
+伯克希尔的资产很多，排名第一的是保险业务，保险业务明显有巨大的超额价值。不同的人估算价值，结果可能会相差三倍，不同的人估算伯克希尔的价值，结果可能相差很大。查理和我——我们不想让大家失望，也不想让自己失望。不过我们有自己的行为准则，我们希望能尽可能全面地向我们的合伙人传达信息。我们看到一些关于威斯科的公开出版的文章，可能会导致(确实导致了)某些和我们自己的预期不致的预期。这种情况让我们很不安。
 
-So we departed from our long precedent, and we did in the Wesco report make an estimate of intrinsic value per share.
-
-But we’re not changing the general policy. That was just a one-time quirk.
-
-WARREN BUFFETT: Well, and also I think it’s true that the Wesco intrinsic value per share can be estimated by anyone within fairly close limits.
-
-It just isn’t that complicated because there aren’t a number of businesses there that have values different than carrying values, or where they are, they’re all footnoted, in terms of numbers.
-
-So it would be almost impossible to come up with numbers that are significantly different than the number Charlie put in there.
-
-Berkshire has assets that, number one of which would be the insurance business, that it’s clear have very significant excess values, but one person might estimate those at maybe three times what somebody else would estimate them at. That’s less true of our other businesses, but it’s still true in a way, so that Berkshire’s range would be somewhat greater.
-
-And as Charlie — we basically — we don’t want to disappoint people, but we also don’t want to disappoint ourselves. But we have our own yardsticks for what we think is doable.
-
-We try to convey that as well as we can to the people who are partners in the business, and I think that we saw some things being published about Wesco that simply might have led to, and probably did lead to, some expectations that simply weren’t consonant with our own personal expectations. And that leaves us uncomfortable.
-
-## 50\. Risk is “inextricably wound up” in how long an asset is held
+## 50\. Risk is “inextricably wound up” in how long an asset is held</br>风险与资产持有时间“密不可分”
 
 WARREN BUFFETT: Zone 5.
 
-AUDIENCE MEMBER: Hello, my name is Charles Pyle (PH) from Ann Arbor, Michigan.
+AUDIENCE MEMBER: Hello, my name is Charles Pyle (PH) from Ann Arbor, Michigan. I’d like to ask you to expound on your view of risk in the financial world, and I ask that against the background of what appear to be a number of inconsistencies between your view of risk and the conventional view of risk. I mention that in a recent article you pointed out inconsistency in the use of beta as a measure of risk, which is a common standard. And I mention that derivatives are dangerous, and yet you feel comfortable playing at derivatives through Salomon Brothers. And betting on hurricanes is dangerous, and yet you feel comfortable playing with hurricanes through insurance companies. So it appears that you have some view of risk that’s inconsistent with what would appear on the face of it to be the conventional view of risk.
 
-I’d like to ask you to expound on your view of risk in the financial world, and I ask that against the background of what appear to be a number of inconsistencies between your view of risk and the conventional view of risk.
+股东：你好，我叫查尔斯·派尔，来自密歇根州的安阿伯市。我想请你们阐述一下你们对金融世界风险的看法，我问这个问题的背景是，你们的风险观和传统的风险观之间似乎存在一些不一致之处。衍生品是危险的，你却悠然自在地通过所罗门公司交易衍生品。下注赌热带风暴是危险的，你却通过保险公司放心大胆地出售热带风暴保险。看起来你对风险的看法和传统的风险观点是不一致的。
 
-I mention that in a recent article you pointed out inconsistency in the use of beta as a measure of risk, which is a common standard.
+WARREN BUFFETT: Well, we do define risk as the possibility of harm or injury. And in that respect we think it’s inextricably wound up in your time horizon for holding an asset. I mean, if your risk is that you’re going — if you intend to buy XYZ Corporation at 11:30 this morning and sell it out before the close today, I mean, that is, in our view, that is a very risky transaction. Because we think 50 percent of the time you’re going to suffer some harm or injury. If you have a time horizon on a business, we think the risk of buying something like Coca-Cola at the price we bought it at a few years ago is essentially, is so close to nil, in terms of our perspective holding period. But if you asked me the risk of buying Coca-Cola this morning and you’re going to sell it tomorrow morning, I say that is a very risky transaction.
 
-And I mention that derivatives are dangerous, and yet you feel comfortable playing at derivatives through Salomon Brothers. And betting on hurricanes is dangerous, and yet you feel comfortable playing with hurricanes through insurance companies.
+巴菲特：我们对风险的定义是受到伤害的可能性。因此，风险不可避免地和你准备持有资产的时间长短缠绕在一起。如果你盘算在上午 11 点 30 分买进某公司，然后在闭市之前卖出，照我们看来，这个交易的风险非常大，因为你可能有 50%的几率赔钱。不过呢，如果持有这只股票更长的时间…例如，若你持有的时间和我们一样长，用几年前我们买进可口可乐的价格买进股票的风险接近于零。但如果你要我评估今天上午买进可口可乐、明天上午卖出的风险，那么我说，这是高风险的交易。
 
-So it appears that you have some view of risk that’s inconsistent with what would appear on the face of it to be the conventional view of risk.
+Now, as I pointed out in the annual report, it became very fashionable in the academic world, and then that spilled over into the financial markets, to define risk in terms of volatility, of which beta became a measure. But that is no measure of risk to us. The risk, in terms of our super-cat business, is not that we lose money in any given year. We know we’re going to lose money in some given day, that is for certain. And we’re extremely likely to lose money in a given year. Our time horizon of writing that business, you know, would be at least a decade. And we think the probability of losing money over a decade is low. So we feel that, in terms of our horizon of investment, that that is not a risky business. And it’s a whole lot less risky than writing something that’s much more predictable.
 
-WARREN BUFFETT: Well, we do define risk as the possibility of harm or injury. And in that respect we think it’s inextricably wound up in your time horizon for holding an asset.
+如我在年报里所言，用代表波动性的贝塔系数来衡量风险的观点不仅在学术界变得很时髦，而且扩散到金融市场中。不过对我们来说，这根本不是衡量风险的标尺。至于我们的巨灾再保险业务，风险并不在于某个年份亏损。我们知道，我们会在某个日子亏损，这是肯定的，我们也极有可能在某些年份亏损，但我们承保巨灾险的眼光长达 10 年，我们认为在 10 年的时间段里亏损的可能性很低。所以，考虑到我们的投资时间段，我们认为这不是一个高风险的业务。巨灾再保险业务的风险大大低于一些更加容易预测的保险业务。
 
-I mean, if your risk is that you’re going — if you intend to buy XYZ Corporation at 11:30 this morning and sell it out before the close today, I mean, that is, in our view, that is a very risky transaction. Because we think 50 percent of the time you’re going to suffer some harm or injury.
+Interesting thing is that using conventional measures of risk, something whose return varies from year to year between plus-20 percent and plus-80 percent is riskier, as defined, than something whose return is 5 percent a year every year. We just think the financial world has gone haywire in terms of measures of risk. We look at what we do — we are perfectly willing to lose money on a given transaction, arbitrage being an example, any given insurance policy being another example. We are perfectly willing to lose money on any given transaction.
 
-If you have a time horizon on a business, we think the risk of buying something like Coca-Cola at the price we bought it at a few years ago is essentially, is so close to nil, in terms of our perspective holding period. But if you asked me the risk of buying Coca-Cola this morning and you’re going to sell it tomorrow morning, I say that is a very risky transaction.
+我们觉得很好笑，按照传统的用波动性衡量风险的理论，一个年回报在+20%至+80%之间逐年波动的项目的风险竟然高于一个年回报稳定在 5%的项目。我认为金融界在衡量风险方面简直是一塌糊涂。我们很乐意在某些交易中亏损，套利交易就是个例子，卖保单是另一个例子。
 
-Now, as I pointed out in the annual report, it became very fashionable in the academic world, and then that spilled over into the financial markets, to define risk in terms of volatility, of which beta became a measure.
+We are not willing to enter into transactions in which we think the probability of doing a number of mutually independent events, but of a similar type, has an expectancy of loss. And we hope that we are entering into our transactions where our calculations of those probabilities have validity. And to do so, we try to narrow it down. There are a whole bunch of things we just won’t do because we don’t think we can write the equation on them.
 
-But that is no measure of risk to us. The risk, in terms of our super-cat business, is not that we lose money in any given year. We know we’re going to lose money in some given day, that is for certain. And we’re extremely likely to lose money in a given year.
+但若有任何交易，我们认为其中存在一些互相独立的相似事件有可能会造成损失，我们就不会参与这些交易。我们希望参加这样的交易——我们能正确计算出损失可能性的交易。为了达到这个目的，我们努力缩小范围。有很多业务，因为我们不能正确计算，所以敬而远之。
 
-Our time horizon of writing that business, you know, would be at least a decade. And we think the probability of losing money over a decade is low. So we feel that, in terms of our horizon of investment, that that is not a risky business. And it’s a whole lot less risky than writing something that’s much more predictable.
+But we, basically, Charlie and I by nature are pretty risk-averse. But we are very willing to enter into transactions —We, if we knew it was an honest coin, and someone wanted to give us seven-to-five or something of the sort on one flip, how much of Berkshire’s net worth would we put on that flip? Well we would — it would sound like a big number to you. It would not be a huge percentage of the net worth, but it would be a significant number. We will do things when probabilities favor us.
 
-Interesting thing is that using conventional measures of risk, something whose return varies from year to year between plus-20 percent and plus-80 percent is riskier, as defined, than something whose return is 5 percent a year every year.
-
-We just think the financial world has gone haywire in terms of measures of risk.
-
-We look at what we do — we are perfectly willing to lose money on a given transaction, arbitrage being an example, any given insurance policy being another example. We are perfectly willing to lose money on any given transaction.
-
-We are not willing to enter into transactions in which we think the probability of doing a number of mutually independent events, but of a similar type, has an expectancy of loss. And we hope that we are entering into our transactions where our calculations of those probabilities have validity.
-
-And to do so, we try to narrow it down. There are a whole bunch of things we just won’t do because we don’t think we can write the equation on them.
-
-But we, basically, Charlie and I by nature are pretty risk-averse. But we are very willing to enter into transactions —
-
-We, if we knew it was an honest coin, and someone wanted to give us seven-to-five or something of the sort on one flip, how much of Berkshire’s net worth would we put on that flip?
-
-Well we would — it would sound like a big number to you. It would not be a huge percentage of the net worth, but it would be a significant number. We will do things when probabilities favor us.
+查理和我都是天生的风险厌恶者。如果有一个不出老千的扔硬币赌局，有人愿意给我们 7 比 5或者类似别的赔率，我们会投入伯克希尔多少账面价值呢？我愿意投入的金额可能会被你认为是巨额，虽然并未占(伯克希尔)净价值的很高百分比，但会是一个很大的金额。我们会做这种赢率对我们有利的交易。
 
 Charlie?
 
-CHARLIE MUNGER: Yeah, we, I would say we try and think like Fermat and Pascal as if they’d never heard of modern finance theory.
+CHARLIE MUNGER: Yeah, we, I would say we try and think like Fermat and Pascal as if they’d never heard of modern finance theory. I really think that a lot of modern finance theory can only be described as disgusting. (Laughter)
 
-I really think that a lot of modern finance theory can only be described as disgusting. (Laughter)
+芒格：我们努力像费马(法国数学家，系统阐述了现代数理论和概率论)和帕斯卡(法国哲学家和数学家，发展了现代概率理论)那样思考，就好像我们从未听说过现代金融理论那样。我认为很多现代金融理论只能用恶心来形容。(笑声)
 
-## 51\. Buffett favors a “steeply progressive” consumption tax
+## 51\. Buffett favors a “steeply progressive” consumption tax</br>巴菲特赞成“大幅累进”的消费税
 
 WARREN BUFFETT: Zone 6.
 
-AUDIENCE MEMBER: Good morning, I’m Paul Miller (PH) from Kansas City, Missouri. I’ve got two questions.
-
-First, not too long ago, I believe it was Fortune Magazine that ran an article regarding personal tax rates.
-
-And at the risk of misquoting you, my recollection is that you favored higher personal rates, rates even higher than those proposed by those in Washington.
-
+AUDIENCE MEMBER: Good morning, I’m Paul Miller (PH) from Kansas City, Missouri. I’ve got two questions. First, not too long ago, I believe it was Fortune Magazine that ran an article regarding personal tax rates. And at the risk of misquoting you, my recollection is that you favored higher personal rates, rates even higher than those proposed by those in Washington.  
 The second question is, I’ve heard Berkshire Hathaway referred to as nothing more than a high-priced rich man’s mutual fund. Would you care to comment on that also?
 
-WARREN BUFFETT: Well, on tax rates, if you ask me what I personally favor, I personally favor a steeply progressive consumption tax.
+股东：早上好，我是保罗·米勒，来自密苏里州堪萨斯城。我有两个问题。首先，就在不久前，《财富》杂志刊登了一篇有关个人税率的文章。冒着错误引用你的话的风险，我记得你倾向于更高的个人税率，甚至高于华盛顿那些人提出的税率。第二个问题是，有人说伯克希尔只不过是一家价格不菲的富人共同基金。你能就此发表评论吗？
 
-That has a little more attention being paid to it now, although the “steeply progressive” might be modified by most of the advocates of the consumption tax, maybe to “mildly progressive” or something of the sort.
+WARREN BUFFETT: Well, on tax rates, if you ask me what I personally favor, I personally favor a steeply progressive consumption tax. That has a little more attention being paid to it now, although the “steeply progressive” might be modified by most of the advocates of the consumption tax, maybe to “mildly progressive” or something of the sort. There’s a Nunn-Domenici proposal along that line, and there are other people that are talking about it more. It may be examined by the new Kerrey-Danforth Commission, of which we’ve got a member in the audience.
 
-There’s a Nunn-Domenici proposal along that line, and there are other people that are talking about it more. It may be examined by the new Kerrey-Danforth Commission, of which we’ve got a member in the audience.
+巴菲特：在税率方面，如果你问我个人赞成什么，我个人赞成大幅累进消费税。现在人们对它的关注多了一点，尽管"大幅累进"可能会被大多数消费税的支持者修改成"温和累进"之类的。有一个 Nunn-Domenici 的提议就是这样的，还有很多人在讨论这个问题。它可能会被新的 Kerrey-Danforth 委员会检查。
 
-But I believe, in one way or another, I believe in progressive taxes. So I am not shocked in terms of my own situation, and I don’t think Charlie is particularly, about having a progressive income tax.
+But I believe, in one way or another, I believe in progressive taxes. So I am not shocked in terms of my own situation, and I don’t think Charlie is particularly, about having a progressive income tax. Although, like I say, I think society would run better over time if it were a progressive consumption tax instead. Do you want the comment on the tax situation, Charlie?
 
-Although, like I say, I think society would run better over time if it were a progressive consumption tax instead.
-
-Do you want the comment on the tax situation, Charlie?
+但无论如何，我相信累进税。所以就我自己的情况而言，我并不感到震惊，我也不认为查理特别反对累进所得税。不过，就像我说的，我认为随着时间的推移，如果实行累进消费税，社会会运转得更好。你想对税收形势发表意见吗，查理？
 
 CHARLIE MUNGER: Well, I think there is a point at which income taxes become quite counterproductive if their progression is too high. But I don’t think we’re there yet.
 
-WARREN BUFFETT: We think — at least I think — I’m extraordinarily well treated by this society, and I think most people with high incomes are. I think if you transported most of them to Bangladesh or Peru or something, they would find out how much of it is them and how much is the society.
+芒格：我认为，在某一时刻，如果所得税的累进幅度过高，就会产生相当大的反效果。但我认为我们还没到那一步。
 
-And I think there’s nothing better than a market system, in terms of motivating people and in terms of producing the goods and services that the society wants.
+WARREN BUFFETT: We think — at least I think — I’m extraordinarily well treated by this society, and I think most people with high incomes are. I think if you transported most of them to Bangladesh or Peru or something, they would find out how much of it is them and how much is the society. And I think there’s nothing better than a market system, in terms of motivating people and in terms of producing the goods and services that the society wants. But I do think it gets a little out of whack, in terms of what the productivity may be of an outstanding teacher compared to somebody who is good at figuring out the intrinsic value of businesses.
 
-But I do think it gets a little out of whack, in terms of what the productivity may be of an outstanding teacher compared to somebody who is good at figuring out the intrinsic value of businesses.
+巴菲特：我们认为——至少我认为——我在这个社会受到了非常好的待遇，我认为大多数高收入的人都是如此。我想，如果你把他们中的大多数送到孟加拉国或秘鲁或其他地方，他们对财富的分配会有新的看法。我认为没有什么比市场体系更好的了，特别是在激励人们生产社会想要的产品和服务方面。但我确实认为，与那些善于发现企业内在价值的人相比，对于一个出色的教师的贡献来说，这(给教师的回报)有点不正常。
 
 I don’t have a better system on the income side, but I think society should figure out some way to make those who are particularly blessed, in a sense, that have talents that get paid off enormously in a market system, to give back a fair amount of that to the society that produces that.
 
-## 52\. Berkshire isn’t a “rich man’s mutual fund”
+在收入方面，我没有更好的制度，但我认为社会应该想办法让那些特别幸运的人，在某种意义上，让那些有天赋的人、对给生产这些东西的人，在市场体系中得到一个公平的回报。
 
-WARREN BUFFETT: The question about Berkshire being I think it was, was it rich man’s mutual fund or something like that?
+## 52\. Berkshire isn’t a “rich man’s mutual fund”</br>伯克希尔不是“富人的共同基金”
 
-We don’t look at it that way at all. We look at it as a collection of businesses, and ideally we would own all of those businesses.
+WARREN BUFFETT: The question about Berkshire being I think it was, was it rich man’s mutual fund or something like that? We don’t look at it that way at all. We look at it as a collection of businesses, and ideally we would own all of those businesses. So it’s, to the extent that a mutual fund owns stock in a lot of companies and diversifies among businesses and we try to own a lot of businesses ourselves, I guess that’s true. But I guess you could say the same thing of General Electric, or an operation like that.
 
-So it’s, to the extent that a mutual fund owns stock in a lot of companies and diversifies among businesses and we try to own a lot of businesses ourselves, I guess that’s true. But I guess you could say the same thing of General Electric, or an operation like that.
+伯克希尔是富人的基金？我们根本不这么看。我们将其视为业务的集合，理想情况下，我们将拥有所有这些业务。从某种程度上来说，共同基金持有很多公司的股票，并在不同的业务之间进行多元化，我们自己也试图拥有很多业务，我想这是对的。我想你可能会说通用电气，或者类似的公司。
 
-We are more prone to buy pieces of businesses than the typical manager, but we are trying to do, in a sense, the same thing Jack Welch is trying to do at General Electric, which is try to own a number of first-class businesses.
+We are more prone to buy pieces of businesses than the typical manager, but we are trying to do, in a sense, the same thing Jack Welch is trying to do at General Electric, which is try to own a number of first-class businesses. He gets to put the imprint of his own management, which I think is very good, on those businesses, and we are more hands-off, both in the businesses we own outright and in the ones that we own pieces of. But we’re going at it the same way. And General Electric has been very successful under Jack’s leadership, and doing it his way. We think, in terms of what we bring to the game, and the problems of putting money to work all the time, that our own system will work best for us. Charlie?
 
-He gets to put the imprint of his own management, which I think is very good, on those businesses, and we are more hands-off, both in the businesses we own outright and in the ones that we own pieces of.
-
-But we’re going at it the same way. And General Electric has been very successful under Jack’s leadership, and doing it his way.
-
-We think, in terms of what we bring to the game, and the problems of putting money to work all the time, that our own system will work best for us.
-
-Charlie?
+我们比一般的管理者更倾向于购买一些业务，但我们在某种意义上正试图做杰克·韦尔奇(Jack Welch)在通用电气(GE)尝试做的事情，也就是试图拥有一些一流的业务。他给自己的管理留下了印记，我认为这是非常好的。但在这些业务上，我们不干涉我们旗下的管理者，无论是我们的全资企业还是只持有其中的一部分。我们的做法是一样的。在杰克的领导下，通用电气取得了巨大的成功。我们认为，就我们所给带来的东西，以及需要始终投入资金的问题而言，我们自己的模式将最适合我们。查理？
 
 CHARLIE MUNGER: Yeah, I’ve got nothing to add to that.
 
-## 53\. Don’t need interest rate outlook to value companies
+芒格：我没啥要说的。
+
+## 53\. Don’t need interest rate outlook to value companies</br>不需要利率前景来评估公司
 
 WARREN BUFFETT: Zone 1.
 
-CHRISTOPHER DAVIS: Hello, I’m Christopher Davis from New York City.
+CHRISTOPHER DAVIS: Hello, I’m Christopher Davis from New York City. I’m interested in that many of the holdings of Berkshire are in industries that are perceived as interest rate-sensitive industries, including Wells Fargo, Salomon, Freddie Mac, even GEICO. And yet you have an admitted sort of ambivalence towards interest rates or changes in interest rates. And it therefore seems that you don’t feel that those changes affect the fundamental attractiveness of those businesses. I thought maybe you could share your thoughts on what you see in these businesses that the investment community as a whole is ignoring.
 
-I’m interested in that many of the holdings of Berkshire are in industries that are perceived as interest rate-sensitive industries, including Wells Fargo, Salomon, Freddie Mac, even GEICO. And yet you have an admitted sort of ambivalence towards interest rates or changes in interest rates.
+股东：我是来自纽约市的克里斯托弗·戴维斯。我感兴趣的是，伯克希尔持有的许多股票都属于被视为对利率敏感的行业，包括富国银行(WellsFargo)、所罗门(Salomon)、房地美(FreddieMac)，甚至还有美国政府雇员保险公司(GEICO)。但你承认自己对利率或利率变化有矛盾心理。看起来，你并不觉得利率变化会影响这些公司基本面的吸引力。我想也许你可以分享一下你的想法，你在这些企业发现了什么整个投资界都忽视了的东西？
 
-And it therefore seems that you don’t feel that those changes affect the fundamental attractiveness of those businesses.
+WARREN BUFFETT: Well, the value of every business, the value of a farm, the value of an apartment house, the value of any economic asset, is 100 percent sensitive to interest rates, because all you are doing in investing is transferring some money to somebody now in exchange for what you expect the stream of money to be, to come in, over a period of time. And the higher interest rates are, the less that present value is going to be. So every business, by its nature, whether it’s Coca-Cola or Gillette or Wells Fargo, is in its intrinsic valuation, is a hundred percent sensitive to interest rates.
 
-I thought maybe you could share your thoughts on what you see in these businesses that the investment community as a whole is ignoring.
+巴菲特：所有东西的价值，比如农场的价值、公寓的价值或者任何其他经济资产的价值，都 100%对利率敏感。因为投资的实质就是你现在把钱转让给某人，换取将来返还给你的一笔资金流。利率越高，现值越低。所以所有东西的价值，从本质上说，不管是可口可乐还是吉列还是富国银行，其内在价值都 100%对利率敏感。
 
-WARREN BUFFETT: Well, the value of every business, the value of a farm, the value of an apartment house, the value of any economic asset, is 100 percent sensitive to interest rates, because all you are doing in investing is transferring some money to somebody now in exchange for what you expect the stream of money to be, to come in, over a period of time. And the higher interest rates are, the less that present value is going to be.
+Now, the question as to whether a Wells Fargo or a Freddie Mac or whatever it may be, whether their business gets better or worse internally, as opposed to the valuation process, because of higher interest rates, that is not easy to figure. I mean, GEICO, if they write their insurance business at the same underwriting ratio — in other words they have the same loss and expense experience relative to premiums — they benefit by higher interest rates, obviously, over time, because they’re a float business, and the float is worth more to them. Now, externally, getting back to the valuation part, the present value of those earnings also becomes less then. But the present value of Coke’s earnings becomes less in a higher interest rate environment.
 
-So every business, by its nature, whether it’s Coca-Cola or Gillette or Wells Fargo, is in its intrinsic valuation, is a hundred percent sensitive to interest rates.
+因为利率升高，富国银行或房地美或任何企业的内部情况是变好还是变差并不容易判断，这和价值评估相反。如果GEICO 的承保费用率不变，换句话说就是得到每美元保险费要承受的亏损和支出不变，长期而言，加息对利润有益，很显然，这是因为 GEICO 的浮存金，浮存金的价值因为加息而升高了。至于外部情况，回到估值上来，利润的现值会因加息而降低。可口可乐利润的现值在利息更高的环境中的价值会变小。
 
-Now, the question as to whether a Wells Fargo or a Freddie Mac or whatever it may be, whether their business gets better or worse internally, as opposed to the valuation process, because of higher interest rates, that is not easy to figure.
+Wells Fargo, it’s — whether they earn more or less money under any given interest rate scenario is hard to figure. There may be one short-term effect and there may be another long-term effect. So I do not have to have a view on interest rates — and I don’t have a view on interest rates — to make a decision as to an insurance business, or a mortgage guarantor business, or a banking business, or something of the sort, relative to making a judgment about Coke or Gillette. Charlie?
 
-I mean, GEICO, if they write their insurance business at the same underwriting ratio — in other words they have the same loss and expense experience relative to premiums — they benefit by higher interest rates, obviously, over time, because they’re a float business, and the float is worth more to them.
-
-Now, externally, getting back to the valuation part, the present value of those earnings also becomes less then.
-
-But the present value of Coke’s earnings becomes less in a higher interest rate environment.
-
-Wells Fargo, it’s — whether they earn more or less money under any given interest rate scenario is hard to figure. There may be one short-term effect and there may be another long-term effect.
-
-So I do not have to have a view on interest rates — and I don’t have a view on interest rates — to make a decision as to an insurance business, or a mortgage guarantor business, or a banking business, or something of the sort, relative to making a judgment about Coke or Gillette.
-
-Charlie?
+至于富国银行，很难判断它在利率变动的背景下会挣得更多还是更少。利率变化既会产生短期影响，又会产生长期影响，我们对保险公司、抵押贷款担保机构、金融机构或可口可乐、吉列这类企业作出决策的时候，不必先对利率的走向形成自己的想法，我们在这方面也没有想法。查理？
 
 CHARLIE MUNGER: I’ve got nothing to add.
 
-## 54\. “Retroactive” insurance is small part of our business
+芒格：我没有什么要补充的。
+
+## 54\. “Retroactive” insurance is small part of our business</br>“追溯”保险是我们业务的一小部分
 
 WARREN BUFFETT: Zone two?
 
 AUDIENCE MEMBER: Hello, I’m Benjamin Baron (PH) from New York.
 
+股东：大家好，我是本杰明·巴伦，来自纽约。
+
 Could you speak about your insurance business a little bit? And especially the retroactive policies you’ve been writing.
+
+你能谈谈你的保险业务吗?尤其是你写的追溯政策。
 
 WARREN BUFFETT: Can we speak about the — you say the reinsurance business?
 
@@ -2355,11 +2322,9 @@ WARREN BUFFETT: I heard the retroactive part, but the first part.
 
 BENJAMIN BARON: The reinsurance and the retroactive, and also the market in Bermuda and how you see it as one of your potential markets.
 
-WARREN BUFFETT: I think the retroactive market is, what’s called “retroactive insurance,” has been pretty well eliminated by developments in accounting.
+WARREN BUFFETT: I think the retroactive market is, what’s called “retroactive insurance,” has been pretty well eliminated by developments in accounting. So I would not expect us to really have any volume in retroactive-type policies. Now, when we write workers’ comp with a policy holder dividend, in effect that’s a retroactive policy. But that’s a relative — that’s small part of Berkshire’s business. Did I answer what you were driving at there?
 
-So I would not expect us to really have any volume in retroactive-type policies.
-
-Now, when we write workers’ comp with a policy holder dividend, in effect that’s a retroactive policy. But that’s a relative — that’s small part of Berkshire’s business.
+巴菲特：我认为追溯市场，也就是所谓的"追溯保险"已经被会计的发展完全淘汰了。所以我不希望我们在追溯型政策上有任何建树。现在，当我们用保单持有人红利来计算工人薪酬时，实际上这是一种追溯政策。但这只是相对的——这只是伯克希尔业务的一小部分。
 
 Did I answer what you were driving at there?
 
@@ -2371,265 +2336,227 @@ AUDIENCE MEMBER: (Inaudible)
 
 WARREN BUFFETT: Did you get that, Charlie?
 
-## 55\. “You don’t find out who’s been swimming naked until the tide goes out”
+## 55\. “You don’t find out who’s been swimming naked until the tide goes out”</br>只有等潮水退去，你才能知道谁在裸泳
 
 CHARLIE MUNGER: Just comment on the development of the insurance business in Bermuda.
 
-WARREN BUFFETT: Oh, Bermuda is simply a, you know, a new competitor. They’re not so new, I mean, there’ve been companies in Bermuda before.
+芒格：再谈谈百慕大保险业务的发展吧。
 
-But in the last 15 months, 18 months, maybe there’s been 4 billion-plus raised. And because, for tax reasons — maybe other reasons as well, but certainly for tax reasons — that capacity has been concentrated in Bermuda-based, Bermuda-domiciled reinsurers.
+WARREN BUFFETT: Oh, Bermuda is simply a, you know, a new competitor. They’re not so new, I mean, there’ve been companies in Bermuda before. But in the last 15 months, 18 months, maybe there’s been 4 billion-plus raised. And because, for tax reasons — maybe other reasons as well, but certainly for tax reasons — that capacity has been concentrated in Bermuda-based, Bermuda-domiciled reinsurers. But essentially there’s no great difference between that type of competition and other reinsurers competition, except for the fact that that capacity is new and the money’s just been raised, and so there may be some greater pressure on the managers of those businesses to go out and write business promptly than on somebody that’s been around for 50 years.
 
-But essentially there’s no great difference between that type of competition and other reinsurers competition, except for the fact that that capacity is new and the money’s just been raised, and so there may be some greater pressure on the managers of those businesses to go out and write business promptly than on somebody that’s been around for 50 years.
+巴菲特：百慕大是一个新的竞争对手，其实也不算那么新，以前也有公司在百慕大注册，不过在过去的 15-18 个月里，注册在百慕大的再保险公司可能筹集到 40 亿美元资金。因为税负原因，可能还有别的原因，再保险公司都往百慕大聚集。实质上这种竞争和其他的再保险商的竞争并无不同，除了新的承保能力和刚筹集的资金之外，和那些已从业 50 年的机构相比，百慕大的经理人承受的压力更大，需要立即把保险卖出去。
 
-But it’s no plus for us any time new capacity enters any business that we’re in, and that certainly goes for the reinsurance business.
+But it’s no plus for us any time new capacity enters any business that we’re in, and that certainly goes for the reinsurance business. Reinsurance business, by its nature, will be a business in which some very stupid things are done en masse periodically. I mean, you can be doing dumb things and not know it in reinsurance, and then all of a sudden wake up and find out, you know, the money is gone.
 
-Reinsurance business, by its nature, will be a business in which some very stupid things are done en masse periodically. I mean, you can be doing dumb things and not know it in reinsurance, and then all of a sudden wake up and find out, you know, the money is gone.
+不论何时，我们的任何业务出现新的竞争对手都对我们不利，再保险公司当然也是这样。再保险行业会周期性地集体做蠢事，你可能做蠢事，但自己并不知道，突然醒悟过来，钱已经损失了，就和最近使用保证金投机债券的人一样。在潮水退去之前，你不知道谁在裸泳。(笑声)这就是再保险行业的情况，在起风之前，你不知道谁在裸泳。
 
 And it’s what people have found out — and I used that line in the report a year ago — it’s what people have found out that were speculating on bonds with (inaudible) margins recently, that, you know, you don’t find out who’s been swimming naked until the tide goes out. And — (laughter) — essentially that’s what happens in reinsurance. You don’t, you really don’t find out who’s been swimming naked until the wind blows at them.
 
-## 56\. When cash “piles up,” it’s not through choice
+## 56\. When cash “piles up,” it’s not through choice</br>现金堆积如山是因为找不到投资机会
 
 WARREN BUFFETT: Zone 3.
 
-AUDIENCE MEMBER: I’m Whitney Anderson (PH) from Miami, Florida. And my question is, right now, we are reading about various analysts and how you should, in their individual opinion, adjust your more cash, more stocks, more bonds because of …
+AUDIENCE MEMBER: I’m Whitney Anderson (PH) from Miami, Florida. And my question is, right now, we are reading about various analysts and how you should, in their individual opinion, adjust your more cash, more stocks, more bonds because of …How does Berkshire Hathaway feel about times of relative financial insecurity? Do you arrange for more cash reserves looking forward to a time when you might be able to buy? Or do you go along your path?
 
-How does Berkshire Hathaway feel about times of relative financial insecurity? Do you arrange for more cash reserves looking forward to a time when you might be able to buy? Or do you go along your path?
+股东：我是惠特尼·安德森，来自佛罗里达州迈阿密。我的问题是，现在，我们正在阅读各种各样的分析师的文章，他们认为你应该如何调整你的现金、股票和债券，因为……伯克希尔是如何看待金融危机的？你是否准备了更多的现金储备，以备将来有能力购买？
 
-WARREN BUFFETT: I think the question is do we sort of get into asset allocation by maintaining given levels of cash, depending on some kind of outlook or something of the sort?
+WARREN BUFFETT: I think the question is do we sort of get into asset allocation by maintaining given levels of cash, depending on some kind of outlook or something of the sort? We don’t really think that way at all. If we have cash, it’s because we haven’t found anything intelligent to do with it that day, in the way of buying into the kind of businesses we like. And when we can’t find anything for a while, the cash piles up. But that’s not through choice, that’s because we’re failing at what we essentially are trying to do, which is to find things to buy, and —We make no attempt to guess whether cash is going to be worth more three months from now or six months from now or a year from now.
 
-We don’t really think that way at all. If we have cash, it’s because we haven’t found anything intelligent to do with it that day, in the way of buying into the kind of businesses we like.
+巴菲特：我想你要问的问题是，我们是否会通过维持一定的现金水平，在将来根据某些情况下去进行资产配置？我不认为我们是这么想的。如果我们有现金在手，是因为我们找不到聪明的处置现金的方法(买进企业)。如果我们持续一段时间找不到任何投资机会，现金就会越积越多，那并不是我们可以选择的。我们有现金是因为我们没能做到我们努力去做的事情，我们从不费劲去猜三个月后、六个月后或一年后现金是不是更值钱。
 
-And when we can’t find anything for a while, the cash piles up. But that’s not through choice, that’s because we’re failing at what we essentially are trying to do, which is to find things to buy, and —
+So it is — you will never see — we don’t have any meetings of any kind anyway at Berkshire, but we would never have an asset allocation meeting. We would — (laughter) — keep looking. I mean, Charlie’s looking, I’m looking. Some of our managers are looking. We’re looking for things to buy that meet our tests, and if we showed no cash or short-term securities at year-end, we would love it, because it would mean that we’d found ways to employ the money in ways that we like.
 
-We make no attempt to guess whether cash is going to be worth more three months from now or six months from now or a year from now.
+我们在伯克希尔从来不召开任何种类任何形式的会议，也不召开资产配置会议。我们一直都在物色——查理物色，我物色，而且我们的一些经理人也在物色——物色那些达到我们要求、可以买进的东西。如果年底的时候，手里没有现金也没有短期证券，我们会很高兴，这意味着我们找到了投资的途径，以我们喜欢的方式使用了资金。
 
-So it is — you will never see — we don’t have any meetings of any kind anyway at Berkshire, but we would never have an asset allocation meeting. We would — (laughter) — keep looking. I mean, Charlie’s looking, I’m looking. Some of our managers are looking.
+I think I would have to admit that if we have a lot of money around, we are a little dumber than usual. I mean, it tends to make you careless. And I would say that the best purchases are usually made when you have to sell something to raise the money to get them, because it just raises the bar a little bit that you jump over in the mental decisions. But we have, I don’t know what we’ll show, but certainly well over a billion dollars of cash around, and that’s not through choice. That is a — you can look at that as an index of failure on the part of your management. And we will be happy when we can buy businesses, or small pieces of businesses, that use up that money.
 
-We’re looking for things to buy that meet our tests, and if we showed no cash or short-term securities at year-end, we would love it, because it would mean that we’d found ways to employ the money in ways that we like.
+我必须承认，要不你们可能会忽视，如果我们有很多钱在手，就说明我们的表现不如往常。我们现在确实有超过 10 亿美元现金在手，这并不是我们所希望的，你们可以将其视为我们管理业绩的一种失败指数。我们产生很多现金，若我们能整体并购企业或买企业的一小部分，用光我们的现金，我们会很开心。
 
-I think I would have to admit that if we have a lot of money around, we are a little dumber than usual. I mean, it tends to make you careless.
-
-And I would say that the best purchases are usually made when you have to sell something to raise the money to get them, because it just raises the bar a little bit that you jump over in the mental decisions.
-
-But we have, I don’t know what we’ll show, but certainly well over a billion dollars of cash around, and that’s not through choice. That is a — you can look at that as an index of failure on the part of your management.
-
-And we will be happy when we can buy businesses, or small pieces of businesses, that use up that money.
-
-## 57\. Fannie Mae and Freddie Mac as investments
+## 57\. Fannie Mae and Freddie Mac as investments</br>对投资房地美和房利美的看法
 
 WARREN BUFFETT: Zone 4.
 
-AUDIENCE MEMBER: Gentlemen, my name is Richard Sercer from Tucson, Arizona.
+AUDIENCE MEMBER: Gentlemen, my name is Richard Sercer from Tucson, Arizona. I understand that 40 percent of all home mortgages have been securitized by Fannie Mae and Freddie Mac, the duopoly. I would, at the risk of asking you for a projection, since you’ve talked about projections before, I’d be interested in understanding what you think will happen to that market share over time for this duopoly. Thank you.
 
-I understand that 40 percent of all home mortgages have been securitized by Fannie Mae and Freddie Mac, the duopoly.
+股东：先生们，我叫理查德·塞尔，来自亚利桑那州图森市。我知道 40%的房屋抵押贷款都被房利美和房地美和双寡头抵押证券证券化了。我冒昧地要求你们做一个预测，因为你们之前已经讨论过预测了，我很想知道你们认为随着时间的推移，这种双寡头垄断的市场份额会发生什么。谢谢你！
 
-I would, at the risk of asking you for a projection, since you’ve talked about projections before, I’d be interested in understanding what you think will happen to that market share over time for this duopoly. Thank you.
+WARREN BUFFETT: Well, the answer to that doesn’t involve much of a prediction. That market share is essentially certain to go up. That doesn’t mean that those are wonderful businesses to buy, but the market share is essentially certain to go up because the economics that those two entities possess, compared to other ways of intermediating money between investors and people who want to borrow, no one else has those economics.
 
-WARREN BUFFETT: Well, the answer to that doesn’t involve much of a prediction. That market share is essentially certain to go up.
+巴菲特：这个问题的答案不需要太多的预测。市场份额肯定会上升。这并不意味着两房是值得买进的好企业。两房的市场份额之所以肯定会上升，是因为这两家实体跟在投资者与希望借贷的人之间扮演媒介的其他机构相比，拥有无与伦比的经济特征。
 
-That doesn’t mean that those are wonderful businesses to buy, but the market share is essentially certain to go up because the economics that those two entities possess, compared to other ways of intermediating money between investors and people who want to borrow, no one else has those economics.
+So what holds the share of Freddie Mac and Fannie Mae down is the fact that they are only allowed to loan roughly $200,000 on any mortgage. That’s a limiting factor. It’s probably been a good thing for them that it has been a limiting factor, but they are shut out of part of the market. But the market that they are in, they essentially have economics that other people can’t touch for intermediating money, including the savings and loan business that we were in. We had a business that intermediated money, went out and got it from depositors and lent it to people who wanted to borrow on a home. Freddie Mac and Fannie Mae do it the same way. They don’t do it exactly the same way, but they perform the same function. And they could do it so much more cheaply than we could do it by having branches or anything of the sort and paying the insurance fee we paid. They’re going to get the business. They should get the business. And so their market share will grow. Charlie?
 
-So what holds the share of Freddie Mac and Fannie Mae down is the fact that they are only allowed to loan roughly $200,000 on any mortgage. That’s a limiting factor. It’s probably been a good thing for them that it has been a limiting factor, but they are shut out of part of the market.
-
-But the market that they are in, they essentially have economics that other people can’t touch for intermediating money, including the savings and loan business that we were in.
-
-We had a business that intermediated money, went out and got it from depositors and lent it to people who wanted to borrow on a home.
-
-Freddie Mac and Fannie Mae do it the same way. They don’t do it exactly the same way, but they perform the same function. And they could do it so much more cheaply than we could do it by having branches or anything of the sort and paying the insurance fee we paid.
-
-They’re going to get the business. They should get the business. And so their market share will grow.
-
-Charlie?
+两房市场份额不高的原因是两房受允许发放的任何抵押贷款额度只有(不超过)大约 20 万美元。这以前是一个限制因素，有一个限制因素对它们来说未必不是好事。以前有部分市场不允许两房进入，但在它们所允许进入的(那一部分)市场中，两房在货币媒介方面拥有其他机构无法望其项背的经济特征，我们投资的储贷机构都无法与其相比。我们有一家货币媒介机构，从储户处得到资金，然后放贷给想买房的人。两房也从事同样的业务，只是它们在开设分支门店等支出和年度保险费上的成本比我们低得多，所以它们将会抢到业务，它们的市场份额将会上升。查理？
 
 CHARLIE MUNGER: Well, I think that’s right. (Laughter)
 
+芒格：我觉得你说得没错。(笑声)
+
 WARREN BUFFETT: You’re doing great. (Laughter)
 
-## 58\. Increased information speed doesn’t affect our decisions
+巴菲特：你做的很棒。(笑声)
+
+## 58\. Increased information speed doesn’t affect our decisions</br>信息传播速度的提高不会影响我们的决定
 
 WARREN BUFFETT: Zone 5.
 
-AUDIENCE MEMBER: Good morning, I’m Sarah Pruitt (PH) from Milwaukee, Wisconsin.
+AUDIENCE MEMBER: Good morning, I’m Sarah Pruitt (PH) from Milwaukee, Wisconsin. And I wondered if you feel that the speed with which information is available and disseminated today has affected your business-buying decision process. And do you believe that speed has caused you to miss opportunities?
 
-And I wondered if you feel that the speed with which information is available and disseminated today has affected your business-buying decision process. And do you believe that speed has caused you to miss opportunities?
+股东：早上好，我是萨拉·普鲁特，来自威斯康辛州密尔沃基市。我想知道你是否觉得今天信息的传播速度是否影响了你的商业购买决策过程？你认为信息传播迅速会导致你错过了机会吗？
 
 WARREN BUFFETT: Question about seas expanding?
 
+沃伦·巴菲特：关于海洋扩张的问题？
+
 CHARLIE MUNGER: No. Does the speed of information today affect our decision-making process?
 
-WARREN BUFFETT: No, we — I would say that we perform about like we were doing 30 or 40 years ago.
+CHARLIE MUNGER：没有。今天的信息速度会影响我们的决策过程吗？
 
-I mean — (laughter) — we read annual reports.
+WARREN BUFFETT: No, we — I would say that we perform about like we were doing 30 or 40 years ago. I mean — (laughter) — we read annual reports. It isn’t the — the speed of information really doesn’t make any difference to us. It’s the processing and finally coming to some judgment that actually has some utility, that is, that it’s a judgment about the price of a business or a part of a business, a security, versus what it’s essentially worth. And none of that involves anything to do, really, with quick information. It involves getting good information.
 
-It isn’t the — the speed of information really doesn’t make any difference to us. It’s the processing and finally coming to some judgment that actually has some utility, that is, that it’s a judgment about the price of a business or a part of a business, a security, versus what it’s essentially worth.
+巴菲特：不会。我们现在的运作和 30 年至 40 年前很相似，我们还在读年度报告。(笑声)信息快速传播其实对我们没有任何影响，关键在于处理信息并最后得出一些有用的结论，那就是判断企业或者企业的一部分(意即企业的证券)的价格和其价值的比例，这些和信息的快速与否毫无关系，只是和得到的信息好不好有关。
 
-And none of that involves anything to do, really, with quick information. It involves getting good information.
+But usually that — it’s not — we’re not looking for needles in haystacks or anything of the sort. You know, we like haystacks, not needles, basically. And we want it to shout at us. And I would say that, well, virtually everything we’ve done has been reading public reports, and then maybe asking questions around to ascertain trade positions or product strengths or something of that sort. But we never have to — we can make decisions very fast. I mean, we get called on a business — or we can make up our mind whether we’re interested in two or three minutes. That takes no time. We may have to do a little checking on a few things subsequently.
 
-But usually that — it’s not — we’re not looking for needles in haystacks or anything of the sort. You know, we like haystacks, not needles, basically. And we want it to shout at us.
+我们不做在干草堆里找针或类似的事情，我们只是喜欢干草堆一样大的机会，不喜欢针一样难找的机会，我们希望机会能对我们大叫。我们所做的就是阅读公开报告，然后会去询问几个问题，从而确定交易仓位、产品强度等问题。我们可以很快地作出决策，能在两三分钟内判断是否对某事感兴趣，这并不需要花费很多时间。然后我们可能需要检查一些东西。
 
-And I would say that, well, virtually everything we’ve done has been reading public reports, and then maybe asking questions around to ascertain trade positions or product strengths or something of that sort.
+But we don’t need to get — I can’t think of anything where we really need lots of price data or things like that extremely fast to make any decisions. We’ve got good management information systems in our operating businesses, but that’s just another — that’s a question of keeping inventories where they should be and all of that sort of thing. I don’t think the invest — I think you could be in someplace where the mails were delayed three weeks, and the quotations were delayed three weeks, and I think you could do just fine in investing.
 
-But we never have to — we can make decisions very fast. I mean, we get called on a business — or we can make up our mind whether we’re interested in two or three minutes. That takes no time. We may have to do a little checking on a few things subsequently.
+但我想不出有什么场合是需要快速得到大量数据才能作出决策的。我们的营运子公司有良好的管理信息系统，不过那些信息是库存。我认为，就算住在一份邮件要三周才能到达、报价也要三周才能到达的地方，照样能明智地投资。
 
-But we don’t need to get — I can’t think of anything where we really need lots of price data or things like that extremely fast to make any decisions.
-
-We’ve got good management information systems in our operating businesses, but that’s just another — that’s a question of keeping inventories where they should be and all of that sort of thing.
-
-I don’t think the invest — I think you could be in someplace where the mails were delayed three weeks, and the quotations were delayed three weeks, and I think you could do just fine in investing.
-
-## 59\. Why a stock buyback is unlikely
+## 59\. Why a stock buyback is unlikely</br>为什么伯克希尔不进行股票回购
 
 WARREN BUFFETT: Zone 6.
 
-AUDIENCE MEMBER: James Pan (PH), New York City. I have a two-parter question.
+AUDIENCE MEMBER: James Pan (PH), New York City. I have a two-parter question. One, do you think the stock price of Berkshire Hathaway is trading within 15 percent of its intrinsic value currently? And two, if you think Berkshire Hathaway is undervalued with the amount of cash you have on your balance sheet, would you consider a buyback?
 
-One, do you think the stock price of Berkshire Hathaway is trading within 15 percent of its intrinsic value currently?
-
-And two, if you think Berkshire Hathaway is undervalued with the amount of cash you have on your balance sheet, would you consider a buyback?
+股东：詹姆斯·潘，来自纽约。我有一个两部分的问题。第一，你认为伯克希尔的股价目前是否在其内在价值的 15%之内？其次，如果你认为伯克希尔的市值被低估，而你的资产负债表上有这么多现金，你会考虑回购吗？
 
 WARREN BUFFETT: The answer about a buyback is that we generally have felt that market conditions that would make Berkshire attractively priced is probably going to make other things even more attractively priced, because we think our shareholders are more rational than the shareholders of many companies.
 
+巴菲特：我们觉得，如果市场环境能使伯克希尔的股价变得更有吸引力，也可能会使其他的东西的价格更有吸引力，我们认为这是我们的股东比很多公司的股东更理性的缘故。
+
 It’s more likely that we will find some wonderful business at a silly price than we will find Berkshire at a silly price as we go along. So — (applause) that tends to eliminate repurchases.
+
+将来，我们会发现一些优秀公司处于荒谬低价，这比我们发现伯克希尔处于荒谬低价的可能性更高。（掌声）
 
 But it doesn’t rule them out, but it explains why the circumstances will not arise very often where repurchases would make good sense.
 
-## 60\. Why we don’t estimate our intrinsic value
+这通常会导致股票回购的可能性消失，但并不会将其完全排除在外。这就是为什么股票回购通常不是明智的选择的原因。
+
+## 60\. Why we don’t estimate our intrinsic</br>为什么伯克希尔不估算自己的内在价值
 
 WARREN BUFFETT: In terms of giving you a number on intrinsic value, I don’t want to spoil your fun. I mean, you really should work that one out for yourself. (Laughter)
+
+巴菲特：估算内在价值这件事，是你们的一种乐趣，我不想破坏你们的乐趣。我是说，你真的应该自己解决这个问题。(笑声)
+
 
 Charlie is the expert on intrinsic —
 
 Do you have any comment for him, Charlie?
 
-CHARLIE MUNGER: Well, your attitude on that subject reminds me of a famous headmaster who used to address the graduating class every year. And he’d say, “You know,” he says, “Five percent of you people are going to end up criminals.” And he says, “I know exactly who you are.” (Laughter)
+查理是研究内在价值的专家，查理？
 
-And he said, “But I’m not going to tell you, because it would deprive your lives of a sense of excitement.” (Laughter)
+CHARLIE MUNGER: Well, your attitude on that subject reminds me of a famous headmaster who used to address the graduating class every year. And he’d say, “You know,” he says, “Five percent of you people are going to end up criminals.” And he says, “I know exactly who you are.” (Laughter) And he said, “But I’m not going to tell you, because it would deprive your lives of a sense of excitement.” (Laughter) If you stop to think about it, the companies that constantly told their shareholders what the intrinsic value was were the real estate holding companies in corporate form. And I must say, that the amount of folly and misbehavior that crept into that process was disgusting. We would be just associating with a bad group if we were to change our ways.
 
-If you stop to think about it, the companies that constantly told their shareholders what the intrinsic value was were the real estate holding companies in corporate form.
-
-And I must say, that the amount of folly and misbehavior that crept into that process was disgusting. We would be just associating with a bad group if we were to change our ways.
+芒格：嗯，你在这个问题上的态度让我想起了一位著名的校长，他每年都在毕业班演讲。他会说，"你知道，"他说，"你们当中有5%的人最终会成为罪犯。他说："我知道你是谁。"(笑声)他说，"但我不会告诉你，因为这会让你的生活失去激情。"(笑声)以前房地产控股公司不断告诉股东自己的内在价值是多少，必须指出，它们报出的数字之愚蠢以及其中的歪门邪道令人作呕。如果我们也公布自己的内在价值，我们岂不是和这些人为伍了？
 
 WARREN BUFFETT: Bill Zeckendorf Sr. I think was probably the first one to do that, with Webb and Knapp back in the late ’50s. I still have those annual reports. And he would announce, you know, like, to eight decimal places what the intrinsic value of Webb and Knapp was. And he did it right till the day they filed for Chapter 11. (Laughter)
 
+巴菲特：在 50 年代末，Webb&Knapp 公司的比尔·泽肯多夫是第一个那么做的人，他公布的内在价值精确到小数点后 8 位，他一直公布内在价值直到提交破产申请的前一天。(笑声)
+
 CHARLIE MUNGER: I remember that well, because somebody said that he fell into bankruptcy. And somebody else said, “How can you fall off a pancake?” (Laughter)
 
-WARREN BUFFETT: Beware of people that give you a lot of numbers about their businesses. I mean, in terms of projections or valuations or that sort of thing.
+芒格：我记得很清楚，因为有人说他破产了。还有别人说："你怎么可能会破产呢？"(笑声)
 
-We try to give you all of the numbers that we would use ourselves in making our own calculations of value.
+WARREN BUFFETT: Beware of people that give you a lot of numbers about their businesses. I mean, in terms of projections or valuations or that sort of thing. We try to give you all of the numbers that we would use ourselves in making our own calculations of value. We really — if you read the Berkshire reports, you essentially — you have all the information that Charlie and I would use in making a decision about the security. And if there’s anything really lacking in that respect, you know, we would actually — we would truly appreciate hearing from you, because we want to have that kind of information in the report. But then we want you to make the calculation.
 
-We really — if you read the Berkshire reports, you essentially — you have all the information that Charlie and I would use in making a decision about the security.
+巴菲特：若有人提供一大串企业预期和估值等方面的数据，你要小心。我们尽量向你们提供我们自己在计算价值时使用的所有数据，在伯克希尔的年报里，查理和我用来对一个证券下决策的所有的信息都有，但我们希望你自己计算。
 
-And if there’s anything really lacking in that respect, you know, we would actually — we would truly appreciate hearing from you, because we want to have that kind of information in the report. But then we want you to make the calculation.
+But we’ve stuck, I mean, that material, for example, on the float in the insurance business, we consider that quite relevant, obviously, because we use up almost a page printing it. It’s pretty serious stuff at Berkshire. (Laughter) But that is relevant. I mean, your interpretation may be different than mine or Charlie’s, but those are important numbers. And we could give you a lot of baloney about satisfied policyholders, you know, in Lincoln, Nebraska. It wouldn’t tell you a thing about what the company’s worth — and have pictures of them, and happy, you know, receiving the check from the agent and all of that. (Laughter)
 
-But we’ve stuck, I mean, that material, for example, on the float in the insurance business, we consider that quite relevant, obviously, because we use up almost a page printing it. It’s pretty serious stuff at Berkshire. (Laughter)
+我们在年报里放进那些保险公司浮存金的资料，几乎用了一页篇幅，在伯克希尔，这算是非常重视的。(笑声)我们认为这些资料关系相当重大。你的解读可能和我或查理的解读不一样，但这是很重要的数据。我们可以给你们写一些胡扯，比如说保单持有者对我们很满意之类，但这样就不能告诉你们保险业务的价值。我们可以描绘一下保险客户收到支票时有多么开心等等，(笑声)但我们不会这么做。
 
-But that is relevant. I mean, your interpretation may be different than mine or Charlie’s, but those are important numbers.
+## 61\. Buffett on Peter Lynch</br>巴菲特谈彼得林奇
 
-And we could give you a lot of baloney about satisfied policyholders, you know, in Lincoln, Nebraska. It wouldn’t tell you a thing about what the company’s worth — and have pictures of them, and happy, you know, receiving the check from the agent and all of that. (Laughter)
-
-We’re not going to do that.
-
-## 61\. Buffett on Peter Lynch
 
 WARREN BUFFETT: Zone 1.
 
-AUDIENCE MEMBER: Mike Macy (PH) from Indianapolis.
+AUDIENCE MEMBER: Mike Macy (PH) from Indianapolis. I have really enjoyed reading your annual letters and your annual report, and I’ve gone back and read all of the older ones, too. They’re terrific. I have also enjoyed reading the two books by Peter Lynch, and I see a lot of commonalities between the two of you, the way you think, your philosophy, et cetera. I’d certainly appreciate it if you’d make a few comments on what you think of Peter Lynch, the things he says in his two books, and the advice that he gives to investors. Thank you.
 
-I have really enjoyed reading your annual letters and your annual report, and I’ve gone back and read all of the older ones, too. They’re terrific.
+股东：迈克·梅西，来自印第安纳波利斯。我真的很喜欢读你的年度信件和年度报告，而且我还回去读了以前所有的信件和报告。它们是很棒的。我也很喜欢读彼得·林奇的两本书，我发现你们俩有很多共同点，你们的思维方式，你们的哲学等等。如果您能就您对彼得·林奇的看法、他在两本书中所说的话以及他给投资者的建议发表一些评论，我将不胜感激。谢谢你！
 
-I have also enjoyed reading the two books by Peter Lynch, and I see a lot of commonalities between the two of you, the way you think, your philosophy, et cetera.
+WARREN BUFFETT: Well, I know Peter. I don’t know him well, but we’ve played bridge together in Omaha as a matter of fact. I like him personally, and obviously he has an outstanding record. And he has written those two books, which have been bestsellers, about his investment philosophy. I don’t really have anything — you know, I’m not going to embroider on his. There’s certainly a fair amount of overlap. There’s some difference.
 
-I’d certainly appreciate it if you’d make a few comments on what you think of Peter Lynch, the things he says in his two books, and the advice that he gives to investors. Thank you.
+巴菲特：我认识彼得，虽然和他不熟，但我们曾在奥马哈一起玩过桥牌。我个人很欣赏他。他是个高层次的人，有出色的以往业绩，他写的两本关于他的投资哲学的书很畅销。我没有什么可补充的，我不想添油加醋。我们之间肯定有一些相同的观点，当然也会有一些不同的观点。
 
-WARREN BUFFETT: Well, I know Peter. I don’t know him well, but we’ve played bridge together in Omaha as a matter of fact.
+Peter, obviously, likes to diversify a lot more than I do. He owns more stocks than the names of companies I can remember. I mean, but that’s Peter. (Laughter) And, you know, I’ve said in investing, in the past, that there’s more than one way to get to heaven. And there isn’t a true religion in this, but there’s some very useful religions. And Peter’s got one, and I think we’ve got one that’s useful, too. And there is a lot of overlap. But I would not do as well if I tried to do it the way Peter does it, and he probably wouldn’t do as well if he tried to do it exactly the way I’d do it. I like him personally very much. He’s a high-grade guy.
 
-I like him personally, and obviously he has an outstanding record. And he has written those two books, which have been bestsellers, about his investment philosophy. I don’t really have anything — you know, I’m not going to embroider on his.
+很显然，彼得多元化的程度大大超过我，他持有的股票数比我能记起来的公司名还多。那是彼得的风格。(笑声)我以前说过，通往投资天堂的路不止一条。投资中没有唯一的方法，有用的方法有很多，我认为我们的方法也是有用的。我们有很多相同的地方，但如果让我用彼得的方法，我不可能获得彼得的成就。如果让彼得用我的方法，他也不能获得我的成就。我个人非常喜欢他，我对他有很高的评价。
 
-There’s certainly a fair amount of overlap. There’s some difference.
-
-Peter, obviously, likes to diversify a lot more than I do. He owns more stocks than the names of companies I can remember. I mean, but that’s Peter. (Laughter)
-
-And, you know, I’ve said in investing, in the past, that there’s more than one way to get to heaven. And there isn’t a true religion in this, but there’s some very useful religions.
-
-And Peter’s got one, and I think we’ve got one that’s useful, too. And there is a lot of overlap.
-
-But I would not do as well if I tried to do it the way Peter does it, and he probably wouldn’t do as well if he tried to do it exactly the way I’d do it.
-
-I like him personally very much. He’s a high-grade guy.
-
-## 62\. We’ll only write insurance when prices make sense
+## 62\. We’ll only write insurance when prices make sense</br>伯克希尔只会在价格合适的时候承保
 
 WARREN BUFFETT: Zone 2.
 
-AUDIENCE MEMBER: Mr. Buffett, Mr. Munger, my name is Dave Lankes (PH). I’m a senior editor at Business Insurance Magazine.
+AUDIENCE MEMBER: Mr. Buffett, Mr. Munger, my name is Dave Lankes (PH). I’m a senior editor at Business Insurance Magazine. A two-part question for you. Can you explain a little bit regarding your primary insurance operations? What drove up written premiums by more than 50 percent last year, and if you expect that to continue this year? And then regarding your earlier comments on the stupid things reinsurers can do en masse, can you explain what potential pitfalls that the new cat facilities in Bermuda will have to avoid that you feel Berkshire Hathaway won’t fall into?
 
-A two-part question for you. Can you explain a little bit regarding your primary insurance operations? What drove up written premiums by more than 50 percent last year, and if you expect that to continue this year?
+股东：巴菲特先生，芒格先生，我叫戴夫·兰克斯。我是商业保险杂志的高级编辑。问你两个问题。您能解释一下您的主要保险运营情况吗？是什么因素导致去年的书面保费上涨了 50%以上，如果你预计今年还会继续上涨的话？然后，关于再保险公司会集体做的蠢事，你能否解释一下，什么是百慕大群岛注册的保险商有而伯克希尔没有的潜在的缺陷？
 
-And then regarding your earlier comments on the stupid things reinsurers can do en masse, can you explain what potential pitfalls that the new cat facilities in Bermuda will have to avoid that you feel Berkshire Hathaway won’t fall into?
+WARREN BUFFETT: Well, the first question about our primary insurance figures, you’ll find it way in the back someplace. But they’re a little distorted because we bought Central States Indemnity, what would it be, late in the year ’92. So there’s a lot more premium volume in there for Central States in ’93 than there was in ’92. Our basic — National Indemnity’s basic insurance, which is commercial, auto, and general liability, premium volume was fairly flat, the Homestate operation fairly flat, Cypress up somewhat. But those numbers were not anything like the changes —
 
-WARREN BUFFETT: Well, the first question about our primary insurance figures, you’ll find it way in the back someplace. But they’re a little distorted because we bought Central States Indemnity, what would it be, late in the year ’92. So there’s a lot more premium volume in there for Central States in ’93 than there was in ’92.
+巴菲特：关于主要保险运营情况的第一个问题，你们可以在后面找到。但是他们有一点扭曲，因为我们在 92年晚些时候购买了中央州信用赔款保险。所以 93 年中央州信用卡的保费收入要比 92 年更高一点。我们最主要的国民保险公司，主要经营商业保险、汽车保险、一般责任险等，这些保费都很平稳。同时，住宅保险业务(HomeState)也运营的很平稳。这些业务都稳中有升。但所有的这些数字，和实际变化有所不同。
 
-Our basic — National Indemnity’s basic insurance, which is commercial, auto, and general liability, premium volume was fairly flat, the Homestate operation fairly flat, Cypress up somewhat. But those numbers were not anything like the changes —
+So our business last year, pro forma for including Central States Indemnity for all of ’92, would not have shown a dramatic change. There really hasn’t been much happening in our primary business, except that it’s been run, it’s done very well, but it is not growing or exploding. And that’s true this year as well as last year. It’s a good business. And it could grow in certain kinds of markets very substantially, but it is not growing in this market, and it did not grow last year, although its underwriting was very good. In the reinsurance business, I think, essentially, the difference in our reinsurance business from many others, you know — it doesn’t include them all in a place like Bermuda — is essentially the difference that may exist in our operations and securities versus other people.
 
-So our business last year, pro forma for including Central States Indemnity for all of ’92, would not have shown a dramatic change. There really hasn’t been much happening in our primary business, except that it’s been run, it’s done very well, but it is not growing or exploding. And that’s true this year as well as last year.
+我们去年的业务，包括92 年中央州信用赔款保险，都不会有太大的变化。我们的主要业务并没有发生太多变化，除了它一直在运行，它做得很好，但它没有爆炸性的增长。今年和去年都是如此。这是个好买卖。它可以在某些市场大幅增长，但在这个市场却没有增长，去年也没有增长，尽管它的承销业务非常好。我们的保险公司和其他机构(不是所有的机构)的区别，实质上是安全感的来源。
 
-It’s a good business. And it could grow in certain kinds of markets very substantially, but it is not growing in this market, and it did not grow last year, although its underwriting was very good.
+We will offer reinsurance at any time in very large quantities at prices we think make sense. But we won’t do business if we don’t think it makes sense, just like we will buy securities, to the extent of the cash we have available, if they make sense. But we have no interest in being in the stock market per say just to be in it. We want to own securities that make sense to us. I think for most managements, if the only thing they’re in is the reinsurance business, they may like it better when prices make sense, but they will, I think they will be prone to do quite a bit of business when prices don’t make sense as well, because there’s no alternative, except to give the money back to the owners. And that is not something that most managements, you know, do somersaults over. (Laughter)
 
-In the reinsurance business, I think, essentially, the difference in our reinsurance business from many others, you know — it doesn’t include them all in a place like Bermuda — is essentially the difference that may exist in our operations and securities versus other people.
+不论何时，只要我们认为价格合理，就会提供大量的再保险服务，但如果我们认为不合理，就不进行此业务。这和投资是一样的，简单地说，如果我们认为证券的价格合理，我们会投入所有可用现金购买证券，但对为了买股而买股毫无兴趣。我认为大多数管理层如果只从事再保险业务，在价格合理的时候会更喜欢进行业务，但在价格不合理的时候，除了把钱还给股东外没有别的选择，他们不愿还钱给股东，就会倾向于进行更多的不合理的业务。大多数经理人无法跨越这个坎。(笑声)
 
-We will offer reinsurance at any time in very large quantities at prices we think make sense. But we won’t do business if we don’t think it makes sense, just like we will buy securities, to the extent of the cash we have available, if they make sense. But we have no interest in being in the stock market per say just to be in it. We want to own securities that make sense to us.
+So, I think we are in a favored position, essentially being — having the flexibility of capital allocation that lets us take the lack of business with a certain equanimity that most managements probably can’t, because of their sole focus on the business. Rates will get silly, in all likelihood, after a period when nothing much happens, when you’ve had a couple of years of good experience. We price to what we think is exposure. We don’t price to experience. I mean, the fact that there was no big hurricane last year — I forget the name of the one that was coming in at North Carolina and then veered out essentially — but to us, it has nothing to do with the rates next year whether that hurricane actually came in in a big way or veered out into the Atlantic again. I mean, we are pricing to exposure.
 
-I think for most managements, if the only thing they’re in is the reinsurance business, they may like it better when prices make sense, but they will, I think they will be prone to do quite a bit of business when prices don’t make sense as well, because there’s no alternative, except to give the money back to the owners. And that is not something that most managements, you know, do somersaults over. (Laughter)
+我想我们的情况很好，我们的资本配置很灵活，在没有合适的业务的时候，可以不动如山，而其他大多数机构的管理层就无法做到这一点，因为他们只有一个业务可做。若一段时间没有任何灾难发生，保险商过了两年好日子，保险费就会下降到愚蠢的程度。不过我们还是根据我们认为自己所承担的风险，而不是根据过往的经验来定价。事实上，去年没有发生飓风和明年的保险费毫无关系。
 
-So, I think we are in a favored position, essentially being — having the flexibility of capital allocation that lets us take the lack of business with a certain equanimity that most managements probably can’t, because of their sole focus on the business.
+And everyone says that, but the market tends to price and respond to experience, and generally to recent experience. That’s why all the retrocessional operations in London, you know, in the spiral, went busted, because they priced, in our view, they priced to experience rather than to exposure. It’s very hard not to do that, to be there year after year with business coming by and investors expecting this of you and not do that.
 
-Rates will get silly, in all likelihood, after a period when nothing much happens, when you’ve had a couple of years of good experience.
+所有的人都说自己根据风险定价，但是市场趋向于根据过去的经验，特别是最近的经验来定价并作出反应。这就是伦敦那么多的再保险公司以破产告终的原因，因为它们的定价体现了经验而不是风险。很难年复一年地坚持，看着业务从门前走过不去接。
 
-We price to what we think is exposure. We don’t price to experience. I mean, the fact that there was no big hurricane last year — I forget the name of the one that was coming in at North Carolina and then veered out essentially — but to us, it has nothing to do with the rates next year whether that hurricane actually came in in a big way or veered out into the Atlantic again. I mean, we are pricing to exposure.
+But we will never knowingly do that. We may get influenced subconsciously in some way to do that, but we will not do that any more than we will accept stock market norms as being the proper way for us to invest money and equities. Basically, when you lay out money or accept insurance risks, you really have to think for yourself. You cannot let the market think for you. Charlie?
 
-And everyone says that, but the market tends to price and respond to experience, and generally to recent experience. That’s why all the retrocessional operations in London, you know, in the spiral, went busted, because they priced, in our view, they priced to experience rather than to exposure.
+不过我们绝不在知情的情况下，去承接价格不合理的业务，我们也可能潜意识地受到影响，接下价格不合理的业务。但是我们进行的价格不合理的投资，不会多于价格合理的投资。当你投资或者承担保险风险的时候，应该自己思考，不能让市场替你思考。查理？
 
-It’s very hard not to do that, to be there year after year with business coming by and investors expecting this of you and not do that.
+CHARLIE MUNGER: Yeah, I think Berkshire is basically a very old-fashioned kind of a place. And it tries to exert discipline to stay old-fashioned. CHARLIE MUNGER: Yeah, I think Berkshire is basically a very old-fashioned kind of a place. And it tries to exert discipline to stay old-fashioned.
 
-But we will never knowingly do that. We may get influenced subconsciously in some way to do that, but we will not do that any more than we will accept stock market norms as being the proper way for us to invest money and equities.
+芒格：伯克希尔是一家非常老派的公司，我们努力自律，保持我们的风格。我说的老派并不是老旧的愚蠢，我说的是永恒的真理包括基本的数学、基本的常识、基本的恐惧、对人类本性的基本诊断，这使得预测人类行为成为可能。如果你能自律地遵照那些真理，你的回报可能会很不错。
 
-Basically, when you lay out money or accept insurance risks, you really have to think for yourself. You cannot let the market think for you.
-
-Charlie?
-
-CHARLIE MUNGER: Yeah, I think Berkshire is basically a very old-fashioned kind of a place. And it tries to exert discipline to stay old-fashioned.
-
-And I don’t mean old-fashioned stupid, I mean, you know, the eternal verity, so to speak, basic mathematics, you know, basic horse sense, basic fear, basic discriminations regarding human nature, all very old-fashioned. And if you just do that with a certain amount of discipline, I think it’s likely to work out quite well.
-
-## 63\. Praise from Sandy Gottesman
+## 63\. Praise from Sandy Gottesman</br>来自桑迪·戈特斯曼的赞扬
 
 WARREN BUFFETT: Zone 3.
 
-DAVID GOTTESMAN: David Gottesman from New York.
+DAVID GOTTESMAN: David Gottesman from New York. It’s no wonder that this meeting draws stockholders from all over the country. And despite the talk about age today, I’m happy to say this meeting gets better every year. Berkshire stands unique in American business as a company whose name has become synonymous with management excellence. Unlike many American corporations, we, as stockholders, don’t have to worry about reorganizations, large write-offs, massive restructurings, overstated earnings, and overpaid executives with strategic visions. Instead, year in and year out, we enjoy the benefits of the common sense and brilliance of Charlie and Warren. (APPLAUSE)
 
-It’s no wonder that this meeting draws stockholders from all over the country. And despite the talk about age today, I’m happy to say this meeting gets better every year.
-
-Berkshire stands unique in American business as a company whose name has become synonymous with management excellence.
-
-Unlike many American corporations, we, as stockholders, don’t have to worry about reorganizations, large write-offs, massive restructurings, overstated earnings, and overpaid executives with strategic visions.
-
-Instead, year in and year out, we enjoy the benefits of the common sense and brilliance of Charlie and Warren. (APPLAUSE)
+戈特斯曼：David Gottesman 来自纽约。难怪这次会议吸引了全国各地的股东。尽管今天已经谈论得很多了，但我还是很高兴地说，这个会议一年比一年好。作为一家名字已经成为卓越管理代名词的公司，伯克希尔在美国商界独树一帜。与许多美国公司不同的是，作为股东，我们不必担心公司的重组、巨额减记、大规模重组、过高的利润以及高管薪酬过高等问题。相反，年复一年，我们享受着查理和沃伦的常识和智慧带来的好处。(掌声)
 
 WARREN BUFFETT: What did you say your name was? (Laughter)
 
-DAVID GOTTESMAN: I want to add to that, to say nothing of your good humor.
+巴菲特：不好意思，你刚刚说你叫啥来着？(笑声)
 
-It’s easy to take such consistently outstanding results for granted, but we in this room are the direct beneficiaries of their efforts.
+DAVID GOTTESMAN: I want to add to that, to say nothing of your good humor. It’s easy to take such consistently outstanding results for granted, but we in this room are the direct beneficiaries of their efforts. By our presence here today, we show our appreciation to them for their exceptional performance. But we can also demonstrate in another way. I would like to suggest we give them a rousing hand of applause for a job well done. Thank you. (APPLAUSE)
 
-By our presence here today, we show our appreciation to them for their exceptional performance. But we can also demonstrate in another way. I would like to suggest we give them a rousing hand of applause for a job well done. Thank you. (APPLAUSE)
+戈特斯曼：我想补充一点，更不用说你的幽默了。我们很容易把这种持续不断的杰出成果视为理所当然，但我们在座的各位是他们努力的直接受益者。我们今天出席会议，是为了感谢他们的杰出表现。但我们也可以用另一种方式来证明。我想建议我们为他们出色的工作给予热烈的掌声。谢谢你！(掌声)
 
 WARREN BUFFETT: Thank you. That was Sandy Gottesman. We’ve worked together for 30-odd years, and he’s finally got that down. I appreciate that, Sandy. (Laughter)
 
-## 64\. Brief adjournment
+巴菲特：谢谢你！那是桑迪·戈特斯曼。我们一起工作了30多年，他终于明白了。我很感激，桑迪。(笑声)
+
+## 64\. Brief adjournment</br>短暂休会
 
 WARREN BUFFETT: With that, we will adjourn. And anyone who wants to stay around, we’ll reconvene in 15 minutes, and then we’ll be here till about 1:15.
 
-# Afternoon Session
+巴菲特：我们现在短暂休会。如果有人想留下来，我们会在15分钟后再集合，然后我们会在这里待到1点15分。
+
+# Afternoon Session</br>下午场
 
 PDF: [[500-投资与投资人/510-海外价值投资人/510.01-巴菲特与芒格/510.01.20-股东大会/510.01.21-Berkshire Hathaway Annual Meeting/19940425-1994 Annual Meeting (Afternoon Session).pdf|1994 Annual Meeting (Afternoon Session)]]
 
