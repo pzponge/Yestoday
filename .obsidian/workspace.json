@@ -13,21 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "2001_Letter_to_Berkshire_Shareholders"
             }
           },
           {
             "id": "b5d4e87246c32ca0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "翻译更新日志.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "翻译更新日志"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -56,13 +67,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "贝叶斯",
+                "query": "rule",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -70,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "1961_Semi-annual_Letter_to_Limited_Partners_CM 的反向链接列表"
             }
           },
           {
@@ -110,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "1961_Semi-annual_Letter_to_Limited_Partners_CM 的出链列表"
             }
           },
           {
@@ -124,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
@@ -133,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md"
-              }
+                "file": "翻译更新日志.md"
+              },
+              "icon": "lucide-list",
+              "title": "翻译更新日志 的大纲"
             }
           }
         ],
@@ -154,34 +177,38 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "650eb438c83b0b0d",
+  "active": "b5d4e87246c32ca0",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994年伯克希尔股东大会Q&A 上午场（下）.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
     "翻译更新日志.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994年伯克希尔股东大会Q&A 上午场（中）.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1995_Annual_Meeting.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1996_Annual_Meeting.md",
-    "2024伯克希尔股东大会文字全记录.md",
-    "2024伯克希尔股东大会文字全记录 (1).md",
-    "README.md",
-    "Charles_Munger/DJCO_Meeting_Detailed_Notes_2013.md",
-    "Warren_Buffett/An_Owners_Manual.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1960_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19610722_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620124_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19620706_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621224_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19630118_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19640118_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19691205_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19691009_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690529_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19681101_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19680711_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671101_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671009_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670712_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660712_Letter_RR.md",
     "Charles_Munger/Daily_Journal_Annual_Meeting",
-    "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
-    "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
-    "nfx/The-Network-Effects-Manual.md",
-    "nfx/The-Network-Effects-Bible.md",
     "nfx",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1986_Annual_Meeting_Kingswell.md",
-    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
     "Nassim_Nicholas_Taleb",
-    "Mohnish_Pabrai/Mohnish_Pabrai_Interview_with_YPO_United_Mosaic.md",
-    "Mohnish_Pabrai/Compounding_with_the_Spawners.md",
     "Mohnish_Pabrai",
-    "John_Huber/walter-schloss-nifty-fifty-current.md",
-    "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
     "Elements/The-Network-Effects-Manual/tech-performance-2.png",
     "Elements/The-Network-Effects-Manual/personal-nfx.png",
     "Elements/The-Network-Effects-Manual/network-effects-map-v1.jpg",
@@ -197,10 +224,6 @@
     "Elements/Output/Sharholder_Letter_20240728.pdf",
     "Elements/Output/Sharholder_Letter_20240728.epub",
     "Elements/Output/Partership_Letter_RanRan_20240728.pdf",
-    "Elements/Output/Partership_Letter_RanRan_20240728.epub",
-    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2007_Letter_to_Berkshire_Shareholders.md",
-    "Monish_Pabrai/Compounding_with_the_Spawners.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1987_Annual_Meeting_Kingswell.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1985_Annual_Meeting_Kingswell.md"
+    "Elements/Output/Partership_Letter_RanRan_20240728.epub"
   ]
 }

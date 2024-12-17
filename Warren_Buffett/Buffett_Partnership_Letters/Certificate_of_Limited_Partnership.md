@@ -1,4 +1,4 @@
-原文信息：
+	原文信息：
 
 - 标题：Certificate of Limited Partnership
 - 作者：Warren Buffett

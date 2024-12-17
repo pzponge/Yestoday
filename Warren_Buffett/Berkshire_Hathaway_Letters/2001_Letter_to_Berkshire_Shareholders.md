@@ -425,7 +425,7 @@ Our other primary insurers delivered their usual fine results last year. These o
 
 Bad terminology is the enemy of good thinking. When companies or investment professionals use terms such as "EBITDA" and "pro forma," they want you to unthinkingly accept concepts that are dangerously flawed. (In golf, my score is frequently below par on a *pro forma* basis: I have firm plans to "restructure" my putting stroke and therefore only count the swings I take before reaching the green.)
 
-不当的名词是正确思考的敌人，当一家公司或基金经理人使用诸如“EBITDA”（扣除利息税负及折旧摊销前的利润）及“Pro-Forma”（备考财务报表）等名词时，通常代表他们意图引导你错误地接受某些严重偏差的概念，（在高尔夫比赛中，我的成绩通常拟制性地低于标准杆：由于我确定的计划来重组我的推杆过程，因此我只将到达果岭以前的杆数列入计算）。
+糟糕的术语是良好思维的敌人。当公司或者投资专业人士使用 “息税折旧摊销前利润（EBITDA）”和“备考（pro forma）” 这类术语时，他们就是想让你不加思考地接受那些存在严重问题的概念。（在高尔夫球场上，我的“*备考*”成绩优异，经常低于标准杆：我有一个明确的计划来“重组”我在果岭上的推杆次数，因此我的挥杆次数只包括球在到达果岭之前的部分。）
 
 In insurance reporting, "loss development" is a widely used term -- and one that is seriously misleading. First, a definition: Loss reserves at an insurer are not funds tucked away for a rainy day, but rather a liability account. If properly calculated, the liability states the amount that an insurer will have to pay for *all* losses (including associated costs) that have occurred prior to the reporting date but have not yet been paid. When calculating the reserve, the insurer will have been notified of many of the losses it is destined to pay, but others will not yet have been reported to it. These losses are called IBNR, for incurred but not reported. Indeed, in some cases (involving, say, product liability or embezzlement) the insured itself will not yet be aware that a loss has occurred.
 
