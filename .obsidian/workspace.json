@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2001_Letter_to_Berkshire_Shareholders"
+              "title": "1989_Letter_to_Berkshire_Shareholders"
             }
           },
           {
@@ -179,8 +179,10 @@
   },
   "active": "b5d4e87246c32ca0",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "翻译更新日志.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md",
@@ -203,8 +205,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19671009_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670712_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660712_Letter_RR.md",
     "Charles_Munger/Daily_Journal_Annual_Meeting",
     "nfx",
     "Nassim_Nicholas_Taleb",

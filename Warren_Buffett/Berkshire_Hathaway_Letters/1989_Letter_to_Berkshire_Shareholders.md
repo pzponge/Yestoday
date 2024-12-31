@@ -40,11 +40,11 @@ We face another obstacle: In a finite world, high growth rates must self-destruc
 
 Carl Sagan has entertainingly described this phenomenon, musing about the destiny of bacteria that reproduce by dividing into two every 15 minutes. Says Sagan: "That means four doublings an hour, and 96 doublings a day. Although a bacterium weighs only about a trillionth of a gram, its descendants, after a day of wild asexual abandon, will collectively weigh as much as a mountain...in two days, more than the sun - and before very long, everything in the universe will be made of bacteria." Not to worry, says Sagan: Some obstacle always impedes this kind of exponential growth. "The bugs run out of food, or they poison each other, or they are shy about reproducing in public."
 
-Carl Sagan曾经开玩笑地解释这种现象，有一种细菌每15分钟可以分裂一次，亦即代表每一小时复制四次，一天可复制96次，虽然单一个细菌其重量只有万亿分之一克，但是只要经过一天无止尽的无性生殖，其重量可能会比一座山还重，经过两天后，甚至会比太阳还重，要不了多久宇宙所有空间都将由这种细菌所组成。不过Sagan又说，大家不必担心，大自然总有一些障碍会阻止其指数成长，有可能是耗尽食物，或是互相毒害，或是羞于在大庭广众之下复制。
+卡尔·萨根（Carl Sagan）对这种现象进行了有趣的描述，他对细菌的命运进行了思考，这些细菌每15分钟就会分裂成两个。萨根说：「这意味着每小时增长四倍，每天增长96倍。虽然一个细菌的重量只有一万亿分之一克，但它的后代经过一天疯狂的无性繁殖后，其总重量将和一座山一样重……两天后，细菌的重量将超过太阳。用不了多久，宇宙中的一切都将由这种细菌组成。」萨根说，不用担心，因为总有一些障碍会阻碍这种指数级的增长。「有可能是食物耗尽，或是互相毒害，或是羞于在大庭广众之下繁殖」。
 
 Even on bad days, Charlie Munger (Berkshire's Vice Chairman and my partner) and I do not think of Berkshire as a bacterium. Nor, to our unending sorrow, have we found a way to double its net worth every 15 minutes. Furthermore, we are not the least bit shy about reproducing - financially - in public. Nevertheless, Sagan's observations apply. From Berkshire's present base of $4.9 billion in net worth, we will find it much more difficult to average 15% annual growth in book value than we did to average 23.8% from the $22 million we began with.
 
-即使是在最坏的情况下，查理·芒格与我都不认为伯克希尔会像细菌一样无止境地成长，当然更不可能像细菌那样找到每15分钟就能将净资产翻一番的方法，虽然，我们不会像细菌那般羞于在公开场合进行复制，不过，Sagan的观察仍然适用，相较于刚开始的2,200万，以伯克希尔目前的49亿美元的账面价值基础，我们实在很难像过去那样每年以15%以上的增长率增加。
+即便在诸事不顺的时候，查理·芒格（伯克希尔的副董事长兼我的合伙人）和我也不会把伯克希尔视为细菌。而且，让我们深感遗憾的是，相比细菌的繁殖能力，我们至今也没有找到能使公司净资产每 15 分钟就实现翻番的方法。此外，我们也可以毫无顾忌地在大庭广众之下进行「繁殖」活动（当然，指财务上）。尽管如此，萨根所描述的情形依然切中要害。在伯克希尔目前 49 亿美元净资产的基础上，我们会发现，现在要求账面价值平均每年增长 15% 的难度，要比我们最初从 2200 万美元起步，实现年均 23.8% 的增长困难得多。
 
 # Taxes 税务
 

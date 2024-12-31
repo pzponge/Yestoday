@@ -40,7 +40,7 @@ Coca-Cola and Gillette are two of the best companies in the world and we expect 
 
 In 1989 when I - a happy consumer of five cans of Cherry Coke daily - announced our purchase of $1 billion worth of Coca-Cola stock, I described the move as a rather extreme example of putting our money where my mouth was. On August 18 of last year, when I was elected Interim Chairman of Salomon Inc, it was a different story: I put my mouth where our money was.
 
-1989年当我以每天五瓶樱桃可乐的爱好者身份，宣布买进价值10亿美元的可口可乐股票时，我曾形容这项举动其实只是反映出我们的投资回报怎么跟着我的行动走。在去年8月18日当我被推举为所罗门公司的临时主席时，则完全是另外一件事，这次我不得不跟着我们的投资行动起来。
+1989 年，当时我作为一名每天开心畅饮五罐樱桃味可口可乐的消费者，宣布我们购买了价值 10 亿美元的可口可乐股票。我把这一举动形容为一种极端的“用金钱印证言论（putting our money where my mouth was）”。而在去年 8 月 18 日，当我被选为所罗门公司的临时董事长时，这笔投资的情况则完全相反：我是在“用言论维护金钱（put my mouth where our money was）”。
 
 You've all read of the events that led to my appointment. My decision to take the job carried with it an implicit but important message: Berkshire's operating managers are so outstanding that I knew I could materially reduce the time I was spending at the company and yet remain confident that its economic progress would not skip a beat. The Blumkins, the Friedman family, Mike Goldberg, the Heldmans, Chuck Huggins, Stan Lipsey, Ralph Schey and Frank Rooney (CEO of H.H. Brown, our latest acquisition, which I will describe later) are all masters of their operations and need no help from me. My job is merely to treat them right and to allocate the capital they generate. Neither function is impeded by my work at Salomon.
 
