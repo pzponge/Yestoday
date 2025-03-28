@@ -187,11 +187,11 @@ Truman S. Wood
 Daniel H. Thompson  
 Alice R. Buffett  
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/1.png?raw=true)
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/2.png?raw=true)
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/3.png?raw=true)
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/4.png?raw=true)
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Certificate_of_Limited_Partnership/5.png?raw=true)
+![](../Elements/Certificate_of_Limited_Partnership/1.png?raw=true)
+![](../Elements/Certificate_of_Limited_Partnership/2.png?raw=true)
+![](../Elements/Certificate_of_Limited_Partnership/3.png?raw=true)
+![](../Elements/Certificate_of_Limited_Partnership/4.png?raw=true)
+![](../Elements/Certificate_of_Limited_Partnership/5.png?raw=true)
 
 
 [^1]: By 孙萧萧 @20231015

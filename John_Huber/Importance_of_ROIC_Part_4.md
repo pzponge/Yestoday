@@ -48,7 +48,7 @@ To briefly review, I find it helpful to use a back of the envelope formula as a 
 
 A simple example: a business that can reinvest 50% of its earnings back into the business at a 12% return on investment will compound the intrinsic value of the enterprise at 6% annually (50% x 12%). See [this post for more discussion](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/) on this.
 
-一个简单的例子：如果一个企业能够将其50%的收益再投资回该企业，并取得12%的投资回报率，那么该企业的内在价值将以每年6%的速度复合增长（50%×12%）。关于这个的更多讨论，请看[这篇文章](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[中文版本见此](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md.md)）。
+一个简单的例子：如果一个企业能够将其50%的收益再投资回该企业，并取得12%的投资回报率，那么该企业的内在价值将以每年6%的速度复合增长（50%×12%）。关于这个的更多讨论，请看[这篇文章](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[中文版本见此](../John_Huber/Importance_of_ROIC_Part_3.md.md)）。
 
 **Let’s look at a hypothetical example of 2 businesses** (Company A and Company B):
 
@@ -134,7 +134,7 @@ Both companies above will show up in screeners as businesses that produce 20% RO
 
 In [Part 3 of this series](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/), I mentioned that ROIC is far and away the most important factor to consider, as the math (the back of the envelope formula) shows. A business that produces 6% ROIC will not compound intrinsic value regardless of how much they can invest back into the business (in fact, a business that produces low returns would be better off not reinvesting, as owners could likely reallocate those earnings at higher rates elsewhere).
 
-在[第3部分](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[中文版本见此](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_3.md.md)）中，我提到ROIC无疑是最重要的考虑因素，正如数学原理（上文的简化公式）所示。一个ROIC只有6%的公司， 无论他们能将多少收益用于再投资，其内在价值都不会复合增长（事实上，回报率低的公司最好不要再投资，因为所有者可以将这些收益重新配置到其他收益率更高的地方）。
+在[第3部分](https://sabercapitalmgt.com/importance-of-roic-part-3-compounding-and-reinvestment/)（译者注：[中文版本见此](../John_Huber/Importance_of_ROIC_Part_3.md.md)）中，我提到ROIC无疑是最重要的考虑因素，正如数学原理（上文的简化公式）所示。一个ROIC只有6%的公司， 无论他们能将多少收益用于再投资，其内在价值都不会复合增长（事实上，回报率低的公司最好不要再投资，因为所有者可以将这些收益重新配置到其他收益率更高的地方）。
 
 So a business that can produce above average returns on capital is crucial when it comes to compounding value.
 
@@ -154,7 +154,7 @@ The tables compare purchase price P/E’s for Co A and B (the top row) and compa
 
 下表列示了两种情境，在每种情境下，A公司和B公司以不同的市盈率买入（第一行），并在15年后以某一特定市盈率卖出（第一列）。正如你所看到的，在某一特定的估值水平下（译者注：第一张表，A公司以25倍市盈率买入，B公司以10倍市盈率买入），B公司是更好的投资标的，但我也注意到，你可以用大约贵1倍的估值买入A公司，随着时间的推移，A公司最终仍然是会是更好的投资标的。虽然我用了15年（来消化A公司的高估值），但只要你拥有A公司的时间越长，A公司和B公司的投资结果之间的差距就越大。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Comp-Math-1.jpeg)
+![](../Elements/ROIC/Comp-Math-1.jpeg)
 
 So at a certain gap between the valuation levels, Company B becomes a better investment. But you’d have to pay 2.5 times the valuation of Company B in order to get an inferior result from Company A.
 
@@ -164,7 +164,7 @@ Below, you can see that at twice the valuation (P/E of 20 vs. P/E of 10), it is 
 
 通过下面的这张表，你可以看到，如果A公司相对于B公司的估值溢价在2倍（A公司20倍市盈率，B公司10倍市盈率），投资的结果大致相同。但如果你必须为B公司支付15倍的市盈率，那么投资A公司的结果远胜于投资B公司。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Comp-Math-2.jpeg)
+![](../Elements/ROIC/Comp-Math-2.jpeg)
 
 If the ending P/E is the same for both companies (unlikely given the better quality of Company A), **Company A still outperforms Company B as an investment,** even if Company A’s multiple contracts and Company B’s multiple expands and even though we paid 20 P/E for Company A and just 10 P/E for Company B.
 

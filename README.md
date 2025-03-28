@@ -4,7 +4,7 @@
 
 国内很多翻译质量不高，我之前动手翻译过一些，起初发布在公众号上。我个人水平和精力有限，感谢公众号读者朋友们的热心支持，共建了这个 Repository，主要用来存放投资类的翻译文章，聚焦在基本面投资/价值投资。
 
-本 Repository 欢迎各位朋友提交 [Pull Requests](https://github.com/pzponge/Yestoday/pulls)（提交前请阅读《贡献说明》），如果有任何问题也欢迎提交 [Issues](https://github.com/pzponge/Yestoday/issues)。
+本 Repository 欢迎各位朋友提交 [Pull Requests](../pulls)（提交前请阅读《贡献说明》），如果有任何问题也欢迎提交 [Issues](../issues)。
 
 过程中遇到任何问题，可以通过微信公众号私信或[飞书](https://www.feishu.cn/invitation/page/add_contact/?token=cb6qe42c-72ab-46a9-bf5d-0f90d1118a8a&amp;unique_id=aaa9cwGzc4RapO2WfQUoww==)（也可在公众号底边栏找到二维码）联系我。
 

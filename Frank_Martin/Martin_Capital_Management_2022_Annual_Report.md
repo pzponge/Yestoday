@@ -64,7 +64,7 @@ The acronymic leader of the FANG stocks, Meta (formerly Facebook) is a case in p
 
 FANG 股票中的佼佼者 Meta（前身为 Facebook）就是一个典型的例子。其五年走势图显示，脱离估值的收益昙花一现。在 11 月的低点，Meta的售价仅为 2021 年 11 月高点的 25%，令技术派散户投资者和被动指数投资者都大跌眼镜。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure1.png)
+![](../Elements/Frank_Martin/Figure1.png)
 _Figure 1 Meta (formerly Facebook), 2018–present_
 
 Meta is not an outlier. All told, the original FANG—Facebook, Apple, Netflix, and Google, along with recent additions like Amazon and Tesla—have cast a pox, much like the Nifty Fifty of the early 1970s, on the “growth at any price” dogma.
@@ -86,7 +86,7 @@ The decline represents a re-evaluation of a diminished future. It’s a shift in
 
 股价下跌代表了对未来渺茫的重新评估。这是心理和叙事的转变。过去，特斯拉是一家科技公司，而不是汽车制造商。这种观点认为，科技公司的估值违背逻辑，因为它们销售的激进变革几乎具有不可估量的盈利潜力。这种观点认为，特斯拉预示的未来证明了其估值的合理性。该公司创造了独特的产品（市场上从未见过），将从根本上改变我们的生活--即太阳能瓦片、电动汽车和家用电池组的整合。如今，这种说法已迅速演变为另一种说法。我们听说各大汽车品牌都在推出电动车型。这些成熟的企业在扩大生产规模方面拥有丰富的经验。它们的设计各不相同，并提供了打破消费者对特斯拉的忠诚崇拜所必需的产品功能和品牌故事。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure2.png)
+![](../Elements/Frank_Martin/Figure2.png)
 _Figure 2 Tesla share price (white), units shipped (blue)_
 
 Tesla has never had the high margins and network capabilities of a software firm. But even if it did, they would not have been enough to support the faulty assumptions of the growth investors buying at the peak of the cycle. The implosion of the FANG stocks demonstrates that true tech companies and those who rode their coattails are all eventually subject to the rules of value. Stories to the contrary are just tall tales. 
@@ -107,7 +107,7 @@ Rising rates also mean that, mathematically, bond prices decline, with duration 
 
 从数学上讲，利率上升也意味着债券价格下降，而期限和质量决定了下降的幅度。这对传统的 60/40 投资组合来说是 "氪石"。债券与股票的反向相关性被打破。如果没有这个救命稻草，债券在 2022 年就无法抵消股票价格的下跌。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure3.png)
+![](../Elements/Frank_Martin/Figure3.png)
 _Figure 3 S&P 500 (white), U.S. recessions (blue shaded bars), Fed funds rate (purple), Year-over-year inflation (yellow)_
 
 It was nearly five decades ago in the mid-1970s when markets last experienced a comparably sharp spike in the Fed funds rate. In the major bear markets since the 1980s—all coincided with recessions—the Fed began easing rates immediately. The mid-’70s and early 2020s, however, share a common exogenous threat that could presage the developments in this cycle—inflation. The deep recession of 1973–75 seemingly forced the hand of then Fed Chairman Arthur Burns, and the fight to quell inflation was abandoned. By 1976 a more virulent inflation was back, and it took the new strong-willed Fed chairman Paul Volcker, along with two back-to-back recessions, to finally slay the inflation dragon.
@@ -194,7 +194,7 @@ To understand just how impressive the peak in the market has been, we will re-ex
 
 要想了解市场的顶峰有多令人印象深刻，我们将重新审视其背后的风向：美国政府提供的大量资金。图 4 的上半部分显示了标准普尔 500 指数（白色）及其 12 个月的 EPS（每股收益，蓝色）。由于投资者预期盈利将激增，白线引领了蓝线的走势。随着 COVID 停产后的复苏，收益也随之上升，指数也随之上升。图表中间部分说明了原因。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Frank_Martin/Figure4.png)
+![](../Elements/Frank_Martin/Figure4.png)
 _Figure 4 Top: S&P 500 (white), trailing 12-month earnings (blue). Middle: Fed balance sheet (orange), Federal budget/surplus
 as a percentage of GDP (yellow). Bottom: Price-to-earnings ratio (purple), price-to-10-year-average-earnings ratio (teal)_
 

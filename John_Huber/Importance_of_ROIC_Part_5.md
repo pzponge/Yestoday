@@ -22,7 +22,7 @@
 
 [In the last post](https://sabercapitalmgt.com/importance-of-roic-part-4-the-math-of-compounding/), I compared two hypothetical companies using some basic math regarding returns on capital.
 
-在[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_4.md)中，我们用一些基础的数学方法比较了基于不同投资回报率的两家假想公司最终的投资收益情况。
+在[上一篇文章](../John_Huber/Importance_of_ROIC_Part_4.md)中，我们用一些基础的数学方法比较了基于不同投资回报率的两家假想公司最终的投资收益情况。
 
 It helps to keep this general formula in mind, which is a rough estimate for how fast a business will compound intrinsic value over time… A business will compound value at a rate that approximates the following product: **ROIC x Reinvestment Rate.**
 
@@ -98,7 +98,7 @@ This year I spent a lot of time paging through many old Wells Fargo annual repor
 
 今年，我花了很多时间翻阅富国银行的历史年报。如果你回头看，你会发现富国银行在过去的40多年里，其ROE一直维持在百分之十几的水平。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Wells-Fargo-Historical-ROE1.jpeg)
+![](../Elements/ROIC/Wells-Fargo-Historical-ROE1.jpeg)
 
 Some interesting things to note about the last 42 years:
 

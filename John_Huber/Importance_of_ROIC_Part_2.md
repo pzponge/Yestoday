@@ -28,7 +28,7 @@ This is part 2 of my follow up thoughts on compounders, cheap stocks, and the im
 
 To recap last post, I basically wanted to convey that valuation and quality are not mutually exclusive. There seems to be two factions within the large value investing community. It sometimes feels like a presidential primary race. We’re all on the same team at the end of the day, but these two factions seem to always disagree on numerous points. The factions I’m referring to are the Graham deep value followers and the Buffett quality company followers, for lack of a better way to put it.
 
-回顾[上一篇文章](https://github.com/pzponge/Yestoday/blob/main/John_Huber/Importance_of_ROIC_Part_1.md)，总体我想表达的是，估值和公司质地并不是相互排斥的。在广泛的价值投资界，似乎有两个派系。有时感觉像是总统初选。归根结底，我们都是同一支队伍，但这两个派别似乎在许多问题上存在意见分歧。我所指的两个派别（因为缺乏更好的说法）是指格雷厄姆派的深度价值追随者和巴菲特派的优质公司追随者。
+回顾[上一篇文章](../John_Huber/Importance_of_ROIC_Part_1.md)，总体我想表达的是，估值和公司质地并不是相互排斥的。在广泛的价值投资界，似乎有两个派系。有时感觉像是总统初选。归根结底，我们都是同一支队伍，但这两个派别似乎在许多问题上存在意见分歧。我所指的两个派别（因为缺乏更好的说法）是指格雷厄姆派的深度价值追随者和巴菲特派的优质公司追随者。
 
 I espouse that there really isn’t as much of a difference between the two that everyone seems to think. The end game is that we are all trying to locate low risk 50 cent dollars.
 
@@ -64,7 +64,7 @@ We could do this exercise on a number of stocks, but take US Steel for example. 
 
 我们可以在很多股票上做这种复盘，但这里我们用美国钢铁为例。这家公司在过去几十年里重组了几次，所以仅仅查看股价图并不能反映出整个情况，但是图表本身仍旧提供了凯恩斯式的“大致正确”的视角，来看待长期所有者可能取得的结果。看一下长期图表，我们看到美国钢铁（X.N）在20世纪90年代早期的交易价格大约是每股30美元。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/X-Long-Term-Chart.jpg)
+![](../Elements/ROIC/X-Long-Term-Chart.jpg)
 
 USX earned around $3 per share in the early 1990’s, followed by a few years of losses, and then a period of excellent profits in the early 2000’s, and then back to losses.
 
@@ -88,7 +88,7 @@ Flipping through the steel section of Value Line, this example holds true with m
 
 翻开《价值线》的钢铁板块，上面的例子也适用于许多钢铁股票——随着时间的推移，投资低于平均水平的ROIC的公司会导致低于平均水平的投资回报。直布罗陀工业公司（代码：ROCK.O）1994年（20年前）的交易价格是7美元，现在是15美元，年化回报率只有3.5%。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/ROCK-Long-Term-Chart.jpeg)
+![](../Elements/ROIC/ROCK-Long-Term-Chart.jpeg)
 
 ROCK paid dividends in some years, but they weren’t large dividends, and even if we add 2-3% to those returns, they are still mediocre.
 
@@ -98,7 +98,7 @@ One more example: Ampco-Pittsburgh Corp (AP) traded at $8 in 1994, and it trades
 
 再举一个例子：安博科-匹兹堡（代码：AP.N）1994年的股价为8美元，目前的股价为21美元，剔除股息后的年化回报率为4.9%，如果考虑股息后，年化收益率差不多也是再增加2%左右。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/AP-Long-Term-Chart.jpeg)
+![](../Elements/ROIC/AP-Long-Term-Chart.jpeg)
 
 An interesting note with AP, if we go back even further to 1984 (30 years ago), the stock traded at $22 per share. So 30 years later, our poor long term shareholder has roughly the same principal that he started with 3 decades ago, albeit at a much lower real value! It is likely that a buyer of AP stock in the mid 1980’s could have **paid far less than 1 times earnings for AP**, and still be left with very mediocre long term returns.
 
@@ -122,7 +122,7 @@ One of the best performing stocks of the past quarter century is Fastenal (FAST)
 
 Fastenal（FAST）是过去25年表现最好的股票之一。FAST的业务是销售螺母和螺栓，这听起来很简单……但是其给股东的回报可远远不简单。公司的资本回报率平均20%左右，而且非常具有持续性。25年前，该公司股票的价格为0.32美元（经过拆股调整后）。目前的价格是44美元，是1989年价格的138倍。如果1989年买入1万美元的FAST，目前的价值差不多值140万美元，而且公司每年还会额外发放3万美元的股息收入——仅每年的股息收入就相当于初始投资总额的三倍！该股票不包括股息的年化收益率为21.8%。这一出色的长期投资业绩几乎与该公司同期的平均资本回报率相当。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/FAST-Long-Term-Chart.jpeg)
+![](../Elements/ROIC/FAST-Long-Term-Chart.jpeg)
 
 Fastenal earned roughly $3 million in 1988, and a buyer of FAST paid somewhere around 25 times earnings for FAST in 1989. But a buyer could have paid 50 times earnings for FAST in 1989 (or roughly $0.65 per share) and the compounded annual return would have only decreased from 21.8% to 18.4%…. a big difference over time, but certainly still a splendid result.
 

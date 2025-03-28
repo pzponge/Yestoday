@@ -777,7 +777,7 @@ How did it cover this shortfall? It began selling businesses, selling finance re
 
 如何应对这样的亏空呢？公司开始出售业务、出售金融应收资产、在养老金和OPEB上玩数字游戏、发行债务和税收上的把戏。随着公司业务的恶化，股票价格也随之下降。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/Joe_Ponzio/GM.png)
+![](../Elements/Joe_Ponzio/GM.png)
 
 Price follows value. When the value deteriorates rapidly (as is often the case when a business' operations are cash-hungry beasts), the stock price is usually not too far behind.
 

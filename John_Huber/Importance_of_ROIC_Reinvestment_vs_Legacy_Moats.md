@@ -92,7 +92,7 @@ Going back to the early Wal-Mart example, the stores were so big compared to tra
 
 让我们回到早期沃尔玛的例子，与传统的一元店相比，沃尔玛的门店规模非常大。由于顾客人数众多，沃尔顿可以以低于竞争对手的利润率销售每一件商品，仍然能够实现经营性盈利。在任一家沃尔玛购物的人越多，或者沃尔玛的门店越多，沃尔玛的成本优势只会更强，护城河只会更深。较低的价格又进一步吸引了更多的购物者，这个循环不断自我强化。所以当沃尔玛有 1000 家门店时，护城河明显比有 51 家的时候要宽得多。好市多（Costco）、盖可保险（GEICO）和亚马逊（Amazon）等其他企业也遵循了类似的思路：创造了一个「飞轮」，随着业务不断发展，「飞轮」会不断加速。[^2]
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Connor-Amazon-Flywheel.png)
+![](../Elements/ROIC/Connor-Amazon-Flywheel.png)
 
 *Example: Sketch of the Amazon Flywheel*
 
@@ -109,7 +109,7 @@ Creating a two-sided network such as an auction or marketplace business requires
 [^3]: This description of the strength of a network business is taken from venture capitalist Bill Gurley. 这段关于网络强度的描述来自于风险投资家 Bill Gurley。
 [^护城河]: 也有其他研究表示，网络效应本身并不是护城河的来源，重要的是转换成本和多宿主成本，详见 [网络效应并不是护城河](https://mp.weixin.qq.com/s/-RXpOW7dSGFTqL5fNXcNVQ)。
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Connor-Horowitz-1024x426.png)
+![](../Elements/ROIC/Connor-Horowitz-1024x426.png)
 
 *Andreesen Horowitz’s example of Airbnb’s two-sided network:*
 
@@ -197,7 +197,7 @@ When assessing a quality business, value investors will often point to a P/E rat
 
 假设随着时间的推移，这两家公司的估值都恢复到市场平均水平，也即 15 倍 P/E：
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Connor-Reinvestment-vs-Legacy-1.jpeg)
+![](../Elements/ROIC/Connor-Reinvestment-vs-Legacy-1.jpeg)
 
 |            | 再投资股份有限公司   | 低估股份有限公司   |
 | ---------- | ----------- | ---------- |
@@ -240,7 +240,7 @@ To create an even more extreme example, if you find a business that you believe 
 
 再举一个更极端的例子，如果你找到一家你认为能够在十年内获得丰厚回报的企业，我们看看你能「多付」多少钱，保证收益与持有低估股份有限公司相当（这里假设十年后，两家公司的估值都为 10x P/E）：
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/ROIC/Connor-Reinvestment-vs-Legacy-2.jpeg)
+![](../Elements/ROIC/Connor-Reinvestment-vs-Legacy-2.jpeg)
 
 |            | 再投资股份有限公司  | 低估股份有限公司   |
 | ---------- | ---------- | ---------- |

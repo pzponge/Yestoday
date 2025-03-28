@@ -7,7 +7,7 @@
 
 ---
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/The_Cult_of_Warren_Buffett/01.jpg)
+![](../Elements/The_Cult_of_Warren_Buffett/01.jpg)
 
 My first trip to the Berkshire Hathaway annual meeting in Omaha was over 20 years ago, in 2002. I was a rookie analyst at Fidelity Investments, and the firm sent a whole contingent of analysts and portfolio managers for the annual pilgrimage. It was quite an initiation into the cult of Warren Buffett.
 
@@ -85,7 +85,7 @@ Speaking of returns. I happened to pull up Berkshire’s 20 year stock performan
 
 说到收益率，我碰巧把伯克希尔 20 年来的股票表现与标准普尔 500 指数进行了对比。以下是我的发现：
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/The_Cult_of_Warren_Buffett/02.jpg)
+![](../Elements/The_Cult_of_Warren_Buffett/02.jpg)
 
 A few things stood out:
 
@@ -153,7 +153,7 @@ At that point, the line of these previously mild-mannered Berkshire millionaires
 
 # About the author 作者介绍
 
-![](https://github.com/pzponge/Yestoday/blob/main/Elements/The_Cult_of_Warren_Buffett/03.jpg)
+![](../Elements/The_Cult_of_Warren_Buffett/03.jpg)
 
 [Gary Mishuris, CFA](https://www.linkedin.com/in/gary-mishuris/) is the Managing Partner and Chief Investment Officer of [Silver Ring Value Partners](https://silverringvaluepartners.com/ip-overview-1), an investment firm that seeks to apply its intrinsic value approach to safely compound capital over the long-term. He also teaches the Value Investing Seminar at the F.W. Olin Graduate School of Business.
 
