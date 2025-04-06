@@ -211,7 +211,7 @@
 [Acquired 访谈：查理·芒格](./Charles_Munger/Acquired_Interviews.md)|Acquired|双语|Ponge
 [John Collison 访谈芒格](./Charles_Munger/A_Conversation_with_Charlie_Munger.md)|John Collison|双语|Vito
 [2017 年查理·芒格和密歇根·罗斯的对话](./Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md)|Grahamites|双语|Terrellchen
-[2013 年每日期刊年会笔记](./Charles_Munger/DJCO_Meeting_Detailed_Notes_2013.md)Charles Munger|双语|Terrellchen
+[2013 年每日期刊年会笔记](./Charles_Munger/DJCO_Meeting_Detailed_Notes_2013.md)|Charles Munger|双语|Terrellchen
 
 
 ## 2.1. 西科金融股东信
