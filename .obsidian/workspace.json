@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1989_Letter_to_Berkshire_Shareholders"
+              "title": "README"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "github",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1989_Letter_to_Berkshire_Shareholders 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -169,9 +168,11 @@
   },
   "active": "650eb438c83b0b0d",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
+    "README.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "nfx/The-Network-Effects-Manual.md",
     "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
-    "README.md",
     "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
     "John_Huber/Importance_of_ROIC_Part_4.md",
     "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
@@ -189,12 +190,10 @@
     "Seth_Klarman/Timeless_Value_Investing.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1970_Letter_to_Berkshire_Shareholders.md",
     "翻译更新日志.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md",
     "Charles_Munger/Daily_Journal_Annual_Meeting",
     "nfx",
     "Nassim_Nicholas_Taleb",
