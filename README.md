@@ -142,17 +142,15 @@ Daily Journal Corp 股东大会
 
 ## 11\. John Huber
 
-
-[均值回归的终结？](./John_Huber/End_of_Mean_Reversion.md)|John Huber|双语|Ponge
-[ROIC 的重要性（第一部分）：累进增长型企业（Compounder）和廉价股票](./John_Huber/Importance_of_ROIC_Part_1.md)|John Huber|双语|Ponge
-[ROIC 的重要性（第二部分）：累进增长型企业（Compounder）和廉价股票](./John_Huber/Importance_of_ROIC_Part_2.md)|John Huber|双语|Ponge
-[ROIC 的重要性（第三部分）：复利和再投资](./John_Huber/Importance_of_ROIC_Part_3.md)|John Huber|双语|Ponge
-[ROIC 的重要性（第四部分）：复利的数学原理](./John_Huber/Importance_of_ROIC_Part_4.md)|John Huber|双语|Ponge
-[ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥](./John_Huber/Importance_of_ROIC_Part_5.md)|John Huber|双语|Ponge
-[ROIC 的重要性：再投资护城河与传统护城河](./John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)|John Huber, Connor Leonard|双语|Ponge
-[“漂亮50”时期的沃尔特·施洛斯，兼谈当前市场的估值与机遇](./John_Huber/walter-schloss-nifty-fifty-current.md)|John Huber|双语|Terrellchen
-[对巴菲特出售苹果股票的看法](./John_Huber/Thoughts-on-Buffett-Selling-Apple.md)|John Huber|双语|Terrellchen
-
+- 2014-05-13：《Importance of ROIC Part 1: Compounders and Cheap Stocks（ROIC 的重要性（第一部分）：累进增长型企业和廉价股票）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_1.md)】
+- 2014-06-04：《Importance of ROIC Part 2: Compounders and Cheap Stocks（ROIC 的重要性（第二部分）：累进增长型企业和廉价股票）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_2.md)】
+- 2014-07-21：《Importance of ROIC Part 3: Compounding and Reinvestment（ROIC 的重要性（第三部分）：复利和再投资）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_3.md)】
+- 2014-09-30：《Importance of ROIC Part 4: The Math of Compounding（ROIC 的重要性（第四部分）：复利的数学原理）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_4.md)】
+- 2014-10-10：《Importance of ROIC Part 5: A Glance at the Last 42 Years of Wells Fargo（ROIC 的重要性（第五部分）：富国银行过去 42 年历史一瞥）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_5.md)】
+- 2016-05-23：《Importance of ROIC: "Reinvestment" vs "Legacy" Moats（ROIC 的重要性：再投资护城河与传统护城河）》【[Ponge](./John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md)】
+- 2021-01-04：《End of Mean Reversion?（均值回归的终结？）》【[Ponge](./John_Huber/End_of_Mean_Reversion.md)】
+- 2024-07-12：《Walter Schloss, Nifty Fifty, Current Market Valuations and Opportunities（“漂亮50”时期的沃尔特·施洛斯，兼谈当前市场的估值与机遇）》【[Terrellchen](./John_Huber/walter-schloss-nifty-fifty-current.md)】
+- 2024-08-09：《Thoughts on Buffett Selling Apple（对巴菲特出售苹果股票的看法）》【[Terrellchen](./John_Huber/Thoughts-on-Buffett-Selling-Apple.md)】
 
 ## 12\. Michael J. Mauboussin
 

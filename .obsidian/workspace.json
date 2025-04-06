@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "d22b96d4526984d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "walter-schloss-nifty-fifty-current"
+            }
           }
         ]
       }
@@ -168,9 +182,17 @@
   },
   "active": "de33819b8ab070d2",
   "lastOpenFiles": [
+    "John_Huber/walter-schloss-nifty-fifty-current.md",
     "README.md",
+    "John_Huber/End_of_Mean_Reversion.md",
+    "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
+    "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
+    "John_Huber/Importance_of_ROIC_Part_5.md",
+    "John_Huber/Importance_of_ROIC_Part_4.md",
+    "John_Huber/Importance_of_ROIC_Part_3.md",
+    "John_Huber/Importance_of_ROIC_Part_2.md",
+    "John_Huber/Importance_of_ROIC_Part_1.md",
     "Li_Lu/Remembering_my_teacher_Charlie_Munger.md",
-    "README.md",
     "Li_Lu/2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录.md",
     "Mohnish_Pabrai/Mohnish_Pabrai_Interview_with_YPO_United_Mosaic.md",
     "Mohnish_Pabrai/Compounding_with_the_Spawners.md",
@@ -186,14 +208,6 @@
     "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
     "Charles_Munger/Why_America_Should_Ban_Crypto.md",
     "Warren_Buffett/An_Owners_Manual.md",
-    "Warren_Buffett/Warren_Buffett_Gives_It_Away.md",
-    "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
-    "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
-    "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
-    "Warren_Buffett/The_Security_I_Like_Best.md",
-    "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
-    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1994_Annual_Meeting.md",
-    "OST_Guidance_Document/和子：不同AI翻译巴芒文档的效果对比和操作指南.md",
     "Elements/2024_Annual_Meeting/05.jpeg",
     "Elements/2024_Annual_Meeting/04.jpeg",
     "Elements/2024_Annual_Meeting/03.jpeg",
