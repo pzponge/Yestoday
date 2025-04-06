@@ -8,7 +8,7 @@
 - 整理：009
 - 修订：纪璐、Ponge
 
-[^*]: 该部分有修订，详见《[翻译更新日志](翻译更新日志.md)ders of Berkshire Hathaway Inc.:**
+[^*]: 该部分有修订，详见《[伯克希尔哈撒韦股东信翻译更新日志](伯克希尔哈撒韦股东信翻译更新日志.md)ders of Berkshire Hathaway Inc.:**
 
 致伯克希尔·哈撒韦公司所有股东：
 
