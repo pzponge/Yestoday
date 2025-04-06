@@ -201,6 +201,8 @@
 [2021 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2021_Annual_Meeting.md) | 2021 | 英语 | 暂无 |
 [2022 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2022_Annual_Meeting.md) | 2022 | 英语 | 暂无 |
 [2023 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2023_Annual_Meeting.md) | 2023 | 英语 | 暂无 |
+[2024 年股东大会](./Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2024_Annual_Meeting.md) | 2024 | 双语 | RanRan |
+
 
 # 2\. Charles T. Munger
 

@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "650eb438c83b0b0d",
+            "id": "1830a81afc0d59f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "OST_Guidance_Document/和子：不同AI翻译巴芒文档的效果对比和操作指南.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "和子：不同AI翻译巴芒文档的效果对比和操作指南"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "OST_Guidance_Document/和子：不同AI翻译巴芒文档的效果对比和操作指南.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "和子：不同AI翻译巴芒文档的效果对比和操作指南 的大纲"
             }
           }
         ],
@@ -166,10 +166,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "650eb438c83b0b0d",
+  "active": "1830a81afc0d59f8",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
     "README.md",
+    "OST_Guidance_Document/和子：不同AI翻译巴芒文档的效果对比和操作指南.md",
+    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2024_Annual_Meeting.md",
+    "Elements/2024_Annual_Meeting/05.jpeg",
+    "Elements/2024_Annual_Meeting/04.jpeg",
+    "Elements/2024_Annual_Meeting/03.jpeg",
+    "Elements/2024_Annual_Meeting/02.jpeg",
+    "Elements/2024_Annual_Meeting/01.jpeg",
+    "Elements/2024_Annual_Meeting",
+    "Elements/未命名.md",
+    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/1985_Annual_Meeting_Kingswell.md",
+    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2023_Annual_Meeting.md",
+    "OST_Guidance_Document/翻译更新日志.md",
+    "2024伯克希尔股东大会文字全记录 (1).md",
+    "OST_Guidance_Document/贡献说明.md",
+    "OST_Guidance_Document",
+    "未命名文件夹",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "nfx/The-Network-Effects-Manual.md",
     "Warren_Buffett/The_Cult_of_Warren_Buffett.md",
@@ -186,14 +202,6 @@
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
     "John_Huber/Importance_of_ROIC_Part_3.md",
     "John_Huber/End_of_Mean_Reversion.md",
-    "Michael_Mauboussin/Measuring_the_Moat.md",
-    "Seth_Klarman/Timeless_Value_Investing.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1970_Letter_to_Berkshire_Shareholders.md",
-    "翻译更新日志.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1965_Letter_to_Berkshire_Shareholders.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Charles_Munger/Daily_Journal_Annual_Meeting",
     "nfx",
     "Nassim_Nicholas_Taleb",
@@ -203,16 +211,8 @@
     "Elements/The-Network-Effects-Manual/network-effects-map-v1.jpg",
     "Elements/The-Network-Effects-Manual/data-nfx-properties-examples.png",
     "Elements/The-Network-Effects-Manual/Tribal-nfx-diagram.png",
-    "Elements/The-Network-Effects-Manual/Tech-Performance.png",
-    "Elements/The-Network-Effects-Manual/Reeds-Law.png",
-    "Elements/The-Network-Effects-Manual/Protocol.png",
-    "Elements/The-Network-Effects-Manual/Protocol-1.png",
-    "Elements/The-Network-Effects-Manual/Properties-examples-of-2-sided-Marketplaces.png",
     "Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf",
     "Elements/The-Network-Effects-Bible",
-    "Elements/Output/Sharholder_Letter_20240728.pdf",
-    "Elements/Output/Sharholder_Letter_20240728.epub",
-    "Elements/Output/Partership_Letter_RanRan_20240728.pdf",
-    "Elements/Output/Partership_Letter_RanRan_20240728.epub"
+    "Elements/Output/Sharholder_Letter_20240728.pdf"
   ]
 }
