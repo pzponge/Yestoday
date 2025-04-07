@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "nfx/The-Network-Effects-Manual.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The-Network-Effects-Manual"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John_Huber/walter-schloss-nifty-fifty-current.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "walter-schloss-nifty-fifty-current"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +181,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "de33819b8ab070d2",
+  "active": "d22b96d4526984d8",
   "lastOpenFiles": [
-    "John_Huber/walter-schloss-nifty-fifty-current.md",
+    "nfx/The-Network-Effects-Manual.md",
     "README.md",
+    "nfx/The-Network-Effects-Bible.md",
+    "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
+    "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+    "Michael_Mauboussin/Measuring_the_Moat.md",
+    "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/End_of_Mean_Reversion.md",
     "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
@@ -202,12 +209,6 @@
     "Charles_Munger/DJCO_Meeting_Detailed_Notes_2013.md",
     "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md",
     "Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md",
-    "Charles_Munger/A_Conversation_with_Charlie_Munger.md",
-    "Charles_Munger/Acquired_Interviews.md",
-    "Charles_Munger/Caltech_Zoom_Talk_2020.md",
-    "Charles_Munger/Wesco_Letter_to_Shareholders/1986_Letter_to_Wesco_Shareholders.md",
-    "Charles_Munger/Why_America_Should_Ban_Crypto.md",
-    "Warren_Buffett/An_Owners_Manual.md",
     "Elements/2024_Annual_Meeting/05.jpeg",
     "Elements/2024_Annual_Meeting/04.jpeg",
     "Elements/2024_Annual_Meeting/03.jpeg",

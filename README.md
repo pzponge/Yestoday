@@ -113,34 +113,34 @@ Daily Journal Corp 股东大会
 
 访谈与交流：
 
-- 2017-12-23：《[A Conversation with Charlie Munger and Michigan Ross in 2017](./Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md)（2017年查理·芒格和密歇根·罗斯的对话）》
+- 2017-12-23：《A Conversation with Charlie Munger and Michigan Ross in 2017（2017年查理·芒格和密歇根·罗斯的对话）》【[Terrellchen](./Charles_Munger/A_Conversation_with_Charlie_Munger_and_Michigan_Ross_in_2017.md)】
 - 2020-12-18：Caltech《A Conversation with Distinguished Alumnus Charles T. Munger（加州理工学院 Zoom 校友访谈——芒格）》【[Ponge](./Charles_Munger/Caltech_Zoom_Talk_2020.md)】
 - 2023-10-29：Acquired《Acquired Interviews - Charlie Munger（Acquired 播客访谈——查理·芒格）》【[Ponge](./Charles_Munger/Acquired_Interviews.md)】
 - 2023-12-05：John Collison《A Conversation with Charlie Munger（John Collison 访谈芒格）》【[Vito](./Charles_Munger/A_Conversation_with_Charlie_Munger.md)】
 
 ## 7\. 游牧者（Nomad）基金致合伙人信（Nick Sleep）
 
-- [Preamble（序言）](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)
-- [Letter to Warren Buffett（基金清盘时写给巴菲特的信及回复）](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)
+- [Preamble](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md)（序言）
+- [Letter to Warren Buffett](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Letter_to_Warren_Buffett.md)（基金清盘时写给巴菲特的信及回复）
 - 2001：[年度信](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md)
 - 2004：[年度信](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2004_Letter_to_the_Partners_of_NIP.md)
 - 2005：[半年度信](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Interim_Letter_to_the_Partners_of_NIP.md)、[年度信](./Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2005_Letter_to_the_Partners_of_NIP.md)
 
-## 8\. Chuck Akre
+## 8\. Chuck Akre 文章
 
 - 2014-10-20：《What Do We Mean By Reinvestment（我们所谓的再投资指的是什么？）》【[Ponge](./Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md)】
 
-## 9\. Mohnish Pabrai
+## 9\. Mohnish Pabrai 文章
 
 - 2020-12-03：《Compounding with the Spawners（通过 Spawners 实现累进增长）》【[Ponge](./Mohnish_Pabrai/Compounding_with_the_Spawners.md)】
 - 2024-03-20：《Mohnish Pabrai’s Interview with YPO United Mosaic on March 20, 2024（2024 年 3 月接受 YPO United Mosaic 采访）》【[ShawnQ](./Mohnish_Pabrai/Mohnish_Pabrai_Interview_with_YPO_United_Mosaic.md)】
 
-## 10\. 李录
+## 10\. 李录文章
 
 - 2020-11-10：《李录在诺亚财富闭门会上的交流实录》【[Ponge](./Li_Lu/2020%20%E5%B9%B4%2011%20%E6%9C%88%2010%20%E6%97%A5%E6%9D%8E%E5%BD%95%E5%9C%A8%E8%AF%BA%E4%BA%9A%E8%B4%A2%E5%AF%8C%E9%97%AD%E9%97%A8%E4%BC%9A%E4%B8%8A%E7%9A%84%E4%BA%A4%E6%B5%81%E5%AE%9E%E5%BD%95.md)】
-- 2023-11-30：《[Remembering my teacher Charlie Munger（追念恩师）](./Li_Lu/Remembering_my_teacher_Charlie_Munger.md)》
+- 2023-11-30：《Remembering my teacher Charlie Munger（追念恩师）》【[Ponge](./Li_Lu/Remembering_my_teacher_Charlie_Munger.md)】
 
-## 11\. John Huber
+## 11\. John Huber 文章
 
 - 2014-05-13：《Importance of ROIC Part 1: Compounders and Cheap Stocks（ROIC 的重要性（第一部分）：累进增长型企业和廉价股票）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_1.md)】
 - 2014-06-04：《Importance of ROIC Part 2: Compounders and Cheap Stocks（ROIC 的重要性（第二部分）：累进增长型企业和廉价股票）》【[Ponge](./John_Huber/Importance_of_ROIC_Part_2.md)】
@@ -152,37 +152,34 @@ Daily Journal Corp 股东大会
 - 2024-07-12：《Walter Schloss, Nifty Fifty, Current Market Valuations and Opportunities（“漂亮50”时期的沃尔特·施洛斯，兼谈当前市场的估值与机遇）》【[Terrellchen](./John_Huber/walter-schloss-nifty-fifty-current.md)】
 - 2024-08-09：《Thoughts on Buffett Selling Apple（对巴菲特出售苹果股票的看法）》【[Terrellchen](./John_Huber/Thoughts-on-Buffett-Selling-Apple.md)】
 
-## 12\. Michael J. Mauboussin
+## 12\. Michael J. Mauboussin 文章
 
-标题|语言|翻译|整合
----|---|---|---
-[衡量护城河：评估价值创造的规模和可持续性](./Michael_Mauboussin/Measuring_the_Moat.md)|中文|Spencer，冼颖彤，Ponge|Ponge
+- 2016-11-01，《Measuring the Moat: Assessing the Magnitude and Sustainability of Value Creation（衡量护城河：评估价值创造的规模和可持续性）》【[Ponge](./Michael_Mauboussin/Measuring_the_Moat.md)】
 
-## 13\. Bharat Shah
+## 13\. Bharat Shah 文章
 
-Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing
+《Observations, Ideas & Reflections of Long-term Value & Wealth Creation From Equity Investing》
 
-标题|语言|翻译|链接
----|---|---|---
-致谢（Acknowledgement）|双语|Ponge|[GitHub](./Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)
-概述（Introduction）|双语|Ponge|[GitHub](./Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)
+- Acknowledgement（致谢）【[Ponge](./Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Acknowledgement.md)】
+- Introduction（概述）【[Ponge](./Bharat_Shah/Observations_Ideas_and_Reflections_of_Long-term_Value_and_Wealth_Creation_From_Equity_Investing/Introduction.md)】
 
-## 14\. Frank Martin
+## 14\. Frank Martin 文章
 
-标题|语言|翻译|整合
----|---|---|---
-[马丁资管 2022 年年度报告](./Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md)|双语|DeepL|Terrellchen，Ponge
+Martin Capital Management 年度报告：
+
+- [2022 年](./Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md)
 
 ## 15\. Nassim Nicholas Taleb
 
-|标题|语言|翻译|
-|---|---|---|
-|[比特币、货币和脆弱性](./Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md)|双语|Ponge|
+- 2021-06-30：《Bitcoin, Currencies, and Fragility（比特币、货币和脆弱性）》【[Ponge](./Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md)】
 
 ## 16\. 其他
 
-标题|作者|语言|翻译|整合
----|---|---|---|---
-[股东盈余和自由现金流](./Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)|Joe Ponzio|双语|DeepL，风远|Ponge
-[网络效应手册](./nfx/The-Network-Effects-Manual.md)|The NFX Team|双语|Ponge
-[网络效应圣经](./nfx/The-Network-Effects-Bible.md)|The NFX Team|双语|36 氪|Ponge
+Joe Ponzio：
+
+- 2008-12-31：《Owner Earnings vs. Free Cash Flow（股东盈余和自由现金流）》【[Ponge](./Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md)】
+
+The NFX Team：
+
+- 2019-07-31：《The Network Effects Bible (Updated 2024)（网络效应圣经）》【[Ponge](./nfx/The-Network-Effects-Bible.md)】
+- 2021-06-25：《The Network Effects Manual: 16 Different Network Effects (and counting)（网络效应手册）》【[Ponge](./nfx/The-Network-Effects-Manual.md)】
