@@ -512,7 +512,7 @@ Since World War I the definition of arbitrage - or “risk arbitrage,” as it i
 
 Some offbeat opportunities occasionally arise in the arbitrage field. I participated in one of these when I was 24 and working in New York for Graham-Newman Corp. Rockwood & Co., a Brooklyn based chocolate products company of limited profitability, had adopted LIFO inventory valuation in 1941 when cocoa was selling for 5¢ per pound. In 1954 a temporary shortage of cocoa caused the price to soar to over 60¢. Consequently Rockwood wished to unload its valuable inventory - quickly, before the price dropped. But if the cocoa had simply been sold off, the company would have owed close to a 50% tax on the proceeds.
 
-有些特别的套利机会也会偶尔出现，我记得在24岁时当时我在纽约的格雷厄姆-纽曼公司上班，洛克伍德公司(Rockwood)是一家在布鲁克林生产巧克力的公司，盈利能力有限。该公司自1941年开始就采用后进先出制的存货记价方式，那时可可豆每磅是50美分，到了1954年可可豆因为暂时缺货价格大涨至64美分，因此，洛克伍德想要把帐上价值不菲的可可豆存货在价格滑落之前变卖掉，但若是直接将这批货卖掉，所得的收益可能要支付50%左右的税金。
+在套利领域中，有时候会冒出一些不同寻常的机会。我24岁那年，当时我在纽约的格雷厄姆-纽曼公司（Graham-Newman Corp.）工作，就曾参与过这么一次特殊的套利机会。布鲁克林有家名叫洛克伍德（Rockwood & Co.）的巧克力公司，赚的钱不多，早在1941年就采用了LIFO（后进先出）方式来计算库存成本。那时候，可可的价格只有每磅5美分。可到了1954年，市场上可可一度短缺，价格猛涨到了60美分以上。眼看库存含金量高了，洛克伍德急着趁高价把库存卖出去，好在行情回落前落袋为安。但问题来了，如果他们直接出售这些可可，就得把近一半的收入交给税务局，税负接近50%。
 
 The 1954 Tax Code came to the rescue. It contained an arcane provision that eliminated the tax otherwise due on LIFO profits if inventory was distributed to shareholders as part of a plan reducing the scope of a corporation’s business. Rockwood decided to terminate one of its businesses, the sale of cocoa butter, and said 13 million pounds of its cocoa bean inventory was attributable to that activity. Accordingly, the company offered to repurchase its stock in exchange for the cocoa beans it no longer needed, paying 80 pounds of beans for each share.
 
