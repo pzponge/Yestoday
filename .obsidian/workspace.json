@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d22b96d4526984d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1988_Letter_to_Berkshire_Shareholders"
-            }
-          },
-          {
             "id": "a5c9f4f28b77ea53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
+                "file": "James_Anderson/Graham_or_Growth?.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "伯克希尔哈撒韦股东信翻译更新日志"
+              "title": "Graham_or_Growth?"
             }
           }
         ]
@@ -154,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
+                "file": "James_Anderson/Graham_or_Growth?.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1988_Letter_to_Berkshire_Shareholders 的大纲"
+              "title": "Graham_or_Growth? 的大纲"
             }
           }
         ],
@@ -180,17 +166,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d22b96d4526984d8",
+  "active": "a5c9f4f28b77ea53",
   "lastOpenFiles": [
+    "nfx/The-Network-Effects-Bible.md",
+    "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
+    "James_Anderson/Graham_or_Growth?.md",
     "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
+    "Elements/Graham_or_Growth?/12.png",
+    "Elements/Graham_or_Growth?/11.png",
+    "Elements/Graham_or_Growth?/10.png",
+    "Elements/Graham_or_Growth?/09.png",
+    "Elements/Graham_or_Growth?/08.png",
+    "Elements/Graham_or_Growth?/07.png",
+    "Elements/Graham_or_Growth?/06.png",
+    "Elements/Graham_or_Growth?/05.png",
+    "Elements/Graham_or_Growth?/04.png",
+    "Elements/Graham_or_Growth?/03.png",
+    "Elements/Graham_or_Growth?",
+    "Elements/202504240935",
+    "999-笔记素材/202504240935/01.png.md",
+    "999-笔记素材/202504240935",
+    "999-笔记素材",
+    "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
+    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2024_Annual_Meeting.md",
+    "James_Anderson",
+    "Warren_Buffett/Berkshire_Hathaway_Annual_Meeting/2025_Annual_Meeting.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "README.md",
     "nfx/The-Network-Effects-Manual.md",
-    "nfx/The-Network-Effects-Bible.md",
-    "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
     "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
-    "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
     "Michael_Mauboussin/Measuring_the_Moat.md",
     "John_Huber/walter-schloss-nifty-fifty-current.md",
     "John_Huber/End_of_Mean_Reversion.md",
@@ -203,30 +208,10 @@
     "John_Huber/Importance_of_ROIC_Part_1.md",
     "Li_Lu/Remembering_my_teacher_Charlie_Munger.md",
     "Li_Lu/2020 年 11 月 10 日李录在诺亚财富闭门会上的交流实录.md",
-    "Mohnish_Pabrai/Mohnish_Pabrai_Interview_with_YPO_United_Mosaic.md",
-    "Mohnish_Pabrai/Compounding_with_the_Spawners.md",
-    "Chuck_Akre/What_Do_We_Mean_By_Reinvestment.md",
-    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/Preamble.md",
-    "Nick_Sleep/Nomad_Letters_to_Partners_2001-2014/2001_Letter_to_the_Partners_of_NIP.md",
-    "Elements/2024_Annual_Meeting/05.jpeg",
-    "Elements/2024_Annual_Meeting/04.jpeg",
-    "Elements/2024_Annual_Meeting/03.jpeg",
-    "Elements/2024_Annual_Meeting/02.jpeg",
-    "Elements/2024_Annual_Meeting/01.jpeg",
     "Elements/2024_Annual_Meeting",
     "OST_Guidance_Document",
     "未命名文件夹",
     "Charles_Munger/Daily_Journal_Annual_Meeting",
-    "nfx",
-    "Nassim_Nicholas_Taleb",
-    "Mohnish_Pabrai",
-    "Elements/The-Network-Effects-Manual/tech-performance-2.png",
-    "Elements/The-Network-Effects-Manual/personal-nfx.png",
-    "Elements/The-Network-Effects-Manual/network-effects-map-v1.jpg",
-    "Elements/The-Network-Effects-Manual/data-nfx-properties-examples.png",
-    "Elements/The-Network-Effects-Manual/Tribal-nfx-diagram.png",
-    "Elements/The-Network-Effects-Bible/The-Network-Effects-Bible-PPT.pdf",
-    "Elements/The-Network-Effects-Bible",
-    "Elements/Output/Sharholder_Letter_20240728.pdf"
+    "nfx"
   ]
 }
