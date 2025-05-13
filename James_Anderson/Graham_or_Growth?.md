@@ -63,7 +63,7 @@ It becomes still more troublesome if we turn to individual stocks and to far lon
 
 如果我们将目光转向个股和更长的时间维度，情况就变得更加复杂。格雷厄姆认为，十年内实现收益翻番可以被视为合理的增长，而实现这一目标非常困难——尤其是对于一家已经规模庞大的公司而言。至少从他的言外之意来看，长期保持这样的增长记录几乎是不可能的。
 
-![](../Elements/Graham_or_Growth?/01.png)
+![](../Elements/Graham_or_Growth/01.png)
 
 Yet this simply hasn't been the case. Let's take the comparatively staid Microsoft as an example. By 2008 it had revenues of \$60 billion and earnings of \$1.87 per share but it also had Steve Ballmer as CEO and not unrelatedly appeared to have gone permanently ex-growth. Regulators had controlled its influence and the attempt to reinvent led to the damaging acquisition of Nokia in the years ahead. But by 2018 Microsoft had revenues of \$110 billion, clean earnings of \$3.88 and appears still to be growing at low double digits.
 
@@ -81,7 +81,7 @@ It's most improbable that anyone predicted such a prolonged period of extraordin
 
 几乎没人能预见微软会连续几十年取得如此惊人的成功——更不用说，如果当年有人相信这种可能性并据此投资，恐怕也难以获得旁人的认可。但恰恰是这种极端案例，才真正值得我们重视、反思与理解。
 
-![](../Elements/Graham_or_Growth?/02.png)
+![](../Elements/Graham_or_Growth/02.png)
 
 Alphabet is far racier. Again it's quite a challenge to the Graham hypothesis. In 2008 Google earned \$4.2 billion on revenues of \$21.8 billion. Ten years later this has become \$30.7 billion on revenue of \$136.8 billion for Alphabet. Moreover it has never been that difficult an investment thesis to comprehend: as Graham's disciples at Berkshire Hathaway acknowledge the competitive moat was such that as Charlie Munger put it in 2017 he and Buffett were "probably smart enough” to have figured out Google so "we failed you there".
 
@@ -91,9 +91,9 @@ Alphabet, of course, has generated huge amounts of free cash but there's still a
 
 当然，Alphabet 创造了可观的自由现金流，不过除此之外，还有一类同样极度成功的公司股票，想必会让格雷厄姆忍不住露出冷嘲热讽的笑容。他会怎么看奈飞（Netflix）和亚马逊（Amazon）？几乎可以肯定，他会批评这些公司对长期亏损的宽容。但如果我们愿意为潜力买单，当看到它们用户数和销售额一路飙升（如下所示）时，又该如何重新评估它们的价值呢？
 
-![](../Elements/Graham_or_Growth?/03.png)
+![](../Elements/Graham_or_Growth/03.png)
 
-![](../Elements/Graham_or_Growth?/04.png)
+![](../Elements/Graham_or_Growth/04.png)
 
 Of course Graham didn't cover China but Alibaba and Tencent would probably not have met his desire for a margin of safety at any point in their ascent.
 
@@ -125,7 +125,7 @@ There's another example that is perhaps even more provocative. In Buffalo Bill's
 
 还有一个更耐人寻味的故事。在「野牛比尔（Buffalo Bill）的西部大秀」上，安妮 · 奥克利（Annie Oakley）曾自信地宣称，自己能一枪打掉香烟的烟头，并邀请观众上台配合她展示神技。通常情况下，没有人敢应声。于是，安妮的丈夫就会假扮成观众，悄悄站出来。不过，在一次欧洲巡演中，真的出现了一位勇敢的志愿者。巧的是，前一晚安妮在啤酒花园里喝得有些过量，这突如其来的变化让她心里一阵发虚。但凭着超凡的职业素养，即便是宿醉头疼，她还是精准完成了射击。听起来似乎不过是场表演的小插曲。但那个临时上台的志愿者，正是她的铁杆粉丝——年轻的威廉皇帝（Kaiser Wilhelm）。关于第一次世界大战的主流叙事虽然几经更迭，但有一点几乎无人质疑：威廉的好战性格和个人缺陷，绝非无关紧要的小事。**想想看，如果当时安妮的手稍微颤抖一下，或者那晚喝的是比利时啤酒（通常酒劲更足），而不是德国啤酒，世界历史也许就彻底改写了。**
 
-![](../Elements/Graham_or_Growth?/05.png)
+![](../Elements/Graham_or_Growth/05.png)
 
 These are historical examples but they are emblematic of the flaws of both financial and economic theories. Personally I lost any belief in the twin notions of predictability and efficiency on October 19, 1987. The S&P 500 losing 20 per cent of its value on no news at all seemed a little hard to rationalise away. But whatever the trigger for each of us, surely we have to accept that we live in markets and economies (see 2008) that are profoundly inimical to the traditions of equilibrium economics.
 
@@ -161,7 +161,7 @@ Our own contention would be that the likelihood is that we are now entering a pe
 > 
 > Joseph Schumpeter</br>约瑟夫 · 熊彼特
 
-![](../Elements/Graham_or_Growth?/06.png)
+![](../Elements/Graham_or_Growth/06.png)
 
 ## A World Utterly Transformed?</br>一个天翻地覆的世界？
 
@@ -173,7 +173,7 @@ We should disassociate such musings from the mantras of finance. This world of d
 
 我们应该将这些思考从金融领域那些老生常谈的理论中剥离出来。眼前这个充满不确定性、大变动的世界，和所谓的「现代投资组合理论（Modern Portfolio Theory）」简直是南辕北辙。更讽刺的是，这套 50 年来不断被现实打脸的理论，居然至今还在学界和金融圈里被奉为圭臬。而它背后的「均衡经济学」理念，同样仍然占据主导地位。在我们与学术界的合作中，我们一直强调用最宏观的视角来看待历史的重要性——既包括跨越长时间周期，也包括覆盖全球范围，并将其与同等大尺度的经济学相结合。过去我们谈到过伊恩 · 莫里斯（Ian Morris）的研究，也引用过萨塞克斯大学（Sussex University）的卡洛塔 · 佩雷斯（Carlotta Perez）和她那本精彩的《技术革命与金融资本》。于是，我们开始与萨塞克斯大学合作，尝试理解未来可能会发生的重大变革。虽然我们最终整理出了一张看起来略显复杂的图表，但它带来的启示其实很朴素——我们也许真的得准备迎接一个「新世界」，甚至是一个「新黄金时代」。
 
-![](../Elements/Graham_or_Growth?/07.png)
+![](../Elements/Graham_or_Growth/07.png)
 
 Professor Perez herself is less convinced of the likelihood of this transformation than her colleagues. She thinks we need a financial bubble in order to create the pre-conditions — and that we don't get beneficial bubbles just because we require them. Finance is too risk averse for that. Alternatively or additionally we need major government action to make the necessary changes. It's quite possible that this is happening in China under an autocratic regime.
 
@@ -216,7 +216,7 @@ Brian Arthur's theory — or rather early explanation of emerging economic reali
 > 
 > Brian Arthur</br>布莱恩 · 阿瑟
 
-![](../Elements/Graham_or_Growth?/08.png)
+![](../Elements/Graham_or_Growth/08.png)
 
 It would be strange indeed for these two systems to produce similar stock market outcomes. Plainly we consider it likely — as far more importantly does Brian Arthur judging by both his recent writings and our enjoyable conversations with him — that the increasing returns system is growing in relative power. Whilst the stock market has intuited much of this it seems questionable to us as to whether practitioner adjustment is nearly complete.
 
@@ -240,7 +240,7 @@ Munger sketched his plan for Coca-Cola back in 1996. It required only simple pri
 
 芒格早在 1996 年就勾画过他心中的可口可乐宏伟蓝图。这个计划说起来不复杂，只用了几条基本原理，加上一点初中水平的数学。他当时所做的，其实就是我们今天说的「可服务市场总量（Total Addressable Market）」估算。芒格惯常使用「倒推法」来思考问题：要让一家公司到 2034 年市值达到 2 万亿美元，设想届时全球人口是 80 亿，每人每天需要 64 盎司的饮用水。如果其中有 1/4 来自更干净、更美味的饮料，而你的公司能占其中的一半，那市场就变成了 2.92 万亿份（每份八盎司）饮品。如果每份饮品能带来 4 美分的净利润，到 2034 年就是 1170 亿美元的利润，而且还在增长中。但光靠数字还不够，你还得有实际的市场刺激因素，加上能打动人心、让消费者产生「条件反射」的心理驱动力。芒格把这种多重动因交织而成的强烈效应，称为「lollapalooza」——它是动机与回报乘数效应的集中体现。
 
-![](../Elements/Graham_or_Growth?/09.png)
+![](../Elements/Graham_or_Growth/09.png)
 
 There's no doubting that such an approach generated a fabulous business for Coke and terrific returns for Berkshire Hathaway. But is it going to attain the \$2 trillion by 2034? In the late 1990s the capital value of the company was already over $175 billion and Munger's targets with reinvested dividends might have seemed feasible if demanding. But over the last 20 years the equity value has only gained 12 per cent in aggregate — \$2 trillion looks far off.
 
@@ -330,7 +330,7 @@ Many observers of Ferrari opt to assess it as more of a luxury brand than a car 
 
 不少人看待法拉利时，认为它更像是一个奢侈品品牌，而不是传统意义上的车企。但公司董事长、阿涅利（Agnelli）家族的掌门人约翰 · 埃尔坎（John Elkann）却不这么看。他坚信，只有法拉利始终站在汽车技术的最前沿，这个品牌才能持续蓬勃发展——光靠情怀，是撑不住的。如果法拉利现在的高回报是能延续下去的，那它无疑是一门了不起的生意。**而像这样的好生意，我们真的该慎重对待，千万别轻易卖出。正如价值投资大师菲利普 · 费雪（Philip Fisher）说的那样：「真正该卖出的时机，几乎从不会到来。」**
 
-![](../Elements/Graham_or_Growth?/10.png)
+![](../Elements/Graham_or_Growth/10.png)
 
 ### Tesla</br>特斯拉
 
@@ -352,7 +352,7 @@ China appears to have close to 500 EV manufacturers. The chaotic and exuberant s
 
 中国现在大概有将近 500 家电动车制造商，整个行业既混乱又热闹，很像当年福特和通用改革之前，美国汽车市场刚起步时的野蛮生长期。在这当中，蔚来离行业领头羊还有不小的差距，而比亚迪才是真正的长期领导者。蔚来在技术上没有太多优势，而且很多运营环节其实是外包给其他公司的。短期来看，它也看不到实现现金流转正的希望。可以肯定地说，像格雷厄姆那样坚持价值投资原则的人，是不会买蔚来这种股票的。
 
-![](../Elements/Graham_or_Growth?/11.png)
+![](../Elements/Graham_or_Growth/11.png)
 
 ## Coming To An Overall Perspective On Auto Stocks</br>关于汽车股的整体判断
 
@@ -402,7 +402,7 @@ But, of course, the Model 3 is most unlikely to be the sole contributor. The cro
 
 不过，Model 3 显然不会是特斯拉成长的唯一引擎。很快将亮相的 Y 系列跨界车，将打入一个至少同样广阔、甚至更愿意为价格买单的市场。紧接着还有 Tesla 的电动卡车计划，以及在新领导推动下逐渐显露实力的 Tesla Energy（特斯拉能源）业务。再加上特斯拉对软件和软件升级的持续重视——而这一切都还只是序章。真正最令人期待的，也最具潜力的机会，其实藏在大家认为最不可能实现的领域：自动驾驶汽车。特斯拉在这方面的策略向来特立独行，这也不该让人惊讶。它之所以吸引人，是因为原本看似天方夜谭的成功，现在似乎正逐步迈向「虽难但有望」的现实，而它所能带来的收益，大得几乎无法估量。把这些机会加总起来，让人不得不认真思考伊隆 · 马斯克六年前曾说过的一句话：「特斯拉有一个小但不断增长的可能性，会成为全球最大的公司。」如今，这种可能性听起来，已经不再那么遥不可及。当然，这一切依旧不能保证一定会实现。
 
-![](../Elements/Graham_or_Growth?/12.png)
+![](../Elements/Graham_or_Growth/12.png)
 
 For NIO the situation is substantially more unpredictable. It's quite clear that the range of outcomes we consider must include a substantial possibility that the shares prove to be worthless. I don't want to inflict too much detail on the reader but our parameters go from a 30 per cent chance of zero or its functional equivalent to a 5 per cent chance of making a 65x return. This is a world of deep uncertainty and few, if any, anchors. In Nicholas Taleb's terms it's Extremistan. I find the idea that there can be a Margin of Safety here extremely odd and a mean to revert towards is once again a meaningless nirvana. What matters is the path dependent but attractive potential asymmetric pay-off. Naturally NIO needs to be a small portion of an adequately diversified portfolio until it has negotiated the terrifying chasms that it has to cross. But we think NIO's leadership and strategic bravery offer that chance.
 
