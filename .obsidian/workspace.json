@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "James_Anderson/Graham_or_Growth?.md",
+                "file": "James_Anderson/Graham_or_Growth.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Graham_or_Growth?"
+              "title": "Graham_or_Growth"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "James_Anderson/Graham_or_Growth?.md",
+                "file": "James_Anderson/Graham_or_Growth.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Graham_or_Growth? 的大纲"
+              "title": "Graham_or_Growth 的大纲"
             }
           }
         ],
@@ -170,7 +170,7 @@
   "lastOpenFiles": [
     "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
     "Michael_Mauboussin/Measuring_the_Moat.md",
-    "James_Anderson/Graham_or_Growth?.md",
+    "James_Anderson/Graham_or_Growth.md",
     "nfx/The-Network-Effects-Bible.md",
     "Joe_Ponzio/Owner_Earnings_vs_Free_Cash_Flow.md",
     "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
