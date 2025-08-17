@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
+                "file": "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "19621101_Letter_RR"
+              "title": "伯克希尔哈撒韦股东信翻译更新日志"
+            }
+          },
+          {
+            "id": "45d5a919755208a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "1991_Letter_to_Berkshire_Shareholders"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "19621101_Letter_RR 的大纲"
+              "title": "1991_Letter_to_Berkshire_Shareholders 的大纲"
             }
           }
         ],
@@ -166,13 +181,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a5c9f4f28b77ea53",
+  "active": "45d5a919755208a8",
   "lastOpenFiles": [
+    "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_December_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
-    "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
     "James_Anderson/Graham_or_Growth.md",
     "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
     "Michael_Mauboussin/Measuring_the_Moat.md",
@@ -207,8 +224,6 @@
     "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
     "John_Huber/Importance_of_ROIC_Part_5.md",
     "John_Huber/Importance_of_ROIC_Part_4.md",
-    "John_Huber/Importance_of_ROIC_Part_3.md",
-    "John_Huber/Importance_of_ROIC_Part_2.md",
     "Elements/2024_Annual_Meeting",
     "OST_Guidance_Document",
     "未命名文件夹",

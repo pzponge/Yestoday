@@ -26,7 +26,7 @@ The size of our equity capital - which now totals $7.4 billion - makes it certai
 
 Charlie Munger, Berkshire's Vice Chairman, and I have set a goal of attaining a 15% average annual increase in Berkshire's intrinsic value. If our growth in *book* value is to keep up with a 15% pace, we must earn $22 billion during the next decade. Wish us luck - we'll need it.
 
-伯克希尔的副主席查理·芒格与我一起设定，以15%做为每年公司内在价值增长的目标，也就是说如果在未来十年内，公司要能达到这个目标，则账面价值至少要增加220亿美元，请大家祝我们好运吧！我们真的很需要。
+我和伯克希尔的副主席查理·芒格共同设定的目标，是让伯克希尔的内在价值每年平均增长15%。为了跟上这（指内在价值）15%的增速，我们的*账面*价值必须在未来十年内增加220亿美元。祝我们好运吧——我们会非常需要它的。
 
 Our outsized gain in book value in 1991 resulted from a phenomenon not apt to be repeated: a dramatic rise in the price-earnings ratios of Coca-Cola and Gillette. These two stocks accounted for nearly $1.6 billion of our $2.1 billion growth in net worth last year. When we loaded up on Coke three years ago, Berkshire's net worth was $3.4 billion; now our Coke stock alone is worth more than that.
 
