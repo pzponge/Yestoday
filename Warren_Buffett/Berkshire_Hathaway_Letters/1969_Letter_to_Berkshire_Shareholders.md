@@ -56,7 +56,7 @@ Our new surety department, although small, made good progress during the year. W
 
 Phil Liesche—over 20 years a major contributor to outstanding results in the production and underwriting departments—was elected Executive Vice President early this year.  
 
-20 多年来菲尔·列谢 (Phil liesshe) 一直是保险产品和承保部门出色业绩的主要贡献者，他于今年年初当选为执行副总裁。
+20 多年来菲尔·列谢 (Phil Liesche) 一直是保险产品和承保部门出色业绩的主要贡献者，他于今年年初当选为执行副总裁。
 
 Expectations are for continued growth in our insurance operations.  
 

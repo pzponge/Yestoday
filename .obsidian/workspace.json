@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "伯克希尔哈撒韦股东信翻译更新日志"
+              "title": "1969_Letter_to_Berkshire_Shareholders"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bear",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/1969_Letter_to_Berkshire_Shareholders.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "伯克希尔哈撒韦股东信翻译更新日志 的大纲"
+              "title": "1969_Letter_to_Berkshire_Shareholders 的大纲"
             }
           }
         ],
@@ -173,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,13 +184,21 @@
   },
   "active": "45d5a919755208a8",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1970_February_25th_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1965_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1963_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1959_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md",
     "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19621101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1962_December_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Semi-annual_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1962_Letter_to_Limited_Partners_CM.md",
     "James_Anderson/Graham_or_Growth.md",
     "Frank_Martin/Martin_Capital_Management_2022_Annual_Report.md",
     "Michael_Mauboussin/Measuring_the_Moat.md",
@@ -216,14 +225,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/1988_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1989_Letter_to_Berkshire_Shareholders.md",
     "README.md",
-    "nfx/The-Network-Effects-Manual.md",
-    "Nassim_Nicholas_Taleb/Bitcoin_Currencies_and_Fragility.md",
-    "John_Huber/walter-schloss-nifty-fifty-current.md",
-    "John_Huber/End_of_Mean_Reversion.md",
-    "John_Huber/Thoughts-on-Buffett-Selling-Apple.md",
-    "John_Huber/Importance_of_ROIC_Reinvestment_vs_Legacy_Moats.md",
-    "John_Huber/Importance_of_ROIC_Part_5.md",
-    "John_Huber/Importance_of_ROIC_Part_4.md",
     "Elements/2024_Annual_Meeting",
     "OST_Guidance_Document",
     "未命名文件夹",
