@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1977 年《华尔街日报》沃伦・巴菲特访谈.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "1977 年《华尔街日报》沃伦・巴菲特访谈"
+              "title": "README"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1977 年《华尔街日报》沃伦・巴菲特访谈.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1977 年《华尔街日报》沃伦・巴菲特访谈 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -198,8 +198,10 @@
   },
   "active": "1e64a600761363d3",
   "lastOpenFiles": [
+    "Warren_Buffett/The_Collector.md",
+    "README.md",
+    "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
-    "1977 年《华尔街日报》沃伦・巴菲特访谈.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19661101_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660712_Letter_RR.md",
@@ -222,8 +224,6 @@
     "Warren_Buffett/Buffett_Partnership_Letters/1957_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1986_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1961_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1958_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Berkshire_Hathaway_Letters/1991_Letter_to_Berkshire_Shareholders.md",
     "Elements/Graham_or_Growth/12.png",
     "Elements/Graham_or_Growth/11.png",
     "Elements/Graham_or_Growth/10.png",

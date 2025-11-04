@@ -89,6 +89,7 @@
 
 报道：
 
+- 1977-03-31：《[The Collector: Investor Who Piled Up $100 Million in the '60s Piles Up Firms Today](./Warren_Buffett/The_Collector.md)（收藏家：在60年代积累了1亿美元的投资者如今又积累了多家公司）》
 - 2006-7-10：Carol J. Loomis《Warren Buffett Gives It Away（沃伦·巴菲特捐出自己的财富）》【[Vito](./Warren_Buffett/Warren_Buffett_Gives_It_Away.md)】
 
 评论：

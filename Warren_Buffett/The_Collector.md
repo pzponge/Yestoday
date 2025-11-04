@@ -1,4 +1,27 @@
-Terrellchen 整理翻译
+原文信息：
+
+- 标题：The Collector: Investor Who Piled Up $100 Million in the '60s Piles Up Firms Today
+- 作者：Jonathan R. Laing (Staff Reporter of THE WALL STREET JOURNAL)
+- 发表时间：1977-03-31
+- 链接：[The Collector](https://www.wsj.com/public/resources/documents/1977Buffett0502.pdf)
+- 整理：Terrellchen，Ponge
+- 校译：Terrellchen
+
+---
+
+# The Collector: Investor Who Piled Up $100 Million in the '60s Piles Up Firms Today </br>收藏家：在60年代积累了1亿美元的投资者如今又积累了多家公司
+
+> Warren Buffett Considers His New Life More Fun; 
+> 
+> 沃伦・巴菲特认为他的新生活更有趣；
+> 
+> The Country-Club Caper
+> 
+> 乡村俱乐部的冒险
+> 
+> From Stamps to Newspapers
+> 
+> 从印花到报纸
 
 OMAHA, Neb – The soaring stock market of the 1960s created many a star among professional portfolio managers, but few shone as brightly as Warren Buffett.
 
@@ -16,7 +39,7 @@ Indeed, a major cause of Mr. Buffett’s visibility lately has been his growing 
 
 事实上，巴菲特近来受关注的一个重要原因，正是他在报业领域的影响力日益提升。
 
-# “A Tremendous Relief”- “如释重负”
+# “A Tremendous Relief”</br>“如释重负”
 
 “I’m having a lot of fun because I’m only going into businesses that I find interesting and where I like the people running them, and their products,” Mr. Buffett says. “It’s a tremendous relief being out of money management. I’m not constantly thinking about business anymore. During the partnership my ego was on the line, and I was trying to lead the league in hitting every year.”
 
@@ -34,7 +57,7 @@ The keystone of the Buffett empire is Berkshire Hathaway Inc., a once-rundown Ne
 
 巴菲特商业帝国的核心是伯克希尔・哈撒韦公司。这家新英格兰地区的纺织企业曾一度破败，20 世纪 60 年代中期，其股价跌破清算价值 ，巴菲特的合伙基金趁机收购了其控制权。如今巴菲特担任伯克希尔董事长，持有 33% 的股份。他利用公司的闲置资金推动业务多元化，进军汽车和财产意外保险领域，并收购了伊利诺伊州罗克福德市的伊利诺伊国民银行信托公司 —— 这是一家盈利能力极强的地区性银行，正是这些举措让伯克希尔重获生机。1976 年，伯克希尔・哈撒韦营收 1.39 亿美元，运营利润达 1610 万美元。
 
-# Stamps and Candy - 印花与糖果
+# Stamps and Candy</br>印花与糖果
 
 Mr. Buffett also controls some 61% of the stock of Blue Chip Stamps, a Western trading-stamp concern that posted 1976 earnings of $11.7 million on revenues of $88 million. Blue Chip, in turn, owns 99% of See’s Candy Shops Inc., a West Coast chocolate maker and retailer; 80% of Wesco Financial Corp. of Pasadena, Calif., a savings-and-loan association; and now the Buffalo Evening News. Finally, Mr. Buffett has a controlling interest in Diversified Retailing Co., operator of a discount women’s-apparel chain of about 80 stores.
 
@@ -52,7 +75,7 @@ Mr. Buffett’s management style is low-key. He rarely makes changes in manageme
 
 巴菲特的管理风格低调务实。他很少调整管理层人员，也极少参与日常运营决策，更倾向于将精力集中在收购业务和公司资产管理上。
 
-“I Like Guys Who Forget” - “我喜欢‘忘事’的管理者”
+# “I Like Guys Who Forget”</br>“我喜欢‘忘事’的管理者”
 
 “I usually don’t need to get involved because I’m careful to buy well-run companies from owners who built the enterprises and stay on to run them,” he says. “I like guys who forget that they sold the business to me and run the show like proprietors. When I marry the daughter, she continues to live with her parents.”
 
@@ -86,7 +109,7 @@ Also, Mr Buffett’s forays into the trading-stamp business have been less than 
 
 此外，巴菲特进军印花业务的尝试也算不上成功。1974 年，他投资斯佩里 - 哈钦森公司股票亏损惨重；而 1969 年至 1970 年期间主要收购的蓝筹印花公司股份，业绩也一直平平。
 
-# His First Newspapers - 首次涉足报业
+# His First Newspapers</br>首次涉足报业
 
 Mr. Buffett made his first newspaper acquisition in 1969 when Berkshire Hathaway bought the Sun Newspapers, neighborhood weeklies in Omaha. Two years later, Blue Chip tried to buy the Cincinnati Enquirer but was outbid. Since then, in addition to the Washington Post and Buffalo Evening News transactions, Buffett companies have made profitable investments in Booth Newspapers Inc. of Michigan (the position was later acquired by S. I. Newhouse, who has taken the company private), Texas-based Harte-Hanks Newspapers Inc., which runs 25 dailies and 46 other papers around the country.
 
@@ -108,7 +131,7 @@ Despite his protestations to the contrary, Mr. Buffett has sometimes been more t
 
 “我当时知道美国国税局有项新规，要求慈善基金会首次公开披露资产情况，所以我让报社编辑去拿‘男孩镇’的申报文件。运营基金那几年，我就听过很多关于‘男孩镇’持有大量股票的传言，但真看到文件时还是很震惊：这个总哭穷、只收养了不到 700 个孩子的机构，居然积累了超过 2.09 亿美元的资产。”
 
-# Role at the Post - 在《华盛顿邮报》的角色
+# Role at the Post</br>在《华盛顿邮报》的角色
 
 According to insiders, Mr Buffett has become increasingly influential at the Washington Post Co., which is headed and controlled by 59-year-old Katharine Graham. Mr. Buffett has been a director of the company since 1974 (a year after he bought his 10% nonvoting interest), and more recently he was named chairman of its finance committee. He has come to function as an unpaid executive, traveling to Washington at least once a month, often staying at Mrs. Graham’s Georgetown home.
 
@@ -130,7 +153,7 @@ Part of Mr. Buffett’s fascination with newspapers arises from his intense inte
 
 巴菲特对报业的痴迷，部分源于他对公共事务的浓厚兴趣。他的父亲曾是美国众议院议员，属于保守派共和党人，但巴菲特认为自己是民主党人，还为多位自由派民主党政客提供过资金支持。
 
-# An Early Interest - 早年的金融兴趣
+# An Early Interest</br>早年的金融兴趣
 
 Mr. Buffett recalls being intrigued with the world of finance even as a youth. He soaked up much market lore from his father, who ran a small brokerage house in Omaha before winning his House seat when Warren was 12. After graduating from high school in Washington, Mr. Buffett sailed through college in three years. He was at the University of Nebraska that he chanced upon “The Intelligent Investor,” a book by Benjamin Graham that Mr. Buffett says was at the root of his investment success. In the book, Mr. Graham, no relation to Katharine Graham, preached a defensive, statistical approach to stock investment, based on companies’ “intrinsic value” – what a private owner would be willing to pay for a business based on its net worth or, better yet, on only its cash and other current assets after deducting all liabilities.
 
@@ -148,7 +171,7 @@ One of the partnership’s most outstanding successes was an investment in Ameri
 
 该合伙基金最亮眼的成功案例之一，是对美国运通公司的投资 —— 两年内股价涨了两倍多，为基金带来 2000 万美元的交易收益。1963 年底，美国运通因卷入 “色拉油丑闻” 导致股价暴跌，巴菲特趁机买入其股票。当时很多银行信托部门和其他机构都在抛售这只股票，他们认为丑闻会动摇公众对美国运通旅行支票的信心。
 
-# Convinced by Talks - 调研后的判断
+# Convinced by Talks</br>调研后的判断
 
 But Mr. Buffett’s talks with a number of banks, restaurants, travel agencies and others convinced him otherwise. He found that use of American Express traveler’s checks hadn’t dropped; what’s more, the company was fast developing a dominant share of the travel and entertainment credit-card market.
 
