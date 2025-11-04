@@ -5,7 +5,7 @@
 - 发表时间：1966-11-01
 - 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-Letters-1957-1970-High-Quality.pdf)
 - 翻译：诚明散人
-- 整理：诚明散人
+- 整理：诚明散人, Terrellchen（补齐英文原文，用*斜体*表示）
 ---
 
 To My Partners for 1967:
@@ -36,11 +36,11 @@ Because the door has been shut regarding new entrants (unless they have somethin
 
 由于对新加入者的大门已经关闭（除非他们对合伙企业有资金之外的其他贡献），一些合伙人询问了朋友或亲戚通过现有合伙人的账户间接出资的问题。我们的合伙协议总则第9条禁止此类安排。财政部1961年签发的裁决书认定我们是合伙企业，而不是应作为公司纳税的组织，但裁决书附带的一个条件是，我们必须按照提交给他们的合伙协议行事。我们一直是这样做的。此外，如果发生死亡、失踪、离婚、税务检查等不利事件，默许这种间接安排的合伙人可能会发现自己陷入尴尬、乏味甚至可能引起争议的程序中。出于上述原因和其他原因，对你和合伙企业而言，最重要的是你不要代表他人出资。
 
-We continue to enjoy a better than average year but the second half has proven much more difficult than the first half. Our general market securities "relatively undervalued" category, which substantially outperformed the Dow through June, has performed somewhat worse than the Dow since that time. Our much smaller investment in workouts has done well, approximately offsetting this poor comparative performance in "generals - relatively undervalued." Combining all categories leaves only margin over the Dow a shade better than the seventeen percentage points reported at midyear. If this advantage persists through yearend, it should be regarded as decidedly better than expected and partially the reflection of a falling market. With the Dow down 14% at its recent level near 810, this leaves us at about plus 4% (before any payments to partners) for the year to date. Recent markets have been fairly volatile and any further important decline in the Dow will most certainly reflect itself in our figure.
+We continue to enjoy a better than average year but the second half has proven much more difficult than the first half. Our general market securities "relatively undervalued" category, which substantially outperformed the Dow through June, has performed somewhat worse than the Dow since that time. Our much smaller investment in workouts has done well, approximately offsetting this poor comparative performance in "generals - relatively undervalued." Combining all categories leaves *our* margin over the Dow a shade better than the seventeen percentage points reported at midyear. If this advantage persists through yearend, it should be regarded as decidedly better than expected and partially the reflection of a falling market. With the Dow down 14% at its recent level near 810, this leaves us at about plus 4% (before any payments to partners) for the year to date. Recent markets have been fairly volatile and any further important decline in the Dow will most certainly reflect itself in our figure.
 
 我们继续享受着好于平均水平的一年，但事实证明，下半年要比上半年困难得多。我们的“Generals—相对低估"类投资在6月份之前的表现大大优于道指，但此后的表现却略逊于道指。我们在“Workouts”的投资规模要小得多，但表现良好，大体抵消了“Generals—相对低估"的不佳表现。综合所有类别，我们高出道指的收益率仅比年中报告的17个百分点略大。如果这种优势能持续到年底，那就应该被视为明显好于预期，也可能反映了市场某种程度的下跌。道指从810点附近下跌了14%，我们今年迄今为止的收益率约为正4%（不包括向合作伙伴支付的任何款项）。最近的市场相当不稳定，如果道指进一步大幅下跌，我们的收益肯定也会随之变化。    
 
-There is some chance, therefore, that our results will be a net minus in the year. If they are anything less than plus 6%, partners who have been drawing that amount will find their yearend capital account reduced from January 1. Also, any result below plus 6% will result in a carry-forward of that deficiency which will apply in future years before I, as general partner, participate in any gain attributable to your capital in excess of 6% per annum.
+There is some chance, therefore, that our results will be a net minus *for* the year. If they are anything less than plus 6%, partners who have been drawing that amount will find their yearend capital account reduced from January 1. Also, any result below plus 6% will result in a carry-forward of that deficiency which will apply in future years before I, as general partner, participate in any gain attributable to your capital in excess of 6% per annum.
 
 因此，我们今年的收益有可能是负的。只要结果低于正6%，那么从1月1日起，一直提取该金额的合伙人将发现他们账户的年终资本减少了。此外，任何低于正6%的结果都将导致亏损的结转，在未来几年中，我作为普通合伙人在享受6%之上的收益分成之前，将首先弥补这部分亏损。  
 
