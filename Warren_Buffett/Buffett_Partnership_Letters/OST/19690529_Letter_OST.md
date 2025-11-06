@@ -3,7 +3,7 @@
 - 标题：1969 Semi-annual Letter to Partners
 - 作者：Warren Buffett
 - 发表时间：1969-05-29
-- 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-
+- 链接：[Buffett Partnership Letters 1957-1970](https://theoraclesclassroom.com/wp-content/uploads/2020/05/Buffett-Partnership-Letters-1957-1970-High-Quality.pdf)
 - 校译：Terrellchen
 
 
