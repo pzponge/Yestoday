@@ -4,53 +4,80 @@
     "type": "split",
     "children": [
       {
-        "id": "cd08bcd6d07769ab",
-        "type": "tabs",
+        "id": "10b66c8ca292a6b5",
+        "type": "split",
         "children": [
           {
-            "id": "a5c9f4f28b77ea53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md",
-                "mode": "source",
-                "source": true
+            "id": "cd08bcd6d07769ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a5c9f4f28b77ea53",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "19661101_Letter_RR"
+                }
               },
-              "icon": "lucide-file",
-              "title": "19661101_Letter_RR"
-            }
+              {
+                "id": "45d5a919755208a8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "1966_November_Letter_to_Limited_Partners_CM"
+                }
+              },
+              {
+                "id": "1e64a600761363d3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "19700218_Letter_OST"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "45d5a919755208a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/1966_November_Letter_to_Limited_Partners_CM.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "1966_November_Letter_to_Limited_Partners_CM"
-            }
-          },
-          {
-            "id": "1e64a600761363d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
+            "id": "10df92c90fb215e8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6745ea9bee371ee7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Letter_to_Partners_19700218"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -169,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "Letter_to_Partners_19700218 的大纲"
             }
           }
         ],
@@ -196,19 +223,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e64a600761363d3",
+  "active": "6745ea9bee371ee7",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1957_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19690529_Letter_OST.md",
     "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1957_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1963_December_Letter_to_Limited_Partners.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1964_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1970_February_25th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing",
-    "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19690529_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19661101_Letter_OST.md",
@@ -225,7 +253,6 @@
     "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1968_November_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19600220_Letter_OST.md",
     "Elements/Graham_or_Growth/12.png",
     "Elements/Graham_or_Growth/11.png",
     "Elements/Graham_or_Growth/10.png",

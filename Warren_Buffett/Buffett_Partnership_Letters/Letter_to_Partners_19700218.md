@@ -121,7 +121,7 @@ Annual Compounded Rate|8.1%|7.2%|9.3%|9.0%|7.4%|23.8%
 
 (2) 来源：1969 Moody's Bank & Finance Manual for 1957-1968。1969 年数据为估算值。
 
-# The Stock Market in 1969 1969 年的股票市场
+# The Stock Market in 1969</br>1969 年的股票市场
 
 Most investors and investment managers who, until quite recently, were deriding the Dow and investment companies such as the four mentioned above fell on lean times in 1969. The year probably witnessed the worst relative performance for so-called "aggressive" money management that has occurred since such activity became fashionable. Predictably, the poor performance has been applied to huge aggregates of capital whereas the earlier brilliant results only benefited much smaller sums. Those of you with an analytical bent should give some thought as to how accurately the standard mutual fund literature portrays the investment record of a fund which has a 100% gain in one year on $1 million of assets, and a 25% loss in a subsequent year on $1 billion (attracted by the earlier performance) of assets. The "chain letter" phenomenon, whether created intentionally by a financial Machiavelli or accidentally by a public responding to its baser emotions, tends to produce an identical effect -- a few people, the ones who intentionally or accidentally mail the first letters, make a great deal of money; and a vastly greater number on the outer ring of concentric circles lose money while behaving in a manner they think is certain to succeed because of the obviously bountiful results to early participants.
 
@@ -132,7 +132,7 @@ Eighteen months ago I sent you a reprint of an article by Marvin M.May describin
 18 个月前，我给你们寄去了马文·梅（Marvin M.May）一篇文章的复印件，文中描述了「凭空创造资金（funny money）」进行收购这一具备庞氏特征的现象。在 1969 年，这类行为在股票市场上遭遇了重创，梅先生那篇文章所揭示的可能后果得到了证实。在过去 5 年（1964~1968 年），很多业绩较好的基金或多或少地受益于这种庞氏并购活动，但到了 1969 年，他们没有及时「金盆洗手」，遭受了巨大的损失。
 
 
-# BPL in 1970 and 1971 合伙基金接下来的两年
+# BPL in 1970 and 1971</br>合伙基金接下来的两年
 
 In winding up the Partnership, I have wanted to give you cash or cash equivalent, since that is the way you entered BPL. As you know, we have distributed about $99 million of the December 31, 1969 assets of Buffett Partnership, Ltd. in the form of cash and your proportional share of controlled companies. Those partners who wanted to sell their share of the controlled companies for cash at yearend valuation prices have been able to do so. Those who wish to stay with them, as I am doing, have been able to maintain their proportional interest without incurring a capital gains tax on the unrealized appreciation over BPL's cost.
 
@@ -142,7 +142,7 @@ We are down to about $6 million of net assets, largely represented by our holdin
 
 我们的净资产现在只剩下大约 600 万美元，主要是我们持有的蓝筹印花（Blue Chip Stamps）股票。除此以外，我们还有其他一些杂项资产，包括德克萨斯州比县（Bee County, Texas）一口天然气井（每年产生不到 4,000 美元的收入）特许权使用费约 90% 的权益，以及芝加哥南部一家小型商店 80% 的产权。进入一个生意比退出一个生意要容易得多。我预计我们最终将在 1971 年清算一切，但这只是一个初步的想法——无论如何，我都认为我们不太可能在 1970 年就作进一步的分配。在 1971 年我们的租约到期之前，我们将继续在 Kiewit Plaza 办公（尽管可能在不同的楼层）。
 
-# Taxes 税项
+# Taxes</br>税项
 
 BPL held large amounts of commercial paper due in the early days of January, 1970, on which substantial interest was received at maturity. The entire amount will be reported by cash basis taxpayers (which you and I are) in the year received rather than when accrued. Thus, you will have taxable interest income in 1970 equal to about 1-1/4% of your January 1, 1969 capital, although you received the economic benefit almost entirely in 1969. In early 1971, you will receive full tax information applicable to your 1970 BPL investment, just as in past years.
 
@@ -152,7 +152,7 @@ We will only be able to give you completely accurate figures pertaining to the t
 
 到 1971 年初，我们才能提供给你持有股票（包括伯克希尔·哈撒韦公司与多元零售公司）计税基础完整、准确的数字。这是由于税法的一些复杂性，因为 1970 年的合伙基金数字可能会对这些项目的计税基础产生微小的影响。由于没有人在 1970 年之前出售他们的股份，而且直到 1971 年 4 月 15 日才需要向美国国税局提供详细的证明材料，因此我们将有足够的时间向你提供最终的数字。如果有人需要这些证券计税基础的近似数字，请在 1970 年 3 月 31 日之前与约翰·哈丁（John Harding）联系。
 
-# And My Thanks 最后，表达我的感谢
+# And My Thanks</br>最后，表达我的感谢
 
 This is not the last time you will hear from me, since there are bound to be a few winding-up communications. I also will be sending out a letter on about February 25th to those who have requested it, dispensing an elementary general education on bonds with the emphasis on the tax-free area.
 
