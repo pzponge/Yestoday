@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "19700218_Letter_OST"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "19700218_Letter_OST 的大纲"
             }
           }
         ],
@@ -196,10 +196,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1e64a600761363d3",
+  "active": "eadc8536afb4a56c",
   "lastOpenFiles": [
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
     "README.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19690529_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1957_Letter_to_Limited_Partners_CM.md",
