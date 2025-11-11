@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025_Annual_Thanksgiving_Message"
+              "title": "README"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025_Annual_Thanksgiving_Message 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "1e64a600761363d3",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
     "README.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
