@@ -553,7 +553,7 @@ Year|Annual Percentage Change in Per-Share Market Value of Berkshire|Annual Perc
 | 2022 | 4.0%                                  | (18.1%)                            |
 | 2023 | 15.8%                                 | 26.3%                              |
 | 2024 | 25.5%                                 | 25.0%                              |
-Compounded Annual Gain - 1965-2023|19.9%|10.4%
-Overall Gain - 1964-2023|5,502,284%|39,054%
+Compounded Annual Gain - 1965-2024|19.9%|10.4%
+Overall Gain - 1964-2024|5,502,284%|39,054%
 
 **Notes**: Data are for calendar years with these exceptions: 1965 and 1966, year ended 9/30; 1967, 15 months ended 12/31.
