@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "19700218_Letter_OST"
+              "title": "2025_Annual_Thanksgiving_Message"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
+                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "19700218_Letter_OST 的大纲"
+              "title": "2025_Annual_Thanksgiving_Message 的大纲"
             }
           }
         ],
@@ -196,10 +196,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "eadc8536afb4a56c",
+  "active": "1e64a600761363d3",
   "lastOpenFiles": [
-    "README.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
+    "README.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19690529_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1957_Letter_to_Limited_Partners_CM.md",
@@ -224,8 +226,6 @@
     "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
     "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
     "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1968_November_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19670125_Letter_RR.md",
     "Elements/Graham_or_Growth/12.png",
     "Elements/Graham_or_Growth/11.png",
     "Elements/Graham_or_Growth/10.png",
