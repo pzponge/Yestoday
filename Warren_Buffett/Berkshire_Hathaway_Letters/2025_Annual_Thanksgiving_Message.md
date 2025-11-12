@@ -74,13 +74,13 @@ Obviously, my fantasy never materialized. But, ironically, some years later it b
 
 [^1]: **投脑煎蛋**：嗯，录指纹这段也记录在《滚雪球》中；然后这位前FBI局长胡佛还和我们的另一个故事有关——凯瑟琳·格雷厄姆和尼克松的水门事件，在胡佛与尼克松的电话录音中，胡佛辱骂了凯瑟琳。
 
-	另外，这段……咳咳……是这样的。
-	
-	在《教父1》中，马龙白兰度所饰演的老教父在平安夜被刺杀时，二代教父——帕西诺所饰演的迈克尔正和未婚妻在压马路。凯问迈克尔：你希望我角色扮演一下修女吗？
-	
-	而凯的扮演者——黛安·基顿，于上个月10月11日刚刚去世。
-	
-	所以，巴菲特的这段——感恩节+修女——也是根植在美国文化中的“简单联想超级倾向”~U.ES
+    另外，这段……咳咳……是这样的。
+
+    在《教父1》中，马龙白兰度所饰演的老教父在平安夜被刺杀时，二代教父——帕西诺所饰演的迈克尔正和未婚妻在压马路。凯问迈克尔：你希望我角色扮演一下修女吗？
+
+    而凯的扮演者——黛安·基顿，于上个月10月11日刚刚去世。
+
+    所以，巴菲特的这段——感恩节+修女——也是根植在美国文化中的“简单联想超级倾向”~U.ES
 
 Well, that was Omaha in the 1930s, when a sled, a bicycle, a baseball glove and an electric train were coveted by me and my friends. Let's look at a few other kids from that era, who grew up very nearby and greatly influenced my life *but* of whom I was for long unaware.
 
@@ -100,7 +100,9 @@ After serving in World War II, Charlie graduated from Harvard Law and then moved
 
 In 1958, I bought my first and only home. Of course, it was in Omaha, located about two miles from where I grew up (loosely defined), less than two blocks from my in-laws, about six blocks from the Buffett grocery store and a 6-7-minute drive from the office building where I have worked for 64 years.
 
-1958年，我购置了人生中第一套也是唯一一套住宅。当然，它位于奥马哈，距离我成长的地方（广义而言）约两英里，与岳父母家相隔不到两个街区，距巴菲特杂货店约六个街区，而距离我工作了64年的办公楼仅需6-7分钟车程。
+1958年，我购置了人生中第一套也是唯一一套住宅。当然，它位于奥马哈，距离我成长的地方（广义而言）约两英里，与岳父母家相隔不到两个街区，距巴菲特杂货店约六个街区，而距离我工作了64年的办公楼仅需6-7分钟车程。[^2]
+
+[^2]: **孙运先**：I bought my first and only home，home 这里的意思是长期居住和生活的地方，很多中文翻译成了买了唯一一套房子住宅，中文翻译特别容易产生误导巴菲特这辈子只买了一套房子，除了投资外，巴菲特和家人度假或者偶尔居住，曾经购买过加州的海边豪宅。
 
 Let's move on to another Omahan, Stan Lipsey. Stan sold the Omaha Sun Newspapers (weeklies) to Berkshire in 1968 and a decade later moved to Buffalo at my request. The Buffalo Evening News, owned by a Berkshire affiliate, was then locked in a battle to the death with its morning competitor who published Buffalo's *only* Sunday paper. And we were losing.
 
@@ -272,13 +274,13 @@ Charlie and I encountered this problem several times and failed to act. This fai
 
 During my lifetime, reformers sought to *embarrass* CEOs by requiring the disclosure of the compensation of the boss compared to what was being paid to the average employee. Proxy statements promptly ballooned to 100-plus pages compared to 20 or less earlier.
 
-在我有生之年，改革者试图通过强制披露CEO薪酬与普通员工薪酬的对比数据来令CEO**难堪**。结果是，股东公示文件（proxy statement）迅速膨胀至百余页，而此前仅二十页左右。[^2]
+在我有生之年，改革者试图通过强制披露CEO薪酬与普通员工薪酬的对比数据来令CEO**难堪**。结果是，股东公示文件（proxy statement）迅速膨胀至百余页，而此前仅二十页左右。[^3]
 
-[^2]: **投脑煎蛋**：2008年金融危机之后，改革者强制性要求上市公司公示CEO与普通员工的薪酬对比数据：CEO工资为普通员工的X倍。2017年开始正式施行，被称为Pay Ratio Rule。
-	
-	该规则施行后，部分上市公司的CEO薪酬比出现下降，如：开市客从262:1下降到192:1，亚马逊从43:1，下降到33:1。但不少投资者诟病，部分上市公司薪酬比的下降是由于：通过将员工绩效奖金和福利纳入计算，虚增了员工薪酬中位数。
-	
-	而2025年以来，首当其冲的就是已经是世界首富的埃隆马斯克的万亿美元薪酬包。而就在特斯拉这份万亿美元薪酬包通过董事会的第二天，其竞争对手Rivian效仿类似的薪酬设计，也通过了一份46亿美元的CEO薪酬包，较原先的薪酬包翻倍有余。
+[^3]: **投脑煎蛋**：2008年金融危机之后，改革者强制性要求上市公司公示CEO与普通员工的薪酬对比数据：CEO工资为普通员工的X倍。2017年开始正式施行，被称为Pay Ratio Rule。
+
+    该规则施行后，部分上市公司的CEO薪酬比出现下降，如：开市客从262:1下降到192:1，亚马逊从43:1，下降到33:1。但不少投资者诟病，部分上市公司薪酬比的下降是由于：通过将员工绩效奖金和福利纳入计算，虚增了员工薪酬中位数。
+
+    而2025年以来，首当其冲的就是已经是世界首富的埃隆马斯克的万亿美元薪酬包。而就在特斯拉这份万亿美元薪酬包通过董事会的第二天，其竞争对手Rivian效仿类似的薪酬设计，也通过了一份46亿美元的CEO薪酬包，较原先的薪酬包翻倍有余。
 
 But the good intentions didn't work; instead they backfired. Based on the majority of my observations — the CEO of company "A" looked at his competitor at company "B" and subtly conveyed to his board that he should be worth more. Of course, he also boosted the pay of directors and was careful who he placed on the compensation committee. The new rules produced envy, not moderation.
 
@@ -318,9 +320,9 @@ Don't count on a newsroom mix-up: Decide what you would like your obituary to sa
 
 Greatness does *not* come about through accumulating great amounts of money, great amounts of publicity or great power in government. When you help someone in any of thousands of ways, you help the world. Kindness is costless but also priceless. Whether you are religious or not, it's hard to beat The Golden Rule as a guide to behavior.
 
-伟大**并非**源于巨额财富、轰动的声名或政府权势。当你以千百种方式帮助他人时，就是在造福世界。善行无需金钱却价值连城。无论是否信奉宗教，“黄金法则”始终是最高的行为准则。[^3]
+伟大**并非**源于巨额财富、轰动的声名或政府权势。当你以千百种方式帮助他人时，就是在造福世界。善行无需金钱却价值连城。无论是否信奉宗教，“黄金法则”始终是最高的行为准则。[^4]
 
-[^3]: **投脑煎蛋**：巴菲特所说的黄金法则（the Golden Rule）即指——己所不欲勿施于人。
+[^4]: **投脑煎蛋**：巴菲特所说的黄金法则（the Golden Rule）即指——己所不欲勿施于人。
 
 I write this as one who has been thoughtless countless times and made many mistakes but also became very lucky in learning from some wonderful friends how to behave better (still a long way from perfect, however). Keep in mind that the cleaning lady is as much a human being as the Chairman.
 
