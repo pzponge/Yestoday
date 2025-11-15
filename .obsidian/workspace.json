@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024_Letter_to_Berkshire_Shareholders"
+              "title": "README"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2024_Letter_to_Berkshire_Shareholders 的大纲"
+              "title": "README 的大纲"
             }
           }
         ],
@@ -198,34 +198,35 @@
   },
   "active": "1e64a600761363d3",
   "lastOpenFiles": [
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message_2.md",
     "README.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1994_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/1998_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2001_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2003_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2005_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2007_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2008_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/2024_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2023_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2021_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2017_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2011_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2013_Letter_to_Berkshire_Shareholders.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/未命名",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19690529_Letter_OST.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1957_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/1963_December_Letter_to_Limited_Partners.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1964_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_November_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1970_February_25th_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing",
-    "Warren_Buffett/Buffett_Partnership_Letters/Certificate_of_Limited_Partnership.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19590211_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690122_Letter_RR.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19661101_Letter_OST.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19690529_Letter_RR.md",
     "巴菲特致合伙人信1969年5月发表（精译）.txt.sb-a76f1080-kw5z1G",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19610130_Letter_OST.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19661101_Letter_RR.md",
-    "Warren_Buffett/The_Collector.md",
-    "Warren_Buffett/TSB_MBA_Students_Visit_to_Warren_Buffett_2004-2005.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1966_November_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/RanRan/19660712_Letter_RR.md",
-    "OST_Guidance_Document/伯克希尔哈撒韦股东信翻译更新日志.md",
-    "Warren_Buffett/Difficult_to_Teach_a_New_Dog_Old_Tricks.md",
-    "Warren_Buffett/News_Releases_from_BH_Nov_21_2023.md",
     "Elements/Graham_or_Growth/12.png",
     "Elements/Graham_or_Growth/11.png",
     "Elements/Graham_or_Growth/10.png",
@@ -242,7 +243,6 @@
     "999-笔记素材",
     "James_Anderson",
     "Elements/2024_Annual_Meeting",
-    "OST_Guidance_Document",
-    "未命名文件夹"
+    "OST_Guidance_Document"
   ]
 }
