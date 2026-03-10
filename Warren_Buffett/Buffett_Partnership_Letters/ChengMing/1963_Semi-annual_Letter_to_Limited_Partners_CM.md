@@ -104,7 +104,7 @@ In our most recent annual letter, I described Harry Bottle as the “man of the 
 
 Last year Harry did an extraordinary job of converting unproductive assets into cash which we then, of course, began to invest in undervalued securities. Harry has continued this year to turn under-utilized assets into cash, but in addition, he has made the remaining needed assets productive. Thus we have had the following transformation in balance sheets during the last nineteen months:
 
-去年，Harry在将无效资产转化成现金方面做的异常出色。当然与此同时我们也开始投资于被低估的证券。Harry今年会继续把未充分利用的资产转化为现金，另外他还将那些剩下的可用资产充分利用了起来。所以，过去九个月我们的资产负债表变化如下：
+去年，Harry在将无效资产转化成现金方面做的异常出色。当然与此同时我们也开始投资于被低估的证券。Harry今年会继续把未充分利用的资产转化为现金，另外他还将那些剩下的可用资产充分利用了起来。所以，过去十九个月我们的资产负债表变化如下：
 
 **November 30, 1961 (000’s omitted)** 1961年11月30日（缩小1000倍）：
 
@@ -124,7 +124,7 @@ Total Assets</br>资产总额|$6,919||$4,438|Share outstanding 60,146. Adj. Valu
 
 
 
-**November 30, 1962 (000’s omitted)** 1962年11月30日（缩小1000倍）
+**June 30, 1963 (000’s omitted)** 1963年6月30日（缩小1000倍）
 
 Assets|Book Figure|Valued @|Adjusted Valuation|Liabilities|&emsp;
 ---|---|---|---|---|---

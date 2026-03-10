@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "1963_Semi-annual_Letter_to_Limited_Partners_CM"
             }
           }
         ],
@@ -169,13 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_Semi-annual_Letter_to_Limited_Partners_CM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "1963_Semi-annual_Letter_to_Limited_Partners_CM 的大纲"
             }
           }
         ],
@@ -187,7 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,8 +198,13 @@
   },
   "active": "1e64a600761363d3",
   "lastOpenFiles": [
-    "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message_2.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1962_Semi-annual_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1962_November_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1962_Letter_to_Limited_Partners_CM.md",
+    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1963_November_Letter_to_Limited_Partners_CM.md",
     "README.md",
+    "Warren_Buffett/Berkshire_Hathaway_Letters/2025_Annual_Thanksgiving_Message_2.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1982_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1990_Letter_to_Berkshire_Shareholders.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/1993_Letter_to_Berkshire_Shareholders.md",
@@ -220,11 +225,6 @@
     "Warren_Buffett/Berkshire_Hathaway_Letters/2014_Berkshire_Past_Present_and_Future.md",
     "Warren_Buffett/Berkshire_Hathaway_Letters/未命名",
     "Warren_Buffett/Buffett_Partnership_Letters/OST/19700218_Letter_OST.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/Letter_to_Partners_19700218.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/OST/19690529_Letter_OST.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1957_Letter_to_Limited_Partners_CM.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/1963_December_Letter_to_Limited_Partners.md",
-    "Warren_Buffett/Buffett_Partnership_Letters/ChengMing/1964_Letter_to_Limited_Partners_CM.md",
     "Warren_Buffett/Buffett_Partnership_Letters/ChengMing",
     "巴菲特致合伙人信1969年5月发表（精译）.txt.sb-a76f1080-kw5z1G",
     "Elements/Graham_or_Growth/12.png",
