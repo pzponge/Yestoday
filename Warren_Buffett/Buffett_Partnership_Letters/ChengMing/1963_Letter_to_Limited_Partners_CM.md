@@ -144,7 +144,7 @@ Since the whole subject of compounding has such a crass ring to it, I will attem
 
 既然复利在如此大的事情中已经显示了威力，现在就让我们转向艺术品这种小一点的范围。法国的弗朗西斯一世在1540年购买达芬奇的名画蒙娜丽莎时花费了4,000 埃居（écu）。你们之中一些人或许没有跟踪过这种货币的汇率，这笔钱大概值2万美元。
 
-If Francis had kept his feet on the ground and he (and his trustees) had been able to find a 6% after-tax investment, the estate now would be worth something over $1,000,000,000,000,000.00. That's $1 quadrillion or over 3,000 times the present national debt, all from 6%. I trust this will end all discussion in our household about any purchase or paintings qualifying as an investment.
+If Francis had kept his feet on the ground and he (and his trustees) had been able to find a 6% after-tax investment, the estate now would be worth something over $1,000,000,000,000,000.00. That's $1 quadrillion or over 3,000 times the present national debt, all from 6%. I trust this will end all discussion in our household about any purchase of paintings qualifying as an investment.
 
 如果弗朗西斯能够脚踏实地，他（和他的信托人）可以找到税后复利率为6%的投资机会，那么这笔投资现在的价值是1,000,000,000,000,000美元，也就是一千万亿，相当于美国国债的3000倍。所有的增值都只是因为6%的复利率。我想这足以结束你们家关于是否要投资画作等艺术品的争论了。
 
